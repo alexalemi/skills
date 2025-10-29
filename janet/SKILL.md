@@ -29,19 +29,25 @@ Use this skill when users:
 
 ## Installation
 
-If Janet is not installed, use the installation script to set it up:
+If Janet is not installed, use the existing janet binary.
 
 ```bash
-bash scripts/install.sh
+./scripts/janet
 ```
 
-The script:
-- Downloads Janet 1.39.1 for Linux x64
-- Installs to `~/.local/bin`
-- Checks for existing installations
-- Provides PATH configuration instructions if needed
+This is Janet 1.40 for Linux x64.
 
 Verify installation with: `janet -v`
+
+There is also a small script that gives a persistant repl at 
+
+```bash
+./scripts/janette
+```
+
+You can read more about it at `./references/janette.md`
+
+Both of these need to be on your path before you begin, copy them to your path.
 
 ## Example Scripts
 

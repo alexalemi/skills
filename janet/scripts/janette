@@ -1,0 +1,32 @@
+#!/usr/bin/env janet
+
+(def image (os/getenv "JANETTE_IMAGE" ".janette.jimage"))
+
+# Load previous state or start fresh
+(def env
+  (if (os/stat image)
+    (unmarshal (slurp image) (env-lookup (make-env)))
+    (make-env)))
+
+# Get all arguments
+(def args (drop 1 (dyn :args)))
+
+(def lookup (env-lookup env))
+(def ilookup (invert lookup))
+
+(each arg args
+  (if (os/stat arg)
+    # It's a file
+    (merge-into env (dofile arg :env env))
+    # It's not a file, treat as code
+    (eval-string arg env)))
+
+(if (= (length args) 0)
+  (run-context {:env env :source :repl
+                :chunks (fn :chunks [buf p]
+                          (do (spit image (marshal env ilookup))
+                            (getline (string "repl:" ((:where p) 0) ":" (:state p :delimiters) "> ") buf env)))}))
+
+
+# Save state back
+(spit image (marshal env ilookup))
