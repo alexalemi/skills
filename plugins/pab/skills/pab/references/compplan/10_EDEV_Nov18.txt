@@ -1,0 +1,885 @@
+TRANSPORATION
+
+
+
+
+                THIS PAGE INTENTIONALLY LEFT BLANK.
+Kissimmee
+2040 Comprehensive Plan
+Economic Development
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+November 2018
+
+Cover photo source: Paul Bowen
+TRANSPORATION
+
+
+
+
+                THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                        ECONOMIC DEVELOPMENT
+
+
+
+
+Table of Contents
+Goals, Objectives, and Policies .............................................................................................................. 1
+         Goal 10.1: Implement Economic Development Resources. ............................................................ 1
+                Objective 10.1.1: Economic Development Division. ................................................................ 1
+         Goal 10.2: Increase Economic Opportunities. ................................................................................. 1
+                Objective 10.2.1: Diversify Kissimmee Economy. ................................................................... 1
+                Objective 10.2.2: Develop Activity Centers. ............................................................................ 2
+         Goal 10.3: Infrastructure Improvements. ......................................................................................... 2
+                Objective 10.3.1: Transportation Network. .............................................................................. 2
+                Objective 10.3.2: Utility Network. ............................................................................................ 3
+                Objective 10.3.3: Coordinate Planning and Economic Development. ..................................... 3
+
+Data, Inventory, and Analysis ................................................................................................................. 4
+         Introduction ..................................................................................................................................... 4
+         Existing Conditions.......................................................................................................................... 4
+                Income .................................................................................................................................... 4
+                Employment ............................................................................................................................ 6
+         Economic Potential ......................................................................................................................... 9
+                Revitalization Efforts ............................................................................................................... 9
+                Industry Diversification .......................................................................................................... 10
+                Resource Protection .............................................................................................................. 12
+         Economic Incentives ..................................................................................................................... 13
+                Federal and State .................................................................................................................. 13
+                County and City ..................................................................................................................... 14
+         Summary ....................................................................................................................................... 15
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                      EDEV-i
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-ii                                                          October 2017
+                                                                                                                     ECONOMIC DEVELOPMENT
+
+
+
+
+List of Tables
+Table 10-1: Comparison of Area Median Incomes, 2008 and 2016.......................................................... 4
+Table 10-2: Comparison of Hourly Wages in Orlando-Kissimmee MSA and Florida, 2014-2017 ............. 6
+Table 10-3: Comparison of Unemployment Rates for Counties in the Orlando-Kissimmee MSA ........... 6
+Table 10-4: Comparison of Employment, by Industry, in Orlando-Kissimmee MSA and Florida, 2010-
+           2016 .......................................................................................................................................7
+Table 10-5: Large Employers within the City of Kissimmee ......................................................................8
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                 EDEV-iii
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-iv                                                          October 2017
+                                                                                                    ECONOMIC DEVELOPMENT
+
+
+
+
+List of Figures
+Figure 10-1: Comparison of Area Median Incomes, 2008 and 2016 ........................................................ 5
+Figure 10-2: Comparison of Unemployment Rates ...................................................................................7
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                             EDEV-v
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+                                 THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                                         City of Kissimmee | Comprehensive Plan 2017
+HE-vi                                                                                   October 2017
+                                                                                ECONOMIC DEVELOPMENT
+                                                                               Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives, and implementing policies for this optional local government
+comprehensive plan element, pursuant to §163.3177(7)(j), Florida Statutes.
+
+GOAL 10.1: IMPLEMENT ECONOMIC DEVELOPMENT RESOURCES.
+Develop strategies to implement economic development activities within the City.
+
+       OBJECTIVE 10.1.1: ECONOMIC DEVELOPMENT DIVISION.
+       Maintain the City’s economic development division, which works with local and regional
+       organizations to promote business recruitment and retention in the City.
+
+               POLICY 10.1.1.1: ECONOMIC DEVELOPMENT FUND.
+               Refine funding mechanism and establish an Economic Development Fund Policy, to
+               advance the interests of retaining and recruiting businesses or targeted industries.
+
+               POLICY 10.1.1.2: ECONOMIC INCENTIVES.
+               Create and maintain guidelines for development and redevelopment incentives, which are
+               flexible and can be modified as the economy dictates, to retain and recruit businesses and
+               targeted industries.
+
+               POLICY 10.1.1.3: ECONOMIC DEVELOPMENT MARKETING.
+               Publicize, promote, and market the City’s assets, as well as the beneficial impacts of
+               business investments within the City.
+
+               POLICY 10.1.1.4: BUSINESS RETENTION AND EXPANSION.
+               Promote retention and expansion of existing businesses.
+
+GOAL 10.2: INCREASE ECONOMIC OPPORTUNITIES.
+Cultivate Kissimmee’s economy to provide more workforce opportunities for residents, sustainable
+services to the local market, and stable revenue sources for local businesses
+
+       OBJECTIVE 10.2.1: DIVERSIFY KISSIMMEE ECONOMY.
+       Target market sectors that are currently underrepresented in the Kissimmee economy.
+
+               POLICY 10.2.1.1: TARGET INDUSTRIES AND BUSINESSES.
+               Maintain and periodically revise a list of industries and businesses to be targeted for
+               participation in the local business market.
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                       EDEV-1
+ECONOMIC DEVELOPMENT
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 10.2.1.2: CAPITALIZE ON EXISTING ASSETS.
+                 Capitalize on existing physical and community assets that have the potential to generate
+                 diversified economic development opportunities within the City.
+
+         OBJECTIVE 10.2.2: DEVELOP ACTIVITY CENTERS.
+         Pursue development of key activity centers within the City to accommodate economic growth and
+         diversification.
+
+                 POLICY 10.2.2.1: DOWNTOWN KISSIMMEE.
+                 Revitalize and expand the economic, cultural and residential climate of Downtown
+                 Kissimmee.
+
+                 POLICY 10.2.2.2: VINE STREET CORRIDOR.
+                 Revitalize the Vine Street Corridor with higher density, mixed use, and transit-supportive
+                 development and redevelopment.
+
+                 POLICY 10.2.2.3: KISSIMMEE GATEWAY AIRPORT.
+                 Expand business and industrial development opportunities within, and around, the
+                 Kissimmee Gateway Airport.
+
+                 POLICY 10.2.2.4: FOSTER AND FACILITATE NEW WORKFORCE CLUSTERS.
+                 Continue networking opportunities to attract new corporate citizens into the City of
+                 Kissimmee and assist them during the transitional process.
+
+GOAL 10.3: INFRASTRUCTURE IMPROVEMENTS.
+Implement physical improvements and service enhancements necessary to support economic
+development within the City.
+
+         OBJECTIVE 10.3.1: TRANSPORTATION NETWORK.
+         Ensure the City’s transportation network is sufficient to accommodate redevelopment and
+         economic development activities.
+
+                 POLICY 10.3.1.1: ENHANCEMENTS TO SUPPORT CURRENT AND FUTURE ACTIVITY CENTERS.
+                 Provide multimodal transportation enhancements to support current and forthcoming land
+                 development and redevelopment projects within the City.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+EDEV-2                                                                                      November 2018
+                                                                                    ECONOMIC DEVELOPMENT
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+               POLICY 10.3.1.2: COORDINATION WITH LOCAL AND REGIONAL TRANSPORTATION AND
+               PLANNING ORGANIZATIONS.
+               Ensure the City’s transportation infrastructure needs are included in MetroPlan, LYNX,
+               FDOT and any other transportation organization’s plans, work programs, and budgets.
+
+               POLICY 10.3.1.3: MULTIMODAL TRANSPORTATION AND FUNDING OPTIONS.
+               Continue support of network connectivity and accessibility, including the use of alternative
+               modes of transportation to supplement automobile-based transportation, to ensure the
+               efficient movement of employees and goods, as well as support efforts to create permanent
+               funding sources for the respective modal systems.
+
+       OBJECTIVE 10.3.2: UTILITY NETWORK.
+       Ensure utility connections and supplies are sufficient to support redevelopment and economic
+       development initiatives.
+
+               POLICY 10.3.2.1: COORDINATED UTILITY PLANNING.
+               Coordinate infrastructure planning with utility providers including the Toho Water Authority
+               (TWA), Kissimmee Utility Authority (KUA), and any other future utility providers.
+
+               POLICY 10.3.2.2: UTILITY END USER.
+               Work with utility providers to facilitate the communication of the utility needs within business
+               corridors, for current and future business entities.
+
+       OBJECTIVE 10.3.3: COORDINATE PLANNING AND ECONOMIC DEVELOPMENT.
+       Coordinate planning and growth management initiatives with the City’s economic development and
+       redevelopment strategies.
+
+               POLICY 10.3.3.1: SIMPLIFY PERMITTING PROCEDURES.
+               Revise the City’s regulatory processes to support economic development activities,
+               particularly for identified and targeted market sectors.
+
+               POLICY 10.3.3.2: EXTERNAL ENTITY COORDINATION AND INVOLVEMENT.
+               Coordinate planning initiatives and regulatory processes with external partners and
+               programs to ensure maximum dissemination of information for maximum economic benefit.
+
+               POLICY 10.3.3.3: HOUSING STOCK.
+               Diversify and improve the City’s housing stock to provide sufficient residential opportunities
+               for particular market sectors, including executive level housing, as the market dictates.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           EDEV-3
+ECONOMIC DEVELOPMENT
+Data, Inventory, and Analysis
+
+
+
+
+DATA, INVENTORY, AND ANALYSIS
+INTRODUCTION
+As noted in the 2016 Evaluation and Appraisal Report, the key overarching issue for the City of
+Kissimmee is economic development. This issue is attached to attracting and retaining diverse and
+quality employment opportunities, improving quality of life, and continued growth to be competitive in the
+Central Florida region and beyond. A major focus is on providing more jobs in general, and higher paying
+jobs in particular. Of particular interest are industries related to medical, technical, and aviation-related
+businesses.
+
+For years, the City’s economy has relied on tourism and associated services, with their preponderance of
+relatively low-wage jobs. However, the City also has robust employment in the public and medical
+sectors, with technology companies forming some of the most recent new additions to employment in
+and near the City.
+
+EXISTING CONDITIONS
+This section profiles the income and employment statistics for City residents and local businesses.
+
+INCOME
+The City of Kissimmee has deep ties to the leisure and hospitality industries, and has been associated
+with tourism for decades. This association has come to define the City’s employment base, and its place
+within the greater Orlando-Kissimmee metropolitan statistical area (MSA). The City has not been able to
+keep pace with the income levels of local jurisdictions. Table 10-1 below shows the median income
+levels for various geographies and the table focus is on relevant information regarding City residents’
+relative income.
+
+Table 10-1: Comparison of Area Median Incomes, 2008 and 2016
+                                Median Income       % of FL Median       Median Income             % of FL Median
+ Geography                         (2008)*             Income               (2016)**                  Income
+ United States                     $52,175               107%               $57,617                     113%
+ Orlando MSA                       $51,813              107%                  $52,385                    103%
+ Orange County                     $52,133              107%                  $51,335                    101%
+ Osceola County                    $47,751               98%                  $51,436                    101%
+ Florida                           $48,637              100%                  $50,860                    100%
+ City of Kissimmee                 $39,382               81%                  $37,232                     73%
+
+Source: American Community Survey, 2008 and 2016.              *In 2008 dollars. **In 2016 inflation-adjusted dollars.
+
+
+
+                                                                     City of Kissimmee | 2040 Comprehensive Plan
+EDEV-4                                                                                           November 2018
+                                                                                     ECONOMIC DEVELOPMENT
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+The data show that, between 2008 and 2016, the median incomes of each level of geography remained
+nearly the same, relative to the state’s median income – except the United States as a whole and the
+City of Kissimmee. The United States was previously 107 percent of the state’s median and gained an
+additional 6 percent. The City’s median income, which was already at only 81 percent of the state’s
+median, lost an additional eight percent by 2016. The median income for City residents is now 28 percent
+less than the median income earned in Osceola County, and 30 percent less than the median income
+earned in the Orlando-Kissimmee MSA. These incomes are shown graphically in Figure 10-1 below.
+
+Figure 10-1: Comparison of Area Median Incomes, 2008 and 2016
+
+         City of Kissimmee
+
+
+                    Florida
+
+
+           Osceola County
+                                                                                     Median Income (2016)**
+            Orange County                                                            Median Income (2008)*
+
+
+             Orlando MSA
+
+
+             United States
+
+                              $0   $10,000 $20,000 $30,000 $40,000 $50,000 $60,000
+
+
+Source: American Community Survey, 2008 and 2016.
+
+*In 2008 dollars. **In 2016 inflation-adjusted dollars.
+
+These differences in median income provide a point of reference for the remaining tables in this analysis,
+since data for the City is limited. The Orlando-Kissimmee MSA and Osceola County serve as proxies for
+the City in their economic conditions, and based on the data in Table 10-1, the City is likely to have lower
+wages, and may also have higher rates of unemployment than the MSA or the County. Table 10-2
+shows the differences in hourly wages in both the MSA and the state from 2014 to 2017. The figures
+trend in the same direction over time (upward), but the median hourly wages for the state are higher in
+every case.
+
+The hourly wage for entry-level positions in the Orlando-Kissimmee MSA has, however, remained stable
+as a percentage of the Florida median hourly wage for entry-level employees. This is in contrast to a
+slowly increasing percentage, though still lower than the state as a whole, for experienced employees.
+The change for entry-level wage earners has been an increase of 72 cents per hour over the four years
+shown in Table 10-2 below, but in 2017 the median hourly wage for these employees in the Orlando-
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           EDEV-5
+ECONOMIC DEVELOPMENT
+Data, Inventory, and Analysis
+
+
+
+
+Kissimmee MSA was $2.69 per hour above what is now the Federal minimum hourly wage and $1.84 per
+hour above the 2017 minimum wage in Florida. Values for the City are not available, but it is not
+unreasonable to assume that the median hourly wage for employees in the City is lower than for the
+MSA.
+
+Table 10-2: Comparison of Hourly Wages in Orlando-Kissimmee MSA and Florida, 2014-
+2017
+                                                           Hourly Wages
+                        Median                               Entry-Level                            Experienced
+
+ Year       FL       ORL MSA         % of FL        FL       ORL MSA       % of FL       FL         ORL MSA       % of FL
+ 2017     $16.15      $15.46         95.7%        $10.03      $9.94        99.1%       $27.52        $26.84       97.5%
+ 2016     $15.77       $15.10         95.8%       $9.80        $9.71        99.1%      $26.88        $26.22       97.5%
+ 2015     $15.29       $14.68         96.0%       $9.53        $9.48        99.5%      $26.15        $25.16       96.2%
+ 2014     $14.94       $14.27         95.5%       $9.40        $9.22        99.1%      $25.48        $24.40       95.8%
+
+Source: Florida Department of Economic Opportunity, 2014 – 2017.
+
+EMPLOYMENT
+The City of Kissimmee and Osceola County were, in general, hit hard by the worldwide economic
+recession starting in late 2007 but have seen growth since the economy has grown stronger. Figures
+from the Florida Department of Economic Opportunity, released in January 2018 provide a fairly
+complete picture of employment in the Orlando-Kissimmee MSA. The table below indicates the rates of
+unemployment in Kissimmee, the MSA, related counties, Florida, and the United States as a whole, for
+December of 2015, 2016, and 2017.
+
+Table 10-3: Comparison of Unemployment Rates for Counties in the Orlando-Kissimmee
+MSA
+                                                                Location
+ Time                   Kissimmee       Osceola Co.        Orange Co.      Orlando MSA       Florida       US
+ Dec. 2017                3.7%               3.7%              3.1%              3.3%         3.7%        4.1%
+ Dec. 2016                 4.7%                4.8%            4.2%               4.3%        4.7%        4.7%
+ Dec. 2015                 5.0%                5.1%            4.4%               4.5%        4.9%        5.0%
+ 24 Month Change          -1.3%                -1.4%           -1.3%             -1.2%        -1.2%      -0.9%
+ in Unemployment
+
+Source: Florida Department of Economic Opportunity, January 19, 2018. Bureau of Labor Statistics.
+
+In two years, unemployment in Kissimmee decreased by 1.3 percent from 5.0 percent to 3.7 percent.
+This decline in unemployment is not unique to Kissimmee although unemployment in the City still
+
+
+                                                                           City of Kissimmee | 2040 Comprehensive Plan
+EDEV-6                                                                                                 November 2018
+                                                                                           ECONOMIC DEVELOPMENT
+                                                                                           Data, Inventory, and Analysis
+
+
+
+
+remains higher than in the overall Orlando MSA but is on par with the State of Florida and below the
+United States as a whole. An illustration of these unemployment rates are shown in Figure 10-2 below.
+
+Figure 10-2: Comparison of Unemployment Rates
+ 6%
+
+
+ 5%
+
+
+ 4%
+                                                                                                         Dec. 2015
+ 3%
+                                                                                                         Dec. 2016
+
+ 2%                                                                                                      Dec. 2017
+
+
+ 1%
+
+
+ 0%
+         Kissimmee       Osceola Co.     Orange Co.     Orlando MSA        Florida        US
+
+
+Employment rates can be directly linked to the economic sectors most significantly (and historically)
+represented in the Orlando area. The close connection to the tourism industry, coupled with the
+construction, has a significant impact on the median hourly wage and the rate of unemployment. Table
+10-4 below provides a snapshot of the employment in selected economic sectors from 2012 through
+2016.
+
+Table 10-4: Comparison of Employment, by Industry, in Orlando-Kissimmee MSA and
+Florida, 2010-2016
+                                                                                   Trade,         Professional and
+             Leisure and                               Educational and         Transportation,       Business
+             Hospitality           Construction            Health                and Utilities        Services
+           ORL                    ORL                    ORL                    ORL                 ORL
+ Year      MSA         FL         MSA         FL         MSA        FL          MSA      FL         MSA        FL
+ 2016     21.5%       14.3%       5.7%       5.8%       17.9%      21.0%       19.6%    21.2%      16.3%      15.5%
+ 2015     21.5%       14.3%       5.4%       5.4%       18.0%      21.2%       19.8%    21.5%      16.0%      15.3%
+ 2014     21.6%       14.2%       5.1%       5.2%       18.0%      21.4%       19.9%    21.5%      15.9%      15.1%
+ 2013     21.2%       14.0%       4.9%       4.9%       18.2%      21.6%       19.9%    21.5%      16.0%      14.9%
+ 2012     21.0%       13.8%       4.5%       4.7%       18.4%      21.9%       19.9%    21.5%      15.9%      14.7%
+ 2011     20.9%       13.5%       4.6%       4.7%       18.4%      22.1%       19.9%    21.4%      15.6%      14.7%
+ 2010     20.5%       13.2%       4.9%       4.9%       18.2%      22.0%       19.6%    21.2%      15.9%      14.8%
+
+Source: Florida Department of Economic Opportunity, Annual NAICS Files 2010 - 2016.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                 EDEV-7
+ECONOMIC DEVELOPMENT
+Data, Inventory, and Analysis
+
+
+
+
+The data shows that despite low unemployment rates and the lower wages typically found in this
+industry, the employment share in the Leisure and Hospitality industry continues to grow. This industry
+has held a steady share of the job market at 21.5 percent or higher since 2014, or over one fifth of total
+employment, despite an increase in the Construction industry which has historically been inversely
+related to the Leisure and Hospitality industry. While the Construction industry employment is similar to
+that found elsewhere in the State, the Orlando-Kissimmee MSA has a significantly higher reliance on the
+Leisure and Hospitality industry.
+
+In contrast, the Educational and Health Trade, Transportation and Utilities, and Professional and
+Business Services industries maintained relatively steady employment percentages over time. The
+exception is a slight decrease in the Educational and Health industry from 18.2 percent in 2010 to 17.9
+percent in 2016. In these industries the MSA has tended to maintain a lower percentage of employment
+than the state, except for Professional and Business Services, which is likely due to downtown Orlando’s
+status as a location for business headquarters. The proportional differences between the MSA and
+Florida may be partially attributed to the higher percentage of MSA employment in the Leisure and
+Hospitality industry. A reduction in employment in the variable Leisure and Hospitality industry, and a
+corresponding increase in the more stable Educational and Health, Trade, Transportation and Utilities,
+and Professional and Business Services industries, could provide the MSA (and more specifically the
+City of Kissimmee) with the potential to improve its employment diversity and economic base.
+
+In addition to numerous small, home-grown businesses, and mid-size regional and national chains, the
+City is home to several large, private employers, among which all three are within the Educational and
+Health industry. These enterprises, as seen in the table below, are on the rise in the Orlando-Kissimmee
+MSA and Florida, as a whole. These fields are important, both as aging baby-boomers and retirees
+begin to require more services, and as new generations seek to acquire the skills needed to be
+successful in their chosen fields.
+
+Table 10-5: Large Employers within the City of Kissimmee
+ Employer                                                                          Number of Employees
+ Osceola Regional Medical Center                                                          1,357
+ Valencia Community College                                                                  506
+ Florida Hospital - Kissimmee                                                                450
+
+Source: Greater Osceola Partnership for Economic Prosperity, 2015.
+
+Other significant employers include Publix grocery stores, of which there are four in the City, and Wal-
+Mart retail stores near the City, of which there are two super centers and one neighborhood market.
+Growth by the medical service providers in the City have the potential to raise the economic prosperity of
+local employees, and the City’s economic prospects for the future, but further diversification and
+
+
+
+
+                                                                     City of Kissimmee | 2040 Comprehensive Plan
+EDEV-8                                                                                           November 2018
+                                                                                  ECONOMIC DEVELOPMENT
+                                                                                  Data, Inventory, and Analysis
+
+
+
+
+investment in modern industries and businesses are needed to raise the City’s potential for economic
+success.
+
+ECONOMIC POTENTIAL
+In many cases, investment by outside entities first requires local investment. The City has been
+proactively engaged in improving economic conditions citywide for several years, with specific emphasis
+in several key locations. Among these are the downtown Community Redevelopment Area, the
+Kissimmee Gateway Airport area, and along the Vine Street corridor. This section details targeted efforts
+within the City.
+
+REVITALIZATION EFFORTS
+The City’s downtown has existed for 135 years, and in that time has continuously experienced waves of
+growth, expansion, and redevelopment activity. In 1992, the City established the Community
+Redevelopment Agency (CRA) and crafted a CRA Plan for the City’s downtown area in order to address
+the deteriorating physical and economic condition of the downtown area. CRA planning efforts aim to
+promote infill redevelopment on vacant parcels, which are guided by a set of design criteria adopted in
+2008 and amended in 2012, and to provide support to
+local businesses.                                             Envisioned as a transit-supportive
+                                                               corridor, with mixed-land uses, Vine
+The Vine Street corridor has long been a major
+thoroughfare leading tourists to both the City’s
+                                                               Street will be among the centers for
+downtown, but also to destinations beyond. The                 new commercial office and retail
+corridor has suffered from a history of automobile-            development and redevelopment,
+oriented development, and the recent economic decline,         as well as residential uses.
+and is currently a principal focus of redevelopment
+efforts within the City.
+
+The City has tailored land uses and design criteria in the downtown and along the Vine Street corridor to
+support development and redevelopment activity. These initiatives acknowledge the need to create
+destinations for residents and visitors that will help promote and initiate economic diversity in the City.
+Such an initiative could increase local employment, which could in turn reduce the number of commuters
+bound for Orlando.
+
+While coordinating land uses and design with redevelopment, and maintaining coordination between the
+CRA and economic development agencies, is important, educational opportunities are also a key factor
+in the location and relocation of businesses. The investment in human capital can significantly help in
+business and new industry recruitment, as is the creation and support of business incubators – like the
+University of Central Florida-sponsored small business incubator in Kissimmee which includes 20 clients
+of various specialties. Businesses can use the resources of the incubator to further grow and upon
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        EDEV-9
+ECONOMIC DEVELOPMENT
+Data, Inventory, and Analysis
+
+
+
+
+‘graduating’ establish themselves within the community with the ability to buy or sign a long term lease
+and continue growing their company as well as the number of employees.
+
+INDUSTRY DIVERSIFICATION
+Service industry businesses provide necessary and
+discretionary services such as medical care, child
+care, and increased retail and dining options to
+residents who rely on a demand base from the
+technical professions. The service industry is already
+established in the City, and accompanying technical
+industries are in their infancy and growing. This direct
+relationship between base industries and supportive
+industries has the power to lead to further economic
+development and employment opportunities for
+residents with different skill sets. The City has two major employment sectors being used to attract new
+technical and high-tech businesses. These two types of employment are aviation and related industries,
+and medical and ancillary medical industries.
+
+MEDICAL AND HEALTHCARE
+The Osceola Regional Medical Center is located within the City’s Community Redevelopment Area
+(CRA). Coordination of business development initiatives with the goals established by the CRA is
+essential. The CRA is guided by a Plan and contains a special Tax Increment Financing (TIF) district.
+The revenues received from the TIF districts have been used to stimulate redevelopment by improving
+the public infrastructure, reducing development impediments, and providing various financial incentives
+for business start-up and expansion, in addition to other available incentives, discussed in-depth in the
+next section.
+
+Another hospital, Florida Hospital Kissimmee, is located along Main Street/Orange Blossom Trail, north
+of both the CRA and the Vine Street redevelopment area. Though not eligible for bonuses associated
+with location in either of those two areas, other incentive opportunities are available through the creation
+of the Medical Arts District. The location of this District is shown on Future Land Use Element Figure 1-3.
+The City has established a policy for businesses growing and locating here, and evaluation or monitoring
+of the program in the future may help determine if adjustments are needed.
+
+The goal of this District is to attract a hub of health-care related companies and physician practices
+between Florida Hospital Kissimmee and Osceola Regional Medical Center. Designated in April 2016
+and offered for three years, new economic incentives created as part of this include:
+
+   Reduction of development review fees
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+EDEV-10                                                                                      November 2018
+                                                                                   ECONOMIC DEVELOPMENT
+                                                                                   Data, Inventory, and Analysis
+
+
+
+
+   Building permit fee reimbursement
+
+   Medical equipment grant
+
+   TV commercials
+
+   Hire local grant
+
+TRANSPORTATION
+In addition to healthcare and general high-tech industries, the Kissimmee Gateway Airport, as a general
+aviation facility and reliever to the Orlando International Airport, has the potential to anchor aviation-
+related businesses proximal to the airport. In the last five years the City’s economic development efforts
+have included attracting aviation academic companies to grow the local workforce skillset. The airport
+now has tenants with certification programs in the fields of Flight training, Avionics, and Airframe &
+Powerplant (A&P). It’s rare to find all three of these programs at one airport. In addition to growing an
+aviation workforce, the City has launched an Aerospace Advancement Initiative at Kissimmee Gateway
+Airport. Similar to the Kissimmee Medical Arts District, this initiative offers eligible aerospace companies
+economic development incentives to help them offset some of their costs in establishing their company
+here. Those new incentives include:
+
+   Building Life Safety-American Disabilities Act
+    Upgrade Rebate
+
+   Building Permit Fee Reimbursement
+
+   Chamber of Commerce one year membership
+
+   Development Review Fee Reimbursement
+
+   Equipment Grant
+
+   Hire Local Grant
+
+   TV commercial
+
+Proximity of major roadway corridors, the airport, and the future station on the southern expansion of the
+SunRail corridor could provide strategic opportunities for the encouragement of regionally significant
+businesses and industries. Retention and attraction of additional governmental services, in addition to
+County offices, could also spur the growth of government-serving businesses. The growth and
+development of aviation, medical and healthcare, and high-tech businesses presents opportunities for
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        EDEV-11
+ECONOMIC DEVELOPMENT
+Data, Inventory, and Analysis
+
+
+
+
+the City to capitalize on business expansion and startup, which is critical to economic development and
+providing a broader job base.
+
+RESOURCE PROTECTION
+Another way to broaden the City’s economy involves highlighting the City’s location and natural
+amenities through historical tourism and ecotourism. This includes exploring opportunities to showcase
+the City’s wealth of water-based natural resources, and historic sites and character. The water features
+and resources in the City already provide prime locations to engage in recreational activities.
+Understanding that economic development and protection of important waterways are not mutually
+exclusive, the City of Kissimmee can support both initiatives by promoting ecotourism and continuing to
+take advantage of public-private partnerships, grant funding, second party acquisitions, and County land
+acquisition programs. The Open Space and Recreation map displays the locations of multi-use trails,
+parks, and open space areas that could be leveraged to encourage environmental visitors to the City.
+
+Another potential economic growth area is that of historically-oriented tourism. Visitors are drawn to an
+area’s history, and the City has a long and colorful one which it should continue to promote via the
+historic locations within the City.
+
+FLORIDA HIGH TECH CORRIDOR
+A regional initiative, involving 23 counties, is the promotion of north-central Florida (from St. Augustine
+and the Space Coast southwest to Tampa Bay) as a High Technology Corridor. Promoted with savvy
+marketing and engaging the collaboration of
+local and regional economic development                 A regional initiative, involving 23
+organizations and universities, the initiative is       counties, is the promotion of north-
+working to encourage the location of certain
+                                                        central Florida (from St. Augustine and
+types of businesses and industry sectors to the
+                                                        the Space Coast southwest to Tampa
+region. These sectors include:
+                                                      Bay) as a High Technology Corridor.
+   Agritechnology
+
+   Aviation and Aerospace
+
+   Digital Media/Interactive Entertainment
+
+   Financial Services
+
+   Information Technology
+
+   Life Sciences/Medical Technologies
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+EDEV-12                                                                                       November 2018
+                                                                                   ECONOMIC DEVELOPMENT
+                                                                                   Data, Inventory, and Analysis
+
+
+
+
+   Microelectronics/Nanotechnology
+
+   Modeling, Simulation and Training
+
+   Optics and Photonics
+
+   Sustainable Energy
+
+Coordination with the partner organizations of this initiative could provide the City with connections to
+grow local business diversity in these high-tech, and higher wage-earning, employment sectors.
+
+ECONOMIC INCENTIVES
+In order to attract outside investment, local
+governments must often provide incentives to
+interested parties. These attractions usually take
+the form of tax breaks and other monetary savings.
+The section below describes some incentives
+available to potential businesses.
+
+FEDERAL AND STATE
+One tool the City has leveraged is the availability of
+federal funds for redevelopment efforts. The City has previously applied for EPA Brownfield Assessment
+Grants in order to fund the assessment of approximately 20 potentially contaminated sites. Once the
+contamination level is determined, cleanup efforts can be pursued. The City hopes to utilize this federal
+program to spur redevelopment of sites that are currently underutilized due to the environmental stigma
+associated with particular properties. One success within Kissimmee through this program is the Lake
+Toho Redevelopment. This 10-acre urban renewal project is a transit-oriented development which will
+allow for the reuse of two brownfield sites that previously functioned as a power generation plant and a
+railroad spur and industrial site.
+
+The State of Florida also offers incentives in the form of tax refunds and exemptions. The Qualified
+Target Industry (QTI) Tax Refund provides $3,000 for each new job created in targeted high value-added
+industries. To qualify as a QTI, a business must create 10 or more jobs, pay more than 115 percent of
+area wages, have local support and have a significant positive impact on the community. The target
+industries are defined by the state, and include only those businesses serving multi-state and/or
+international markets. Retail activities, and activities regulated by the Division of Hotels and Restaurants
+or the Department of Business and Professional Regulation are statutorily excluded from consideration.
+The major industries and services include:
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        EDEV-13
+ECONOMIC DEVELOPMENT
+Data, Inventory, and Analysis
+
+
+
+
+   Aviation & Aerospace
+
+   Life Sciences
+
+   Manufacturing
+
+   Defense & Homeland Security
+
+   Information Technology
+
+   Financial & Professional Services
+
+   Logistics & Distribution
+
+   Cleantech
+
+   Headquarters
+
+The state also maintains a grant program, the Economic Development Transportation Fund, which
+provides up to $3 million to local governments for the construction or improvement of transportation
+infrastructure needed to accommodate new or expanding industries.
+
+The Florida Job Growth Grant Fund is a relatively new economic development program designed to build
+on Florida’s success and economic prosperity since 2010. In its first year, the Florida Job Growth Grant
+Fund will provide $85 million for public infrastructure and job training projects that support growth and
+employment in Florida’s diverse industries. Public infrastructure projects can include transportation and
+utilities needed to support economic development. Workforce training projects will provide Floridians with
+transferable, sustainable workforce skills applicable to many employers.
+
+COUNTY AND CITY
+The County maintains a number of programs available countywide that are designed to assist
+businesses with relocation or expansion plans.
+
+The City of Kissimmee also has its own criteria for targeted industry development and eligibility. Similar
+to State guidelines, a company must create at least 10 net new full time permanent jobs, or if expanding
+a business, increase employment by at least 10% and pay an average annual wage that is 115% higher
+than the local county average wage. State and/or County certified QTI projects will be eligible for the
+same incentives offered to City Targeted Industry. Companies must be in one of the City’s target industry
+categories or be the company’s corporate headquarters.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+EDEV-14                                                                                     November 2018
+                                                                                ECONOMIC DEVELOPMENT
+                                                                                Data, Inventory, and Analysis
+
+
+
+
+These companies include:
+
+   Aeronautical (Aviation/Aerospace)
+
+   Clean-Technologies, Alternative Energies or Renewable Resource Development
+
+   Manufacturing
+
+   Medical Specialties/Life Sciences
+
+   Preparatory High School
+
+   Post-Secondary Educational Institutions
+
+The City and Osceola County have also instituted a five-day, fast-track permitting program, which is
+extended to eligible Economic Development projects. This ensures that new and existing companies
+and corporate relocations can occur without delay. In addition, the City of Kissimmee has a completely
+electronic permitting system which helps permits to be reviewed faster and reduces costs for the City and
+its customers.
+
+SUMMARY
+There are substantial challenges ahead regarding economic development. In a down economic market
+businesses tend not to expand, often contracting to the detriment of not just employees, but the
+community they serve. Strengthening partnerships with local and regional economic development
+organizations, such as the Osceola County Economic Development Commission and the Metro Orlando
+Economic Development Council, as well as local
+educational institutions are essential to attract
+targeted industries and to support and nurture
+existing local businesses.
+
+The City’s adopted goals, objectives, and policies of
+the Economic Development Element will provide the
+framework necessary to support economic
+investment programs and opportunities needed to
+provide the City with an increased commercial tax
+base and higher wage employment opportunities.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                     EDEV-15
+

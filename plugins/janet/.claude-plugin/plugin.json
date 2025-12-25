@@ -1,0 +1,9 @@
+{
+  "name": "janet",
+  "description": "Help with writing, learning, running, and debugging Janet code - a functional Lisp-like language with macros, PEGs, and fibers",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  }
+}

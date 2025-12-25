@@ -1,0 +1,9 @@
+{
+  "name": "pab",
+  "description": "Planning Advisory Board agenda analysis for Kissimmee - evaluate proposals against Comprehensive Plan, Land Development Code, and Strong Towns principles",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  }
+}

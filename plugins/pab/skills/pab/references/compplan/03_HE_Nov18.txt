@@ -1,0 +1,1562 @@
+HOUSING
+
+
+
+
+          THIS PAGE INTENTIONALLY LEFT BLANK.
+Kissimmee
+2040 Comprehensive Plan
+Housing
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+November 2018
+
+Cover photo source: City of Kissimmee Public Information Office
+HOUSING
+
+
+
+
+          THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                                                 HOUSING
+
+
+
+
+Table of Contents
+Goals, Objectives, and Policies .............................................................................................................. 1
+
+Goal 3.1 Provide Safe, Affordable and Energy Efficient Housing for The City’s Residents. ...... 1
+                Objective 3.1.1: Promote Affordable Quality Housing. ............................................................ 1
+                Objective 3.1.2: Strive to Achieve a Housing Stock Free of Substandard Units. .................... 3
+                Objective 3.1.3: Infill and Redevelopment Efforts. .................................................................. 4
+                Objective 3.1.4: Provide Opportunities for Group Homes and Foster Care Facilities. ............ 4
+                Objective 3.1.5: Preserve Historically Significant Housing. ..................................................... 5
+                Objective 3.1.6: Relocation Housing. ...................................................................................... 6
+                Objective 3.1.7: Conserve Neighborhood Quality. .................................................................. 6
+                Objective 3.1.8: Promote Energy Efficiency in Housing. ......................................................... 7
+
+Data, Inventory, and Analysis ................................................................................................................. 9
+         Housing Data Inventory................................................................................................................... 9
+                Residential Development in The City ...................................................................................... 9
+                Number and Distribution of Dwelling Units by Type .............................................................. 10
+                Tenure ................................................................................................................................... 12
+                Structure Age ........................................................................................................................ 13
+                Household Size ..................................................................................................................... 14
+                Historically Significant Housing ............................................................................................. 15
+                Substandard Housing ............................................................................................................ 16
+         Housing Analysis and Affordability Assessment ........................................................................... 16
+                Value ..................................................................................................................................... 17
+                Sales Price ............................................................................................................................ 18
+                Monthly Cost of Renter-Occupied Units ................................................................................ 19
+                Monthly Cost of Owner-Occupied Units ................................................................................ 20
+                Percentage of Income Spent on Housing ............................................................................. 20
+                Projected Households ........................................................................................................... 23
+                Affordable Housing Assessment ........................................................................................... 23
+                Future Housing Need ........................................................................................................... 26
+         Summary ....................................................................................................................................... 27
+
+Appendix A – Local Historic Properties............................................................................................... 29
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                           HE-i
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                                         HOUSING
+
+
+
+
+List of Tables
+Table 3-1: City of Kissimmee Residential Sales .....................................................................................10
+Table 3-2: Comparison of Housing Units, by Structure ...........................................................................11
+Table 3-3: Comparison of Housing Tenure .............................................................................................12
+Table 3-4: Comparison of Housing Occupancy ......................................................................................12
+Table 3-5: Comparison of Owner and Renter Vacancy Rates ................................................................13
+Table 3-6: Comparison of Year Structure Built .......................................................................................13
+Table 3-7: Household Size, Owner-Occupied Units................................................................................15
+Table 3-8: Household Size, Renter-Occupied Units ...............................................................................15
+Table 3-9: Historically Significant Places ................................................................................................16
+Table 3-10: Substandard Housing Conditions ........................................................................................16
+Table 3-11: Value of Owner-Occupied Units ..........................................................................................17
+Table 3-12: Gross Rent ...........................................................................................................................19
+Table 3-13: Owner-Occupied Unit Costs ................................................................................................20
+Table 3-14: Owner Costs, Percentage of Income ...................................................................................21
+Table 3-15: Rent as Percent of Income ..................................................................................................22
+Table 3-16: Projected Households by Size .............................................................................................23
+Table 3-17: Projected Households by Age of Householder ....................................................................23
+Table 3-18: Severely Cost-Burdened Households by Percent AMI ........................................................ 24
+Table 3-19: Projected Increase in Severely Cost-Burdened Households under 80% AMI ..................... 25
+Table 3-20: Projected Housing Demand, 2020-2045 ..............................................................................26
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                 HE-iii
+THIS PAGE INTENTIONALLY LEFT BLANK
+                                                                                                                                      HOUSING
+
+
+
+
+List of Figures
+Figure 3-1: Share of Housing by Number of Units in Structure ............................................................... 11
+Figure 3-2: Comparison of Share of Housing by Year Structure Built..................................................... 14
+Figure 3-3: Value of Owner-Occupied Housing ......................................................................................18
+Figure 3-4: Median Sales Price ...............................................................................................................19
+Figure 3-5: Comparison of Cost-Burdened Households .........................................................................22
+Figure 3-6: Severely Cost-Burdened Households, Less than 80% AMI as Percentage of All Households
+            ……………. ..........................................................................................................................25
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                              HE-v
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                     HOUSING
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulated goals, objectives, and implementing policies for the Housing Element pursuant to
+§163.3177 (6) (f), Florida Statutes.
+
+GOAL 3.1 PROVIDE SAFE, AFFORDABLE AND ENERGY EFFICIENT HOUSING FOR
+THE CITY’S RESIDENTS.
+Allocate land area for accommodating a supply of housing responsive to the diverse housing needs of the
+existing and projected future city population and assist the private sector in providing affordable quality
+housing in neighborhoods protected from incompatible uses, located in proximity to employment and
+commercial services, and served by adequate public facilities.
+
+       OBJECTIVE 3.1.1: PROMOTE AFFORDABLE QUALITY HOUSING.
+       The City shall promote the development and adequate maintenance of affordable housing that
+       provides quality living conditions for current and future residents of the City of Kissimmee.
+
+               POLICY 3.1.1.1: ENSURE ADEQUATE ACREAGE AND ALLOW REDEVELOPMENT TO MEET
+               PROJECTED DEMAND.
+               The City's Future Land Use Map shall continue to designate adequate acreage for a
+               variety of housing types to meet the projected housing need and desired product type
+               and continue to support additional housing through redevelopment.
+
+               POLICY 3.1.1.2: PROVIDE TECHNICAL ASSISTANCE, INFORMATION AND REFERRAL SERVICES.
+               The City should provide technical assistance, information and referral services to the
+               private sector in order to maintain a housing production capacity sufficient to meet the
+               projected housing market demand. The City shall continue to advance fair housing and
+               elimination of discrimination in housing.
+
+               POLICY 3.1.1.3: ENCOURAGE EFFICIENT HOUSING DELIVERY.
+               The City shall promote the reduction in home construction costs by eliminating unnecessary
+               regulatory practices that add to the cost of housing. In addition, the City shall coordinate
+               with relevant departments and agencies regarding the timely extension of water and
+               wastewater services as well as utilities and road improvements to developing or
+               redeveloping residential areas in need of infrastructure to support new housing or
+               neighborhood revitalization.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                            HE-1
+HOUSING
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 3.1.1.4: SUPPORT AFFORDABLE HOUSING PROGRAMS AND EFFORTS.
+                 The City of Kissimmee shall continue to coordinate with the Osceola County Housing Office
+                 on housing programs including the State Housing Initiative Partnership, Section 8 Housing
+                 Assistance program, the Down Payment Assistance program and other State and federal
+                 housing grant programs that become available. The City shall continue to participate in seek
+                 State and federal programs that provide funding for affordable housing. The City shall
+                 continue cooperating with Osceola County, Florida’s Department of Economic Opportunity,
+                 the Florida Housing Finance Corporation, and the Department of Housing and Urban
+                 Development in furthering housing opportunities for low and moderate income residents
+                 within the urban area.
+
+                 POLICY 3.1.1.5: PROVIDE REGULATIONS THAT PROMOTE A VARIETY OF HOUSING TYPES.
+                 The City shall periodically review the Land Development Code and assess the successes
+                 or failures in allowing for the development and retaining of a variety of housing product
+                 types and levels of affordability to meet the needs of residents, including low and moderate
+                 income households. Any barriers to the development of affordable housing should be
+                 removed.
+
+                 POLICY 3.1.1.6: PROMOTE WORKFORCE HOUSING.
+                 The City shall periodically review the Land Development Code and determine appropriate
+                 incentives to promote the development of affordable workforce housing. Incentives may
+                 include increased density and development rights, expedited review and/or financial
+                 incentives (in the form of reduced fees).
+
+                 POLICY 3.1.1.7: PROMOTE “GREEN” AFFORDABLE HOUSING.
+                 The City shall promote and support the development of affordable housing that uses
+                 green and sustainable development practices to both increase the supply of affordable
+                 housing and reduce greenhouse gas emissions.
+
+                 POLICY 3.1.1.8: MOBILE HOME FUTURE LAND USE REQUIREMENTS.
+                 Mobile homes will continue to be accommodated in the existing mobile home parks and
+                 developers will continue to have the opportunity to develop mobile homes in low density
+                 areas in accordance with land development regulations.
+
+                 POLICY 3.1.1.9: ADDRESS CURRENT AND FUTURE AFFORDABLE HOUSING SHORTAGE.
+                 The City will protect its current housing units, work to keep units affordable, and continue
+                 policies and identify funding opportunities for the development of additional subsidized
+                 units. The City will continue to identify and implement programs and funding that support
+                 homeownership and rental assistance.
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+HE-2                                                                                          November 2018
+                                                                                                    HOUSING
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+       OBJECTIVE 3.1.2: STRIVE TO ACHIEVE A HOUSING STOCK FREE OF SUBSTANDARD
+       UNITS.
+       The City shall undertake programs in concert with the State and Federal governments to eliminate
+       substandard housing conditions as below directed.
+
+               POLICY 3.1.2.1: PROMOTE MAINTENANCE OF HOUSING STOCK AND NEIGHBORHOOD
+               CONSERVATION.
+               The City of Kissimmee shall continue to enforce the City's building, housing, plumbing,
+               energy, electrical, and other construction codes in order to promote maintenance of
+               standard housing, promote and increase energy efficiency, and to achieve necessary
+               corrective action where noncompliance exist or come into existence in the future.
+
+               POLICY 3.1.2.2: ELIMINATION OF SUBSTANDARD HOUSING CONDITIONS.
+               The City shall continuously coordinate with the State and Federal government in order to
+               obtain available funding and resources required to improve substandard housing
+               conditions.
+
+               POLICY 3.1.2.3: ADDRESS SUBSTANDARD HOUSING THROUGH THE LAND DEVELOPMENT
+               CODE AND CODE ENFORCEMENT.
+               The City shall continue to refine the land development regulations in order to create
+               incentives that encourage and facilitate redevelopment in areas with a relatively high
+               concentration of substandard housing. The City shall continuously enforce the City’s
+               adopted building and housing codes in order to protect and preserve the structural
+               integrity and aesthetics of the City's housing stock. The City shall contact owners of
+               substandard housing units in order to communicate necessary corrective actions and
+               assist by informing owners of available federal, state and local housing assistance
+               programs.
+
+               POLICY 3.1.2.4: PROMOTE HOUSING REHABILITATION AND REDUCE UNSAFE HOUSING
+               CONDITIONS.
+               The City of Kissimmee shall continuously coordinate with the State and Federal
+               governments and the private sector in the encouragement of the use of available
+               rehabilitation funds for the improvement of substandard housing or demolition if
+               necessary.
+
+               POLICY 3.1.2.5: INCREASE COORDINATION EFFORTS TO ADDRESS SUBSTANDARD HOUSING.
+               City code enforcement shall continue to coordinate with agencies responsible for housing
+               assistance programs to more efficiently address substandard housing and the needs of
+               residents.
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           HE-3
+HOUSING
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 3.1.2.6:       SUPPORT      HOMEOWNER         ASSISTANCE      THROUGH      NON-PROFIT
+                 ORGANIZATIONS.
+                 The City should make information available to residents which identify non-profit
+                 organizations that provide assistance on a range of housing issues, including
+                 homeownership education, avoiding foreclosure, and financial assistance opportunities.
+
+                 POLICY 3.1.2.7: SPECIAL HOUSING STUDIES.
+                 In order to maintain housing policies responsive to changing conditions, problems, and
+                 issues, the City shall undertake special housing studies as needed to develop specific
+                 local strategies for resolving unanticipated housing problems and issues.
+
+                 POLICY 3.1.2.8: CONTINUING HOUSING DATA MAINTENANCE.
+                 The City shall update its Consolidated Plan every 5 years, as required for Community
+                 Development Block Grant (CDBG) funding.
+
+        OBJECTIVE 3.1.3: INFILL AND REDEVELOPMENT EFFORTS.
+        The City of Kissimmee shall continue to promote infill and redevelopment in appropriate areas of
+        the City, particularly in the Downtown and Vine Street Community Redevelopment Areas.
+
+                 POLICY 3.1.3.1: CREATE FULLY INTEGRATED NEIGHBORHOODS.
+                 The City shall promote redevelopment projects that incorporate a mixture of housing types
+                 and affordability levels to provide an adequate supply of housing desirable and affordable
+                 to residents, allows for aging in place, and incorporates schools, parks, neighborhood
+                 commercial uses, employment opportunities and other neighborhood-oriented features.
+
+                 POLICY 3.1.3.2: CONTINUE TO SUPPORT THE COMMUNITY REDEVELOPMENT AGENCY.
+                 The City shall continue to explore methods of supporting residential redevelopment that will
+                 benefit the historic downtown and Vine Street corridor.
+
+        OBJECTIVE 3.1.4: PROVIDE OPPORTUNITIES FOR GROUP HOMES AND FOSTER CARE
+        FACILITIES.
+        The City of Kissimmee shall continue to promote licensed housing opportunities to meet the unique
+        housing needs of the elderly, dependent children, and physically and mentally handicapped and
+        the developmentally disabled.
+
+                 POLICY 3.1.4.1: POLICIES FOR FOSTER CARE FACILITIES.
+                 To advance the provision of foster care facilities within the City of Kissimmee, single family
+                 foster care homes shall continue to be allowed in all residential zoning districts classified in
+                 the Zoning Code.
+
+
+                                                                    City of Kissimmee | 2040 Comprehensive Plan
+HE-4                                                                                            November 2018
+                                                                                                      HOUSING
+                                                                                  Goals, Objectives, and Policies
+
+
+
+
+               POLICY 3.1.4.2: POLICIES FOR GROUP HOMES.
+               Group homes shall be allowed in multiple family zoning districts providing they meet land
+               development code performance standards. In addition, such facilities shall be regulated in
+               order to control their magnitude and distribution and to assure locations accessible to public
+               and private services generally required by group home residents.
+
+       OBJECTIVE 3.1.5: PRESERVE HISTORICALLY SIGNIFICANT HOUSING.
+       The City shall promote the preservation and protection of housing resources identified as
+       historically significant, especially those located in areas designated as historic districts.
+
+               POLICY 3.1.5.1: PROMOTE IDENTIFICATION OF THE CITY'S HISTORICALLY SIGNIFICANT
+               HOUSING RESOURCES.
+               The City of Kissimmee shall encourage the continued identification, protection, analysis,
+               and explanation of the City's historical resources. Such efforts shall include determination
+               of their worth and vulnerability, as well as implementation of preservation management
+               policies as such resources are identified.
+
+               POLICY 3.1.5.2: STANDARDS TO ENSURE PRESERVATION.
+               The City shall continue to maintain historic preservation regulations to help avoid adverse
+               impacts to historic sites, including residential structures. Conversion to non-residential
+               uses, such as offices, shall be discouraged when historic residential structures can be
+               saved and rehabilitated for continuing residential use.
+
+               POLICY 3.1.5.3: REHABILITATION AND ADAPTIVE RE-USE OF HISTORICALLY SIGNIFICANT
+               HOUSING.
+               The City shall support the rehabilitation and adaptive re-use of historically significant
+               housing and link the private sector with potential sources of technical assistance and
+               funding for rehabilitation and adaptive re-use of historically significant housing resources.
+
+               POLICY 3.1.5.4: GRANTS FOR PRESERVING HISTORICALLY SIGNIFICANT HOUSING.
+               The City shall assist property owners of historically significant housing in applying for
+               available State and federal assistance programs.
+
+               POLICY 3.1.5.5: ASSIST OSCEOLA COUNTY HISTORICAL SOCIETY.
+               The City shall continue to assist the Osceola County Historical Society in its efforts to
+               provide public information, education, and technical assistance relating to historic
+               preservation programs.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                             HE-5
+HOUSING
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 3.1.5.6: MAINTAIN CERTIFIED LOCAL GOVERNMENT STATUS.
+                 The City shall maintain Certified Local Government status through the Florida Department
+                 of State and U.S. Department of Interior to continue preservation efforts.
+
+                 POLICY 3.1.5.7: HISTORIC OVERLAY DISTRICTS.
+                 The City shall continue to use the Land Development Code and the Historic Preservation
+                 Board (HPB) to implement and maintain the historic overlay district designations.
+
+        OBJECTIVE 3.1.6: RELOCATION HOUSING.
+        Uniform and equitable treatment of persons and businesses displaced by State and local
+        government programs shall be provided consistent with § 421.55, F.S.
+
+                 POLICY 3.1.6.1: PROVIDE ALTERNATIVE HOUSING SITES FOR DISPLACED STRUCTURES AND
+                 RESIDENTS THEREOF.
+                 The City shall coordinate with the private sector in assuring that alternative sites, in
+                 comparable housing facilities are available to persons displaced through public action
+                 prior to their displacement.
+
+        OBJECTIVE 3.1.7: CONSERVE NEIGHBORHOOD QUALITY.
+        The useful life of the existing housing stock shall be conserved through effective implementation
+        of laws, ordinances, and programs directed toward preserving neighborhood quality, including
+        conservation of natural resources, maintenance of community facilities, and code enforcement
+        activities.
+
+                 POLICY 3.1.7.1: PLAN SUPPORTIVE FACILITIES AND SERVICES NECESSARY FOR QUALITY
+                 RESIDENTIAL NEIGHBORHOODS AND REDEVELOPMENT EFFORTS.
+                 The City of Kissimmee shall continue to coordinate with Osceola County, the State of
+                 Florida and the private sector in planning systems for delivery of public facilities and
+                 services supportive to a quality residential environment. The City shall pursue funding to
+                 improve conditions within targeted redevelopment areas. Redevelopment of needed
+                 neighborhood facilities, services and infrastructure should be identified and pursued. The
+                 City shall continue to coordinate with Florida’s Department of Economic Opportunity, the
+                 Department of Housing, and other appropriate agencies in order to achieve available
+                 technical and financial assistance for neighborhood improvement needs.
+
+                 POLICY 3.1.7.2: MINIMIZE POTENTIAL BLIGHTING INFLUENCES.
+                 Potential blighting influences within neighborhoods shall be minimized by promoting use of
+                 best management principles and practices of land use planning, urban design and
+                 landscaping in development and site plan review. For instance, adverse impacts of land
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+HE-6                                                                                        November 2018
+                                                                                                    HOUSING
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+               use transition shall be minimized by managing the location as well as the density or
+               intensity of mixed or conflicting residential and non-residential uses and by requiring
+               adequate screening, landscaping, and other design features which promote land use
+               compatibility and appropriate land use transition without jeopardizing neighborhood
+               connectivity.
+
+               POLICY 3.1.7.3: COORDINATE PUBLIC/PRIVATE PARTNERSHIPS.
+               In addressing housing issues requiring unique partnerships involving the public and private
+               sector, the City of Kissimmee shall continue to promote effective communication and
+               innovative approaches to housing and neighborhood improvements that foster mutual
+               benefits for the public and private sectors, improve efficiency, and expand the capacity
+               of the housing delivery system.
+
+               POLICY 3.1.7.4: COORDINATION WITH THE ECONOMIC DEVELOPMENT AGENCY.
+               Departments responsible for setting housing policy and for development review shall
+               coordinate with appropriate economic development agencies to ensure that new housing
+               will satisfy demands associated and consistent with economic development strategies.
+
+               POLICY 3.1.7.5: PROMOTE NEIGHBORHOOD PLANNING.
+               The City should continue to work with neighborhood representatives to promote public
+               involvement and participation in neighborhood and citywide planning activities. The City
+               should also support neighborhoods in the identification of goals and strategies, and in the
+               creation of neighborhood plans that complement the overall goals, objectives, and
+               policies of the City’s Comprehensive Plan, and the Future Land Use Map.
+
+       OBJECTIVE 3.1.8: PROMOTE ENERGY EFFICIENCY IN HOUSING.
+       The City shall implement programs and the following policies to promote energy efficiency and
+       reduce greenhouse gas emissions.
+
+               POLICY 3.1.8.1: IMPLEMENT STRATEGIES FOR ENERGY EFFICIENT HOUSING.
+               The City will encourage the construction of energy efficiency housing to lower greenhouse
+               gas emissions and further protect against impacts to the natural environment. Innovative
+               regulations will be explored for inclusion in the Land Development Code and the City shall
+               encourage new housing to meet the Leadership in Energy and Environmental Design
+               (LEED) rating system, the Florida Green Building Coalition standards, or other nationally
+               recognized green building rating system.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           HE-7
+HOUSING
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 3.1.8.2: EDUCATE RESIDENTS ON ENERGY REDUCTION STRATEGIES.
+                 The City shall continue to make educational materials available to residents that identify
+                 and encourage measures residents can take to lower energy consumption.
+
+                 POLICY 3.1.8.3: PROMOTE FLORIDA NATIVE LANDSCAPING.
+                 The City shall continue to make educational materials available, and encourage
+                 residents to use Florida native plants appropriate for Central Florida and reduce demand
+                 for irrigation and routine maintenance.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+HE-8                                                                                        November 2018
+                                                                                                     HOUSING
+                                                                                  Data, Inventory, and Analysis
+
+
+
+
+DATA, INVENTORY, AND ANALYSIS
+This section provides a housing inventory and analysis pursuant to the requirements of §163.3177(6)(f),
+Florida Statutes.
+
+The Housing Element Data, Inventory, and Analysis section provides the framework for the goals,
+objectives and policies that are adopted in the Comprehensive Plan. The analysis provides an inventory
+of existing conditions, projections of housing needs through 2040, and an assessment of affordability.
+The Housing Element helps the City to identify strategies that will be undertaken to provide housing to
+meet the needs of existing residents, as well as anticipate and respond to future needs.
+
+The 2012-2016 American Community Survey was used for the data inventory and the Florida Housing
+Data Clearinghouse (FHDC), obtained in February/March 2018, was used for the housing analysis and
+affordability assessment. The American Community Survey is a nationwide survey designed to provide
+updated data to communities between decennial censuses. The survey collects and produces
+population and housing information each year. The FHDC provides data regarding housing supply and
+demand, household demographics and as assessment of affordability.
+
+HOUSING DATA INVENTORY
+The City of Kissimmee contains a wide variety of
+housing types and levels of affordability. The City
+contains a higher share of renters than the national
+average, with approximately 58 percent of occupied-
+households being rented, an increase of seven
+percent since the previous major comprehensive plan
+update in 2009. There is a substantial stock of
+unoccupied housing units, largely due to seasonal
+homes located in Kissimmee because of its location
+within the Orlando area, where second homes are in
+demand. Compared to the State and nation, there are more cost-burdened households in the City.
+These and other conditions will be identified and analyzed throughout this document.
+
+RESIDENTIAL DEVELOPMENT IN THE CITY
+According to the 2012-2016 American Community Survey, there were 27,006 housing units in the City,
+21,082 of which were occupied (78.1 percent). The City’s housing supply accounted for 20.0 percent of
+the Osceola County housing supply. Applying the unit count to the City’s land area of 13,561 acres, the
+overall (gross) residential density in the City is 2.0 dwelling units per acre.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           HE-9
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+The City experienced a slow decline in the number of residential unit sales between 2009 and 2014,
+reaching a low of 791 residential units sold in 2014. The number of residential unit sales jumped to more
+than 1,000 units in 2015 and 2016, comprised of predominantly single family unit sales. Early results in
+2017 indicate continued strength in single family sales and increased growth in condominium sales.
+Table 3-1 shows the number of residential units sold from 2009 to early 2017.
+
+Table 3-1: City of Kissimmee Residential Sales
+
+                       Single Family           Condo Unit          Total Residential Unit
+ Year                   Unit Sales               Sales                     Sales
+ 2009                        674                  303                        977
+ 2010                           595                  364                     959
+ 2011                           618                  311                     929
+ 2012                           584                  243                     827
+ 2013                           621                  224                     845
+ 2014                           635                  156                     791
+ 2015                           903                  165                   1,068
+ 2016                           936                  185                   1,121
+ 2017*                          528                  167                     695
+ Total                       6,094                2,118                    8,212
+
+*Data from 2017 include 1st quarter and partial 2nd quarter data
+
+Source: Florida Housing Data Clearinghouse
+
+NUMBER AND DISTRIBUTION OF DWELLING UNITS BY TYPE
+The City of Kissimmee contains a variety of housing product types. Single-family detached dwelling units
+accounted for approximately 46 percent of the housing stock, significantly lower than Osceola County
+which registered 59 percent. The increased presence of single-family homes in Osceola County is
+largely due to suburban style development which has occurred in unincorporated areas. Approximately
+29 percent of the housing stock consisted of multi-family units with between five and 19 units per
+structure. Table 3-1 provides a breakdown of unit types for the City and County.
+
+
+
+
+                                                                           City of Kissimmee | 2040 Comprehensive Plan
+HE-10                                                                                                  November 2018
+                                                                                                               HOUSING
+                                                                                            Data, Inventory, and Analysis
+
+
+
+
+Table 3-2: Comparison of Housing Units, by Structure
+
+                               City of Kissimmee               Osceola County
+
+ Units in Structure            Units          Percent          Units         Percent
+ One Detached                   12,355           45.7%          79,008         58.5%
+ One Attached                     2,291            8.5%          8,894          6.6%
+ Two                               552             2.0%          2,039          1.5%
+ Three to Four                    1,792            6.6%          4,583          3.4%
+ Five to Nine                     3,849           14.3%          8,907          6.6%
+ Ten to Nineteen                  3,946           14.6%         14,506          10.7%
+ Twenty or More                   1,437            5.3%          5,621          4.2%
+ Mobile Home                       784             2.9%         11,381          8.4%
+ Boat, RV, Van, etc.                     -        0.00%            146          0.1%
+ Total                          27,006           100.0%        135,085        100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Figure 3-1 provides a graphical comparison of the share of housing by number of units per structure
+between the City and County.
+
+Figure 3-1: Share of Housing by Number of Units in Structure
+ 70%
+
+ 60%
+
+ 50%
+
+ 40%
+
+ 30%
+
+ 20%
+
+ 10%
+
+  0%
+         One, Detached   One, Attached        Two to Nine     Ten to Nineteen    Twenty or More       Other
+
+                                             Kissimmee      Osceola County
+
+
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                    HE-11
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+TENURE
+The City of Kissimmee had a higher proportion of rental housing than Osceola County or levels found
+nationally. Approximately 42 percent of occupied housing units in the City were owner-occupied,
+compared to approximately 58 percent which were renter-occupied. These figures are based on an
+individual or family’s primary residence. Countywide, approximately 60 percent of occupied housing
+units were owner-occupied and 40 percent of units were renter-occupied. Table 3-3 provides data
+related to tenure.
+
+Table 3-3: Comparison of Housing Tenure
+
+                                                  City of Kissimmee                     Osceola County
+ Tenure                                        Units            Percent             Units            Percent
+ Owner-Occupied                                8,888             42.2%             56,161             60.2%
+ Renter-Occupied                              12,194              57.8%            37,163             39.8%
+ Total                                        21,082             100.0%            93,324            100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Approximately 78 percent of the City’s housing stock was occupied as of the 2012 to 2016 American
+Community Survey. This occupancy rate has remained fairly stable as far back as 1990, when
+approximately 83 percent of the City’s housing stock was occupied. Data on the number of occupied and
+vacant housing units is provided in Table 3-4. However, applying the vacancy rates for owner and renter
+units identified in Table 3-5 and applying those to the 42:58 owner/renter ratio in the City, the overall
+vacancy rate is approximately 4.62 percent. The difference between this figure and the vacancy rate of
+21.9 percent identified in Table 3-4 is likely due to the City’s significant stock of seasonal housing that
+does not serve as a primary residence. The City’s location near major tourist destinations in the Orlando
+metropolitan area makes it a desirable location for seasonal and second homes.
+
+Table 3-4: Comparison of Housing Occupancy
+
+                                 City of Kissimmee        Osceola County
+ Housing Occupancy              Total Units   Percent   Total Units   Percent
+ Occupied Housing Units             21,082     78.1%        93,324     69.1%
+ Vacant Housing Units                5,924     21.9%        41,761     30.9%
+ Total                              27,006    100.0%       135,085    100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+
+
+
+                                                                       City of Kissimmee | 2040 Comprehensive Plan
+HE-12                                                                                              November 2018
+                                                                                                       HOUSING
+                                                                                    Data, Inventory, and Analysis
+
+
+
+
+Table 3-5: Comparison of Owner and Renter Vacancy Rates
+
+                          City of Kissimmee          Osceola County
+ Housing Occupancy      Total Units   Percent    Total Units     Percent
+ Owner Vacancy Rate         --         1.2%          --           2.8%
+ Rental Vacancy Rate         --         7.1%           --         6.2%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+STRUCTURE AGE
+A significant portion of the local housing stock consists of new construction, though construction slowed
+after 2010. More than 27 percent of housing units in the City has been built since 2000. The share of
+housing units built since 2000 in the County is even higher, accounting for nearly 40 percent of units.
+Since Kissimmee is one of the original settled areas of the County, it has a higher share of homes built
+prior to 1980. In the City, approximately 22.0 percent of housing units were constructed prior to 1980,
+compared to 13.8 percent in the County. Table 3-6 presents data for the City and County according to
+year of construction.
+
+Table 3-6: Comparison of Year Structure Built
+
+                                              City of Kissimmee                   Osceola County
+
+ Year Structure Built                   Total Units             Percent     Total Units           Percent
+ 2010 to 2016                                 356                 1.3%          5,282               3.9%
+ 2000 to 2009                              7,031                 26.0%         49,914               37.0%
+ 1990 to 1999                              7,980                 29.5%         37,247               27.6%
+ 1980 to 1989                              5,709                 21.1%         24,035               17.8%
+ 1970 to 1979                              3,060                 11.3%           9,915               7.3%
+ 1960 to 1969                              1,151                  4.3%           3,622               2.7%
+ 1950 to 1959                                  911                3.4%           2,263               1.7%
+ 1940 to 1949                                  287                1.1%           1,110               0.8%
+ 1939 or earlier                               521                1.9%           1,697               1.3%
+ Total                                    27,006                100.0%        135,085             100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Figure 3-2 graphically identifies the percentage of structures built in specified timeframes for the City and
+County. The chart clearly identifies the housing boom that occurred throughout unincorporated areas of
+the County between 2000 and 2009. The City has a substantially lower percentage of homes built since
+2000, largely due to a lesser availability of vacant land.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                            HE-13
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+Figure 3-2: Comparison of Share of Housing by Year Structure Built
+ 45%
+
+ 40%
+
+ 35%
+
+ 30%
+
+ 25%
+
+ 20%
+
+ 15%
+
+ 10%
+
+  5%
+
+  0%
+            2010 to 2016        2000 to 2009      1990 to 1999         1950 to 1989   1949 or earlier
+
+                                          Kissimmee   Osceola County
+
+
+
+HOUSEHOLD SIZE
+According to the 2012-2016 American Community Survey, the average household size in the City was
+3.2 persons per household in owner-occupied households and 3.1 persons per household in renter-
+occupied households. While the City’s household size was slightly higher for owner-occupied than renter-
+occupied units, the reverse was true in the County. County household size was 3.2 and 3.49 persons per
+household for owner-occupied and renter-occupied households, respectively. The following tables show
+household size for owner-occupied and renter-occupied houses. Among both owners and renters, two-
+person households are the most common size in the City and the County. The share of households with
+three or more occupants in the City is similar among renters and owners at approximately 45 percent in
+both categories. However, the share of households in the City with 3-4 residents is larger among renters
+than owners.
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+HE-14                                                                                         November 2018
+                                                                                                        HOUSING
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+Table 3-7: Household Size, Owner-Occupied Units
+
+                                       City of Kissimmee                          Osceola County
+ Household Size                  Total Units             Percent              Total Units            Percent
+ 1 person                           1,818                 20.5%                 10,786                19.2%
+ 2 persons                           3,031                34.1%                 19,535                34.8%
+ 3 persons                           1,901                21.4%                 10,038                17.9%
+ 4 persons                            992                 11.2%                  9,337                16.6%
+ 5 or more persons                   1,146                12.9%                  6,465                11.5%
+ Total                               8,888               100.0%                 56,161               100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Table 3-8: Household Size, Renter-Occupied Units
+
+                                                       City of Kissimmee                 Osceola County
+ Household Size                                     Total Units     Percent       Total Units        Percent
+ 1 person                                              2,968         24.3%           7,728            20.8%
+ 2 persons                                             3,648         29.9%           9,958            26.8%
+ 3 persons                                             2,320         19.0%           6,964            18.7%
+ 4 persons                                             1,958         16.1%           6,147            16.5%
+ 5 or more persons                                     1,300         10.7%           6,366            17.1%
+ Total                                                12,194        100.0%           37,163          100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+HISTORICALLY SIGNIFICANT HOUSING
+There are two historic preservation overlays, the National Register District and the South Beaumont
+Historic District, located within the City’s downtown. There is also a City Historic Recourses Survey
+(2004) that reflects the contributing and non-contributing structures in the City, four of those structures
+are on the National Register of Historic Places. Each of these structures date back to the early 1900s,
+except for the Osceola County Courthouse, built in the late 1800s. These locations are identified in
+Table 3-9 and shown on Figure 1-4: Historic District and Structures in the Future Land Use Element. A
+list of locally significant historical properties is included in Appendix A.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                             HE-15
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+Table 3-9: Historically Significant Places
+
+ Name                                                                       Address
+ Colonial Estate                               2450 Old Dixie Highway
+ First United Methodist Church                 215 East Church Street
+ Old Holy Redeemer Catholic Church             120 North Spoule Avenue
+ Osceola County Courthouse                     Bounded by Emmet, Bryan, Rose and Vernon Streets
+ Kissimmee Historic District                   Bounded by Aultman St, Monument Ave, Penfield St, and Randolph Ave.
+
+Source: National Register of Historic Places
+
+SUBSTANDARD HOUSING
+There are a number of conditions typically used to evaluate whether a housing unit is considered
+“substandard”. Four typically-used measures include a lack of complete plumbing facilities, a lack of
+complete kitchen facilities, more than one occupant per room and/or no fuel used for household heating.
+Both the City and County had less than one percent of units lacking complete plumbing or kitchen
+facilities. The most prevalent condition in both jurisdictions was households with more than one
+occupant per room. Citywide, 4.4 percent of households fell into this category. Table 3-10 provides
+specific information regarding substandard housing conditions.
+
+Table 3-10: Substandard Housing Conditions
+
+                                                              City of Kissimmee              Osceola County
+ Housing Condition                                         Total Units     Percent       Total Units      Percent
+ Lacking complete plumbing facilities                          21           0.1%            216            0.2%
+ Lacking complete kitchen facilities                          135           0.6%            597            0.6%
+ More than 1 occupant per room                                918           4.4%            3183           3.4%
+ No fuel used                                                 376           1.8%            1504           1.6%
+ Occupied Housing Units                                      21,082        100.0%          93,324         100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+
+HOUSING ANALYSIS AND AFFORDABILITY ASSESSMENT
+This section of the Data, Inventory and Analysis expands upon the existing conditions found in the City
+and provides as assessment of housing affordability and projects housing conditions through 2040. The
+long term projections and affordability assessment allows the City to develop policies in the Goals,
+Objectives and Policies to meet future needs and increase the availability of housing for current and
+future residents.
+
+
+
+
+                                                                         City of Kissimmee | 2040 Comprehensive Plan
+HE-16                                                                                                November 2018
+                                                                                                   HOUSING
+                                                                                Data, Inventory, and Analysis
+
+
+
+
+VALUE
+According to the 2012-2016 American Community Survey, the median value of owner-occupied housing
+units in the City was $136,300 compared to $146,500 in the County. This difference in median value is
+caused by both a higher share of homes valued below $100,000 in the City and a higher share of homes
+valued over $200,000 in the County. Owner-occupied homes valued above $500,000 were 2.3 percent
+of the County housing stock, but only approximately 0.7 percent of the City’s housing stock. Table 3-11
+provides detailed information on owner-occupied housing values.
+
+Table 3-11: Value of Owner-Occupied Units
+
+                                          City of Kissimmee             Osceola County
+
+ Value: Owner-Occupied Units         Total Units        Percent   Total Units        Percent
+ Less than $50,000                        825              9.3%      5,507              9.8%
+ $50,000 to $99,999                     2,056             23.1%     10,869            19.4%
+ $100,000 to $149,999                   2,230             25.1%     12,560            22.4%
+ $150,000 to $199,999                   2,013             22.6%     12,716            22.6%
+ $200,000 to $299,999                   1,101             12.4%      9,546            17.0%
+ $300,000 to $499,999                     598              6.7%      3,683              6.6%
+ $500,000 to $999,999                       57             0.6%      1,048              1.9%
+ $1,000,000 or more                           8            0.1%        232              0.4%
+ Total                                  8,888           100.0%      56,161           100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Figure 3-3 provides a graphical representation of the value of
+owner-occupied housing. The City has a higher share of             According to the 2012-2016
+homes valued under $150,000 compared to the County. The            American Community
+County has a higher share of homes valued between $150,000         Survey, the median value of
+and $299,999 as well as homes valued over $500,000. The
+                                                                   City owner-occupied housing
+City and County have similar shares of homes valued between
+                                                                   units was $136,300.
+$300,000 and $499,999
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        HE-17
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+Figure 3-3: Value of Owner-Occupied Housing
+ 70.0%
+
+
+ 60.0%
+
+
+ 50.0%
+
+
+ 40.0%
+
+
+ 30.0%
+
+
+ 20.0%
+
+
+ 10.0%
+
+
+  0.0%
+             Less than $150,000    $150,000 to $299,999       $300,000 to $499,999     $500,000 or more
+
+                                         Kissimmee        Osceola County
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+SALES PRICE
+As of August 2017, the median sales price in              As of August 2017, the median
+Kissimmee was approximately $186,000 according
+                                                          sales price in Kissimmee was
+to data gathered from Trulia Market Trends. The
+                                                          approximately $186,000.
+median sales price peaked in mid-2007 at nearly
+$256,000, followed by a crash to $110,000 during
+2009 and $92,000 in 2011. Sales prices have been steadily increasing since, and median sales price has
+returned to approximately the median price in 2005. Because these figures are not adjusted for inflation,
+adjusting for net present value would cause the actual sales price to be higher in 2005 than in 2017. The
+largest increase in sales prices occurred during 2013, when the median sales price increased from
+approximately $125,000 in the beginning of the year to more than $150,000 by year’s end. Figure 3-4
+shows the median sales price since 2009.
+
+
+
+
+                                                                      City of Kissimmee | 2040 Comprehensive Plan
+HE-18                                                                                             November 2018
+                                                                                                          HOUSING
+                                                                                       Data, Inventory, and Analysis
+
+
+
+
+Figure 3-4: Median Sales Price
+ $200,000
+ $180,000
+ $160,000
+ $140,000
+ $120,000
+ $100,000
+  $80,000
+  $60,000
+  $40,000
+  $20,000
+         $0
+           2009      2010      2011      2012    2013       2014   2015         2016   2017
+
+Source: Trulia Market Trends
+
+MONTHLY COST OF RENTER-OCCUPIED UNITS
+According to the 2012-2016 American Community Survey, the median monthly gross rent paid for
+occupied units was $968, slightly lower than the County median monthly gross rent of $1,074. Gross
+rent for more than half of the units in the City was between $500 and $999, compared to less than 40
+percent of units in the County. The share of units with gross rent between $1,000 and $1,499 was
+similar in the City and the County with both near 40 percent of units. A higher portion of County units cost
+more than $1,500 per month in rent, 15.0 percent versus 5.9 percent. Table 3-12 provides a comparison
+between the City and County.
+
+Table 3-12: Gross Rent
+
+                                        City of Kissimmee                 Osceola County
+ Gross Rent                      Total Units        Percent        Total Units         Percent
+ Less than $500                       685             5.6%            2,158              5.8%
+ $500 to $999                          6,259            51.3%        14,274             38.4%
+ $1,000 to $1,499                      4,531            37.2%        15,145             40.8%
+ $1,500 to $1,999                       630             5.2%          4,685             12.6%
+ $2,000 or more                          89             0.7%              901            2.4%
+ Total                                12,194         100.0%          37,163            100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                               HE-19
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+MONTHLY COST OF OWNER-OCCUPIED UNITS
+Approximately three-quarters of owner-occupied households had a mortgage. For these households, the
+median monthly owner costs in the City were $1,220. For those households without a mortgage, monthly
+costs were substantially lower, with a median of $455. Monthly costs of owner-occupied units were very
+similar in the City and County. However, median ownership costs for units with a mortgage were slightly
+higher at $1,333 per month, and median costs for units without a mortgage were slightly lower at $441
+per month. Table 3-13 provides a comparison between the City and County.
+
+Table 3-13: Owner-Occupied Unit Costs
+
+                                           City of Kissimmee                        Osceola County
+ Owner Costs                          Total Units          Percent            Total Units          Percent
+ Housing Units with a Mortgage
+ Less than $500                            140                  1.6%               615                1.1%
+ $500 to $999                            1,780                  20.0%            7,954               14.2%
+ $1000 to $1,499                         2,605                  29.3%           15,496               27.6%
+ $1,500 to $1,999                        1,133                  12.7%            8,865               15.8%
+ $2,000 to $2,499                          395                  4.4%             3,044                5.4%
+ $2,500 to $2,999                          175                  2.0%               957                1.7%
+ $3,000 or more                             55                  0.6%             1,147                2.0%
+ Housing Units without a Mortgage
+ Less than $250                            378                  4.3%             2,977                5.3%
+ $250 to $399                              582                  6.5%             4,768                8.5%
+ $400 to $599                            1,130                  12.7%            5,955               10.6%
+ $600 to $799                              411                  4.6%             2,672                4.8%
+ $800 to $999                               79                  0.9%             1,083                1.9%
+ $1,000 or more                             25                  0.3%               628                1.1%
+ Total (All)                             8,888              100.0%              56,161              100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+PERCENTAGE OF INCOME SPENT ON HOUSING
+Table 3-16 identifies the percent of household income spent on owner costs for units with and without a
+mortgage. Households spending more than 30 percent of household income on owner costs are
+considered to be cost-burdened. For households without a mortgage in the City, 3.4 percent of
+households spent more than 30 percent of their income on housing costs. Housing units with a
+mortgage contained a significantly higher percentage of households spending more than 30 percent of
+their income on owner costs at 27.8 percent.
+
+
+                                                                    City of Kissimmee | 2040 Comprehensive Plan
+HE-20                                                                                           November 2018
+                                                                                                    HOUSING
+                                                                                 Data, Inventory, and Analysis
+
+
+
+
+Table 3-14: Owner Costs, Percentage of Income
+
+                                              City of Kissimmee                Osceola County
+ Owner Costs as Percent of                                Percent of                         Percent of
+ Income                                Total Units        Total Units    Total Units         Total Units
+ Housing Units with a Mortgage
+ Less than 20.0 percent                     1,729               19.5%        11,681              20.8%
+ 20.0 to 24.9 percent                       1,122               12.6%         5,861              10.4%
+ 25.0 to 29.9 percent                         839                9.4%         4,423                7.9%
+ 30.0 to 34.9 percent                         627                7.1%         3,343                6.0%
+ 35.0 percent or more                       1,843               20.7%        12,407              22.1%
+ Not computed                                 123                1.4%           363                0.6%
+ Housing Units without a Mortgage
+ Less than 10.0 percent                       934               10.5%         6,555              11.7%
+ 10.0 to 14.9 percent                         578                6.5%         3,624                6.5%
+ 15.0 to 19.9 percent                         334                3.8%         2,079                3.7%
+ 20.0 to 24.9 percent                         254                2.9%         1,646                2.9%
+ 25.0 to 29.9 percent                         176                2.0%         1,016                1.8%
+ 30.0 to 34.9 percent                         102                1.1%           576                1.0%
+ 35.0 percent or more                         201                2.3%         2,185                3.9%
+ Not computed                                  26                0.3%           402                0.7%
+ Total (All)                                8,888               100.0%       56,161             100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Table 3-15 identifies the percentage of household income spent on rent. A significantly higher
+percentage of renters in the City were spending more than 30 percent of household income on monthly
+housing than owners at 60.5 percent. A similar pattern is found in the County, where 57.1 percent of
+renter-occupied units were spending more than 30 percent of income on gross rent.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         HE-21
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+Table 3-15: Rent as Percent of Income
+
+                                              City of Kissimmee                        Osceola County
+ Rent as Percent of Income               Total Units        Percent              Total Units       Percent
+ Less than 15.0 percent                        728             6.0%                    2,763          7.4%
+ 15.0 to 19.9 percent                          923               7.6%                 2,777             7.5%
+ 20.0 to 24.9 percent                        1,099               9.0%                 4,068             10.9%
+ 25.0 to 29.9 percent                        1,365              11.2%                 4,003             10.8%
+ 30.0 to 34.9 percent                          957               7.8%                 3,207             8.6%
+ 35.0 percent or more                        6,422              52.7%                18,016             48.5%
+ Not computed                                  700               5.7%                 2,329             6.3%
+ Total                                      12,194          100.0%                   37,163          100.0%
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+Renters and home-owners in the City and County are more cost-burdened than the State of Florida or
+the nation. Nationwide, 24.7 percent of owner-occupied households are classified as cost-burdened,
+compared to 28.6 percent in the State of Florida, 33.0 percent in Osceola County and 31.2 percent in the
+City of Kissimmee. Significantly more renter-occupied households nationwide are considered cost-
+burdened, 47.3 percent compared to 53.2 percent in the State, 57.1 percent in the County and 60.5
+percent in the City. Figure 3-5 presents these figures graphically.
+
+Figure 3-5: Comparison of Cost-Burdened Households
+              70.0%
+
+              60.0%
+
+              50.0%
+
+              40.0%
+
+              30.0%
+
+              20.0%
+
+              10.0%
+
+               0.0%
+                                Nation         Florida          Osceola County       Kissimmee
+                       Cost-Burdened: Owner-Occupied       Cost-Burdened: Renter-Occupied
+
+Source: US Census Bureau, 2012-2016 American Community Survey
+
+
+
+
+                                                                     City of Kissimmee | 2040 Comprehensive Plan
+HE-22                                                                                            November 2018
+                                                                                                                HOUSING
+                                                                                             Data, Inventory, and Analysis
+
+
+
+
+PROJECTED HOUSEHOLDS
+The information presented in this section is based on data from the 2012-2016 American Community
+Survey, the FHDC, and population projections developed for the Comprehensive Plan. FHDC information
+has been adjusted to reflect the population projections in the Future Land Use Element. As shown in
+Table 3-16, there is an expected increase in the number of households through the year 2040 with
+growth slowing between 2030 and 2040 as more relative growth in Osceola County happens in
+unincorporated areas.
+
+Table 3-16: Projected Households by Size
+
+ Household Size                 2016                             2020                 2030                    2040
+ 1 to 2 person                11,465                           14,227               16,871                  17,635
+ 3 to 4 persons                 7,171                           8,899               10,552                  11,030
+ 5 or more persons              2,446                           3,035                3,599                    3,762
+ Total Households             21,082                           26,161               31,023                  32,427
+
+Source: 2012-2016 American Community Survey and Population Projections
+
+Table 3-17 shows that householders aged 45-64 comprise the largest share of any age range in the City,
+followed by those aged 25-44. By 2040, the shares of householders in these categories are expected to
+drop while householders aged 65 or older increase from 21 percent to 41 percent of all householders.
+The forecasted increase in the City’s aging population may increase demand for accessible housing
+options and for both renter-occupied and owner-occupied communities tailored to this cohort.
+
+Table 3-17: Projected Households by Age of Householder
+
+ Age of Householder                     2016                  2020                  2030                   2040
+ 15-24                                   1,214                  1,386                1,447                  1,227
+ 25-44                                   7,421                  8,625                9,227                    8,902
+ 45-64                                   8,092                  9,955                9,957                    9,055
+ 65 or more                              4,355                  6,195               10,393                  13,242
+ Total Households                       21,082                 26,161               31,023                  32,427
+
+Source: 2012-2016 American Community Survey, Florida Housing Data Clearinghouse, and Population Projections
+
+AFFORDABLE HOUSING ASSESSMENT
+The following section provides an affordable housing assessment for the City. Data used for the
+affordable housing assessment was obtained from the FHDC and adjusted based on City population
+projections. The FHDC provides the most detailed information on projected affordable housing needs for
+counties and municipalities throughout Florida.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                     HE-23
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+The FHDC overview of affordable housing needs assesses the number of low-income households
+(incomes below 80 percent of area median income (AMI)) and severely cost-burdened households
+(paying 50 percent or more of income on a mortgage or rent). Table 3-18 identifies severely cost-
+burdened households by their level of household income, 0-30 percent, 30.1 to 50 percent and 50.1 to
+80 percent of AMI. As expected, the highest concentration of severely cost-burdened units is found
+among households earning less than 30 percent of AMI. The percentage of all households that are
+severely cost-burdened is projected to remain near 28 percent. Similarly, the share of severely cost-
+burdened households in each income group is forecasted to remain almost constant.
+
+Table 3-18: Severely Cost-Burdened Households by Percent AMI
+
+ % AMI                                        2016        2020              2030               2040
+ 0-30%                                       2,732       3,375             4,002              4,174
+ 30.1-50%                                    2,019       2,506             3,005              3,164
+ 50.1-80%                                    1,082       1,343             1,594              1,667
+ All Severely Cost-Burdened                  5,833       7,224             8,602              9,005
+ Share of All Households                     27.7%       27.6%             27.7%              27.8%
+
+Source: Florida Housing Data Clearinghouse
+
+Figure 3-6 presents the percentage of households classified as severely cost-burdened by income range
+and owner or renter-occupied households. While the share of households that are severely cost-
+burdened with an income less than 30 percent of AMI is projected to decrease for renter-occupied
+households, share of the same classification is projected to increase for owner-occupied households.
+
+
+
+
+                                                              City of Kissimmee | 2040 Comprehensive Plan
+HE-24                                                                                     November 2018
+                                                                                                    HOUSING
+                                                                                 Data, Inventory, and Analysis
+
+
+
+
+Figure 3-6: Severely Cost-Burdened Households, Less than 80% AMI as Percentage of All
+Households
+ 12%
+
+
+ 10%
+
+
+  8%
+
+
+  6%
+
+
+  4%
+
+
+  2%
+
+
+  0%
+              2016              2020          2025            2030        2035               2040
+               Owner 30% AMI or less           Owner 30.1-50% AMI             Owner 50.1-80% AMI
+               Renter 30% AMI or less          Renter 30.1-50% AMI            Renter 50.1-80% AMI
+
+
+Source: Florida Housing Data Clearinghouse
+
+Table 3-19 identifies the anticipated growth in severely cost-burdened households based on the
+household percent of AMI. In total, between 2016 and 2040 there is an expected increase of 3,172
+severely cost-burdened households earning less than 80 percent of AMI (approximately 132 households
+per year). Forty-six percent of these households are projected to earn less than 30 percent of AMI, and
+36 percent are projected to earn between 30 and 50 percent of AMI.
+
+Table 3-19: Projected Increase in Severely Cost-Burdened Households under 80% AMI
+
+ % AMI                    2016-2020              2020-2030           2030-2040                Total
+ 0-30%                        643                    627                172                   1,442
+ 30.1-50%                     487                    499                158                   1,145
+ 50.1-80%                     261                    251                73                     585
+ Total                       1,392                   1,377              403                   3,172
+Source: Florida Housing Data Clearinghouse
+
+In 2016 there was an estimated 5,833 low-income, severely cost-burdened households in the City. By
+2040, an additional 3,172 households in this category are projected to need affordable housing in the
+City.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         HE-25
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+FUTURE HOUSING NEED
+                                                     Table 3-20 below summarizes the projected housing
+                                                     needs for the City of Kissimmee through the planning
+                                                     period assuming an average household size of 2.85.
+                                                     The table does not, however, take into account the
+                                                     units that are currently vacant, and which could be
+                                                     used to meet future demands. The 2012-2016
+                                                     American Community Survey reported a total of
+                                                     27,006 housing units in the City, 5,924 (21.9%) of
+                                                     which were vacant. The vacant units include those
+                                                     for sale, rentals, and other units that have no current
+                                                     residents, and occupied units that have a primary
+                                                     residence elsewhere.
+
+Table 3-20: Projected Housing Demand, 2020-2040
+
+
+ Year                                Total Population Estimate          Projected Number of Households
+ 2020                                         74,560                                26,161
+ 2025                                         82,688                                  29,013
+ 2030                                         88,416                                  31,023
+ 2035                                         91,392                                  32,067
+ 2040                                         92,416                                  32,427
+
+Source: Population Estimates
+
+As shown in Table 3-20, 32,427 households are projected to reside in the City by 2040. There are
+27,006 units existing in the City, which results in a net demand of at least 5,400 additional units by 2040.
+If the vacancy rate remains at 21.9 percent due to seasonal residents and market fluctuations, the total
+number of units required could be 41,500 total units, requiring an additional 14,500 units. Based on the
+vacant land analysis in the Future Land Use Element, there is a sufficient amount of land in the City to
+accommodate projected housing demand through the planning period.
+
+However, these calculations assume population growth will continue as projected and future land use
+categories will not change. It also assumes public facilities levels of service will remain adequate, which
+they are projected to do, based on the current population projections. Housing demand is a dynamic
+figure and is affected by many influences including changes in the local economy, household income,
+inflation, and the number of seasonal visitors.
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+HE-26                                                                                        November 2018
+                                                                                                    HOUSING
+                                                                                 Data, Inventory, and Analysis
+
+
+
+
+SUMMARY
+The City of Kissimmee’s housing stock provides a wide variety of housing types and price ranges to
+accommodate housing needs of people of all socioeconomic backgrounds. Affordability is more of a
+concern in the City than it is in the State and Nation as the percentage of owner and renter-occupied
+households who are considered cost burdened is higher. Compared to Osceola County, fewer
+homeowners are cost-burdened, but a larger share of renters are cost-burdened.
+
+As has occurred throughout the State and Nation, single-family home prices have slowly recovered from
+the recession. Home prices in the City have returned to levels seen in 2005 and steady growth is
+expected to continue in a sustainable manner that addresses the need for a diversity of housing options
+for all income levels. The City currently has a greater diversity of housing options compared to the
+County, with 45.7 percent of housing stock coming from single-family detached homes compared to 58.5
+percent in the County. However, the City has a smaller share of owner-occupied units at both the low
+and high ends of value compared to the County, and it could benefit from a wider range of housing
+options with respect to value.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         HE-27
+THIS PAGE INTENTIONALLY LEFT BLANK
+                                                                                 HOUSING
+                                                              Data, Inventory, and Analysis
+
+
+
+
+APPENDIX A – LOCAL HISTORIC PROPERTIES
+ Address                  Address             Address          Address
+ 604 5th                  505 Clyde           1107 Lindsay     1320 Patrick
+ 15 Alaska                513 Clyde           1124 Lindsay     1413 Patrick
+ 216 Alma                 519 Clyde           1001 Mabbette    1417 Patrick
+ 223 Alma                 712 Clyde           1005 Mabbette    2327 Patrick
+ 229 Alma                 715 Clyde           1012 Mabbette    2804 Patrick
+ 508 Aultman              721 Clyde           1015 Mabbette    917 Patrick
+ 10 Bass                  725 Clyde           1017 Mabbette    1006 Penfield
+ 103 Bass                 811 Clyde           1018 Mabbette    1014 Penfield
+ 201 Bass                 903 Columbia        1104 Mabbette    1018 Penfield
+ 213 Bass                 3 Courthouse        1107 Mabbette    1022 Penfield
+ 214 Bass                 105 Cypress         1112 Mabbette    1103 Penfield
+ 218 Bass                 203 Cypress         1214 Mabbette    1107 Penfield
+ 380 Bass                 215 Cypress         1217 Mabbette    1712 Penfield
+ 1011 Bay                 312 Dakin           1221 Mabbette    1203 Person
+ 1015 Bay                 321 Dakin           1302 Mabbette    810 Person
+ 1021 Bay                 7 Dakin             1307 Mabbette    818 Person
+ 1104 Bay                 1523 Damon          1403 Mabbette    820 Person
+ 1114 Bay                 1903 Damon          1407 Mabbette    1008 Portage
+ 1121 Bay                 2333 Denn John      1412 Mabbette    1019 Portage
+ 1211 Bay                 301 Dickson         1503 Mabbette    15 Railroad
+ 1215 Bay                 102 Dillingham      1515 Mabbette    111 Randolph
+ 1711 Bay                 104 Dillingham      1616 Mabbette    116 Randolph
+ 1804 Bay                 110 Dillingham      1714 Mabbette    12 Randolph
+ 714 Bay                  112 Dillingham      1912 Mabbette    204 Randolph
+ 810 Bay                  116 Dillingham      417 Mabbette     213 Randolph
+ 815 Bay                  118 Dillingham      421 Mabbette     214 Randolph
+ 821 Bay                  204 Dillingham      502 Mabbette     218 Randolph
+ 109 Beaumont             215 Dillingham      507 Mabbette     219 Randolph
+ 116 Beaumont             22 Dillingham       510 Mabbette     416 Randolph
+ 19 Beaumont              222 Dillingham      511 Mabbette     503 Randolph
+ 21 Beaumont              314 Dillingham      514 Mabbette     504 Randolph
+ 22 Beaumont              322 Dillingham      521 Mabbette     1108 Robinson
+ 220 Beaumont             409 Dillingham      522 Mabbette     1202 Robinson
+ 228 Beaumont             411 Dillingham      605 Mabbette     1210 Robinson
+ 321 Beaumont             511 Dillingham      621 Mabbette     1213 Robinson
+ 1003 Brack               7 Dillingham        622 Mabbette     1214 Robinson
+ 1004 Brack               210 Drury           702 Mabbette     1222 Robinson
+ 1021 Brack               216 Drury           703 Mabbette     1304 Robinson
+ 1103 Brack               310 Drury           707 Mabbette     703 Robinson
+ 1123 Brack               508 Elizabeth       715 Mabbette     814 Robinson
+ 1204 Brack               1007 Emmett         721 Mabbette     822 Robinson
+ 1220 Brack               1103 Emmett         725 Mabbette     910 Robinson
+ 1221 Brack               1221 Emmett         805 Mabbette     914 Robinson
+ 1303 Brack               1309 Emmett         808 Mabbette     416 Rolfe
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                      HE-29
+HOUSING
+Data, Inventory, and Analysis
+
+
+
+
+ Address                        Address         Address                      Address
+ 1304 Brack                     1316 Emmett     822 Mabbette                 212 Rose
+ 1604 Brack                     1317 Emmett     909 Mabbette                 1019 Royal
+ 1608 Brack                     1409 Emmett     910 Mabbette                 1117 Royal
+ 604 Brack                      525 Emmett      919 Mabbette                 1120 Royal
+ 610 Brack                      705 Emmett      103 Magnolia                 1201 Royal
+ 613 Brack                      815 Emmett      1604 Magnolia                1204 Royal
+ 614 Brack                      302 Emory       216 Magnolia                 1305 Royal
+ 716 Brack                      321 Emory       310 Magnolia                 1307 Royal
+ 717 Brack                      405 Emory       313 Magnolia                 606 Royal
+ 803 Brack                      507 Emory       1121 Main                    914 Royal
+ 804 Brack                      511 Emory       1122 Main                    1314 Smith
+ 808 Brack                      601 Emory       1215 Main                    1915 Smith
+ 815 Brack                      703 Emory       1307 Main                    2041 Smith
+ 818 Brack                      713 Emory       1431 Main                    814 Smith
+ 821 Brack                      1314 Ernest     710 Main                     117 Sproule
+ 822 Brack                      1406 Ernest     821 Main                     203 Sproule
+ 914 Brack                      1614 Ernest     1119 Mann                    205 Sproule
+ 421 Broadway                   1704 Ernest     306 Maple                    1002 Sumner
+ 526 Broadway                   2120 Ernest     310 Maple                    1219 Sumner
+ 534 Broadway                   219 Finley      311 Maple                    1220 Sumner
+ 538 Broadway                   220 Finley      317 Maple                    408 Sumner
+ 560 Broadway                   223 Finley      2441 Martin                  414 Sumner
+ 1012 Bryan                     306 Finley      1904 Michigan                419 Sumner
+ 1022 Bryan                     307 Finley      2021 Michigan                420 Sumner
+ 1222 Bryan                     317 Finley      2220 Michigan                421 Sumner
+ 1314 Bryan                     322 Finley      2305 Michigan                501 Sumner
+ 415 Bryan                      501 Finley      902 Michigan                 510 Sumner
+ 710 Bryan                      104 Forrest     506 Mildred                  516 Sumner
+ 804 Bryan                      109 Forrest     309 Mitchell                 517 Sumner
+ 922 Bryan                      1309 Forrest    319 Mitchell                 524 Sumner
+ 500 Canterbury                 903 Forrest     303 Monument                 612 Sumner
+ 504 Canterbury                 719 Henrietta   317 Monument                 618 Sumner
+ 507 Canterbury                 1612 Henry      320 Monument                 710 Sumner
+ 511 Canterbury                 1059 Hoagland   29 Neptune                   714 Sumner
+ 512 Canterbury                 2010 Hoagland   41 Neptune                   913 Sumner
+ 520 Canterbury                 590 Hoagland    807 Neptune                  916 Sumner
+ 523 Canterbury                 950 Hoagland    312 New York                 404 Sun
+ 524 Canterbury                 668 Hudson      316 New York                 405 Sun
+ 600 Canterbury                 750 Hudson      320 New York                 1604 Sunny
+ 611 Canterbury                 1013 Hughey     324 New York                 1606 Sunny
+ 619 Canterbury                 1016 Hughey     326 New York                 1707 Sunny
+ 1102 Carson                    1022 Hughey     330 New York                 1808 Sunny
+ 1215 Carson                    1214 Hughey     309 Oak                      1811 Sunny
+ 1216 Carson                    715 Hughey      1111 Ocean                   2280 Sunny
+ 1221 Carson                    721 Hughey      909 Ocean                    1004 Thacker
+ 606 Central                    722 Hughey      2015 Old Vineland            1203 Thacker
+ 104 Cherry                     922 Hughey      1622 Orange                  1108 Van Lieu
+
+
+                                                          City of Kissimmee | 2040 Comprehensive Plan
+HE-30                                                                                 November 2018
+                                                                                HOUSING
+                                                             Data, Inventory, and Analysis
+
+
+
+
+ Address                     Address          Address         Address
+ 1602 Cherry                 1214 Ingram      308 Orange      112 Vernon
+ 22 Cherry                   1222 Ingram      16 Orlando      116 Vernon
+ 309 Cherry                  10 John Young    18 Orlando      19 Vernon
+ 310 Cherry                  18 John Young    216 Orlando     206 Vernon
+ 409 Cherry                  303 John Young   22 Orlando      207 Vernon
+ 413 Cherry                  401 John Young   1209 Palm       214 Vernon
+ 7 Cherry                    503 John Young   906 Palmetto    219 Vernon
+ 904 Cherry                  610 John Young   1010 Palmway    228 Vernon
+ 307 Church                  809 John Young   1019 Palmway    404 Vernon
+ 316 Church                  903 John Young   1023 Palmway    1020 Verona
+ 1607 Clay                   920 June         1424 Palmway    1022 Verona
+ 1615 Clay                   1113 King        1507 Palmway    108 Verona
+ 1633 Clay                   1419 King        1509 Palmway    1108 Verona
+ 1851 Clay                   903 King         1513 Palmway    1306 Verona
+ 1859 Clay                   915 King         1517 Palmway    1911 Verona
+ 103 Clyde                   921 King         1603 Palmway    503 Verona
+ 104 Clyde                   1324 Kory        1609 Palmway    514 Verona
+ 15 Clyde                    1113 Lake        1617 Palmway    616 Verona
+ 21 Clyde                    213 Lake         1707 Palmway    621 Verona
+ 22 Clyde                    303 Lake         716 Palmway     622 Verona
+ 220 Clyde                   407 Lake         813 Palmway     716 Verona
+ 227 Clyde                   412 Lake         820 Palmway     720 Verona
+ 24 Clyde                    625 Lakeshore    823 Palmway     721 Verona
+ 304 Clyde                   304 Latonia      911 Palmway     811 Verona
+ 307 Clyde                   1302 Lavon       105 Park        910 Verona
+ 308 Clyde                   1308 Lavon       109 Park        914 Verona
+ 314 Clyde                   204 Lilly        308 Park        917 Verona
+ 322 Clyde                   318 Lilly        1011 Patrick    920 Verona
+ 404 Clyde                   321 Lilly        1022 Patrick    108 Viola
+ 416 Clyde                   322 Lilly        1303 Patrick    515 Walnut
+ 505 Clyde                   701 Lincoln      1317 Patrick
+Source: City of Kissimmee, January 2018
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                     HE-31
+

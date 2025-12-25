@@ -1,0 +1,2431 @@
+1Q1
+TRANSPORTATION
+
+
+
+
+                 THIS PAGE INTENTIONALLY LEFT BLANK.
+Kissimmee
+2040 Comprehensive Plan
+Public Facilities
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+November 2018
+
+Cover photo source: City of Kissimmee Public Information Office
+TRANSPORTATION
+
+
+
+
+                 THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                                      PUBLIC FACILITIES
+
+
+
+
+Table of Contents
+Goals, Objectives, and Policies .............................................................................................................. 1
+          Chapter 4a: Potable Water Sub-Element ...................................................................................... 1
+          Goal 4.1: Protection of the Potable Water Supply......................................................................... 1
+                  Objective 4.1.1: Water Quality. ................................................................................................ 1
+                  Objective 4.1.2: Coordination of Potable Water Facilities and Adequate Supply. .................... 2
+                  Objective 4.1.3: Water Conservation. ...................................................................................... 3
+                  Objective 4.1.4: Coordination with Water Supplier. ................................................................. 4
+                  Objective 4.1.5: Regional Coordination of Water Resources. .................................................. 6
+                  Objective 4.1.6: Ten Year Water Supply Facilities Work Plan. ................................................ 7
+
+Chapter 4B: Wastewater Sub-Element ................................................................................................... 8
+          Goal 4.2 Wastewater Facilities. ...................................................................................................... 8
+                  Objective 4.2.1 Ensure Wastewater Capacity. ......................................................................... 8
+                  Objective 4.2.2: Maintaining a Schedule of Wastewater Capital Improvements. .................... 9
+                  Objective 4.2.3: On-Site Wastewater Treatment Systems. ................................................... 10
+          Chapter 4C: Aquifer Recharge Sub-Element ................................................................................ 11
+          Goal 4.3: Protect Functions of Groundwater Aquifer Recharge Areas. ....................................... 11
+                  Objective 4.3.1: Coordinate Efforts to Protect Aquifer Recharge Areas. ............................... 11
+                  Objective 4.3.2: Planning for the Protection of Aquifer Recharge Areas. ............................... 12
+          Chapter 4D: Stormwater Management Sub-Element .................................................................... 13
+          Goal 4.4: Stormwater Management Facilities. ............................................................................. 13
+                  Objective 4.4.1: Stormwater Capacity and Quality................................................................ 13
+                  Objective 4.4.2: Stormwater Management Improvements. ................................................... 14
+                  Objective 4.4.3: Protect Natural Drainage Features. ............................................................ 15
+          Chapter 4E: Solid Waste Sub-Element ......................................................................................... 17
+          Goal 4.5: Solid Waste Facilities. .................................................................................................. 17
+                  Objective 4.5.1: Ensure Capacity to Meet Projected Demand. ............................................. 17
+                  Objective 4.5.2.: Coordination Activities................................................................................ 18
+                  Objective 4.5.3: Financial Feasibility. ..................................................................................... 19
+
+Maps ........................................................................................................................................................ 21
+
+Data, Inventory, and Analysis ............................................................................................................... 25
+          Chapter 4A: Potable Water Sub-Element ..................................................................................... 25
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                           PFE-i
+PUBLIC FACILITIES
+
+
+
+
+               Introduction ........................................................................................................................... 25
+               Analysis of Future Potable Water Needs .............................................................................. 27
+               City of Kissimmee Water Supply Work Plan ......................................................................... 31
+               Water Conservation and Reuse Programs ........................................................................... 33
+               Alternative Water Supplies .................................................................................................... 34
+               Identified Capital Improvements ............................................................................................ 35
+               Summary ............................................................................................................................... 35
+         Chapter 4B: Sanitary Sewer Sub-Element .................................................................................... 36
+               Introduction ........................................................................................................................... 36
+               Analysis of Future Sanitary Sewer Demands and Capacity .................................................. 38
+               Summary ............................................................................................................................... 39
+         Chapter 4C: Aquifer Recharge Sub-Element ................................................................................ 39
+               Groundwater and Aquifers .................................................................................................... 40
+               Regulations ........................................................................................................................... 40
+               Groundwater Recharge ......................................................................................................... 41
+               Protection of Groundwater Resources .................................................................................. 41
+               Summary ............................................................................................................................... 42
+         Chapter 4D: Stormwater Management Sub-Element .................................................................... 42
+               Introduction ........................................................................................................................... 42
+               Stormwater Quality and Quantity .......................................................................................... 45
+               Level of Service Standards ................................................................................................... 47
+               Summary ............................................................................................................................... 48
+         Chapter 4E: Solid Waste Sub-Element ......................................................................................... 49
+               Introduction ........................................................................................................................... 49
+               Future Demand and Capacity Assessment ........................................................................... 50
+               Level of Service Standard ..................................................................................................... 50
+               Summary ............................................................................................................................... 50
+
+
+
+
+                                                                                           City of Kissimmee | 2040 Comprehensive Plan
+PFE-ii                                                                                                                 November 2018
+                                                                                                                        PUBLIC FACILITIES
+
+
+
+
+List of Tables
+Table 4-1: Permitted, Average, and Maximum Daily Flows ....................................................................28
+Table 4-2: Summary of Projected Water Demand (MGD) in the Regional Planning Area ...................... 30
+Table 4-3: Water Supply Projects ...........................................................................................................31
+Table 4-4: Potable Water Supply Standards ...........................................................................................32
+Table 4-5: Central Domestic Water Reclamation Facilities serving the City, 2009 ................................. 37
+Table 4-6: Wastewater Treatment Facility Capacity and Average Daily Flow ........................................ 37
+Table 4-7: Future Wastewater Treatment Facility Capacity and Average Daily Flow Demand for the South
+            Bermuda WWTF ..................................................................................................................39
+Table 4-8: Stormwater Quality Concerns, Impacts, and Causes ............................................................ 45
+Table 4-9: Projected Rates of Residential Solid Waste Production ........................................................ 50
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                          PFE-iii
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-iv                                                          October 2017
+                                                                                                                PUBLIC FACILITIES
+
+
+
+
+List of Figures
+Figure 4-1: 2040 Stormwater Master Plan Area......................................................................................23
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                 PFE-v
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+                                 THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                                         City of Kissimmee | Comprehensive Plan 2017
+HE-vi                                                                                   October 2017
+                                                                                          PUBLIC FACILITIES
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives, and implementing policies for the Public Facilities Element
+pursuant to §163.3177(6)(c), Florida Statutes.
+
+
+CHAPTER 4A: POTABLE WATER SUB-ELEMENT
+GOAL 4.1: PROTECTION OF THE POTABLE WATER SUPPLY.
+The City of Kissimmee shall work with Tohopekaliga Water Authority (TWA) and the South Florida Water
+Management District (SFWMD) to ensure the protection of the potable water supply and delivery of safe
+and adequate potable water service. The City will ensure the service is managed in a cost effective
+manner to accommodate existing and future development.
+
+       OBJECTIVE 4.1.1: WATER QUALITY.
+       The City shall coordinate with the Tohopekaliga Water Authority (TWA), the provider of the City’s
+       water supply and responsible party managing the city’s water supply, and shall cooperate with the
+       Environmental Protection Agency (EPA) and the Florida Department of Environmental Protection
+       (FDEP) in concert with the South Florida Water Management District to ensure all applicable water
+       quality standards are met.
+
+               POLICY 4.1.1.1: WELLHEAD PROTECTION AREA.
+               The City adopted wellhead protection regulations in the Land Development Code (LDC)
+               for existing and future major public wellheads. The City shall revise these regulations for
+               consistency, if the Tohopekaliga Water Authority (TWA) or the SFWMD establish their own
+               standards.
+
+               POLICY 4.1.1.2: INDUSTRIAL AND INTENSIVE COMMERCIAL USES WITHIN WELLHEAD
+               PROTECTION AREA (WPA).
+               The City shall prohibit the Industrial Future Land Use Map designations and intensive
+               commercial uses, as well as hazardous waste storage sites, solid waste disposal sites,
+               and single-lined petroleum storage tanks, within the wellhead protection area.
+
+               POLICY 4.1.1.3: POTABLE WATER TREATMENT PLANTS.
+               The City shall assist FDEP in the review of potable water treatment plants. No new
+               potable water treatment plants shall be allowed unless all applicable sections of the
+               Florida Administrative Code (F.A.C.) governing such plants are met. Connections to existing
+               potable water treatment plants not in compliance with applicable F.A.C. regulations shall
+               also not be allowed. Such systems shall also comply with the pertinent rules and regulations
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           PFE-1
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 of any water supplier that may have jurisdiction. Land use impacts arising from the
+                 permitting of new potable water treatment plants, as well as expansions of existing
+                 plants, shall be consistent with the applicable provisions of this Plan prior to issuance
+                 of a development permit.
+
+        OBJECTIVE 4.1.2: COORDINATION OF POTABLE WATER FACILITIES AND ADEQUATE
+        SUPPLY.
+        The City shall coordinate with the Tohopekaliga Water Authority (TWA), the sole supplier of
+        central water systems within the City’s jurisdictional boundaries, to ensure that the adopted
+        potable water level of service standards will be met.
+
+                 POLICY 4.1.2.1: LEVEL OF SERVICE (LOS) STANDARDS.
+                 The areas of the City served by central potable water facilities shall meet the levels of
+                 service standards for potable water supply as specified in Chapter 8: Capital Improvement
+                 Element Policy 8.1.4.1.
+
+                 POLICY 4.1.2.2: WATER SUPPLY CONCURRENCY.
+                 Prior to the issuance of a development permit, the City shall consult with the Tohopekaliga
+                 Water Authority (TWA) to determine whether adequate water supplies to serve the
+                 proposed development or redevelopment project will be available no later than the
+                 issuance of a certificate of occupancy, or its functional equivalent.
+
+                 POLICY 4.1.2.3: CENTRAL WATER SYSTEMS WITHIN THE CITY LIMITS.
+                 The City shall require new development within the City limits to connect to central potable
+                 water systems. Existing development within the City that is not connected to a central
+                 potable water system must do so within one year of service becoming available. The City
+                 shall define availability as the physical presence of potable water facilities and
+                 infrastructure adjacent to subject property.
+
+                 POLICY 4.1.2.4: EXISTING CUSTOMERS OF PRIVATE WATER SYSTEMS.
+                 Existing customers of private water systems shall be connected to public central systems
+                 if the existing system falls into non-compliance with FDEP regulations, and/or the existing
+                 system is required to connect by consent order.
+
+                 POLICY 4.1.2.5: NEW POTABLE WATER TREATMENT PLANTS.
+                 New potable water treatment plants, as well as expansions of existing plants, shall be
+                 consistent with the Future Land Use Element (FLUE).
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-2                                                                                        November 2018
+                                                                                         PUBLIC FACILITIES
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+               POLICY 4.1.2.6: CENTRAL POTABLE WATER SYSTEMS.
+               Consistent with the FLUE, the extension of central potable water systems shall be
+               prohibited, unless the City determines that this service is needed for one of the following
+               reasons:
+
+                   1. A public health hazard exists for existing development, and extension will not
+                      serve as the basis for new development; or
+
+                   2. When the facilities are extended to protect environmentally sensitive areas from
+                      impacts resulting from existing development.
+
+               POLICY 4.1.2.7: NON-POTABLE WATER USES.
+               The City will continue to coordinate with and support utility providers and governmental
+               entities in requiring all new development to connect non-potable water uses, such as for
+               irrigation, to available non-potable water systems, such as reuse systems.
+
+               POLICY 4.1.2.8: DUAL TRANSMISSION AND DISTRIBUTION LINES.
+               The City shall continue to coordinate with and support the Tohopekaliga Water Authority
+               (TWA) in requiring new developments to install dual transmission and distribution lines to
+               serve those developments where non-potable water is available or expected to be
+               available.
+
+               POLICY 4.1.2.9: STORMWATER AS NON-POTABLE WATER SOURCE.
+               The City will continue to investigate the feasibility of stormwater as a non-potable water
+               source when new stormwater management systems are permitted, and the City will
+               coordinate with the utility providers and governmental entities in implementing feasible
+               projects.
+
+               POLICY 4.1.2.10: ALTERNATIVE WATER SUPPLIES.
+               The City will coordinate with and support utility providers and the South Florida Water
+               Management District in developing alternative water supplies, by providing incentives,
+               and permitting assistance.
+
+       OBJECTIVE 4.1.3: WATER CONSERVATION.
+       The City shall annually review its Comprehensive Plan policies and Land Development Code
+       regulations to address the conservation of water supplies and aim to reduce water demands by 5
+       percent proportionately in relation to growth by the year 2025.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          PFE-3
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 4.1.3.1: WATER SUPPLY CONSERVATION TECHNIQUES AND PROGRAMS.
+                 Water supplies within the City’s jurisdictional limits shall be conserved through the
+                 implementation of water conservation techniques and programs. Such techniques and
+                 programs should include, but are not limited to the following:
+
+                 1. The City shall require the installation of water conserving plumbing fixtures in new or
+                    renovated construction.
+
+                 2. The City shall continue to promote the efficient use of potable water and non- potable
+                    water in irrigation and landscaping practices through regulations in the Land
+                    Development Code.
+
+                 3. The City will coordinate with the Osceola County Soil and Water Conservation District,
+                      the County Extension Office and the South Florida Water Management District to
+                      educate the public on the importance of water conservation and strategies for
+                      conserving water.
+
+                 4. The City shall coordinate with the Tohopekaliga Water Authority (TWA) to promote the
+                    use of water conserving techniques, including through the use of a progressive rate
+                    structure.
+
+                 5. The City shall cooperate with emergency water conservation measures of the South
+                    Florida Water Management District, and the Tohopekaliga Water Authority.
+
+                 6. The City shall use Florida Water Star program criteria for the construction of new single-
+                    family residences.
+
+                 7. Through the land development code, the City shall continue to place restrictions on
+                    irrigation during periods of time of critical concern that are consistent with 40E-24 of the
+                    Florida Administrate Code.
+
+        OBJECTIVE 4.1.4: COORDINATION WITH WATER SUPPLIER.
+        The City shall coordinate with the Tohopekaliga Water Authority (TWA) and South Florida Water
+        Management District (SFWMD) to conserve and manage potable water resources, and maximize
+        the use of existing facilities throughout its jurisdiction. The City shall meet this objective in order to
+        discourage urban sprawl.
+
+                 POLICY 4.1.4.1: WATER SUPPLIERS; AUTHORITY OF FDEP.
+                 The planning of potable water facilities within the City shall be pursuant to the ordinances
+                 and rules of the City, created pursuant to Section 125.01 and Chapter 153, F.S., and as
+
+
+                                                                    City of Kissimmee | 2040 Comprehensive Plan
+PFE-4                                                                                           November 2018
+                                                                                          PUBLIC FACILITIES
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+               they may be, from time to time, amended, supplemented or otherwise modified. The City
+               shall coordinate such efforts with the Tohopekaliga Water Authority (TWA). Neither
+               revisions to the enabling legislation of the TWA, nor mechanisms implemented by the City,
+               shall conflict with the exclusive authority of the FDEP and the South Florida Water
+               Management District (SFWMD) to regulate the consumptive use of water as provided under
+               Chapter 373, F.S.
+
+               POLICY 4.1.4.2: WATER SUPPLIER MASTER PLAN.
+               The City, in concert with Osceola County, shall coordinate with the SFWMD in the
+               maintenance of the Regional Water Supply Plan 2015 and shall support the following:
+
+               1. Identify the sustainable quantities of traditional groundwater sources available for water
+                   supplies that can be used without causing harm to the water resources and associated
+                   natural systems.
+
+               2. Identify water conservation and alternative water supply development options to meet
+                  reasonable-beneficial water demands that are in excess of the sustainable yield of
+                  traditional groundwater sources.
+
+               3. Protect and enhance the environment, including the natural resource areas and systems
+                  identified by the Districts as well as any federal, state, and locally identified natural
+                  resource areas.
+
+               4. Provide information to support local government comprehensive plans.
+
+               5. Achieve compatibility and integration with other state and federal regional resource
+                  initiatives.
+
+               6. Establish consistent regulatory programs to accomplish the above.
+
+               POLICY 4.1.4.3: WATER SYSTEM FACILITY CONSTRUCTION.
+               The construction of water system facilities and associated infrastructure within the City,
+               except for facilities which serve only the agricultural needs of the property on which the
+               system is located, shall be regulated by the City.
+
+               POLICY 4.1.4.4: POTABLE WATER FACILITY EVALUATION CRITERIA.
+               The City shall examine the capital improvement projects proposed by the Tohopekaliga
+               Water Authority (TWA) in their Capital Budget, and shall provide input regarding project
+               ranking, based on the following priority level guidelines:
+
+               1. "Level 1": Whether the project is needed to:
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           PFE-5
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                      a. Protect public health, safety, and environmentally sensitive natural resources.
+
+                      b. Fulfill the City's legal commitment to provide facilities and services.
+
+                      c. Preserve or achieve full use of existing facilities.
+
+                      2. "Level 2": Whether the project accomplishes the following:
+
+                      a. Increases efficiency of existing facilities.
+
+                      b. Prevents or reduces future improvement costs.
+
+                      c. Provides service to developed areas lacking full services or promotes in-fill
+                         development.
+
+                      3. "Level 3": Whether the project:
+
+                      a. Represents a logical extension of facilities and services in a manner consistent with
+                         Future Land Use Element goals, objectives and policies, including the Future
+                         Land Use Map.
+
+                 POLICY 4.1.4.5: WATER MANAGEMENT DISTRICT PERMITS REQUIRED.
+                 Construction of any water system facility, including any extraction mechanisms shall require
+                 the issuance of all required permits including any required consumptive use permit (CUP)
+                 from the South Florida Water Management District pursuant to Chapter 373, F.S. The
+                 City’s approval shall be conditioned upon issuance of such permits prior to the
+                 commencement of construction.
+
+        OBJECTIVE 4.1.5: REGIONAL COORDINATION OF WATER RESOURCES.
+        The City shall be proactive in regional water resources planning efforts, through enhanced
+        coordination with adjacent jurisdictions, the Tohopekaliga Water Authority (TWA), the South
+        Florida Water Management District, and all water supply coordinating entities.
+
+                 POLICY 4.1.5.1: DIMINUTION OR DEPLETION OF ESSENTIAL WATER SOURCES.
+                 Consistent with applicable State law and rules, any land use posing a threat to the City’s
+                 long-term natural resource base through the diminution, contamination, or depletion of
+                 essential water resources shall not be permitted. “Diminution” and “depletion” shall not
+                 include the diminution or depletion of water resources due to the consumptive use of
+                 water.
+
+
+
+
+                                                                        City of Kissimmee | 2040 Comprehensive Plan
+PFE-6                                                                                               November 2018
+                                                                                         PUBLIC FACILITIES
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+               POLICY 4.1.5.2: POTABLE WATER DEMAND MAY NOT EXCEED CONSUMPTIVE USE PERMIT
+               (CUP).
+               The City, through direct coordination with the Tohopekaliga Water Authority (TWA), as
+               well as the FDEP, and the South Florida Water Management District, shall ensure potable
+               water demands caused by development do not exceed the consumptive use permits (CUP)
+               held by TWA.
+
+               POLICY 4.1.5.3: ALTERNATIVE WATER SOURCES.
+               The City shall, with the Tohopekaliga Water Authority (TWA), coordinate with the South
+               Florida Water Management District to find alternative sources of potable water.
+
+               POLICY 4.1.5.4: LEVEL OF SERVICE (LOS) STANDARDS MAINTAINED.
+               In order to adequately serve the existing and future population, the City shall proactively
+               work with the Tohopekaliga Water Authority (TWA) and the South Florida Water
+               Management District to ensure adopted level of standards are met and any identified
+               facility deficiencies are corrected.
+
+       OBJECTIVE 4.1.6: TEN YEAR WATER SUPPLY FACILITIES WORK PLAN.
+       The City shall maintain a Water Supply Facilities Work Plan (Work Plan) for water supply projects
+       within 18 months of the regional water supply Master Plan update.
+
+               POLICY 4.1.6.1: WORK PLAN INCORPORATED INTO COMPREHENSIVE PLAN.
+               The Work Plan, included in the Capital Improvement Plan of the Capital Improvement
+               Element, shall provide projects identified by the City, and through coordination with the
+               Tohopekaliga Water Authority (TWA) and the South Florida Water Management District,
+               that are required to provide adequate potable water supplies to meet existing and future
+               demand. These tables will be updated annually to reflect the adopted capital
+               improvements programs of the TWA.
+
+               POLICY 4.1.6.2: AGENCY COOPERATION TO MAINTAIN WORK PLAN.
+               Maintaining and amending the Work Plan shall be a cooperative effort between the City, the
+               Tohopekaliga Water Authority (TWA), and the South Florida Water Management District.
+
+               POLICY 4.1.6.3: CONSISTENCY WITH REGIONAL PLANS.
+               The Work Plan shall be consistent with the most current Regional Water Supply Plan of the
+               South Florida Water Management District.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          PFE-7
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 4.1.6.4: COORDINATION OF FUTURE UPDATES TO WORK PLAN.
+                 The updates to the Work Plan shall be consistent with the most current water supply plans
+                 of the Tohopekaliga Water Authority (TWA).
+
+                 POLICY 4.1.6.5: UPDATES BASED ON LEVEL OF SERVICE STANDARDS.
+                 The updates to the Work Plan shall evaluate resources based upon the potable water
+                 levels of service (LOS) standards established in the Capital Improvements Element.
+
+                 POLICY 4.1.6.6: UPDATES TO ADDRESS WATER SUPPLY, CONSERVATION AND REUSE.
+                 The updates to the Work Plan shall identify feasible traditional and alternative water
+                 supply sources, including water conservation and reuse that are being utilized to meet
+                 existing and projected water demands.
+
+                 POLICY 4.1.6.7: WORK PLAN IS BASIS FOR PRIORITIZATION OF FUTURE SYSTEM
+                 IMPROVEMENTS.
+                 The Work Plan shall be used to prioritize and coordinate the expansion and improvement
+                 of facilities used to withdraw, transmit, treat, store, and distribute potable water to meet
+                 current and future needs within the City.
+
+
+CHAPTER 4B: WASTEWATER SUB-ELEMENT
+
+GOAL 4.2 WASTEWATER FACILITIES.
+Ensure an effective system of wastewater facilities to promote the health, safety, and welfare of City
+residents and the natural environment in a manner that protects investments in existing facilities, promotes
+orderly, compact growth, and meets existing and projected demand.
+
+        OBJECTIVE 4.2.1 ENSURE WASTEWATER CAPACITY.
+        The City of Kissimmee shall adopt procedures to require that at the time a development permit is
+        issued, adequate facility capacity is available or will be available when needed to serve the
+        development.
+
+                 POLICY 4.2.1.1 LEVEL OF SERVICE STANDARDS.
+                 The level of service standards as established in Chapter 8: Capital Improvement Element
+                 Policy 8.1.4.1 for wastewater facilities within the City shall be used as the basis for
+                 determining availability of facility capacity and demand generated by a development:
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-8                                                                                        November 2018
+                                                                                             PUBLIC FACILITIES
+                                                                                    Goals, Objectives, and Policies
+
+
+
+
+               POLICY 4.2.1.2: COMPLIANCE WITH LEVEL OF SERVICE STANDARDS.
+               The City shall coordinate with the Tohopekaliga Water Authority (TWA) regarding
+               improvements for replacement, expansion or increase in capacity of facilities so that
+               demand is compatible with the adopted level of service standards for the facilities.
+               Issuance of development orders and permits shall be conditioned upon the submission of
+               plans that are in compliance with the City's level of service standards. Prior to issuance of
+               development orders or permits the project shall provide the City copies of all applicable
+               Federal, State, and local permits for wastewater facilities.
+
+               POLICY 4.2.1.3: COORDINATION OF INFORMATION.
+               The City of Kissimmee shall coordinate with the Tohopekaliga Water Authority (TWA) to
+               develop procedures for updating facility demand and capacity information and the
+               preparation of an annual summary of capacity and demand
+
+               POLICY 4.2.1.4: COORDINATE LAND USE IMPACTING WASTEWATER SYSTEMS.
+               Realizing the substantial impacts of the location and timing of development as well as the
+               density or intensity of specific land use activities on urban service delivery systems, the
+               City of Kissimmee shall coordinate land uses with the County and the Tohopekaliga Water
+               Authority (TWA) in order to effectively monitor water consumption for wastewater uses
+               pursuant to the terms of the water and wastewater Interlocal Agreement established
+               between Osceola County, the City of Kissimmee, Orange County, and TWA in November
+               2004.
+
+               POLICY 4.2.1.5: WASTEWATER SERVICE AREAS.
+               Provision of centralized wastewater service shall be provided to the urban service area
+               within the City's jurisdictional area as provided by the Tohopekaliga Water Authority
+               (TWA).
+
+               POLICY 4.2.1.6: EXPANSION OF WASTEWATER TREATMENT FACILITIES.
+               The City of Kissimmee shall coordinate with the Tohopekaliga Water Authority (TWA)
+               regarding expansion of the capacity of its wastewater treatment facilities.
+
+               POLICY 4.2.1.7: MANDATORY CONNECTION.
+               All new development within the City's limits will be required to connect to central wastewater
+               facilities.
+
+       OBJECTIVE 4.2.2: MAINTAINING A SCHEDULE OF WASTEWATER CAPITAL IMPROVEMENTS.
+       The City shall coordinate with the Tohopekaliga Water Authority (TWA) to maintain a five-year
+       schedule of capital improvements for public facilities, specifically wastewater facilities.
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                              PFE-9
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 4.2.2.1: CAPITAL IMPROVEMENT SCHEDULE.
+                 The City Commission shall coordinate with the Tohopekaliga Water Authority (TWA) to
+                 include an annual evaluation of capital improvement projects proposed for inclusion in
+                 the five-year schedule of capital improvements.
+
+                 POLICY 4.2.2.2: WASTEWATER FACILITY EVALUATION CRITERIA.
+                 The City shall examine the capital improvement projects proposed by the Tohopekaliga
+                 Water Authority (TWA), and shall provide input regarding project ranking, based on the
+                 following priority level guidelines:
+
+                 1. "Level 1": Whether the project is needed to:
+
+                      a. Protect public health, safety, and environmentally sensitive natural resources.
+
+                      b. Fulfill the City's legal commitment to provide facilities and services.
+
+                      c. Preserve or achieve full use of existing facilities.
+
+                      2. "Level 2": Whether the project accomplishes the following:
+
+                      a. Increases efficiency of existing facilities.
+
+                      b. Prevents or reduces future improvement costs.
+
+                      c. Provides service to developed areas lacking full services or promotes in-fill
+                         development.
+
+                      3. "Level 3": Whether the project:
+
+                      a. Represents a logical extension of facilities and services in a manner consistent with
+                         Future Land Use Element goals, objectives and policies, including the Future
+                         Land Use Map.
+
+         OBJECTIVE 4.2.3: ON-SITE WASTEWATER TREATMENT SYSTEMS.
+         Where central wastewater system facilities are not available, the City shall permit a private
+         wastewater disposal system pursuant to conditions stipulated in §10-5-54, Code of Ordinances, as
+         hereafter may be amended. The City shall coordinate with the County Health Department and the
+         Florida Department of Health programs to assist in implementation of State regulations imposing
+         mandated standards for inspections, operation, and maintenance of on-site wastewater treatment
+         systems.
+
+
+
+
+                                                                        City of Kissimmee | 2040 Comprehensive Plan
+PFE-10                                                                                              November 2018
+                                                                                        PUBLIC FACILITIES
+                                                                               Goals, Objectives, and Policies
+
+
+
+
+               POLICY 4.2.3.1: USE OF ON-SITE WASTEWATER TREATMENT SYSTEMS.
+               Private, on-site treatment and disposal systems shall, at a minimum, meet the requirements
+               set forth by the Department of Health in Chapter 64E-6, Florida Administrative Code, as
+               amended. When central wastewater becomes available, connection is required by
+               ordinance.
+
+               POLICY 4.2.3.2: CONDITIONS GOVERNING DEVELOPMENT ORDERS OR PERMITS.
+               Issuance of development orders or permits shall be conditional upon demonstrated
+               compliance with applicable Federal, State, and local regulations governing on-site
+               wastewater treatment systems.
+
+CHAPTER 4C: AQUIFER RECHARGE SUB-ELEMENT
+GOAL 4.3: PROTECT FUNCTIONS OF GROUNDWATER AQUIFER RECHARGE AREAS.
+The functions of natural groundwater aquifer recharge areas and natural drainage features within the
+City, including their water quality and water quantity, shall be protected and maintained.
+
+       OBJECTIVE 4.3.1: COORDINATE EFFORTS TO PROTECT AQUIFER RECHARGE AREAS.
+       The City shall cooperate and coordinate with Osceola County, the Tohopekaliga Water Authority
+       (TWA), the City of St. Cloud, the Reedy Creek Improvement District, and the South Florida Water
+       Management District, to ensure proper maintenance of aquifer recharge area functions and to
+       determine whether new protection programs or additional coordination is needed to achieve
+       aquifer protection objectives.
+
+               POLICY 4.3.1.1: PROTECT SURFICIAL AQUIFER RECHARGE AREAS AND GROUNDWATER
+               QUALITY.
+               The City currently has no “prime” surficial aquifer recharge areas identified by the South
+               Florida Water Management District. The City shall assist in protecting groundwater from
+               point and non-point pollution sources. Similarly, the City shall promote the conservation
+               and efficient use of water as it travels through groundwater systems, and shall promote
+               maintenance of adequate supplies of high quality groundwater.
+
+               POLICY 4.3.1.2: COORDINATE GROUNDWATER MONITORING.
+               The City shall assist the State and South Florida Water Management District in managing
+               water quality by assisting in preventing the discharge of inadequately treated wastewater
+               and poor quality stormwater into public water bodies and aquifer recharge areas, and shall
+               provide best available data to the South Florida Water Management District, and the
+               Florida Department of Environmental Protection, to ensure that groundwater resources
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        PFE-11
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 are monitored for point and nonpoint source pollution affecting the Floridan, and Surficial
+                 aquifers.
+
+                 POLICY 4.3.1.3: DEEP AQUIFER WATER CONSERVATION.
+                 In order to protect the quality and quantity of deep aquifer water resources, the City shall
+                 coordinate with the Tohopekaliga Water Authority (TWA), and the South Florida Water
+                 Management District and other applicable regulatory agencies in identifying free flowing
+                 artesian aquifer wells and in requiring corrective measures, including capping, plugging,
+                 or installing regulatory devices that control the discharge of water from the deep aquifer.
+
+                 POLICY 4.3.1.4: RETAIN STORMWATER RUN-OFF TO MAXIMIZE AQUIFER RECHARGE.
+                 The City shall continue to enforce stormwater management regulations requiring retention
+                 of stormwater run-off to maximize groundwater recharge.
+
+                 POLICY 4.3.1.5: COORDINATE WITH OTHER RECHARGE PROTECTION PROGRAMS.
+                 The City will coordinate with local, state, and federal agencies to achieve regional
+                 aquifer recharge protection objectives, especially protection of prime recharge areas
+                 located in northwest Osceola County.
+
+                 POLICY 4.3.1.6: FDEP GROUNDWATER CONTAMINATION LIST.
+                 The City shall coordinate with Osceola County and the Tohopekaliga Water Authority
+                 (TWA) to monitor the Florida Department of Environmental Protection (FDEP) Site
+                 Investigation Section list for groundwater contamination possibilities, and will work
+                 cooperatively with FDEP to resolve any conditions impacting groundwater supplies
+                 regarding potential sites.
+
+         OBJECTIVE 4.3.2: PLANNING FOR THE PROTECTION OF AQUIFER RECHARGE AREAS.
+         To meet current and future demands for potable water resources and to protect natural resources,
+         the City shall cooperate with other governmental agencies, especially the South Florida Water
+         Management District (SFWMD), to ensure existing and projected development do not adversely
+         affect groundwater resources.
+
+                 POLICY 4.3.2.1: AQUIFER RECHARGE PROTECTION MEASURES.
+                 Recognizing that aquifer recharge areas, groundwater resources, wellhead protection
+                 areas, and that lakes, rivers, creeks, and wetlands within the City are interconnected
+                 systems vital to the protection of water resources, aquifer recharge protection measures
+                 for “high” recharge areas, if identified, shall be consistent with the Conservation and
+                 Future Land Use Elements, as well as this element of the Comprehensive Plan.
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-12                                                                                       November 2018
+                                                                                            PUBLIC FACILITIES
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+               POLICY 4.3.2.2: AQUIFER RECHARGE PROTECTION MECHANISMS.
+               The City may use open space designations, land acquisition strategies, planned
+               development zoning districts, conservation easements, or cooperative management
+               agreements to protect identified aquifer recharge areas.
+
+               POLICY 4.3.2.3: HAZARDOUS WASTE STORAGE FACILITIES.
+               The City shall regulate the location of hazardous waste storage facilities, petroleum
+               storage tanks, or any other adverse land use within “high” aquifer recharge areas, if
+               identified, through the Land Development Code.
+
+CHAPTER 4D: STORMWATER MANAGEMENT SUB-ELEMENT
+GOAL 4.4: STORMWATER MANAGEMENT FACILITIES.
+Ensure the provision of a system of stormwater management facilities in a manner that protects persons
+and property from flooding, prevents negative impacts to the surficial groundwater aquifer, and safeguards
+surface waters against the degradation of water quality, to promote the health, safety, and welfare of City
+residents and the natural environment.
+
+       OBJECTIVE 4.4.1: STORMWATER CAPACITY AND QUALITY.
+       The City of Kissimmee shall maintain regulations for the adequate provision of stormwater facilities
+       needed to serve existing and proposed development.
+
+               POLICY 4.4.1.1: LEVEL OF SERVICE STANDARDS.
+               The level of service standards established in Capital Improvements Element Policy 8.1.4.1
+               shall be used as the basis for determining the availability of facility capacity and the demand
+               generated by a development prior to the issuance of a development permit.
+
+               POLICY 4.4.1.2: STORMWATER QUALITY.
+               All stormwater discharge within the City shall meet all State water quality standards,
+               including those contained in Chapter 62-25, Florida Administrative Code, as well as any
+               Total Maximum Daily Load thresholds that may be established for Lake Tohopekaliga,
+               Shingle Creek, Mill Slough, or other surface waterbodies located within the City.
+
+               POLICY 4.4.1.3: ANNUAL REPORT OF FACILITY PERFORMANCE.
+               The City of Kissimmee shall compile data regarding existing stormwater facilities and/or
+               management areas in the City, annually, and shall provide this data to Osceola County
+               for coordination activities.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                            PFE-13
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+         OBJECTIVE 4.4.2: STORMWATER MANAGEMENT IMPROVEMENTS.
+         The City shall identify and implement stormwater management projects and programs necessary
+         to meet existing needs and projected demands.
+
+                 POLICY 4.4.2.1: CAPITAL IMPROVEMENT SCHEDULE.
+                 The City Commission shall annually evaluate and rank capital improvement projects
+                 proposed for inclusion in the five-year schedule of capital improvement needs.
+
+                 POLICY 4.4.2.2: STORMWATER FACILITY EVALUATION CRITERIA.
+                 Proposed capital improvement projects shall be evaluated and ranked according to the
+                 following priority level guidelines:
+
+                 1. "Level 1": Whether the project is needed to:
+
+                      a. Protect public health, safety, and environmentally sensitive natural resources.
+
+                      b. Fulfill the City's legal commitment to provide facilities and services.
+
+                      c. Preserve or achieve full use of existing facilities.
+
+                      2. "Level 2": Whether the project accomplishes the following:
+
+                      a. Increases efficiency of existing facilities.
+
+                      b. Prevents or reduces future improvement costs.
+
+                      c. Provides service to developed areas lacking full services or promotes in-fill
+                         development.
+
+                      3. "Level 3": Whether the project:
+
+                      a. Represents a logical extension of facilities and services in a manner consistent with
+                         Future Land Use Element goals, objectives and policies, including the Future Land
+                         Use Map.
+
+                 POLICY 4.4.2.3: CENTRALIZED STORMWATER MASTER PLANS.
+                 The City shall encourage the creation, implementation, and maintenance of central
+                 stormwater facility master plans in order to encourage development and redevelopment
+                 activities within designated areas. These areas shall include, at a minimum, the
+                 Community Redevelopment Area (CRA) District, and the Vine Street Corridor.
+
+
+
+
+                                                                        City of Kissimmee | 2040 Comprehensive Plan
+PFE-14                                                                                              November 2018
+                                                                                          PUBLIC FACILITIES
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+               POLICY 4.4.2.4: STORMWATER UTILITY FUND.
+               The City shall fund projects to mitigate identified deficiencies through the Stormwater
+               Utility, while impacts associated with new development or redevelopment projects must be
+               mitigated by the developer in accordance with adopted level of service standards and/or
+               central master plans. Eligible projects shall include the production of centralized
+               stormwater master plans.
+
+               POLICY 4.4.2.5: ADDITIONS OF STORMWATER MANAGEMENT FACILITY PROJECT APPROVALS.
+               All required federal, State, and County permits shall be obtained before the City undertakes
+               or authorizes contractors to undertake construction and/or operation of facilities.
+
+       OBJECTIVE 4.4.3: PROTECT NATURAL DRAINAGE FEATURES.
+       The City shall manage and coordinate its stormwater review and implementation process to meet
+       existing and future needs, while protecting the quality and functions of natural drainage features
+       and surface waterbodies.
+
+               POLICY 4.4.3.1: NATURAL STORAGE CAPACITY OF WATERSHEDS.
+               The City shall:
+
+                  Promote the ecological, biological, and hydrological role of surface waters in aquifer
+                   recharge and in supporting surface vegetation.
+
+                  Manage the location, design and intensity of urban development in order to foster
+                   continuance of natural hydrological processes, including preserving recharge areas,
+                   promoting on-site retention of surface waters and natural return of surface water into
+                   the soil.
+
+                  Require the integration of natural storage areas and natural drainage courses into
+                   water management plans for new development.
+
+                  Require that applicants for new development consider use of isolated wetlands for
+                   flood attenuation as may be appropriate in the design of drainage and surface water
+                   management plans.
+
+                   POLICY 4.4.3.2: MAINTAIN REGULATIONS FOR LAND AND WATER MANAGEMENT.
+                   The City of Kissimmee shall promote both land and water management programs
+                   and practices which retard runoff and enhance percolation in order to increase the
+                   quantity and protect the quality of ground and surface water. Land use controls, such
+                   as subdivision regulations, zoning, including site plan review and performance criteria,
+                   and special erosion control, landscape and flood management requirements shall
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          PFE-15
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                      be maintained in the Land Development Code and periodically updated based on
+                      improved knowledge of problems, issues, and best management practices and low
+                      impact development techniques.
+
+                 POLICY 4.4.3.3: PURSUE THE DEVELOPMENT OF ADEQUATE OFF-SITE SURFACE WATER
+                 MANAGEMENT FACILITIES.
+                 The City shall manage stormwater based on watershed management plans. Implementing
+                 strategies shall provide a basis for evaluating the performance of existing off-site drainage
+                 facilities, identifying existing and potential future problems or issues, and funding
+                 necessary structural and non-structural system improvements for effective surface water
+                 management.
+
+                 POLICY 4.4.3.4: COORDINATE WATERSHED MANAGEMENT PLANS AND POLICIES WITH
+                 APPROPRIATE PUBLIC AGENCIES.
+                 The City shall assure coordination of watershed management plans and policies with
+                 appropriate local, regional, state and federal agencies, including Osceola County, the
+                 South Florida Water Management District, the East Central Florida Regional Planning
+                 Council, the Florida Department of Environmental Protection, the Agricultural Extension
+                 Service, the United States Army Corps of Engineers, and other appropriate agencies.
+
+                 POLICY 4.4.3.5: BUFFER ZONE REQUIREMENTS.
+                 The City shall continue to include buffer zone requirements for wetland areas in the Land
+                 Development Code, and be consistent with the Conservation Element of this
+                 Comprehensive Plan. Wetland buffer distances shall be at least 50 feet. There shall be no
+                 development within the Floodway as established by FEMA, except for minor improvements
+                 such as boat docks, where certification and supporting technical documents provided by
+                 a registered professional engineer demonstrate that the encroachment shall not result in
+                 any increase in flood levels during occurrence of the base flood discharge.
+
+                 POLICY 4.4.3.6: MANAGING LAND USE IN THE FLOODPLAIN.
+                 The City shall continue to retain stormwater management and floodplain regulations that
+                 shall address necessary restrictions on encroachment, alteration, and compatible use of the
+                 100-year floodplain and major drainage corridors, including Shingle Creek, and Mill
+                 Slough.
+
+                 POLICY 4.4.3.7: PROMOTION OF LOW-IMPACT DEVELOPMENT TECHNIQUES.
+                 The City shall encourage the use of low-impact development techniques for all land
+                 development and redevelopment projects. Low-impact development involves structural
+                 and non-structural techniques designed to mimic natural stormwater flows and improve
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+PFE-16                                                                                        November 2018
+                                                                                           PUBLIC FACILITIES
+                                                                                  Goals, Objectives, and Policies
+
+
+
+
+               stormwater runoff quality. Techniques may include green roofs, rain gardens, constructed
+               wetlands, infiltration swales, and open space conservation.
+
+               POLICY 4.4.3.8: INSPECTION AND MAINTENANCE OF DRAINAGE SYSTEMS.
+               As part of the master stormwater drainage implementation program, the City shall ensure
+               that major drainage systems receive periodic inspections, including appropriate
+               maintenance activities at least once a year.
+
+               POLICY 4.4.3.9: NATIONAL POLLUTION DISCHARGE ELIMINATION SYSTEM (NPDES).
+               The City of Kissimmee shall maintain its stormwater control measures in accordance with
+               regulations and requirements associated with the National Pollution Discharge Elimination
+               System (NPDES) permit, and shall renew the permit as required by federal regulations.
+
+               POLICY 4.4.3.10: PUBLIC EDUCATION.
+               The City shall provide information, as feasible, to educate the public in the importance of
+               minimizing pollution to the City’s stormwater management systems. The programs may
+               include: newsletters, website updates, community meetings, charrettes, public hearings and
+               other public information, community visioning, commissions and standing advisory
+               committees, stormwater task forces or other special committees.
+
+CHAPTER 4E: SOLID WASTE SUB-ELEMENT
+GOAL 4.5: SOLID WASTE FACILITIES.
+Ensure availability of needed solid waste facilities in a manner that protects investments in existing
+facilities and promotes orderly, compact growth, and meets existing and projected demand.
+
+       OBJECTIVE 4.5.1: ENSURE CAPACITY TO MEET PROJECTED DEMAND.
+       The City of Kissimmee shall maintain procedures to require adequate facility capacity is available,
+       or will be available, when needed to meet projected demand. In the case of individual development
+       projects, capacity shall be available to serve the development, at the time a development
+       permit is issued.
+
+               POLICY 4.5.1.1: LEVEL OF SERVICE STANDARDS.
+               Solid water generation rates identified in Capital Improvements Element Policy 8.1.4.1 shall
+               serve as the City’s level of service standards for solid waste facilities. These figures shall
+               be used as the basis for determining the availability of solid waste facility capacity, and
+               they only include the portion of the waste stream that is not diverted for recycling
+               purposes.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           PFE-17
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 4.5.1.2: COMPLIANCE WITH LEVEL OF SERVICE STANDARDS.
+                 Issuance of development orders and permits within the City shall be conditioned upon the
+                 submission of plans which are in compliance with the City's level of service standards. The
+                 City shall continue to include an adequate facilities requirement as part of the Land
+                 Development Code.
+
+                 POLICY 4.5.1.3: STUDY LEVEL OF SERVICE STANDARD.
+                 The City shall coordinate with Osceola County to develop a level of service standard that
+                 reflects available capacity.
+
+                 POLICY 4.5.1.4: REDUCTION OF SOLID WASTE VOLUMES.
+                 The City shall work with Osceola County and other organizations to reduce the volume of
+                 solid waste through recycling activities, educational efforts and programs, and by assisting
+                 in the maintenance of drop-off collection sites in the County.
+
+                 POLICY 4.5.1.5: DEVELOPMENT OF NEW FACILITIES.
+                 The City shall assist Osceola County in planning for the timely provision of needed solid
+                 waste facilities in accordance with applicable regulations.
+
+         OBJECTIVE 4.5.2.: COORDINATION ACTIVITIES.
+         The City shall assure that deficiencies in solid waste facilities are avoided through coordination
+         with Osceola County's solid waste management program.
+
+                 POLICY 4.5.2.1: GENERAL INTERGOVERNMENTAL COORDINATION.
+                 The City shall cooperate with County officials and technicians on a Joint Committee or
+                 through other appropriate mediums in order to address county-wide or regional
+                 approaches for achieving access to resource recovery facilities or other alternatives to
+                 conventional landfill operations. Other specific issues which shall be addressed in
+                 coordination with Osceola County include:
+
+                     Enhancing solid waste collection and transfer operations;
+
+                     Management strategies for implementing recycling efforts;
+
+                     Curbing illegal dumping of solid waste as well as disposal activities which adversely
+                      impact natural systems;
+
+                     Developing improved information dissemination regarding hazardous waste generators;
+
+                     Determining feasibility of hazardous waste storage/transfer facilities;
+
+
+                                                                    City of Kissimmee | 2040 Comprehensive Plan
+PFE-18                                                                                          November 2018
+                                                                                          PUBLIC FACILITIES
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+                  Improving management of the collection and disposal of hazardous waste;
+
+                  Drafting policy for appropriate regulatory measures governing solid waste and
+                   hazardous waste including identification of long term operating costs and capital
+                   improvement needs associated with various policy options.
+
+               POLICY 4.5.2.2: INFORMATION COORDINATION.
+               The City of Kissimmee shall coordinate with the County, and with franchised waste
+               collection operators within the City regarding demand and capacity information, and shall
+               prepare annual summaries of capacity and demand information for solid waste collection
+               and disposal activities.
+
+               POLICY 4.5.2.3: COORDINATE WITH OSCEOLA COUNTY SOLID WASTE AND HAZARDOUS
+               WASTE PLANNING EFFORTS.
+               The City shall offer assistance to Osceola County as the County assesses and plans for
+               solid waste and hazardous waste management in a manner consistent with the provisions
+               of §403.7265, F.S.
+
+               POLICY 4.5.2.4: EDUCATIONAL OUTREACH.
+               The City shall coordinate with Osceola County in the distribution of educational materials
+               to the public concerning the proper storage, handling, collection, transport, and disposal of
+               waste oil, batteries and household chemical waste.
+
+       OBJECTIVE 4.5.3: FINANCIAL FEASIBILITY.
+       The City shall provide financial resources to support solid waste operations and will include these
+       expenditures in the Five-Year Schedule of Capital Improvements of the Capital Improvements
+       Element.
+
+               POLICY 4.5.3.1: CAPITAL IMPROVEMENTS.
+               Capital improvements for solid waste disposal shall be identified and prioritized on an
+               annual basis within the Capital Improvements Element.
+
+               POLICY 4.5.3.2: SOLID WASTE FACILITIES.
+               Construction and operation of solid waste facilities will be funded with revenue sources
+               that may include user fees, improvement fees, impact fees, franchise fees, bonds and
+               grant from state and federal programs, and other identified fees.
+
+               POLICY 4.5.3.3: RATE SCHEDULE.
+               The City shall maintain a solid waste rate schedule that will provide sufficient funds to
+               adequately serve both residents and businesses.
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          PFE-19
+PUBLIC FACILITIES
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 4.5.3.4: ANNUAL REVIEW OF RATE SCHEDULE.
+                 The City shall review the solid waste rate schedule annually, during the budget adoption
+                 process, and amend the rates as needed to fund solid waste operations.
+
+
+
+
+                                                               City of Kissimmee | 2040 Comprehensive Plan
+PFE-20                                                                                     November 2018
+                                                                                 PUBLIC FACILITIES
+                                                                                             Maps
+
+
+
+
+MAPS
+
+
+
+
+                                              2040 Stormwater Master Plan Area
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                        PFE-21
+                                      HOUSING
+                                         Maps
+
+
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                               PUBLIC FACILITIES
+                                                           Maps
+
+
+
+
+Figure 4-1: 2040 Stormwater Master Plan Area
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                      PFE-23
+                                      HOUSING
+                                         Maps
+
+
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                              PUBLIC FACILITIES
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+DATA, INVENTORY, AND ANALYSIS
+This section provides the data inventory and analysis used to support the goals, objectives, and policies
+for the Public Facilities Element pursuant to §163.3177(6)(c), Florida Statutes.
+
+CHAPTER 4A: POTABLE WATER SUB-ELEMENT
+The data within this sub-element is based on the City of Kissimmee Water Supply Facilities Work Plan
+dated January 2018, which is incorporated by reference.
+
+INTRODUCTION
+The provision of potable water facilities is integral to ensuring the public health, safety, and welfare of a
+community. All local governments, even those that are not utility providers, must ensure that an
+adequate potable water supply is available to support future populations. The City of Kissimmee is
+addressing the future need for water resources through the protection of natural resources within its
+jurisdiction. Additionally, the City is partnering with state agencies to pursue water supply planning in a
+regional manner.
+
+The City is not a provider of potable water service. The City was a provider until Osceola County and the
+City decided to find ways to develop an efficient and environmentally-sensitive approach to the
+comprehensive supply, distribution, and treatment of water. Therefore, the City, County, and area state
+representatives drafted a special bill creating Tohopekaliga Water Authority (TWA), which the Florida
+Legislature approved during the 2003 legislative session and was officially adopted on October 31, 2003.
+This consolidated governmental utility authority utilized existing resources to avoid duplication of effort,
+prevented the inefficient expansion of potable water facilities, and developed a cooperative regional
+approach to the provision of services. It should be noted that because the City is located completely
+within TWA’s service area and within Osceola County, some of the following information is not
+completely specific to the City, because TWA’s service area extends to the western border of the County.
+
+POTABLE WATER FACILITIES AND SYSTEMS
+A potable water supply system consists of a water source, treatment plants, and storage and distribution
+networks. Either surface or groundwater, or some combination of the two, constitute the supply source
+for a system. The selection of a source must consider the type and quality of source available, and the
+cost of developing the source for use. Before consumption, most water must be treated to remove
+impurities. After treatment, the water is supplied to individual users through a network of pipes and
+storage reservoirs. Large transmission lines, called distribution mains, carry water to major demand
+areas and interconnect with smaller lines, which eventually supply individual users. Water is delivered
+under pressure within the distribution system to ensure adequate flow meets customer demand. To
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                            PFE-25
+November 2018                                                                                            PFE-25
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+provide adequate quantities and pressure to meet peak use and fire flow demands, storage tanks are
+linked with the distribution system.
+
+REGULATORY REQUIREMENTS
+Two water management districts oversee Osceola County: the St. Johns River Water Management
+District (SJRWMD) and the South Florida Water Management District (SFWMD). The SJRWMD
+includes the eastern portion of the County along Brevard and Indian River Counties. The SFWMD
+encompasses the County’s high-growth areas including the City of Kissimmee. TWA and the City must
+coordinate with each of the water management districts when addressing water resources protection,
+identifying water sources for public use, and meeting future state mandates. It should be noted that the
+City is located totally within the SFWMD’s jurisdiction, and the below analysis only discusses that District.
+
+The Florida Department of Environmental Protection (FDEP) has primary responsibility for the State Safe
+Drinking Water Program under Chapter 62-555, Florida Administrative Code (F.A.C.), by regulating
+public drinking water (potable water) systems, including:
+
+   Community water systems serving 25 residents or more; and
+
+   Non-community water systems serving 25 transient/non-residential persons daily.
+
+FDEP permits new systems, monitors compliance, and enforces regulations. The Florida Department of
+Health (FDOH) administers regulatory programs for private water systems (wells), and all public water-
+supply systems not regulated by FDEP, by setting water-quality standards. In addition, FDOH has
+authority over the location of private wells if a septic tank is installed. Water-Use Permits for permission
+to extract water other than at domestic rates are issued by the SFWMD.
+
+CREATION OF A REGIONAL UTILITY AUTHORITY
+In late 2001, the City entered into an interlocal agreement with Osceola County and the City of St. Cloud
+to create a local government working group and authorize the use of professional services relating to a
+study to determine the feasibility of creating a regional water and wastewater authority. In late 2002, the
+City of St. Cloud decided to withdraw from the proposed authority. However, Osceola County and the
+City of Kissimmee continued with the creation of the regional utility authority and entered into an
+interlocal agreement in early 2003.
+
+During the 2003 legislative session a special bill was passed that created the regional utility authority
+known as Tohopekaliga Water Authority (TWA). The Authority’s boundary consists of all areas within
+Osceola County, excluding the legal boundaries of the Reedy Creek Improvement District and the
+boundaries authorized by law to be served or provided water and wastewater by the City of St. Cloud.
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-26                                                                                       November 2018
+                                                                                              PUBLIC FACILITIES
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+The transferring of the existing utility systems to TWA occurred through a transitional interlocal
+agreement. The City of Kissimmee’s operational and administrative staff transferred to the operational
+and administrative staff of the TWA and all of Osceola County’s right to acquire systems such as the
+Harmony system, the Poinciana system, and the Florida Water Services systems also transferred to the
+Authority.
+
+TWA is a regional approach that will provide a more efficient and comprehensive means of providing
+water to the citizens of Osceola County and cease the disjointed and fragmented nature in which water
+has traditionally been provided in the County.
+
+TOHOPEKALIGA WATER AUTHORITY
+The Tohopekaliga Water Authority provides potable water to residents and businesses within the City of
+Kissimmee and to portions of Osceola County's unincorporated northwest area, as well as portions of
+Orange County’s.
+
+The TWA consists of three sub-areas and 14 water supply facilities, all of which draw their water from the
+Floridan Aquifer. Due to the high quality of groundwater from deep in this aquifer, the TWA treatment
+facilities need only provide chlorination, hydrogen sulfide removal, and ph adjustment in some areas prior
+to distribution.
+
+SFWMD issued TWA a consumptive use permit (CU49-00103-W) that is set to expire on June 14, 2027.
+The permit allows an average potable water daily flow of 36.5 million gallons per day (MGD) and a
+maximum daily allocation of 51.86 MGD.
+
+By the year 2013, the consumptive use permit required a minimum of 15 MGD of TWA’s water supply be
+provided by alternative water supply (AWS) projects. Alternative water supply projects identified in the
+consumptive use permit include a Kissimmee River Basin project, and the proposed Cypress Lake
+Brackish Groundwater Wellfield. TWA’s potable central water system currently provides an average of
+approximately 25 MGD to its customers. The combined capacity of the TWA water treatment plants is
+56.6 MGD.
+
+ANALYSIS OF FUTURE POTABLE WATER NEEDS
+The City’s growth management policy has been to encourage compact development in the existing
+public facility service area. In addition to this Element, the Future Land Use Element (FLUE) also
+outlines the issues involving provision of services within the City in order to manage growth and prevent
+urban sprawl. The City’s regulations state that connection to central utilities is mandatory.
+
+Mandatory connection to central potable water facilities requires providers of central utilities (in this case,
+TWA) to provide capacity in a timely fashion. Interlocal agreements with the TWA, the City of St. Cloud,
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                            PFE-27
+November 2018                                                                                            PFE-27
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+and the County will continue to be necessary to plan for future utility expansions. The primary
+responsibility of TWA is to promote the responsible, equitable and economical use of allocated water
+supplies.
+
+The TWA is providing water supply from groundwater through the upper Floridan aquifer. City of
+Kissimmee is within the Toho I service area. As shown in Table 4-1, the Toho I (Kissimmee System) has
+an average 27 MGD daily water flows and a maximum of 35 MGD daily water flow.
+
+Table 4-1: Permitted, Average, and Maximum Daily Flows
+                                                  Average                             Maximum
+   Water Treatment          Permitted
+       Plants                (MGD)        Flow (MGD)        Percent of                         Percent of
+                                                                             Flow (MGD)
+                                                            Permitted                          Permitted
+ Toho I                    54.4         27.424           50.40%           34.604              63.60%
+ Toho II (Harmony          1.296        0.303            23.40%           0.729               56.30%
+ Toho III (Formerly        5.262        0.127            2.40%            1.406               26.70%
+ Toho IV                   11.743       6.6              56.20%           9.141               77.80%
+ Total                     72.701       34.454           47.40%           45.88               63.10%
+Source: TWA 2018-2022 Capital Budget
+
+ANALYSIS OF NON-CENTRAL PUBLIC POTABLE WATER FACILITIES
+For non-central public water supply systems, level of service may be expressed as minimum estimated
+flow guidelines used by the FDEP in the review of potable water facility permit applications. These
+guidelines, which consider land use and defined service areas, are used to assure that public drinking
+water systems provide minimum levels of service. With the exception of private wells and systems
+serving fewer than 25 persons and fewer than 15 connections, FDEP reviews all permit applications for
+public water facilities. Another concern for the City is operational problems frequently associated with
+this type of facility. According to FDEP officials, the problems with this type of facility result from the
+inability of owners to support the high costs involved in the operation of a water facility.
+
+To ensure the health, safety and welfare of residents within the City, the City requires new private central
+water facilities to be designed to meet standards to facilitate connection to a public water system when
+they become available.
+
+FUTURE WATER SUPPLY PLANNING EFFORTS
+Planning for the protection of water resources and future potable water supplies is an important concern
+for the City. To protect water resources within the City, the City has established a wellhead protection
+area policy in its Comprehensive Plan. Regionally, the City coordinates with the TWA, nearby
+jurisdictions, and the SFWMD in water planning efforts.
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-28                                                                                       November 2018
+                                                                                           PUBLIC FACILITIES
+                                                                                  Data, Inventory, and Analysis
+
+
+
+
+WELLHEAD PROTECTION AREAS
+The standards for wellhead protection, based on Rule 62-521.200(7), F.A.C., will assist the City in
+regulating land use activities and Future Land Use Map categories in the areas surrounding existing and
+proposed potable water supply systems. These regulations allow the City to protect areas around
+potable water wellheads to ensure the public health, safety, and welfare is protected.
+
+Based on State rules, uses including solid waste disposal operations (as defined in Chapter 62-701,
+F.A.C.); any sanitary sewer disposal facility, excluding septic tanks; land application of reclaimed
+wastewater; and the disposal of sludge materials will be prohibited within 500 feet of a potable water
+wellhead. In addition, these rules limit the proximity of potable water wellheads to on-site sewage
+treatment and disposal systems and hazardous substances, as defined by the EPA. In certain situations,
+exemptions may be granted for utilities, continuous traffic, vehicle use, and the application of pesticides
+and herbicides within the wellhead protection area.
+
+The City has entered into a contract with the County, City of St. Cloud, and SFWMD for the evaluation of
+the County's wellhead situation and the development of a comprehensive wellhead protection plan.
+
+CENTRAL FLORIDA WATER INITIATIVE – REGIONAL WATER SUPPLY PLAN
+The Regional Water Supply Plan is collective effort in the Central Florida Water Initiative completed by
+the South Florida Water Management District, St. Johns River Water Management District (SJRWMD),
+and Southwest Florida Water Management District (SWFWMD) in conjunction with various technical
+teams and stakeholders. The Central Florida Water Initiative (CFWI) was approved by the South Florida
+Water Management District (SFWMD) in November of 2015.
+
+The CFWI plan projected that the total water demand in three water management districts is expected to
+increase by 310.95 MGD or 40 percent by the year 2035.
+
+Table 4-2 shows the demand projection summaries for each water use category. Strategies, rules, and
+regulations were also established to optimize the use of water resources for the three water management
+districts.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                         PFE-29
+November 2018                                                                                         PFE-29
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+Table 4-2: Summary of Projected Water Demand (MGD) in the Regional Planning Area
+
+                                                                                      2035 1-    2010-2035    2010-2035
+                                   Water Demand Projections                                                    (5-in-10)
+  Category                                                                             in-10      (5-in-10)
+                                                                                      Demand      Change       Percent
+              2010         2015         2020       2025      2030            2035                              Change
+ Public Supply
+             436.0 477.28 525.57          572.43           615.94       654.34       693.61     218.31        50%
+             3
+ Domestic Self-supply and Small Utilities (DSS)
+             20.36 20.22     20.75        21.92            23.13        24.42        25.89      4.06          20%
+ Agriculture
+             185.2 218.78 217.24         216.09 215.30       214.84     321.18                  29.60         16%
+             4
+ Commercial/Industrial/Institutional and Mining/Dewatering (CII and MD)
+                74.05     71.47        76.74    82.82      89.29        95.85        95.85      21.80         29%
+ Power Generation
+                17.20     17.93        18.93    20.00      21.18        22.41        22.41      5.21          30%
+ Landscape/Recreational/Aesthetic          (LRA)
+                40.21     44.78        51.05    57.54      64.31        72.18        89.05      31.97         80%
+ Total          773.0     850.46       910.28   970.80     1,029.15     1,084.04     1,247.99   310.95        40%
+                9
+Source: Central Florida Water Initiative, Regional Water Supply Plan, 2015
+
+Note: mgd = million gallons per day.
+
+The Ten-Year Water Supply Facility Work Plan included all public, private, and regional water supply
+projects and programs necessary to serve the Toho Water Authority for the next 10-year period,
+including all development of traditional and alternative water supply sources, reuse and conservation.
+Table 4-3 shows each project’s source of water, amount of finished water produced, the anticipated
+completion date, and the capital cost. The combined finished water capacity for all projects is 56-58
+MGD, which is sufficient to supply the total water demand increase (32 MGD) in the area through year
+2035.
+
+
+
+
+                                                                              City of Kissimmee | 2040 Comprehensive Plan
+PFE-30                                                                                                    November 2018
+                                                                                                  PUBLIC FACILITIES
+                                                                                         Data, Inventory, and Analysis
+
+
+
+
+Table 4-3: Water Supply Projects
+        Project            Implementing         Finished           Water Source       Estimated          Capital
+                             Agency              Water                                Completion          Cost
+                                                Capacity                                Date             (Million
+                                                 (MGD)                                                   Dollars)
+ Cypress Lake AWS               TWA                N/A           Exiting Source           2017             9.88
+ WTP Water Main
+ Extension to
+ Poinciana
+ Cypress Lake AWS         TWA, St Cloud,          15-17          Brackish             2017-2021 for       131.5
+ Reverse Osmosis         OCU, Polk County                        groundwater             Phase I
+ WTP                        and RCID
+
+ Sandhill Road WRF              TWA                 4.5          Reuse                    2020             1.38
+ Expansion Phase I
+ (reuse storage tank)
+
+ City of Kissimmee              TWA                 4.5          Stormwater Reuse         2020              10
+ West Ditch
+ Stormwater Capture
+ for Reuse
+ 160-Acre AWS                   TWA                 5            Rapid Infiltration       2019            14.29
+ Project - Indirect                                              Basin (RIB)
+ Potable Reuse
+
+ Kissimmee River           Water Coop of         up to 25        Surface -                TBD              TBD
+ Basin AWS                  Central FL                           Kissimmee River
+                                                                 Basin -
+                                                                 Conjunctive Use
+ Shingle Creek Reuse            TWA                 2            Shingle Creek            2015              n/a
+ A       t ti
+Source: CFWI RWSP, per TWA 5-Year Capital Budget for 2018-2022
+
+
+
+
+CITY OF KISSIMMEE WATER SUPPLY WORK PLAN
+The City does not have responsibility for the water supply facilities within its jurisdiction. However, Florida
+Statutes require the City to project its potable water supply needs for the next 10 years, which will require
+close coordination with TWA to ensure future potable water supplies will be available to serve future
+development.
+
+Flowing the adoption of the CFWI plan by SFWMD, the City of Kissimmee conducted a Water Supply
+Work Plan to identify and plan for the water supply sources and facilities needed to serve existing and
+new development within the City's jurisdiction.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                                PFE-31
+November 2018                                                                                                PFE-31
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+As a result of developing the Work Plan, the City has been able to:
+
+   Provide potable water demand projections that will assist the City with its planning and development
+    actions;
+
+   Identify alternative water supply sources that will help meet future water demand needs, consistent
+    with the Regional Water Supply Plan;
+
+   Identify water supply capital projects to support existing and future development; and
+
+The Water Supply Work Plan developed a level of service standard based upon gallons per day per
+capita for residential and non-residential uses, as shown in Table 4-4.
+
+Table 4-4: Potable Water Supply Standards
+ Land Use                       Toho Water Authority (TWA) Standard
+ Residential                    96 gpd per capita
+ Hotel/Motel                    120 gpd per room
+ Commercial                     0.1 gpd per gross square foot of floor
+                                area
+ Public or Private              4.8 gpd per student
+ Schools
+                                98 % of the maximum
+                                permitted capacity and
+ All Land Use Types
+                                minimum 20 PSI pressure
+                                will be maintained during
+                                fire flow conditions
+
+Source: City of Kissimmee Water Supply Work Plan, 2018
+
+One method of offsetting the effects of withdrawals on environmental resources is to provide increased
+recharge to the Floridan Aquifer. An area where this occurs is in the western portion of the TWA service
+area, west of the City. The TWA currently uses RIBs to provide treated wastewater recharge to the
+Surficial and Floridan aquifers when consumptive uses of reuse water are smaller than the quantity of
+reuse water produced. Utilization of this recharge concept also provides the benefit of minimizing
+impacts to wetlands through reduced flows and surface water discharge.
+
+
+
+
+                                                                         City of Kissimmee | 2040 Comprehensive Plan
+PFE-32                                                                                               November 2018
+                                                                                              PUBLIC FACILITIES
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+WATER CONSERVATION AND REUSE PROGRAMS
+Voluntary residential and commercial water conservation will be achieved through the City’s participation
+in water conservation efforts promoted and required by the SFWMD. Locally, the City must promote the
+use of water-saving plumbing devices including low-flow toilets, showerheads, and faucets within new
+developments, as well the development and expansion of reclaimed water systems.
+
+CONSERVATION
+The City of Kissimmee is working with Toho Water Authority, Osceola County and the City of St Cloud to
+develop water conservation strategies, including:
+
+   Enacted restrictions on irrigation during periods of time of critical concern that are consistent with
+    40E-24 of the Florida Administrate Code.
+
+   Declared that it is unlawful to use the freshwater supply for any purpose other than cooking, drinking,
+    or bathing during an emergency (Kissimmee Code of Ordinances 15-1-6).
+
+   Provided a list of allowable plant species, with regulations that at least 50% of all trees and bed areas
+    with other plant material shall be native or drought tolerant (Kissimmee Ordinance 14-2-91 (B)(8)).
+
+   Adopted the Florida Building Code (FBC) to regulate plumbing flow.
+
+   Implemented a number of water conservation steps in the Land Development Code.
+
+   Continues to coordinate future water conservation efforts with the TWA and the SFWMD.
+
+TWA conducts its own water conservation
+programs, and employs a full-time water
+conservation coordinator and two part-time
+conservation staff. TWA’s strategies include, but
+not limited to, the following:
+
+   Water conservation initiative programs, including
+    free commercial water audits, free rain sensors
+    and installation, free pre-rinse spray valves for
+    restaurants, free irrigation evaluations for
+    homeowners, and free landscaping and
+    irrigation maintenance workshops;
+
+   Water waste resolution enforcement; and
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                            PFE-33
+November 2018                                                                                            PFE-33
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+   In-school education and presentations to civic groups and homeowners association.
+
+   Invested in many different tools and techniques.
+
+   Developed new customer engagement software is included in the Authority’s capital budget to
+    help customers understand their usage in real time.
+
+   Provided Water Conservation information on the TWA website.
+
+REUSE
+Water reuse in central Florida is accomplished primarily through the use of reclaimed water for irrigation.
+Reclaimed water is treated wastewater that has received at least secondary treatment and basic
+disinfection, and is reused after flowing out of a domestic wastewater treatment facility. Reuse is the
+deliberate application of reclaimed water for a beneficial purpose in compliance with the rules of FDEP
+and the SFWMD. Reclaimed water strategies in the regional water supply plans can include such
+measures as development of urban reclaimed water systems, reclaimed water system interconnections,
+supplemental supplies for peak flows, and aquifer storage and recovery. TWA provides reclaimed water
+for non-potable uses such as landscape irrigation and as cooling water for an electric-power generating
+plant. Within Osceola County, reclaimed water is used primarily for residential and golf course irrigation,
+but is also utilized for agricultural and industrial uses.
+
+TWA operates wastewater treatment plants and reclaimed water distribution systems, including a
+network of 193 miles of reclaimed water distribution mains. Currently they are located along Boggy Creek
+Road, west of Florida’s Turnpike north of Woodcrest Boulevard, and southeast of the airport along Clay
+Street. Reclaimed water from TWA’s water reclamation facilities is either used for irrigation customers or
+is routed to RIBs for groundwater recharge.
+
+As water suppliers within the Kissimmee Basin Water Supply Area are being required to increase the
+amount of potable water from alternative sources and to become less dependent on traditional
+groundwater sources, reclaimed water is looked at as an alternative to using potable water for landscape
+irrigation.
+
+ALTERNATIVE WATER SUPPLIES
+
+CENTRAL FLORIDA WATER INITIATIVE
+The Central Florida Water Initiative has identified the several issues regarding water supplies. Future
+water demand can not be met by traditional groundwater resources alone. Groundwater withdraw within
+the CFWI Planning Area is approaching its limit. The expansion of withdrawals though year 2035 will
+create more stress on the existing areas of water resource, and will possibly damage the water resources
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+PFE-34                                                                                      November 2018
+                                                                                            PUBLIC FACILITIES
+                                                                                   Data, Inventory, and Analysis
+
+
+
+
+and related natural system. Among the 46 water bodies within the CFWI area, 10 water bodies are
+currently below their established Minimum Flow Levels (MFLs) of and an additional 15 water bodies are
+projected to fall below their established MFLs by 2035 if projected demands were to come from traditional
+sources.
+
+To meet future water demand while protecting the environment and water resources, the CFWI RWSP
+has established various water conservation efforts, including groundwater withdrawal optimization,
+prevention and recovery strategies for targeted MFL water bodies, water supply project options, and
+water resource development project options. About 150 potential water supply project options were
+identified, including:
+
+   37 brackish/nontraditional groundwater
+
+   87 reclaimed water
+
+   17 surface water (increased from 15)
+
+   6 stormwater (new)
+
+   3 management strategies project options
+
+These water supply project options can cumulatively meet the future water needs and provide water
+resource benefit.
+
+IDENTIFIED CAPITAL IMPROVEMENTS
+As the City is not a provider of potable water to its
+residents, capital improvements required to build
+and expand water supply facilities to serve existing
+and new development within the City are provided
+by TWA. As part of periodic updates to the Work
+Plan, the City will include a list of capital projects to
+be undertaken by TWA. As required, these projects
+are included in the Capital Improvements Element’s Five-Year Schedule of Improvements. The
+tabulation of specific projects and their projected costs are located in the Data Inventory and Analysis of
+the Capital Improvement Element. TWA projected revenues related to water supply provision and
+programs are also located in the Capital Improvement Element.
+
+SUMMARY
+The City of Kissimmee continues to grow at a rapid pace and with this growth comes an increased
+demand for water services. TWA is directly responsible for the planning, acquisition, development,
+
+City of Kissimmee | 2040 Comprehensive Plan                                                          PFE-35
+November 2018                                                                                          PFE-35
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+operation and maintenance of water and wastewater management and delivery systems, but
+coordination with the City is essential. Although the City will not be involved in the distribution of potable
+water to consumers, it is imperative that the City coordinate with TWA to ensure that the quality of
+potable water is maintained and improved and that adequate supplies of potable water are available for
+City residents.
+
+CHAPTER 4B: SANITARY SEWER SUB-ELEMENT
+INTRODUCTION
+As discussed in the Potable Water Sub-Element, the City no longer provides sanitary sewer and reuse
+service for its residents. Domestic and industrial wastewater services are provided through a central
+system operated and maintained by the Tohopekaliga Water Authority (TWA), or via on-site wastewater
+disposal systems, such as septic tanks and package plants, which tend to serve a variety of small
+developments such as residential dwelling units, mobile home parks, and small commercial sites.
+
+At the State level, the Florida Department of Environmental Protection (FDEP) is the primary agency
+responsible for implementing and monitoring wastewater treatment. In addition, FDEP has adopted rules
+for the treatment of wastewater under Chapter 62-600, Florida Administrative Code (F.A.C.). The Florida
+Department of Health (FDOH) regulates on-site sewage treatment and disposal system (OSTDS)
+installation within the State, and works cooperatively with Osceola County through the Osceola County
+Health Department. OSTDS systems are regulated by Chapter 64E-6, F.A.C.
+
+A sanitary sewer treatment system involves a collection, treatment, and distribution system. Wastewater
+collected through central collection systems, or sanitary sewer lines, from residences or businesses are
+directed to wastewater treatment plants. TWA’s system within the City consists of four wastewater
+treatment facilities (also known as water reclamation facilities (WRFs). The TWA system, as a whole,
+has over 300 wastewater pump stations, and over 200 miles of reclaimed water distribution mains,
+including several miles of interceptor and gravity lines, force mains and effluent disposal facilities in the
+City.
+
+The TWA owns, maintains, and operates the central sanitary sewer system that serves both residential
+and non-residential customers in the City. The number of total wastewater customers in the TWA
+service area is over 71,000, and TWA treats approximately 21 million gallons of wastewater daily for their
+10,000 reuse water customers.
+
+Table 4-5 below displays the domestic wastewater facilities serving the City of Kissimmee.
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+PFE-36                                                                                        November 2018
+                                                                                                  PUBLIC FACILITIES
+                                                                                         Data, Inventory, and Analysis
+
+
+
+
+Table 4-5: Central Domestic Water Reclamation Facilities serving the City, 2009
+                                                                                           Permit        Permit
+                                                                    Capacity    DW          Issue       Expiration
+ Name                       Treatment Process Summary                (MGD)     Class         Date          Date
+ TWA - South          E-A Dual Oxidation Ditch/Flow Equalization;      8.5       IA       7/21/2003     7/17/2008
+ Bermuda              Reuse To Imperial & Daniels Rib Sites
+ TWA - Sandhill       Oxidation Ditch W/ Flow Equal & Filters          6        IIIC      5/12/2008     5/11/2013
+ Road WWTF            W/Effluent to 2mg Storage Tank and 6 Ribs
+ TWA - Camelot        Anox/Oxic Activated Sludge/Surge Control         5        IA        7/16/2007     7/15/2012
+ S/D WWTF             Filters/Reuse To Ponds/Sprayfield/G.C.
+ TWA - Parkway        Extended Aeration WWTP W/Surge Filters,         1.5       IB        3/19/2009     3/16/2014
+ WWTF                 2 Perc Ponds, Public Access Irrigation
+
+Source: FDEP, 2009.
+
+Note: Domestic Wastewater Class Descriptions
+
+IA: Advanced Wastewater Treatment (AWT): flow >= 3 MGD
+
+IB: AWT: 0.5 MGD <= flow < 3 MGD
+
+IC: AWT: no flow < flow < 0.5 MGD
+
+IIC: Act Sludge/Cont Stab: no flow < flow < 1 MGD
+
+IIIC: Extended Aeration: 0.025 MGD <= flow < 2 MGD
+
+IIID: Extended Aeration: no flow < flow < 0.025 MGD
+
+Table 4-6 below identifies the design capacity, and potential capacity, of existing WWTFs serving the
+City. The table also indicates the current average daily flow and the reuse system’s average daily flow.
+
+Table 4-6: Wastewater Treatment Facility Capacity and Average Daily Flow
+                                          Existing      Current                   Potential        Reuse System
+ Domestic Water                            Design       Average     Surplus        Facility        Average Daily
+ Reclamation Facility (WRF)               Capacity     Daily Flow   Capacity      Capacity             Flow
+ South Bermuda                              13.0           9.4         3.6          27.0                9.4
+ Sand Hill                                       6.0       3.5         2.5             16.0              3.4
+ Camelot                                         5.0       3.4         1.6              5.0              3.0
+ Parkway                                         1.5       0.9         0.6              2.5              0.9
+ TOTAL                                          25.5     17.2          8.5             50.5             17.2
+
+All figures in million gallons per day (MGD).
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                                PFE-37
+November 2018                                                                                                PFE-37
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+Wastewater treatment facilities are not always connected
+to a central system of mains, pipes, and treatment units.
+These isolated facilities are of two main types: package
+plants, OSTDS (septic tanks). Most package treatment
+plants in the Kissimmee area have a treatment capacity
+of less than 100,000 gallons per day. Effluent is usually
+chlorinated and distributed to polishing or percolation
+ponds. Some of the larger facilities use treated effluent
+for irrigation purposes. Package treatment plants must
+be designed to a quality level that will allow for the future
+connection to a publicly owned central sewer system.
+For these systems, wastewater disposal may be
+expressed in terms of minimum estimated flow guidelines used by the FDEP for reviewing sewage facility
+applications. These guidelines, which consider land use and defined service areas, are used to assure
+the provision of minimum levels of service.
+
+On-site Sewage Treatment and Disposal Systems (OSTDS) are more commonly known as septic tanks,
+and are located in a few remaining areas throughout the City. Since the City does not permit new
+development to occur without connecting to a central sewer system, the likely locations for septic tanks
+would be older developments recently annexed by the City, and which are not located near a central
+sewer main. The soils underlying the City tend toward severe limitations for septic tank absorption fields,
+hence the near universality of central systems within the City and mandatory connection to them.
+
+ANALYSIS OF FUTURE SANITARY SEWER DEMANDS AND CAPACITY
+
+FUTURE DEMANDS
+The City’s demand for wastewater flow and capacity will increase over time as the population grows and
+development continues. Table 4-7 below uses the population projections in the Future Land Use
+Element, and the City’s potable water Level of Service Standard yield an average daily demand. The
+results indicate adequate wastewater treatment capacity through the planning horizon at the South
+Bermuda facility.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+PFE-38                                                                                      November 2018
+                                                                                               PUBLIC FACILITIES
+                                                                                      Data, Inventory, and Analysis
+
+
+
+
+Table 4-7: Future Wastewater Treatment Facility Capacity and Average Daily Flow
+Demand for the South Bermuda WWTF
+ Quantities                                        2015     2020     2025     2030     2035     2040       2045
+ Population                                       65,422   74,560   82,688   88,416   91,392   92,416     92,445
+ Average Daily Potable Water/Wastewater
+                                                     96       96       96       96        96        96        96
+ Demand (gallons per capita) 1
+ Average Daily Demand (MGD)                          6.3      7.2      7.9      8.5      8.8       8.9       8.9
+ South Bermuda WW Capacity (MGD)                      27       27       27       27       27        27        27
+ Surplus Treatment Capacity                         20.7     19.8     19.1     18.5     18.2      18.1      18.1
+Source: TWA, 2010, Cambridge Systematics, 2018.
+
+FACILITY NEEDS AND PLANNED IMPROVEMENTS
+The TWA’s wastewater treatment system for the City is projected to meet the anticipated demand for
+wastewater treatment capacity, and is not anticipating any improvements to facilities serving the City, at
+this time.
+
+SUMMARY
+The City no longer collects, treats, or disposes of wastewater, however planning and assessments of
+facilities are still needed. The City will continue to coordinate with the TWA, Osceola County, other local
+utility providers, and the FDEP to ensure adequate wastewater treatment capacity exists to serve the
+City, without compromising the health of residents or the natural environment. These regional
+partnerships will also ensure the continued utilization of reuse water for non-potable uses, which
+promotes the conservation of valuable groundwater resources.
+
+Projected growth in the City of Kissimmee is not projected to outstrip TWA’s ability to provide adequate
+treatment capacity to wastewater customers within the City. Additionally, as wastewater demand
+increases toward 75 percent of permitted facility capacity, TWA begins to design upgrades to the facility
+needed to accommodate increased flows.
+
+CHAPTER 4C: AQUIFER RECHARGE SUB-ELEMENT
+An aquifer is a geologic unit that has the ability to store and transmit water, and may be tapped with wells
+to provide useable water supplies, while groundwater is the water located in an aquifer. Accessed by
+wells, groundwater is the most common source for potable water supplies in the State.
+
+
+
+
+1 Non-residential uses are not included.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                              PFE-39
+November 2018                                                                                              PFE-39
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+GROUNDWATER AND AQUIFERS
+There are two such aquifers in the geology underlying the City: the Surficial Aquifer, and the Floridan
+Aquifer. The Surficial Aquifer reaches a sub-surface depth of approximately 25 feet, while the top of the
+Floridan Aquifer lies between 400 and 1,000 feet below the City’s surface. The two geologic areas are
+separated by a confining layer of low-permeability sandy clay, silt, phosphorite sand, and phosphatic
+limestone. This layer, the Hawthorne Group, is 25 feet thick under Kissimmee, and restricts the vertical
+movement of water between the two aquifers.
+
+FLORIDAN AQUIFER SYSTEM
+Of the two aquifer systems present in the City, the Floridan Aquifer has greater significance, since it
+supplies nearly 90 percent of all groundwater used within the County for domestic, agricultural, or
+industrial purposes, and nearly 100 percent within the City. Water quality varies by depth and location,
+but the SFWMD considers the aquifer to be in good condition in the City’s vicinity. Generally, as the
+depth increases, the level of mineralization increases, which is a symptom of low-quality potable water.
+The maximum water yield capacity for this aquifer is not available.
+
+SURFICIAL AQUIFER SYSTEM
+The Surficial Aquifer System underlies the entire county, but only contributes a small percentage of
+overall supply. In the City, this source is almost entirely unused, due to the presence of very fine-grained
+surficial sediments that penetrate and clog screened wells. In spite of this condition, the water quality is
+considered “good” by the SFWMD. Recharge of this system occurs through rainfall percolation, as well
+as seepage from surface waterbodies.
+
+The City’s individual domestic well users tap into the Surficial Aquifer, because the shallow depth leads
+to lower costs of digging wells. Some users also tap this system for irrigation use.
+
+REGULATIONS
+State and Regional
+
+The FDEP has the responsibility for establishing and enforcing water quality standards for water supplies
+in the State. In implementing the Florida Safe Drinking Water Act (Chapter 403, Florida Statutes), the
+FDEP has developed rules classifying aquifers and regulating their use (Chapter 17-22, Florida
+Administrative Code). FDEP has also established guidelines for facilities that discharge to surface
+waters (Chapter 17-4.245, Florida Administrative Code), and which inject materials directly into
+groundwater (Chapter 17-28, Florida Administrative Code).
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-40                                                                                       November 2018
+                                                                                             PUBLIC FACILITIES
+                                                                                    Data, Inventory, and Analysis
+
+
+
+
+In addition to identifying the nature and extent of groundwater resources, the SFWMD implements
+regulatory programs for managing the State’s water resources. The District regulates and manages
+groundwater through consumptive use permits (CUPs) for public water supplies, industry, and golf
+course irrigation. The District regulates and issues well construction permits for wells at least six inches
+in diameter. The SFWMD also has a set of water use restrictions for the conservation of water resources
+during times of drought. Droughts are defined by their severity, and a set of phased water restrictions is
+enforced according to the severity of the drought. Additionally, the SFWMD has recently mandated that
+all residential and commercial irrigation is only allowed
+twice per week.
+
+The City and the County both have on-site stormwater
+retention requirements that are relevant to aquifer
+recharge. Additional discussion of these stormwater
+management levels of service are contained in the
+Stormwater Management Sub-Element.
+
+GROUNDWATER RECHARGE
+Groundwater recharge is the hydrogeologic process by
+which aquifers are replenished. Recharge occurs when water infiltrates, or percolates, through the land
+surface and flows into the groundwater. Recharge areas are the land surface in which infiltration occurs.
+Due to geologic processes, and time, a recharge area is not always located directly above the aquifer it
+is recharging.
+
+The protection of recharge areas is critical in locations that rely on aquifers as the sole source of drinking
+water. Well-drained areas are often subject to alteration by development since these areas are typically
+prime land. Impervious surfaces including roads, roofs, and parking areas also reduce the area available
+for percolation, which reduces the rate of aquifer recharge. The quality of the water percolating into the
+aquifer may in turn compromise groundwater quality. Soils absorb contaminants, which may be
+transmitted via percolation into the groundwater supply, impacting potable water resources. Solid waste
+and hazardous waste facilities, underground storage tanks, and septic systems all have the potential to
+contaminate groundwater sources.
+
+The City is generally located within a moderate to poor recharge area, and tends to only contribute less
+than four inches of recharge per year. The City does not have any areas with high rates of groundwater
+percolation. These areas exist further to the west in Osceola County.
+
+PROTECTION OF GROUNDWATER RESOURCES
+The Floridan Aquifer System provides a supply of freshwater, including the source for the Tohopekaliga
+Water Authority (TWA) serving the City. For those on individual wells, low-to-moderate yields are
+
+City of Kissimmee | 2040 Comprehensive Plan                                                           PFE-41
+November 2018                                                                                           PFE-41
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+provided from the Surficial Aquifer. Aquifer contamination is most likely in areas with high rates of
+groundwater recharge, which the City does not have. Regardless, this condition is due to the relative
+thinness of the confining layer above the Floridan aquifer.
+
+Conservation of groundwater supplies are critical, and will continue to remain so, in the maintenance of
+not only potable water supplies, but also the maintenance of surface water flows and water levels within
+environmentally sensitive wetland habitats. The City coordinates with Osceola County, TWA, the
+SFWMD, and the FDEP regarding water conservation measures and water supply demand.
+
+SUMMARY
+The protection of groundwater resources is directly linked to the regulation of stormwater, and the
+conservation of potable water resources. Additional information regarding both groundwater supplies,
+and the protection of groundwater quality through stormwater management, can be found in the Potable
+Water Sub-Element and the Stormwater Management Sub-Element, respectively.
+
+The City’s anticipated future development pattern with more mixed uses and higher densities has the
+potential to reduce the City’s overall per-capita consumption of groundwater, by allowing greater
+recharge through a reduction in impervious surfaces required of typical suburban development patterns.
+
+CHAPTER 4D: STORMWATER MANAGEMENT SUB-ELEMENT
+INTRODUCTION
+Water flowing overland, and into and through natural and constructed conveyance systems during and
+immediately following a storm event is called stormwater runoff. Stormwater management refers to the
+comprehensive strategies for dealing with the effects of changes in total runoff, peak flow, and water
+quality. Stormwater management is important to address flood prevention and protection, as well as
+pollutant control. Stormwater carries pollutants that are washed from impervious surfaces during rainfall,
+and may include bacteria, fertilizers, motor oil, metals, and trash. The central premise of managing
+stormwater is to ensure that the hydrology of an area after development is similar to that present before
+the development occurs.
+
+Stormwater regulations are established in the Comprehensive Plan and the Land Development Code,
+and the City must coordinate with the EPA, the FDEP, the Department of Economic Opportunity (DEO),
+the SFWMD, and the County. Section 402 of the Clean Water Act, and Chapters 17-40, 62-25, and 62-
+40 of the Florida Administrative Code (F.A.C.) form the regulatory framework of those agencies. It is
+through these regulatory mechanisms that the City is able to address flooding prevention and the
+protection of water resources and wildlife habitat that stormwater management may provide the
+community. The City’s Land Development Code includes numerous ordinances addressing open space,
+tree protection, landscaping, flood damage prevention, and reduction of flood hazards.
+
+
+                                                               City of Kissimmee | 2040 Comprehensive Plan
+PFE-42                                                                                     November 2018
+                                                                                              PUBLIC FACILITIES
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+The City’s Stormwater Division maintains structures designed to collect, convey, hold, divert, or
+discharge stormwater. This includes storm sewers, canals, ditches, culverts, detention structures, and
+retention structures. Stormwater Division crews routinely clean stormwater inlets, pipes, and mow
+retention/detention areas to help ensure the City’s stormwater management system runs properly.
+
+All of the rain that falls in the City of Kissimmee either goes into the ground or into the City’s stormwater
+system. The rainwater enters the stormwater system through inlets and is transported to
+retention/detention ponds by a network of swales and pipes. While the stormwater is in the ponds, heavy
+metals and suspended sediment fall out of the water. The stormwater is discharged once the pond
+reaches a certain level. The water that leaves the pond goes through a series of pipes until it reaches
+one of the main ditches/waterways. These then discharge the stormwater and any remaining pollution
+into Lake Tohopekaliga.
+
+There are six watersheds located within the City, including Shingle Creek, Mill Slough, Bass Slough, East
+City Ditch, West City Ditch, and Downtown. The Tohopekaliga Basin (part of the Upper Kissimmee River
+Basin) is the basin into which all surface waters in the City eventually flow.
+
+NATURAL DRAINAGE WAYS
+The City is located in the Upper Kissimmee River Basin, which is under the jurisdiction of the SFWMD.
+The “urban” portion of the basin in which the City is located extends generally from the southern shore of
+Lake Tohopekaliga north to the County line.
+
+Dredge and fill activities have significantly altered the original hydrography of the area. Soils in the City
+are primarily associated with high water tables, and these are coupled with a weakly cemented sand
+layer about 1.5 to 3 feet deep. This combination of soils in the City means that surface water tends not
+to percolate quickly. The Soils Map identifies the soil types located in and around the City, and the
+Floodplain and Topography Map demonstrates the gentle slope of topography from the northern part of
+the City toward Lake Tohopekaliga. These maps can be found in the Conservation Element.
+
+Lake Tohopekaliga
+
+This large, shallow lake on the City’s southern border covers 21,400 acres and receives inflow primarily
+from Shingle Creek to the north, and from East Lake Tohopekaliga via the St. Cloud Canal to the east.
+The lake flows out southward through the Kissimmee Chain of Lakes, which eventually flows into Lake
+Okeechobee and into the Everglades. The Lake was altered as early as the 1880s with the construction
+of several canals to link nearby lakes. Other inflows to the Lake have been channelized, and the lake
+now receives about one-third of its total flow through channelized streams and ditches. Shingle Creek,
+the St. Cloud Canal, and rainfall contribute the majority of the flow, with the remainder flowing from minor
+basins and groundwater seepage.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                            PFE-43
+November 2018                                                                                            PFE-43
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+Mill Slough
+
+Mill Slough is a natural drainage system with a watershed area of 11.6 miles. Its northernmost reach is
+in Orange County, and flows south through developed areas of Osceola County and the eastern portion
+of City before flowing into Lake Tohopekaliga. Of the total watershed, about 20 percent was developed
+prior to the regulation of stormwater discharge, which began in the 1980s. A study in the late 1980s
+identified deficiencies in the City’s stormwater infrastructure in this area, and the City responded with
+increased investment in stormwater conveyances and structures to better manage stormwater runoff and
+flood control in the areas around Mill Slough.
+
+Shingle Creek
+
+Considered the headwaters of the Everglades,
+Shingle Creek runs through the western portion of the
+City through Osceola County from Orange County
+south to Lake Tohopekaliga. The Creek’s
+headwaters are in Orange County, and the waters
+flow south along the western edge of the City. The
+Shingle Creek watershed within unincorporated
+County areas and the City is 90 percent
+undeveloped.
+
+In the past, the Creek was found to have high
+concentrations of nutrients, primarily resulting from effluent discharge from local sewage treatment
+plants. These effluent discharges have been eliminated, and no point sources of pollution exist along the
+Creek. The water is, however, still susceptible to urban stormwater runoff from both the City, and further
+upstream in Orange County. The basin includes both the US 192 and US 17-92 corridors, and those
+roadways’ stormwater conveyances. Presently, as developments are proposed within the City,
+stormwater attenuation and water quality are controlled as each subdivision or commercial property is
+constructed, including interconnected ponds to slow water flow, and reduce nutrient loads.
+
+The City, the County, Orange County, and the SFWMD have been coordinating on programs to protect
+the Creek. The SFWMD has an adopted management plan for Shingle Creek that outlines the District’s
+management goals, which include restoration of hydrological and ecological characteristics, exotic plant
+control, and public access for active and passive recreational uses. Portions of the Creek that run
+through the City are buffered by protected Open Space land uses. In 2008, the City partnered with the
+County and Florida Communities Trust to acquire additional land for the Shingle Creek Recreational
+Preserve. As part of the project, a stormwater retention pond is planned, as are recreational
+improvements, including active and passive uses.
+
+
+
+
+                                                               City of Kissimmee | 2040 Comprehensive Plan
+PFE-44                                                                                     November 2018
+                                                                                                   PUBLIC FACILITIES
+                                                                                          Data, Inventory, and Analysis
+
+
+
+
+CITY STORMWATER DRAINAGES AND FACILITIES
+The City’s location adjacent to Lake Tohopekaliga and Shingle Creek requires a system of stormwater
+conveyances to retain runoff during storm events. These are designed to prevent immediate discharge
+to surface waters. The remaining four watersheds are man-made and include Bass Slough, the East
+City Ditch, the West City Ditch, and the downtown culvert system. The City also maintains stormwater
+monitoring stations throughout the City.
+
+STORMWATER QUALITY AND QUANTITY
+As storm water flows over driveways, lawns, and sidewalks, it picks up debris, chemicals, dirt, and other
+pollutants. Stormwater can flow into a storm sewer system or directly to a lake, stream, river, creek, or
+wetland. Anything that enters a storm sewer system is discharged untreated into the water bodies we
+use for swimming, fishing, and other recreational activities. Reducing pollutant levels, including from
+household chemicals and sediment will improve the quality of lakes and the overall health of the
+ecosystem. Several principal stormwater quality problems are identified in Table 4-8 below.
+
+Table 4-8: Stormwater Quality Concerns, Impacts, and Causes
+
+ Issue                              Negative Impacts                                    Causes
+ Sediment                Smothering of plants and animals that live   Erosion; Washing cars in the road; Dumping
+ Accumulation            on water body bottoms                        garbage in storm inlets; Air Pollution
+ Turbidity in Water      Reduces plant growth and aesthetic           Erosion; Washing cars in the road; Air
+                         beauty; Fish kills                           pollution in the rainwater
+ Nutrient Enrichment     Increase in Algae and invasive aquatic       Decaying plants; Fertilizers; Phosphorous in
+                         plants                                       car soap; Animal feces; Illicit discharge
+ Gross Pollutants        Reduces plant growth and aesthetic           Littering; Illegal dumping
+                         beauty; Fish kills
+ Heavy Metals            Stresses aquatic plants and animals;         Runoff from roads; Swimming pool water;
+                         Contamination of the food chain              rusting metal; Illicit discharge
+ Petrol, Oils and        Reduces aquatic life and aesthetic beauty    Leaks from vehicles; Maintenance of cars;
+ Grease                                                               Illegal dumping; Illicit discharge
+ High Runoff Rates       Erosion of banks; effects wetlands; causes   Impervious surfaces (roads, roofs, etc.)
+                         disturbances to aquatic ecosystem            directly connected to the stormwater system
+
+Source: City of Kissimmee, 2009.
+
+Stormwater quality is regulated by the FDEP, specifically through Chapter 64-25 of the Florida
+Administrative Code.
+
+NATIONAL POLLUTION DISCHARGE ELIMINATION SYSTEM (NPDES)
+The National Pollution Discharge Elimination System (NPDES) program was established as the
+fundamental regulatory mechanism of the Clean Water Act (CWA). The CWA is the primary federal
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                                 PFE-45
+November 2018                                                                                                 PFE-45
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+legislation that protects surface waters, such as lakes, rivers, and coastal areas. The initial focus of the
+NPDES program was controlling targeted point sources, such as the direct sewer outfall that used to flow
+into Lake Tohopekaliga. However, studies indicated that stormwater runoff from non-point sources such
+as agricultural, urban areas, construction sites, land disposal, and mining areas were the leading cause
+of water quality impairment.
+
+The City of Kissimmee is a regulated small municipal separate storm sewer system (MS4s) and was
+required to develop and implement a NPDES program by September 2, 2008, and the City has complied
+with this requirement. The City’s Code of Ordinances and policies within the Comprehensive Plan meet
+the NPDES requirements for stormwater quality and runoff control, and for maintenance of stormwater
+systems. In addition, the City has also passed ordinances that prohibit illegal dumping and illicit
+discharges to the stormwater system, as required by federal regulations. To further meet the federal
+requirement for public education and involvement, the City’s education programs help enhance public
+awareness of the importance of minimizing pollution to stormwater management systems.
+
+LOW IMPACT DEVELOPMENT TECHNIQUES
+Closely associated with the Green Building movement is
+the use of low-impact development techniques for               Reducing pollutant levels, including
+development sites, which seek to maintain the existing         from household chemicals and
+drainage and ecosystem functions of a site. These              sediment will improve the quality of
+techniques are primarily undertaken to mimic natural           lakes and the overall health of the
+stormwater runoff quantity, and improve runoff quality to
+                                                               ecosystem.
+local surface water bodies and areas with high rates of
+groundwater recharge.
+
+The techniques may be structural or non-structural, and may be utilized in already developed urban
+areas or on sensitive sites. By taking into account the existing characteristics of a site upon which a
+structure is to be built, and potentially clustering impervious areas together where most appropriate,
+landowners and developers can contribute to resource preservation through the integration of the natural
+environment and the built environment, and maintain predevelopment watershed and ecological
+functions.
+
+Other techniques include maintaining buffer zones and natural drainage courses, using infiltration
+swales, reducing impervious surfaces, and conserving open space. The use of green roofs can reduce
+the amount of stormwater runoff on a site, reduce the need for irrigation, and also help to insulate the
+roof and building against radiant heat gain. Rain gardens and constructed wetlands on a site allow for
+increased infiltration of water through a reduction in impervious surfaces; provide esthetically pleasing
+and functional landscaping that reduces the need for irrigation; and reduce impervious surfaces,
+contributing to a reduction in the creation of urban heat islands while also improving the quality of surface
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+PFE-46                                                                                       November 2018
+                                                                                             PUBLIC FACILITIES
+                                                                                    Data, Inventory, and Analysis
+
+
+
+
+water runoff. Green roofs, in particular, could be a solution to the stormwater mitigation problems
+experienced within the City’s historic downtown area.
+
+LEVEL OF SERVICE STANDARDS
+Where permits are required by the County, State, or federal agencies, the City first requires a
+development applicant to provide a copy of the relevant permits prior to the approval of any construction
+activities. The City’s adopted level of service standards for stormwater quantity, which serve as the basis
+for determining the availability of facility capacity and demand, are as follows:
+
+   Limit the allowable stormwater peak discharge detained from a site to be developed or altered to pre-
+    development or pre-alteration peak discharge for the 10-year frequency, 72 hour duration storm.
+    Retention/detention ponds, for all sites greater than ten acres total area, to have a minimum of one
+    foot freeboard.
+
+   Limit velocities in any new system to a maximum of 3 feet/second or less for the 10-year storm.
+
+   Roadway stormwater management system shall be designed for the 10-year storm event, utilizing
+    the Florida Department of Transportation Rainfall Intensity Curves.
+
+   The design storm frequency to be utilized for the design of pavement drainage shall be the 10 year.
+
+   Water Quality - Wet detention for the first inch of runoff or the total runoff of 2.5 inches times the
+    percent of imperviousness, whichever is greater. Reductions in the above volumes of 25% and 50%
+    for dry detention and retention respectively can be applied when conditions permit. Industrial zoned
+    projects shall provide at least 1/2 inch dry detention or retention pretreatment as part of the required
+    retention/ detention.
+
+   Incorporate a floodplain management standard which requires that no net reduction occur in flood
+    storage (e.g., 100-year flood) for any development within the impacted area.
+
+   The Land Development Code shall continue to include mandatory retention and/or detention of
+    stormwater discharge from developed or altered sites, per Chapter 62-25, Florida Administrative
+    Code.
+
+The LOS standards above are based on the development regulations within the Land Development
+Code. The City also enforces those levels of standards set by the SFWMD for individual stormwater
+retention and detention facilities, and will abide by total maximum daily load criteria, upon their
+identification for Lake Tohopekaliga and Shingle Creek.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                           PFE-47
+November 2018                                                                                           PFE-47
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+PROJECTS TO MAINTAIN LEVEL OF SERVICE STANDARDS
+Stormwater projects being implemented to maintain level of service standards include improvements to
+the Baffle Boxes, Master Stormwater Pond, Lavon/Hill Drainage Improvements, and Woodside Drainage
+Improvements, all of which are funded by the City of Kissimmee 2017-2021 Five Year Approved Capital
+Budget (2017) shown in Table 8-2 of the Capital Improvement Element.
+
+COMPREHENSIVE APPROACHES TO STORMWATER MANAGEMENT
+In many cases watersheds extend into several governmental jurisdictions, and cooperation between local
+governments, especially through the use of interlocal agreements, can lead to successful achievement of
+common stormwater management goals. A comprehensive approach offers advantages over the site-
+specific approach contained in most regulations for land development, but it requires sufficient data and
+analysis of an entire watershed to identify the most appropriate control measures and optimum locations
+to control watershed-wide impacts.
+
+The Downtown Stormwater Master Plan (Figure 4-1) encompasses much of the CRA in the City’s
+downtown area. The Plan will ensure stormwater management is provided, but will not be required on
+each site as a matter of LOS and concurrency, as long as the entire area is meeting its determined LOS
+standard. Development and redevelopment projects will have the opportunity to contribute to the fund to
+implement the projects identified in the Master Plan, and may have the opportunity to reduce their
+stormwater loads through the use of low-impact development techniques.
+
+FUNDING FOR STORMWATER MANAGEMENT
+The City’s Stormwater Utility Fund is assessed to City residents and businesses, and was created to pay
+for stormwater maintenance and improvement projects within the City. The Stormwater Operations
+portion funds the maintenance of City ponds, culverts, ditches, and other drainage areas. Although
+maintenance of privately maintained ponds and ditches in subdivisions or businesses is not included, the
+outfalls and spillways for these must be maintained and are subject to the fee. This also includes the
+sweeping of all City streets to remove sediments that would otherwise find their way into the lake system
+and cause possible environmental issues.
+
+SUMMARY
+The condition of the facilities is generally good, and the City’s Stormwater Management Division has an
+ongoing schedule of maintenance. Generally, the expected life of facilities is approximately 50 years, but
+with regular maintenance that can be extended indefinitely. However, expansion of facilities will largely
+be governed by growth within the City, the areas in which the growth occurs, and the extent of plans for
+master stormwater systems within the City.
+
+
+
+
+                                                               City of Kissimmee | 2040 Comprehensive Plan
+PFE-48                                                                                     November 2018
+                                                                                              PUBLIC FACILITIES
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+Projects completed, including improvements to existing conveyances, and facility upgrades associated
+with road construction activities, as well as enforcement of existing regulations not only manage existing
+conditions, they also serve as components of the City’s overall system that will be in place for decades.
+
+CHAPTER 4E: SOLID WASTE SUB-ELEMENT
+This sub-element details the existing facilities servicing the City and provides data and analysis regarding
+future needs for solid waste collection and disposal.
+
+INTRODUCTION
+The City’s Department of Sanitation is responsible for waste collection and disposal activities within the
+City.
+
+WASTE COLLECTION AND DISPOSAL
+The City does not operate or maintain disposal facilities or transfer stations for solid waste. The City of
+Kissimmee operates and maintains solid waste collection services for single-family residential uses.
+Only City residents are provided service by the City’s collection system. Non-residential and multifamily
+residential collection services are supplied by a vendor through an exclusive franchise agreement with
+the City. They collect solid wastes from commercial dumpsters and “roll-offs” within the City limits.
+
+Since 2011, the City has provided curb-side collection of recyclable materials. The Osceola County Solid
+Waste Office also encourages recycling efforts by providing recycling drop-off facilities at four locations
+without charge to County residents.
+
+All municipal solid waste (MSW) collected in the City (residential and non-residential) is transferred to the
+J.E.D. Solid Waste Facility. Prior to arrival at the landfill, MSW is tipped at the City of St. Cloud Transfer
+Station. Although hazardous materials are not collected by the City, a public drop-off is located at the
+Bass Road Facility, which is also a site of a drop-off collection center for household recyclable materials.
+Household chemical wastes are also collected at the City of St. Cloud Transfer Station.
+
+Completed in 2004, a privately owned and maintained Class I Solid Waste Disposal Landfill, the J.E.D.
+Solid Waste Facility in Holopaw, is capable of servicing MSW disposal needs for all county residents for
+30 years (2034), based on current rates of waste disposal. (See below for discussion of levels of
+service). Land is reserved for supporting facilities and required buffer areas, and the maximum height of
+the landfill is limited to 330 feet. Hazardous wastes are not accepted at this facility, but construction and
+demolition debris is accepted.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan                                                            PFE-49
+November 2018                                                                                            PFE-49
+PUBLIC FACILITIES
+Data, Inventory, and Analysis
+
+
+
+
+FUTURE DEMAND AND CAPACITY ASSESSMENT
+As noted in the Future Land Use Element data inventory and analysis, the projected population in 2045
+will be 92,445 permanent residents. Table 4-9 below identifies the projected rates of MSW production
+within the City, using the 2008 rate of 2.7 pounds per capita per day, and the projected population
+figures.
+
+Table 4-9: Projected Rates of Residential Solid Waste Production
+                                       2015     2020      2025      2030      2035      2040      2045
+ Projected Population                 65,422    74,560    82,688    88,416    91,392    92,416    92,445
+ Waste Generated (in tons)           130,844   149,120   165,376   176,832   182,784   184,832   184,890
+
+The data indicates that if the rate of waste generation remains the same, the total quantity of waste
+generated in a year will remain within the threshold set by the adopted level of service standard of 5.1
+pounds per capita per day.
+
+The projected demand takes into account the production of wastes from residential (single family) uses
+only. Non-residential wastes are not collected by the City, and data regarding their rates of waste
+production are not available.
+
+LEVEL OF SERVICE STANDARD
+The City currently has an adopted level of service of 5.1 pounds per capita per day. The City does not
+currently have an adopted level of service standard for a rate of waste generation for non-residential
+uses. This does, however, mean that a method by which to track non-residential waste production
+should be established.
+
+SUMMARY
+In addition to the coordination of level of service standards, the City will continue to encourage the
+recycling of household recyclables to reduce the City’s landfill-bound waste stream. The City will also
+continue to coordinate with the County and private hauling companies to monitor the generation of waste
+and methods by which to reduce rates of waste production and burial, should the need arise.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+PFE-50                                                                                      November 2018
+

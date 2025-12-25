@@ -1,0 +1,9 @@
+{
+  "name": "plaque",
+  "description": "Transform Python files into interactive notebooks with live updates and rich formatting",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  }
+}

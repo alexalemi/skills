@@ -1,0 +1,941 @@
+TRANSPORTATION
+
+
+
+
+                 THIS PAGE INTENTIONALLY LEFT BLANK.
+Kissimmee
+2040 Comprehensive Plan
+Recreation & Open Space
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+November 2018
+
+Cover photo source: City of Kissimmee Public Information Office
+TRANSPORTATION
+
+
+
+
+                 THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                         RECREATION & OPEN SPACE
+
+
+
+
+Table of Contents
+Goals, Objectives, and Policies .............................................................................................................. 1
+          Goal 6.1: Provide Adequate Recreation and Open Space. ............................................................. 1
+                  Objective 6.1.1: System of Parks and Recreation. .................................................................. 1
+                  Objective 6.1.2: Protect Recreation Facilities and Parks. ....................................................... 2
+                  Objective 6.1.3: Access to Recreation Facilities. .................................................................... 3
+                  Objective 6.1.4: Access to Lake Tohopekaliga and Tributaries. .............................................. 4
+                  Objective 6.1.5: Public and Private Coordination in Planning for Recreation Improvements. . 4
+
+Maps .......................................................................................................................................................... 7
+
+Data, Inventory, and Analysis ............................................................................................................... 11
+          Introduction ................................................................................................................................... 11
+          Existing City Recreation Facilities ................................................................................................. 11
+                  Neighborhood Park ............................................................................................................... 11
+                  Community Park .................................................................................................................... 12
+                  Special Use Park ................................................................................................................... 12
+                  Large Urban Park .................................................................................................................. 12
+                  Regional Park ........................................................................................................................ 12
+          Recreation Facilities Maintained by Other Entities ........................................................................ 14
+                  Osceola County Recreation Facilities ................................................................................... 14
+                  Public School Site Recreation Facilities ................................................................................ 15
+                  State and Federal Recreation Facilities ................................................................................ 15
+                  Private Recreation Facilities .................................................................................................. 15
+          Current Recreation Demands and Needs ..................................................................................... 15
+                  Distribution of Recreational Space ........................................................................................ 16
+                  Visitor Recreation Demands ................................................................................................. 17
+                  All Inclusive Recreation ......................................................................................................... 18
+          Future Recreation Needs .............................................................................................................. 18
+                  Development of New Parks ................................................................................................... 19
+                  Use of School Recreation Sites ............................................................................................ 20
+                  Coordination with Conservation Areas and Natural Resources ............................................ 21
+                  Distribution of Future Recreational Facilities ......................................................................... 21
+          Summary ....................................................................................................................................... 21
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                         ROSE-i
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-ii                                                          October 2017
+                                                                                                      RECREATION & OPEN SPACE
+
+
+
+
+List of Tables
+Table 6-1: City of Kissimmee Inventory and Classification of Recreational Areas.................................. 13
+Table 6-2: Park Classification and Percentage Distribution ....................................................................17
+Table 6-3: Projected Recreation Facility Needs ......................................................................................19
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                 ROSE-iii
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-iv                                                          October 2017
+                                                                                                        RECREATION & OPEN SPACE
+
+
+
+
+List of Figures
+Figure 6-1: Existing Recreation Facilities Map ..........................................................................................9
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                    ROSE-v
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+                                 THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                                         City of Kissimmee | Comprehensive Plan 2017
+HE-vi                                                                                   October 2017
+                                                                                    RECREATION & OPEN SPACE
+                                                                                     Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives, and implementing policies for the Recreation and Open Space
+Element pursuant to §163.3177(6) (e), Florida Statutes.
+
+GOAL 6.1: PROVIDE ADEQUATE RECREATION AND OPEN SPACE.
+Ensure provision of a comprehensive system of recreation facilities and open space sites that meet
+the needs of existing and projected user groups within the City.
+
+       OBJECTIVE 6.1.1: SYSTEM OF PARKS AND RECREATION.
+       The system of parks and recreation facilities shall continue to be improved and maintained over
+       time in order to meet the needs of the existing and projected future population, including
+       recreational and open space outside of the City of Kissimmee limits in unincorporated Osceola
+       County but proximal to the City.
+
+               POLICY 6.1.1.1: LEVEL OF SERVICE STANDARDS FOR PARKS AND RECREATION FACILITIES.
+               The City of Kissimmee shall continue to maintain a minimum level of service standard of
+               5 acres per 1000 total residents. This standard shall be used as level of service criteria in
+               reviewing proposals for development orders or permits. When possible, the City shall go
+               beyond this standard and attain a higher level of service for its parks and recreation facilities.
+
+               POLICY 6.1.1.2: BALANCE OF PARK TYPES.
+               The City will continue to provide a balance of recreational facilities and parks to meet the
+               recreational needs of its existing and future residents including neighborhood, community,
+               regional, and special use park types, as well as large urban parks.
+
+               POLICY 6.1.1.3: DISTRIBUTION OF PARK TYPES.
+               The City shall continue to strive to locate new neighborhood, community, and special use
+               parks and recreation facilities in areas and neighborhoods with the least access to existing
+               parks and recreation facilities, in order to create an equitable distribution of parks throughout
+               the City. Access to different park types shall be based on a comparison of the approximate
+               travel distances on the transportation network anticipated for each park type to the
+               maximum recommended travel distances for each park type. Recreational and open space
+               areas should adjust with changing community preferences and may include passive and
+               active uses such as urban plazas, place-making mini-parks, cultural facilities, and dog parks
+               or skate parks.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                             ROSE-1
+RECREATION & OPEN SPACE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 6.1.1.4: PLANNED CAPITAL IMPROVEMENTS TO MEET RECREATION FACILITY
+                 DEMANDS.
+                 The Capital Improvements Element shall include scheduled funding for recreational
+                 facilities needed to meet deficiencies, and satisfy an equitable distribution of park types.
+
+                 POLICY 6.1.1.5: RECREATION IMPACT FEES FOR RECREATION IMPROVEMENTS.
+                 The City shall continue to enforce the mandatory recreation impact fee on all residential
+                 dwellings in order to ensure that new development provides for recreational demands
+                 generated by respective developments.
+
+                 POLICY 6.1.1.6: FUTURE RECREATIONAL CAPITAL IMPROVEMENT.
+                 If in the future the City identifies recreational improvements for which public funds are
+                 needed, as opposed to developer-financed improvements, the City shall schedule and
+                 incorporate such capital projects in the Capital Improvements Element.
+
+                 POLICY 6.1.1.7: MAINTENANCE OF RECREATION LAND AND FACILITIES.
+                 The City shall maintain existing and future recreational land and facilities through the
+                 City's general fund, recreation impact fees, and Capital Improvements budget for the
+                 materials, staffing, and equipment necessary to maintain those recreational lands.
+                 Recreational lands shall continue a regular schedule of maintenance by City employees to
+                 ensure that safety and aesthetic value is retained at all public parks, open space, and
+                 recreational facilities and properties throughout the City.
+
+         OBJECTIVE 6.1.2: PROTECT RECREATION FACILITIES AND PARKS.
+         The City shall continue to protect lands designated as recreation on the Future Land Use
+         Map from incompatible land uses, and such designated lands shall remain functionally intact.
+
+                 POLICY 6.1.2.1: PROTECTION FROM INCOMPATIBLE LAND USES.
+                 The City shall continue to protect all lands designated “Recreation” on the Future Land Use
+                 Map from incompatible land uses by reviewing all development plans within a 300 foot
+                 radius from all public park and recreation facility properties. Signage will be placed
+                 designating "public park" at all properties designated as public parks, recreation facilities,
+                 and/or open space to ensure that these properties remain functionally intact.
+
+                 POLICY 6.1.2.2: GRANTSMANSHIP FOR PASSIVE RECREATION FACILITY AND OPEN SPACE
+                 CONSERVATION.
+                 The City of Kissimmee shall continue to pursue recreation and open space grant funds from
+                 available state and federal programs in order to implement recreation, open space, and
+
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+ROSE-2                                                                                         November 2018
+                                                                               RECREATION & OPEN SPACE
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+               conservation goals, objectives, and policies maintaining in perpetuity a linear open space
+               system for recreation along Shingle Creek.
+
+               POLICY 6.1.2.3: JOINT CITY - COUNTY SHINGLE CREEK CORRIDOR CONSERVATION AND
+               RECREATION PROJECT.
+               The City shall continue to leverage funding and expand partnerships to enhance and
+               maintain the Shingle Creek Regional Multiuse Trail and the Shingle Creek Regional Park
+               which connect City and unincorporated County lands adjacent to environmentally fragile
+               and scenic segments of Shingle Creek.
+
+               POLICY 6.1.2.4: OPEN SPACE IN DEVELOPMENTS WITH RESIDENTIAL USES.
+               The City shall continue to protect open space systems in single family and multi-family
+               residential developments, and all mixed use projects with residential components outside
+               of the Multimodal Transportation District by enforcing the provisions in the Land
+               Development Code regarding open spaces in residential developments. These shall include
+               requiring that acreage equal to at least 25 percent of the buildable acreage be devoted to
+               open space. Of this requirement, the City shall continue to require acreage equal to at
+               least 3 percent of the buildable acreage for active recreation, but shall not require
+               acreage equal to more than 6 percent of the building acreage for passive recreation. Of
+               the total open space requirement, the City shall continue to require acreage equal to at
+               least 15 percent of the buildable acreage for passive recreation.
+
+       OBJECTIVE 6.1.3: ACCESS TO RECREATION FACILITIES.
+       All public recreational parks and facilities shall have operational automobile, bicycle and
+       pedestrian access as deemed appropriate by the City Commission. Accessibility shall be based
+       upon the size, scale, facilities and programming present at the facility.
+
+               POLICY 6.1.3.1: RIGHT-OF-WAY IMPROVEMENTS.
+               The City shall continue to provide maintenance of recreation facility right-of-ways by
+               qualified staff and by utilizing proper equipment. Landscaping and live plants will be
+               properly maintained. Structures will be inspected and repaired when damage is noticed.
+
+               POLICY 6.1.3.2: DESIGN OF ACCESS FACILITIES.
+               All new or redeveloped public parks and facilities shall be designed and constructed with
+               accessways that are compatible with the character and quality of on-site natural resources,
+               and are compatible with the Americans with Disabilities Act.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        ROSE-3
+RECREATION & OPEN SPACE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 6.1.3.3: PARKING AREAS AND BICYCLE ACCOMMODATIONS.
+                 The City shall continue to provide vehicular parking spaces and/or bicycle racks or lockers
+                 at recreational sites where needed and deemed feasible, and to meet multimodal
+                 transportation initiatives in the City.
+
+                 POLICY 6.1.3.4: FACILITIES FOR HANDICAPPED AND ELDERLY.
+                 The City shall continue to assure that future recreation areas and facilities are
+                 accessible to the disabled and the elderly.
+
+         OBJECTIVE 6.1.4: ACCESS TO LAKE TOHOPEKALIGA AND TRIBUTARIES.
+         The City of Kissimmee shall continue to provide and maintain access points to Lake Tohopekaliga,
+         which serves as an entry point to portions of tributaries such as the southern part of Shingle Creek.
+
+                 POLICY 6.1.4.1: REQUIRE THE AVAILABILITY AND MAINTENANCE OF BOAT RAMPS.
+                 The City shall assure access to Lake Tohopekaliga, and Shingle Creek, by continuing to
+                 provide and maintain the existing seven boat ramps at Lakefront Park. Through an
+                 agreement with Florida Fish and Wildlife Conservation Commission, the City must keep the
+                 boat ramps and facilities open for public use, maintained in accordance with all applicable
+                 health and safety standards and kept in good repair to prevent undue deterioration
+                 and provide for public use (Paragraph 3 of Agreement #88139). Access to Shingle Creek
+                 is via Lake Tohopekaliga.
+
+                 POLICY 6.1.4.2: PUBLIC ACCESS
+                 The City will continue to actively manage Lake Tohopekaliga’s natural areas to provide a
+                 safe and welcome area for the public.
+
+         OBJECTIVE 6.1.5: PUBLIC AND PRIVATE COORDINATION IN PLANNING FOR RECREATION
+         IMPROVEMENTS.
+         The City shall continue to coordinate planning for recreation improvements with each level of
+         government, including Osceola County, the Osceola County School Board, the State of Florida,
+         community organizations, and the private sector in order to promote recreational opportunities
+         in a cost effective manner. The City is not responsible for deficiencies in unincorporated Osceola
+         County.
+
+                 POLICY 6.1.5.1: JOINT FACILITIES USE AND PLANNING.
+                 The City shall continue to honor the Intergovernmental Recreational Facilities Agreement
+                 with the Osceola County School Board, and all other similar interlocal agreements
+                 governing co-location and joint-use of recreation facilities. The City has amended this
+                 agreement whereby both parties agree to improve existing school recreation sites so that
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+ROSE-4                                                                                        November 2018
+                                                                                RECREATION & OPEN SPACE
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+               these areas may also serve as neighborhood or community parks. Improvements should
+               concentrate on adding facilities that are shown to be deficient. The City and School Board
+               shall also jointly devise plans for developing recreational areas of future school sites to
+               neighborhood and community park standards in accordance with the Interlocal Planning
+               Coordination Agreement between the City and the School Board.
+
+               POLICY 6.1.5.2: CITY-COUNTY COORDINATION OF RECREATIONAL LEVELS OF SERVICE.
+               The City shall continue to coordinate its level of service standards for parks with those of
+               Osceola County in close proximity to the City. Upon annexation, any deficit in park land
+               acreage caused by the annexation shall be corrected by the City in order to meet the
+               adopted recreation level of service standard.
+
+               POLICY 6.1.5.3: COORDINATE WITH THE PRIVATE SECTOR.
+               The City shall continue to coordinate with the private sector as well as existing and future
+               businesses located within the City to develop additional mechanisms for accommodating
+               future recreation land and facility needs.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         ROSE-5
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+                                 THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                                         City of Kissimmee | Comprehensive Plan 2017
+HE-6                                                                                 November 2018
+                                                                               RECREATION & OPEN SPACE
+                                                                                                  Maps
+
+
+
+
+MAPS
+
+
+
+
+                                              Existing Recreation Facilities
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                             ROSE-7
+                                      HOUSING
+                                         Maps
+
+
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                 RECREATION & OPEN SPACE
+                                                                    Maps
+
+
+
+
+Figure 6-1: Existing Recreation Facilities Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                               ROSE-9
+                                      HOUSING
+                                         Maps
+
+
+
+
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                    RECREATION & OPEN SPACE
+                                                                                      Data, Inventory, and Analysis
+
+
+
+
+DATA, INVENTORY, AND ANALYSIS
+INTRODUCTION
+This Element presents an inventory of existing recreational facilities and parks within and near the City
+that are accessible to the public. The bounty of natural resources in the City and surrounding area
+present a wealth of recreation opportunities, and the City has capitalized on that proximity to establish
+and maintain a number of parks that showcase these amenities. Principally among these are Shingle
+Creek Regional Park and Lakefront Park. Also included in the recreation inventory are other municipal
+and county resource-based parks, as well as sites and parks geared toward programmed activities and
+organized sports.
+
+EXISTING CITY RECREATION FACILITIES
+All existing public-owned recreation facilities within the City are either resource- or activity-based facilities
+and are classified according to size and use. In resource-based facilities, recreational activities are based
+on the presence of a specific natural resource, such as a lake or stream. Activities available at resource-
+based parks tend to be passive in nature, such as picnicking, hiking, boating, and bird watching. Activity-
+based facilities rely on the presence of facilities that provide sites for programmed activities and sports,
+such as basketball courts or soccer fields, and which may also be used for unstructured play activities. A
+Recreation Space Classification System was developed and the different park types within the City are
+classified into the categories defined below.
+
+NEIGHBORHOOD PARK
+This park type incorporates mini-parks and school
+parks, as well as neighborhood parks. A
+neighborhood park may be less than an acre in size, or
+up to 10 acres. It is usually within a quarter mile to a
+half mile distance of users’ homes, uninterrupted by
+non-residential uses, wide roads and other physical
+barriers, or is located adjacent to school property.
+These parks are typically developed in or near
+residential areas to provide public parks for specific neighborhoods. Travel to the park is usually
+conducted by walking or bicycling. Neighborhood parks are usually operational during daylight hours only
+and contain amenities such as open space, playgrounds, practice fields and picnic facilities.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           ROSE-11
+RECREATION & OPEN SPACE
+Data, Inventory, and Analysis
+
+
+
+
+COMMUNITY PARK
+This park type serves a broader purpose than a neighborhood park, and the focus is on meeting
+community based recreational needs as well as preserving unique landscapes and open spaces. A
+community park is typically more than 10 acres in size, and may be up to 50 acres. It usually serves the
+parks and recreation needs of multiple neighborhoods and users may travel between a half mile and
+three miles to the park. Travel to the park is primarily conducted by walking, bicycling and motor vehicles.
+Community parks may typically contain an indoor recreation facility, lighted fields and courts, swimming
+pools and parking lots and are staffed and open to the public during evening hours.
+
+SPECIAL USE PARK
+These types are unique in nature and cover a broad
+range of park and recreation facilities and uses that
+are typically oriented towards a single purpose. They
+may be located on small parcels of land or may
+encompass a hundred acres or more, depending on
+the type and intensity of use. Travel to the park would
+typically be by motor vehicle. Users may travel longer
+distances and from outside the community to utilize a
+special use park. A special use park would contain
+higher intensity uses such as large public functions of an outdoor or indoor nature. Certain sports
+complexes, civic centers, aquatic centers, amphitheaters, and the like may be classified as special use
+parks.
+
+LARGE URBAN PARK
+This park type serves a broader purpose than community parks, these are used when community and
+neighborhood parks are not adequate to serve the needs of the community. The focus is on meeting
+community based park and recreational needs on a larger scale. The location of such a park is
+determined by the quality and suitability of the site and it usually serves the entire community. The size of
+a large urban park may vary but would usually contain a minimum of 20 acres, but up to 100 acres would
+not be uncommon. Travel to this type of park would typically be by motor vehicle but depending on its
+location, bicycles and pedestrians could also access the park. A large urban park could be open during
+evening hours and may be nature oriented or have multiple amenities that serve a particular purpose,
+such as boating, camping, or hiking. The only large urban park in the City is the Lakefront Park.
+
+REGIONAL PARK
+These parks provide recreational amenities to a geographic area wider than just the City and nearby
+areas. Typically larger than 100 acres, these parks serve multi-county areas and may be accessed by all
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+ROSE-12                                                                                      November 2018
+                                                                                              RECREATION & OPEN SPACE
+                                                                                                Data, Inventory, and Analysis
+
+
+
+
+modes of transportation, though are typically accessed by motor vehicle. These park types may be
+active or passive in nature, or a combination of both. They may include athletic complexes, and nature
+preserves, among others.
+
+Table 6-1 contains an inventory of parks operated and maintained by the City of Kissimmee, as well as
+their respective park classification. The locations of these facilities are illustrated on Figure 6-1.
+
+Table 6-1: City of Kissimmee Inventory and Classification of Recreational Areas
+ Park Type         Facility                                               Acreage
+ Regional          Shingle Creek Regional Park (inside City)               460.20
+                   Lancaster Ranch                                         169.21
+ Large Urban       New Wetland Area Near S John Young Pkwy                  96.36
+                   Lakefront Park / Brison Park                             41.38
+                   Denn John Softball Complex                                 9.62
+                   Bob Makinson Aquatic Center                                6.77
+                   Rainbow Park                                               2.39
+                   Berlins Community House                                    1.13
+                   Toho Marina                                                0.07
+ Special Use       Fortune Road Athletic Complex Southern Area              40.51
+                   Rose Hill Cemetery                                       37.82
+                   Fortune Road Athletic Complex                            36.22
+                   Civic Center                                             13.63
+                   Parks & Rec Admin Office                                   1.99
+                   Denn John Gym                                              0.46
+ Community         Oak Street Park                                          15.16
+                   Area near Clay St & Thacker Ave                            9.46
+                   Lake Side Community Park                                   6.97
+                   Area near W Emmett St & N Thacker Ave                      6.00
+ Neighborhood      Mill Slough Park                                           6.65
+                   Thacker Avenue Elementary School                           4.28
+                   Chambers Park                                              3.48
+                   Mill Run Park                                              2.50
+                   Quail Hollow Park                                          1.89
+                   Central Avenue Elementary School                           1.28
+                   Kendal Park                                                1.15
+                   Ladue Park                                                 0.71
+                   Orange Gardens Community Center                            0.43
+                   Beachamp Park                                              0.26
+                   North Kissimmee Tot Lot                                    0.24
+ TOTAL                                                                     978.22
+ TOTAL (not including school facilities)                                   972.66
+
+*The total area of Shingle Creek Regional Park is 973.18 acres. Source: City of Kissimmee, 2017.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                     ROSE-13
+RECREATION & OPEN SPACE
+Data, Inventory, and Analysis
+
+
+
+
+The recreation and open space inventory above shows that the City of Kissimmee has within its borders
+978 acres of publicly-owned property for recreational use, which based on its estimated 2015 population
+of 65,422, represents nearly 15 acres per 1,000 population. This total includes school facilities as
+neighborhood parks, which are available to City residents and are discussed further below. If these
+facilities are not included in the calculations, the City’s total is 973 acres, or approximately 14.9 acres per
+1,000 total residents.
+
+An interlocal agreement was established between the School Board and the City in 1988, which has
+since been revised several times and described further below, to allow the City to utilize school
+recreational areas and facilities for general public use. The schools represent facilities that the City Parks
+and Recreation Department currently utilize on an ongoing basis for City-sponsored programs.
+
+RECREATION FACILITIES MAINTAINED BY OTHER ENTITIES
+The City is not the only jurisdiction to provide parks and recreational facilities to residents of the City of
+Kissimmee. The following entities maintain recreation sites within or near the City that may be used by
+City residents. These facilities are not counted toward the achievement of the City’s recreation level of
+service standard.
+
+OSCEOLA COUNTY RECREATION FACILITIES
+In 1999, the City joined Osceola County, St. Cloud and the Osceola County School Board in recognizing
+that each contributes to the overall parks and recreation system within the County. The Cities of St.
+Cloud and Kissimmee offer comprehensive parks and recreation programs, and are responsible for
+providing a majority of active recreation opportunities to City and County residents, as well as residents
+in nearby Orange County. Osceola County, on the other hand, tends to provide mostly passive parks,
+boat ramps and special use parks such as the County’s Softball Complex, and many of these are outside
+the City’s boundary. The County also has a significant amount of undeveloped park lands that will
+eventually be open to the public for active and passive recreational uses. As the area grows and
+becomes increasingly urban, the county-wide system is under great pressure to provide additional
+program capacity, upgraded facilities and new parks and recreation facilities.
+
+
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+ROSE-14                                                                                        November 2018
+                                                                                  RECREATION & OPEN SPACE
+                                                                                    Data, Inventory, and Analysis
+
+
+
+
+PUBLIC SCHOOL SITE RECREATION FACILITIES
+An official agreement exists between the Osceola
+County School Board and the City of Kissimmee to
+allow the City to use school “property and any
+facilities constructed thereon” for recreational
+purposes, including playgrounds and athletic
+facilities at area schools. The Master Joint Use and
+Development of Recreational Facilities agreement
+was signed in May 1988, revised in 1997, 2003, and
+most recently in 2008, and outlines use and
+maintenance responsibilities. Co-location and the
+joint-use of facilities was also incorporated into the
+2003 interlocal agreement for the coordination of public school facilities planning, and the 2009
+agreement relating to school concurrency and the planning and coordination of public school facilities.
+School facilities are only available when the property is not being used for school purposes, however.
+
+STATE AND FEDERAL RECREATION FACILITIES
+Prairie Lake State Preserve, Three Lakes Wildlife Management Area, and Bull Creek Wildlife
+Management Area are managed by the Florida Fish and Wildlife Conservation Commission. They are all
+located in close proximity to each other, and approximately 8 miles north of Kenansville on SR 523. The
+three parks provide picnic areas, a boat ramp, hunting and fishing areas and hiking and biking trails.
+
+PRIVATE RECREATION FACILITIES
+A vast number of private recreational facilities within or near Kissimmee are available to the public. The
+City is within a twenty mile drive of several large, nationally recognized recreation attractions and
+amusement parks including Disney World Resort, Sea World of Orlando, and Universal Studios. A
+number of smaller commercial recreational facilities are also located within or adjacent to Kissimmee,
+including golf courses, batting cages, and putt-putt golf courses.
+
+Additionally, many private single family and multi-family housing developments provide much of the
+recreational opportunities for the City’s residents. Facilities include swimming pools, tot lots, tennis
+courts, open spaces, trails and the like.
+
+CURRENT RECREATION DEMANDS AND NEEDS
+The quality of recreation cannot be judged solely on the amount of land area dedicated to and developed
+for recreational uses, but invariably must consider the facilities provided, as well as the desires of the
+community. In general, facilities located in City parks enable residents to participate in both active and
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         ROSE-15
+RECREATION & OPEN SPACE
+Data, Inventory, and Analysis
+
+
+
+
+passive recreation activities. A variety of facilities and park types are available to service the recreation
+needs for a diverse range of interests and age groups, including soccer fields, baseball and softball
+fields, basketball and tennis courts, and swimming pools.
+
+The City of Kissimmee has determined that parks should be designed to provide service to both active
+and passive recreation needs, and be composed of parks of varying size in order to serve
+neighborhoods, communities, and the City as a whole. The City provides five basic park types,
+neighborhood parks, community parks, special use facilities, regional parks, and large urban parks.
+School facilities were not included in the needs analysis.
+
+Rather than establish a level of service (LOS) for each park type, the City has adopted an overall per
+capita LOS of five acres per 1,000 population. Based on this minimum standard, the City’s estimated
+2015 population of 65,422 would require 327.11 acres of recreational space to fulfill the recreation land
+demands. The City currently has a total of 972.66 acres of non-school recreation facilities, which is over
+600 acres more than the population would demand, based on the five acre per 1,000 standard. With the
+projected population of 92,445 in 2045, the City will still meet the minimum standard with more than ten
+acres per 1,000 people.
+
+The Shingle Creek regional park actually contains
+973.18 acres, but some of the land is within
+unincorporated Osceola County. The facility is managed
+jointly by the County and the City to allow resource-
+based recreational use, but is currently not included in
+the City’s LOS calculations. It should be noted,
+however, that the likelihood exists that this facility will be
+wholly within the City before the end of the planning
+period.
+
+DISTRIBUTION OF RECREATIONAL SPACE
+Although some recreational spaces are located in the northwest sector, that portion of the City presently
+lacks facilities to best meet the needs of nearby residents. Facilities are primarily comprised of special
+use parks and undeveloped open space, with school facilities that can provide additional recreational
+opportunities. Facilities at Kissimmee Elementary School adjacent to the existing Kissimmee Middle
+provide an opportunity for co-location of recreation facilities for nearby residents. This area is also served
+by the Kissimmee Trail that provides nearby residents access to schools and nearby Shingle Creek.
+
+Special Use parks are in high demand and provide additional opportunities to provide residents with
+needed active recreational facilities such as pools, ball fields and football/soccer fields. By involving the
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+ROSE-16                                                                                       November 2018
+                                                                                 RECREATION & OPEN SPACE
+                                                                                   Data, Inventory, and Analysis
+
+
+
+
+public, the City can determine what specific facilities are needed when parks are developed or expanded
+in the future.
+
+A minimum amount of area (five acres per 1,000 population) is required to satisfy level of service
+requirements that support the park types residents demand. Table 6-3 shows the percentage breakdown
+of park acreage by type, and does not include school facilities listed as neighborhood parks in Table 6-1.
+
+Table 6-2: Park Classification and Percentage Distribution
+ Park Type                  Acres    Percent of Total
+ Regional                   629.41       64%
+ Large Urban                157.72        16%
+ Special Use                130.64        13%
+ Community                   37.59         4%
+ Neighborhood                22.86         2%
+ Total                      978.22      100%
+
+Source: City of Kissimmee, 2017.
+
+According to the above table, the City contains almost two thirds of its recreation land in the Regional
+Park type of facility, namely Shingle Creek and Lancaster Ranch. The highest priority facility needs
+include trails, bikeways and sidewalks, miles of which have been constructed, and which will continue to
+be added to the City’s recreation and transportation systems. In its parks, the City has also worked to
+enhance indoor recreational facilities, play and practice fields and youth sports and school parks to
+continue to meet the needs of underserved areas in the community. Adding cultural opportunities, such
+as amphitheaters or public art, will provide additional opportunities to enhance the outdoor and
+recreation experience for residents and visitors.
+
+VISITOR RECREATION DEMANDS
+Thousands of tourists and visitors come to Osceola
+County and the City of Kissimmee every week. Many
+are attracted to the area by large amusement and
+theme parks located in or near the County. Although
+most tourists visiting Kissimmee for more than a day
+find shelter in motels, short-term rental residences or
+stay with friends or relatives, some stay at one of the
+three privately-owned campgrounds located within the City limits. The City does not maintain any public
+campground facilities at any of its parks. Like other tourists visiting the areas, campers are primarily here
+to visit one or more of the nearby major amusement parks or theme parks. With the number of campsites
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        ROSE-17
+RECREATION & OPEN SPACE
+Data, Inventory, and Analysis
+
+
+
+
+available provided by the privately operated campgrounds near Kissimmee, the City does not anticipate
+a need to provide any public campground sites in its parks.
+
+Only small portions of these visitors utilize municipal parks and recreational facilities while staying in the
+City. Those most likely to use City’s park are boaters, angler and campers, who actively take advantage
+of the recreational resources Lake Tohopekaliga and other nearby lakes have to offer. Based on current
+availability of boat ramps, fishing piers and lakefront parks along Lake Tohopekaliga, the City provides
+adequate facilities to meet the boating and fishing needs of both its residents and guests.
+
+ALL INCLUSIVE RECREATION
+The provision of recreational facilities should
+consider needs of people of all abilities, including the
+elderly, disabled, and young adolescents. Parks and
+recreational facilities should be designed to
+accommodate special access needs of both senior
+citizens and disabled persons. Neighborhood,
+community, and regional parks and special use
+facilities should include handicapped parking spaces
+for the mobility-impaired, while recreation facilities
+such as fishing piers, pavilions and ball field
+stadiums should contain ramp structures at entrance points to permit access and eventual participation.
+Without special design considerations at access points, many disabled persons and senior citizens may
+not be able to participate in active or passive recreation activities.
+
+FUTURE RECREATION NEEDS
+Future growth in resident population and in tourism within the City of Kissimmee will create a need for
+additional recreational space and facilities. Increased recreation needs, though, will largely be attributed
+to future residents, while tourists and visitors will only place a minimal impact on public recreation space
+and facilities. The future needs of each population group are further analyzed below.
+
+Table 6-4 describes the projected demand for recreational space through the year 2045. The project
+demand estimates were derived by comparing future populations projections with current available
+recreation acreage. Determination of future recreational facility demands is based on the existing
+standard of 5 acres per 1,000 persons. The recreation facilities the City provides are the only ones used
+to calculate achievement of LOS standards. Joint-ventures between the City and the County are not
+included in the calculations, but as noted earlier, both the School District and the County’s parks
+contribute toward the park space available for residents of Kissimmee. The table below indicates that
+the City will maintain its adopted LOS through the planning period in 2045. It should be noted that if the
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+ROSE-18                                                                                       November 2018
+                                                                                          RECREATION & OPEN SPACE
+                                                                                            Data, Inventory, and Analysis
+
+
+
+
+two large regional parks are excluded from the calculation, the remaining recreation land consists of
+approximately 349 acres. With the exclusion, the 2015 LOS is 5.3 acres per 1,000 persons and the
+projected LOS in 2045 falls to 3.8 acres per 1,000 persons.
+
+Table 6-3: Projected Recreation Facility Needs
+ Year                City Population Projection           Acres Needed*           Actual LOS ( acres per 1,000)
+ 2015                         65,422                          327.11                         14.95
+ 2020                           74,560                         372.80                        13.12
+ 2025                           82,688                         413.44                        11.83
+ 2030                           88,416                         442.08                        11.06
+ 2035                           91,392                         456.96                        10.70
+ 2040                           92,416                         462.08                        10.58
+ 2045                           92,445                         462.23                        10.58
+
+*Based on projected population and adopted LOS of 5 acres per 1,000 population.
+
+Future recreation demands created by tourists and visitors will primarily be met by privately-owned
+recreational facilities. Only a minimal demand for public recreation will be created by future tourists and
+visitors, most of who will come to the area to visit major theme and amusement parks. Boating and
+fishing opportunities found within Lake Tohopekaliga will continue to attract anglers and boaters to the
+lakefront area, which will undergo redevelopment during the planning period.
+
+DEVELOPMENT OF NEW PARKS
+Although the City (when all acreage of the Shingle Creek Regional Park is included) has a large surplus
+of recreation acreage relative to the demand that will be created by 2045, additional parks will needed in
+neighborhoods that lack close access to neighborhood and community parks, to maintain an equitable
+distribution of recreation facilities, and to keep pace with future recreational space and facility demands.
+
+Extension and development of new and existing trails, bikeways and sidewalks will increase access
+between neighborhoods and public spaces, which effectively increases the service area of smaller park
+types. These parks and facilities should be designed to serve those specific areas and provide facilities
+according to the needs of residents of the surrounding areas.
+
+The least expensive and most expedient means of augmenting recreation services include:
+
+1. Providing additional facilities at existing developed parks, thereby expanding their service areas as
+   well as the population they will serve;
+
+2. Upgrading and improving open spaces to serve a more intensive recreational function where
+   consistent with conservation objectives.
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                 ROSE-19
+RECREATION & OPEN SPACE
+Data, Inventory, and Analysis
+
+
+
+
+Additionally, large private developments may need to dedicate public park lands to the City in order to
+meet the demand in particular areas of the City. As
+noted above, the City has an abundance of regional
+park facilities and open spaces, which are geared
+primarily to preservation and passive recreation. In
+the future the City will consider increasing the
+percentage of acres devoted to neighborhood,
+community and special use parks. Providing new
+types of parks also will be provided or explored as
+community preferences change with time, such as
+dog parks, splash parks, skate parks, plazas in urban
+areas, and unforeseen opportunities.
+
+USE OF SCHOOL RECREATION SITES
+The use of school recreation sites for public recreation purposes represents an efficient use of these
+facilities and of public tax expenditures. Once students leave school grounds after daily classes end,
+recreational facilities are left unused when not made available to the public. School recreation facilities
+are available for public use through the Interlocal Agreements between the City, the County, the City of
+St. Cloud, and the Osceola County School Board, which specifically include a section on co-location of
+public schools and public recreation facilities. At times, however, these existing school facilities must be
+augmented and improved before they will adequately meet recreational needs of the general public.
+
+The City of Kissimmee and the School District will continue to coordinate all future development plans so
+decisions on future school site locations can incorporate both educational and recreational needs of the
+City’s residents. Similarly, the locations of parks near schools also compliment the athletic and recreation
+activities available to students. Since school recreation sites will generally serve areas identical to their
+education service areas, school facilities should be utilized for the following recreational purposes:
+
+   Elementary School facilities as Neighborhood Parks
+
+   Middle School facilities as Neighborhood or Community Parks
+
+   High School facilities as Neighborhood, Community or Special Use Parks
+
+Recreational facilities located within these school types should comply with Department of Education
+guidelines, and the City shall coordinate with the School District to ensure the facilities will also meet City
+standards for the above recreational classification.
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+ROSE-20                                                                                       November 2018
+                                                                                    RECREATION & OPEN SPACE
+                                                                                      Data, Inventory, and Analysis
+
+
+
+
+COORDINATION WITH CONSERVATION AREAS AND NATURAL RESOURCES
+In addition to their recreational purposes, parks located between natural resource protection areas and
+urban development often serve to protect the health and safety of residents by preventing natural or
+man-induced hazards from entering populated areas. As open space, parks can serve as buffers
+between incompatible land uses, such as industrial and residential uses. Their presence can also
+prevent development from intruding into, and detrimentally affecting, environmentally sensitive areas,
+such as wetlands and certain vegetative communities. Future recreational spaces may best be located
+along or within natural resource areas, where they can serve both recreational and conservation
+functions. A number of Kissimmee’s parks are already located adjacent to natural resources.
+
+Natural waterways and canals, and stormwater management areas, represent ideal locations to develop
+linear parks and open space corridors, as well as pedestrian and bicycle pathways that can enhance and
+diversify the City’s transportation network. With park locations already bordering these corridors, the City
+can continue to develop an inter-connected park system that traverses through several residential
+neighborhoods.
+
+DISTRIBUTION OF FUTURE RECREATIONAL FACILITIES
+Recreational space, particularly neighborhood and community parks, should be located in areas
+accessible to Kissimmee’s population. Current recreational space may meet the adopted LOS for total
+area, but existing parks may not necessarily be located in areas of current and future residential growth.
+Many parks are located south of Vine Street, but new development is most likely to the northwest and
+northeast portions of the City. Additionally, redevelopment opportunities are primarily located in the
+central area of the City. Future recreational spaces will need to be located in areas where growth and
+development are anticipated to occur.
+
+The City of Kissimmee should continue to coordinate its future recreation plans with the County and
+School District to avoid duplication of services provided by both entities. The City of Kissimmee should
+also encourage the County to implement the proposed parks and recreation system outlined in the
+County Master Plan, which is in the process of being updated for the new decade. The City will also
+continue to require private developers to supply parks and recreational facilities as part of development
+projects with residential uses, according to the Land Development Code.
+
+SUMMARY
+The City will continue to provide parks and recreational facilities to existing and projected residents, and will
+do so by taking into account residents’ recreational preferences, geographic concentrations, and land
+available for recreation sites. In order to provide additional facilities, the City may require the dedication of
+public recreation facilities as part of large private development projects. Additionally, as the City annexes
+land, recreation facilities may come to be located within the City boundary. This will increase the quantity
+of recreation lands with the City, and raise the actual LOS above the minimum required standard.
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           ROSE-21
+

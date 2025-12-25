@@ -1,0 +1,9 @@
+{
+  "name": "persistent-repl",
+  "description": "Python REPL wrapper with persistent storage using dill for interactive calculations and debugging",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  }
+}

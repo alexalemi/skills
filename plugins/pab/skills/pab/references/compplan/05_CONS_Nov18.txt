@@ -1,0 +1,1535 @@
+TRANSPORTATION
+
+
+
+
+                 THIS PAGE INTENTIONALLY LEFT BLANK.
+Kissimmee
+2040 Comprehensive Plan
+Conservation
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+November 2018
+
+Cover photo source: City of Kissimmee Public Information Office
+TRANSPORTATION
+
+
+
+
+                 THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                                          CONSERVATION
+
+
+
+
+Table of Contents
+Goals, Objectives, and Policies .............................................................................................................. 1
+          Goal 5.1: Conservation. .................................................................................................................. 1
+                  Objective 5.1.1: Protect Air Quality. ......................................................................................... 1
+                  Objective 5.1.2: Water Quality. ............................................................................................... 1
+                  Objective 5.1.3: Water Quantity. ............................................................................................. 5
+                  Objective 5.1.4: Maintenance Of Floodplain. .......................................................................... 6
+                  Objective 5.1.5: Protect and Preserve Wetlands. ................................................................... 7
+                  Objective 5.1.6: Combat Soil Erosion. .................................................................................... 7
+                  Objective 5.1.7: Preventing Potential Adverse Impacts of Future Mining and Excavation
+                    Activities.............................................................................................................................. 7
+                  Objective 5.1.8: Protect Native Vegetation. ............................................................................ 8
+                  Objective 5.1.9: Protecting Fisheries, Wildlife and Wildlife Habitats and Other Environmentally
+                    Sensitive Areas. .................................................................................................................. 8
+                  Objective 5.1.10: Hazardous Waste Management.................................................................. 9
+                  Objective 5.1.11: Encourage the Conservation and Appropriate Use of Energy. ................... 9
+                  Objective 5.1.12: Intergovernmental Coordination for Managing Conservation Activities. .... 13
+
+Maps ........................................................................................................................................................ 15
+
+Data, Inventory, and Analysis ............................................................................................................... 31
+          Introduction ................................................................................................................................... 31
+          Water Resources .......................................................................................................................... 31
+                  Surface Water Quality and Quantity ...................................................................................... 31
+                  Potable Water Supply and Demand ...................................................................................... 32
+                  Water Conservation .............................................................................................................. 33
+                  Groundwater ......................................................................................................................... 33
+                  Floodplains ............................................................................................................................ 34
+          Soils and Geology ......................................................................................................................... 35
+                  Major Soil Types ................................................................................................................... 35
+                  Soil Erosion ........................................................................................................................... 35
+                  Mineral Resources ................................................................................................................ 36
+                  Topography ........................................................................................................................... 36
+                  Hazardous wastes ................................................................................................................. 36
+          Vegetative Communities ............................................................................................................... 37
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                        CONS-i
+CONSERVATION
+
+
+
+
+             Listed Species and Habitat Protection .................................................................................. 37
+      Use and Preservation of Natural Resources and Communities .................................................... 40
+             Recreation ............................................................................................................................. 40
+             Conservation ......................................................................................................................... 40
+             Air Quality .............................................................................................................................. 40
+             Energy Efficiency .................................................................................................................. 41
+      Summary ....................................................................................................................................... 42
+
+
+
+
+                                                                                          City of Kissimmee | 2040 Comprehensive Plan
+CONS-ii                                                                                                               November 2018
+                                                                                                                     CONSERVATION
+
+
+
+
+List of Tables
+Table 5-1: Listed Species in Osceola County .........................................................................................37
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                CONS-iii
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-iv                                                          October 2017
+                                                                                                                               CONSERVATION
+
+
+
+
+List of Figures
+Figure 5-1: Wetlands and Water Bodies Map .........................................................................................17
+Figure 5-2: Wells Area Map ....................................................................................................................19
+Figure 5-3: Flood Plains Map ..................................................................................................................21
+Figure 5-4: Soil Types Map .....................................................................................................................23
+Figure 5-5: Topography Map ..................................................................................................................25
+Figure 5-6: Vegetative Cover Map ..........................................................................................................27
+Figure 5-7: Rare Species Habitat Map ...................................................................................................29
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                           CONS-v
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+                                 THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                                         City of Kissimmee | Comprehensive Plan 2017
+HE-vi                                                                                   October 2017
+                                                                                             CONSERVATION
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives, and implementing policies for the Conservation Element pursuant
+to §163.3177(6)(d), Florida Statutes.
+
+GOAL 5.1: CONSERVATION.
+Conserve, protect, and appropriately manage the natural resources within the corporate limits of the City in
+order to enhance the quality of natural systems, including Lake Tohopekaliga, Shingle Creek, and Mill
+Slough, as well as associated floodplains, wetlands, flora, and fauna, the surficial and Floridian aquifers,
+and other natural resources, as below directed.
+
+       OBJECTIVE 5.1.1: PROTECT AIR QUALITY.
+       The City shall meet or exceed the minimum air quality standards established by the Florida
+       Department of Environmental Protection (FDEP).
+
+               POLICY 5.1.1.1: AIR POLLUTION AND LAND USE REGULATIONS.
+               The City shall continue to protect against loss of air quality by maintaining land use
+               controls that promote only activities compatible with existing land uses and natural systems
+               and prohibit activities that generate air pollutants and other adverse impacts. The City's
+               Land Development Code shall continue to require that air pollutants (smoke, certain
+               greenhouse gases, particulate matter, odor, and toxic matter) comply with FDEP
+               standards.
+
+               POLICY 5.1.1.2: AIR POLLUTION MONITORING PROCEDURES.
+               The City shall continue to work with FDEP, MetroPlan Orlando, and other organizations to
+               improve air quality in the region.
+
+               POLICY 5.1.1.3: COMBAT EROSION AND GENERATION OF DUST PARTICLES.
+               Land Development regulations shall maintain performance standards that combat erosion
+               and generation of fugitive dust particles. The regulations shall require that measures be
+               taken on building sites or cleared areas which assure that exposed, destabilized, or other
+               altered soil is expeditiously covered with an acceptable erosion control material, per
+               construction and development best management practices.
+
+       OBJECTIVE 5.1.2: WATER QUALITY.
+       The water quality regulations established by the South Florida Water Management District
+       (SFWMD) shall be enforced by the City, in order to protect the quality of current and projected
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         CONS-1
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+        future water sources and surface water run-off. The City shall maintain water quality regulations in
+        accordance with Chapter 4A: Potable Water Sub-Element of the Public Facilities Element.
+
+                 POLICY 5.1.2.1: PROTECTION OF CLASS III WATER BODIES.
+                 Class III Waters are waterbodies that currently support recreation and foster the
+                 maintenance of fish and aquatic wildlife. All lakes and major tributaries within the City of
+                 Kissimmee, including Lake Tohopekaliga, Shingle Creek, and Mill Slough, are Class III
+                 waters. These waters shall be protected by maintaining the following provisions in the
+                 City's land development regulations:
+
+                      1. Dredging activities shall be limited to Florida Department of Environmental
+                         Protection (FDEP) approved dredging.
+
+                      2. Ensure water quality by coordinating with the FDEP and the SFWMD in
+                         maintaining records of stormwater management practices, usage, construction and
+                         maintenance costs, and any required monitoring of selected stormwater
+                         management facilities. The City shall notify the appropriate agency with jurisdiction
+                         as potential issues or problems are identified by the City.
+
+                      3. Limit the use of Class III waters to water dependent activities that are not contrary
+                         to the public interest and satisfy a community need.
+
+                      4. Where modification of grassbeds is permitted the City shall assure that:
+
+                      a. A determination of overriding public interest has been demonstrated by the
+                         applicant prior to modification of grassbeds.
+
+                      b. Project run-off, including nitrogen, phosphorous, and other nutrients, shall be
+                         controlled to prevent an increase in water turbidity, decrease in fish or aquatic
+                         wildlife propagation, or other degradation of water quality.
+
+                      c. Projects damaging grassbeds during construction shall incorporate mitigative
+                         techniques that re-establish conditions favorable to natural regeneration of the
+                         grassbeds.
+
+                      d. Special attention shall be given to stipulations cited in (1) through (3) above during
+                          the development review process. The City shall coordinate closely with State and
+                          federal agencies during the permitting processes to insure that the intent of these
+                          policies is carried out.
+
+
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+CONS-2                                                                                         November 2018
+                                                                                                 CONSERVATION
+                                                                                     Goals, Objectives, and Policies
+
+
+
+
+               POLICY 5.1.2.2: COORDINATION WITH WATER RESOURCE AGENCIES.
+               The City of Kissimmee shall continue to coordinate with appropriate agencies to protect
+               the quality of the City’s water resources, including:
+
+               1. The City of Kissimmee shall continue to cooperate with the Florida Fish and Wildlife
+                  Conservation Commission's (FFWCC) Lake Tohopekaliga fisheries management
+                  efforts, which includes a lake restoration program. The restoration program involves
+                  periodic drawdowns of lake waters for removal of organic sediment.
+
+               2. The City of Kissimmee shall continue to cooperate with the U.S. Army Corps of
+                  Engineers which serves as the lead agency in an ongoing water quality enhancement
+                  program impacting Shingle Creek.
+
+               3. The City of Kissimmee shall continue to promote land acquisition programs to purchase
+                  property rights in the vicinity of portions of Shingle Creek, and Reedy Creek within and
+                  nearby Kissimmee for the purpose of conserving and protecting environmentally
+                  sensitive lands. Purchase of this property is intended to enhance floodplain protection,
+                  water management, water supply, and water resource protection efforts, while allowing
+                  for appropriate recreation and open space uses.
+
+               4. The City shall also continue to coordinate with the East Central Florida Regional
+                  Planning Council (ECFRPC) and the FDEP in matters regarding documentation of:
+
+                   a. Stormwater best management practices;
+
+                   b. Stormwater facility construction and maintenance costs; and
+
+                   c. Monitoring of selected stormwater management facilities.
+
+                   5. The City shall continue to coordinate with the ECFRPC, FDEP, the SFWMD and
+                      other entities to educate the general public on the nonpoint source pollution
+                      problems and available stormwater management practices to abate nonpoint source
+                      impacts on water quality.
+
+               POLICY 5.1.2.3: REGULATE AGRICULTURAL ACTIVITIES TO PRESERVE WATER QUALITY.
+               The City shall continue to ensure that any agricultural activities shall:
+
+               1. Not be conducted adjacent to existing waterways and surface water management
+                   activities and shall comply with all applicable policies of the FDEP, SFWMD, and
+                   other agencies having appropriate jurisdiction as well as State laws;
+
+               2. Maintain natural drainage patterns;
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                             CONS-3
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+                      a. Promote the use of alternative surface water supplies for irrigation purposes;
+
+                      b. Prohibit the expansion of agricultural activities into wetland areas; and
+
+                      c. Use best management principles and practices in order to reduce pesticide and
+                         fertilizer run-off, prevent soil erosion, and preserve water quality.
+
+                 POLICY 5.1.2.4: REGULATE WASTEWATER TREATMENT DISCHARGE TO PRESERVE WATER
+                 QUALITY.
+                 The City shall continue to implement the following performance standards in order to
+                 protect water quality:
+
+                 1. All new residential subdivisions as well as multiple family and non-residential
+                    development within the City of Kissimmee shall be required to connect to the public
+                    wastewater system pursuant to Chapter 10-5 of the Code of Kissimmee.
+
+                 2. In areas where developments cannot be connected to the public wastewater system,
+                      private wastewater disposal systems are acceptable as interim measures providing
+                      such facilities are approved by the City Water Resources Director's office.
+                      Notwithstanding, all private wastewater disposal systems shall be designed to
+                      facilitate mandatory hookups to the public wastewater system when the public system
+                      becomes available.
+
+                 3. The City of Kissimmee shall promote application of innovative concepts in
+                    wastewater collection and disposal including wastewater reuse through such
+                    programs as use of "graywater" for spray irrigation and other non-potable uses.
+
+                 POLICY 5.1.2.5: SHORELINE PRESERVATION.
+                 The City shall continue to require that all new development preserve native vegetation
+                 and re-vegetate areas of the shorelines of Lake Tohopekaliga, Shingle Creek, Mill Slough,
+                 and the City Ditch, where erosive tendencies are present, with native species to reduce
+                 erosion.
+
+                 POLICY 5.1.2.6: SHORELINE SETBACKS.
+                 In addition, the City of Kissimmee shall continue to protect the floodplain of Shingle Creek,
+                 the East and West City Ditch, and Mill Slough by requiring that any development maintain
+                 a minimum 150 foot setback from the edge of these riparian and drainage waterbodies.
+                 The City Engineer shall maintain authority to require greater setback for purposes of
+                 protecting floodplains and other environmentally sensitive areas which require a greater
+                 setback for purposes of floodplain protection and preservation.
+
+
+
+
+                                                                    City of Kissimmee | 2040 Comprehensive Plan
+CONS-4                                                                                          November 2018
+                                                                                           CONSERVATION
+                                                                               Goals, Objectives, and Policies
+
+
+
+
+               POLICY 5.1.2.7: PROTECT SURFICIAL AQUIFER RECHARGE AREAS.
+               The City of Kissimmee shall continue to require the incorporation of open space and/or
+               pervious surfaces in order to preserve the quality of water resources within the surficial
+               aquifer.
+
+               POLICY 5.1.2.8: WELLFIELD PROTECTION.
+               The City shall continue to enforce the city’s wellfield protection ordinance, as amended
+               from time to time, to prevent future intrusion of groundwater contaminants into the
+               Floridian Aquifer wellfield areas, create buffer zones around wellfields, and controlling
+               land uses around wells.
+
+               POLICY 5.1.2.9: LOW-IMPACT DEVELOPMENT TECHNIQUES.
+               The City shall continue to encourage the use of low-impact development techniques for
+               on-site stormwater quality improvements for all land development and redevelopment
+               projects.
+
+       OBJECTIVE 5.1.3: WATER QUANTITY.
+       The City shall continue to maintain its adopted level of service standard in order to conserve the
+       availability of current and future water sources.
+
+               POLICY 5.1.3.1: CONSERVATION OF POTABLE WATER SUPPLY.
+               In order to conserve the potable water supply and to achieve a reduction in the current
+               rates of water consumption, the City shall continue to enforce the following performance
+               standards:
+
+               1. Where non-potable alternative sources of irrigation water are available, potable water
+                  supplies may not be used to meet irrigation needs.
+
+                   2. Encourage adherence to water saving plumbing fixtures in all new construction
+                      or renovations. Also, the City of Kissimmee shall conserve water supply through
+                      use of a leak detection program designed to curtail wasteful loss of potable water
+                      resources.
+
+                   3. In order to reduce demand for irrigation water, new development shall employ
+                      and/or preserve native vegetation, or use other drought resistant plants for
+                      landscaping to the greatest practicable extent. Native Florida plants shall be
+                      promoted where possible. Where a non-potable water source is available for
+                      irrigation, more highly water dependent vegetation may be used.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                       CONS-5
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 5.1.3.2: DEEP AQUIFER WATER CONSERVATION.
+                 In order to protect the quantity of the Floridan aquifer, the City shall continue to coordinate
+                 with the SFWMD and other applicable regulatory agencies in identifying free flowing deep
+                 aquifer wells and in requiring corrective measures which control the discharge of water from
+                 deep aquifer.
+
+                 POLICY 5.1.3.3: FUTURE WATER DEMAND.
+                 The City’s 10-Year Water Supply Facilities Work Plan shall be reviewed and updated as
+                 needed to correspond with the Regional Water Supply Plan, dated 2015. The City’s 10-Year
+                 Water Supply Facilities Work Plan shall include a minimum 10-year planning period to
+                 ensure potable water demands are considered, and groundwater quantity is adequate, to
+                 support projected demand. The City shall coordinate with TWA regarding the anticipated
+                 water demand and available supply.
+
+                 POLICY 5.1.3.4: EMERGENCY CONSERVATION OF WATER SOURCES.
+                 The City shall continue to coordinate with the SFWMD in implementing emergency water
+                 conservation measures based on the SFWMD plans for management of the region's water
+                 resources.
+
+        OBJECTIVE 5.1.4: MAINTENANCE OF FLOODPLAIN.
+        The City shall continue to preserve floodways and prohibit their reduction in the available
+        storage to the floodplain in order to protect and maintain their flood-carrying and flood storage
+        capacity.
+
+                 POLICY 5.1.4.1: ENFORCE POLICIES TO MAINTAIN FLOODPLAIN.
+                 The City shall continue to provide that flood control measures for new development
+                 minimize fill within the 100-year floodplain. All development within the floodplain shall be
+                 consistent with all federal, state and local rules.
+
+                 POLICY 5.1.4.2: MINIMIZE FLOOD DAMAGE.
+                 The City's stormwater management and flood protection policies and regulations shall
+                 maintain consistency with program policies of the Federal Insurance Administration. The
+                 City shall continue to monitor new cost effective programs for minimizing flood damage.
+                 Such programs may include modification in construction setback requirements or other
+                 site design techniques, as well as upgrade building and construction techniques to
+                 protect against flood hazards.
+
+
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+CONS-6                                                                                         November 2018
+                                                                                             CONSERVATION
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+       OBJECTIVE 5.1.5: PROTECT AND PRESERVE WETLANDS.
+       The City's wetlands shall continue to be protected and preserved from physical and hydrologic
+       alterations.
+
+               POLICY 5.1.5.1: WETLAND DEVELOPMENT RESTRICTIONS.
+               Wetlands (i.e., wetlands shall include hydric soils and wetland species identified by the
+               Florida Department of Environmental Protection (FDEP)) shall be protected from physical
+               or hydrologic alterations in order to maintain natural functions. Development in designated
+               wetlands shall be limited to passive recreation, open space, restricted accessway, bird
+               sanctuary, natural stormwater retention/detention and natural preserve, in accordance
+               with the City’s Conservation Overlay regulations in the Land Development Code. At a
+               minimum, encroachment into a designated wetland shall be limited by the 50 foot
+               wetland buffer, and shall be mitigated in accordance with current South Florida Water
+               Management District and FDEP policy.
+
+               POLICY 5.1.5.2: LITTORAL ZONES.
+               A vegetated littoral zone shall be established around functional wetlands occurring on all
+               property, excluding beaches, seawalled areas, and navigation areas.
+
+       OBJECTIVE 5.1.6: COMBAT SOIL EROSION.
+       Continue to reduce the incidence of soil erosion caused by land clearing, breaches in stabilized
+       shorelines, and lands having exposed soil without vegetative cover by utilizing best
+       management practices identified by the Florida Department of Environmental Protection.
+
+               POLICY 5.1.6.1: IMPLEMENTING EROSION CONTROL.
+               The City shall continue to specify appropriate measures to be taken during land clearing
+               and building operations to assure that exposed, de-stabilized or otherwise altered soil is
+               expeditiously covered with an acceptable erosion control material. These provisions shall
+               be applicable to the act of subdividing and installation of related improvements as well as
+               during the development review process including the period during which improvements are
+               being undertaken. Tree protection and erosion control measures shall be applicable to all
+               clearing and grading activities and shall include specifications for managing vegetation and
+               re-vegetation.
+
+       OBJECTIVE 5.1.7: PREVENTING POTENTIAL ADVERSE IMPACTS OF FUTURE MINING AND
+       EXCAVATION ACTIVITIES.
+       No mining activities shall be permitted within the City of Kissimmee due to the presence of natural
+       systems that would potentially receive irretrievable losses from the impacts of such operations.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         CONS-7
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 5.1.7.1: PROHIBITION AGAINST MINING ACTIVITIES.
+                 Land development regulations shall prohibit mining activities based on the irretrievable
+                 losses which such intense activities may potentially impose on the City's ecosystem
+
+                 POLICY 5.1.7.2: RECLAMATION ACTIVITIES.
+                 The City shall require that mining sites, including borrow pits, located within
+                 unincorporated Osceola County undergo reclamation as a condition of voluntary
+                 annexation. The procedures and specifications for achieving such reclamation shall
+                 continue to be included in the land development regulations.
+
+        OBJECTIVE 5.1.8: PROTECT NATIVE VEGETATION.
+        The City shall continue to protect and retain native vegetation, including hardwood swamps and
+        freshwater marshes, particularly the hardwood hammock community and wetlands along the
+        shoreline of Lake Tohopekaliga, Shingle Creek, Mill Slough, and the City Ditch.
+
+                 POLICY 5.1.8.1: IMPLEMENTING PROTECTION OF VEGETATIVE COMMUNITIES.
+                 The City shall continue to maintain tree protection and land clearing regulations, as well as
+                 landscape regulations and shoreline protection rules, which shall be used in managing and
+                 protecting the impacts of development on hardwood swamps and freshwater marshes.
+                 The regulations shall mandate fair and equitable restoration and/or compensatory
+                 mitigative measures in order to compensate for loss of vegetation and to enhance
+                 stabilization of fragile slopes and/or shorelines.
+
+        OBJECTIVE 5.1.9: PROTECTING FISHERIES, WILDLIFE AND WILDLIFE HABITATS AND
+        OTHER ENVIRONMENTALLY SENSITIVE AREAS.
+        The City shall continue to coordinate with Osceola County, the South Florida Water
+        Management District (SFWMD), and the State in protecting fisheries, wildlife, and wildlife habitat.
+
+                 POLICY 5.1.9.1: MANAGE THE IMPACTS OF DEVELOPMENT ON FISHERIES.
+                 The City of Kissimmee shall continue to coordinate with the SFWMD, the Florida Fish
+                 and Wildlife Conservation Commission, and the Florida Department of Environmental
+                 Protection, as appropriate, in reviewing the implications of development proposals,
+                 including proposed subdivisions and site plan review petitions. Such coordination shall be
+                 designed to assist in identifying potential adverse impacts of proposed development on
+                 fisheries. The City shall continue to enforce performance standards that are designed to
+                 preserve the water quality within Lake Tohopekaliga, and which protect aquatic grassbeds
+                 and in order to preserve aquatic habitats and fisheries.
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+CONS-8                                                                                        November 2018
+                                                                                              CONSERVATION
+                                                                                  Goals, Objectives, and Policies
+
+
+
+
+               POLICY 5.1.9.2: PROTECT WILDLIFE AND WILDLIFE HABITATS.
+               The City shall continue to enforce provisions that restrict development activities known to
+               adversely impact endangered, threatened, or rare wildlife and wildlife habitats as well as
+               wildlife and wildlife habitats of special concern. The City shall continue to further protect
+               wildlife and wildlife habitats by use of conservation easements.
+
+               POLICY 5.1.9.3: DESIGNATION OF NATURAL RESERVATIONS.
+               Natural reservations shall be designated as Conservation land uses on the Future Land Use
+               Map.
+
+       OBJECTIVE 5.1.10: HAZARDOUS WASTE MANAGEMENT.
+       The City of Kissimmee shall continue to coordinate with Osceola County as well as appropriate
+       Federal, State and regional agencies for managing hazardous waste.
+
+               POLICY 5.1.10.1: MANAGING HAZARDOUS WASTE.
+               The City shall adhere to the provisions set forth in the Resource Conservation and Recovery
+               Act (RCRA) (U.S. Congress, 1976) and its amendments in order to protect potable water
+               supplies, environmentally sensitive soils, native vegetation, and air quality from the harmful
+               effects of hazardous wastes. The City shall continue to work with the County and
+               appropriate State and regional agencies in identifying industries which use hazardous
+               materials or generate hazardous wastes.
+
+       OBJECTIVE 5.1.11: ENCOURAGE THE CONSERVATION AND APPROPRIATE USE OF
+       ENERGY.
+       The City of Kissimmee shall continue to monitor state-of-the-art concepts for managing energy
+       resource conservation and reducing greenhouse gas emissions. Consider application of those
+       concepts that have been demonstrated to be successful and cost effective in resolving
+       development and conservation issues.
+
+               POLICY 5.1.11.1: ENERGY SUPPLY.
+               Promote an adequate, flexible, reliable, economical and environmentally sound future
+               supply of energy. The City of Kissimmee shall continue to:
+
+                  Assist in developing and improving the availability of accurate cost-effective
+                   information concerning energy supplies available to the region and County.
+
+                  Assist in promoting diversification of energy sources by encouraging a safe and orderly
+                   transition from diminishing petroleum resources to alternative, and/or cleaner burning
+                   energy technologies as they become available.
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          CONS-9
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+                     Promote orderly transition from present non-renewable fuels to renewable energy
+                      sources and consumption patterns.
+
+                     Work with the State, East Central Florida Regional Planning Council (ECFRPC) and
+                      Osceola County to promote use of demonstrated cost efficient energy technology
+                      employing resource recovery systems and recycling efforts which reduce
+                      greenhouse gas emissions and total energy use, reducing depletion of natural
+                      resources.
+
+                 POLICY 5.1.11.2: USE OF ENERGY.
+                 The City shall continue to:
+
+                     Consider the effectiveness of total energy use by promoting practices that are
+                      cost effective and less energy-intensive.
+
+                     Promote practices that ensure that each form of energy is used to do work for
+                      which it is best suited
+
+                     Recognize the energy services provided by natural features of the environment,
+                      including landscape, sun and wind, and promote site development and resource
+                      management that complements or substitutes for energy-intensive technologies.
+
+                     Encourage citizens to undertake individual and group actions to conserve energy
+                      and other resources and assist in providing knowledge of techniques for achieving
+                      this objective.
+
+                 POLICY 5.1.11.3: MANAGEMENT OF ENERGY SUPPLIES AND USE.
+                 The City shall continue to:
+
+                     Promote management of energy supplies and use which is consistent with
+                      environmental quality, health, safety, social, and economic well-being of the public.
+
+                     Minimize the emission of greenhouse gases by encouraging the appropriate use of
+                      energy.
+
+                     Recognize and assist in meeting the minimum energy needs of the City.
+
+                     Assist in minimizing the environmental, economic, and social impacts of future energy
+                      and energy-related facilities within the City.
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+CONS-10                                                                                       November 2018
+                                                                                            CONSERVATION
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+               POLICY 5.1.11.4: ENERGY EFFICIENT LAND DEVELOPMENT.
+               The City shall continue to:
+
+                  Encourage energy efficient land development.
+
+                  Promote management and development of physical, natural, economic, and human
+                   resources in ways that avoid unnecessary long- term energy-intensive investments.
+
+                  Recognize the relative energy dependency of commercial and industrial land uses
+                   and consider energy dependency in any policy pertaining to new industry promotion
+                   strategies or policy concerning maintenance or expansion of existing industry or
+                   commerce.
+
+                  Encourage land use patterns that by location, scale, and design minimize long-term
+                   energy commitments to construction, operation, maintenance, and replacement.
+
+                  Encourage natural resource conservation and use in ways that are consistent with
+                   sound energy management principles.
+
+               POLICY 5.1.11.5: ENERGY EFFICIENT LAND USE AND TRANSPORTATION.
+               The City shall continue to implement and enhance multimodal transportation networks
+               through the Multimodal Transportation District, the citywide Transportation Concurrency
+               Exception Area, and the land use plans and policies encouraging mixed-use, pedestrian-
+               oriented development, with higher densities and intensities at locations served by transit,
+               or transit-supportive areas, to conserve energy use and reduce greenhouse gas emissions.
+
+               POLICY 5.1.11.6: COORDINATION OF ENERGY MANAGEMENT.
+               The City shall continue to:
+
+                  Coordinate energy management with concerned entities within the public and private
+                   sectors.
+
+                  Coordinate formulation of energy related decisions with concerned federal, state,
+                   regional, and County agencies as well as with concerned private entities.
+
+                  Work with these agencies and entities in order to maximize awareness of energy
+                   related problems, and issues, alternative techniques for resolving energy related
+                   problems and issues, and to identify future areas where joint efforts may enhance
+                   mutual goals and objectives.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                      CONS-11
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 5.1.11.7: ENERGY EFFICIENCY IN PLANS.
+                 The City shall continue to:
+
+                     Encourage land use, transportation systems, and urban design that minimizes
+                      energy consumption and maximizes effectiveness of energy consumed.
+
+                     Reduce travel demands by locating major traffic generators on accessible sites
+                      situated along major corridors near potential users.
+
+                     Promote a systematic approach to the development of pedestrian, bicycle path, and
+                      transit networks by the public and private sectors in order to improve energy efficient
+                      transportation links between major activity areas such as residential neighborhoods,
+                      employment centers, shopping areas, parks, and schools.
+
+                 POLICY 5.1.11.8: ENERGY EFFICIENT DESIGN.
+                 The City shall continue to:
+
+                     Promote site planning and design which reduces demand for artificial heating,
+                      cooling, ventilation and lighting.
+
+                     Design factors include building design, siting and orientation that effectively utilize
+                      natural solar resources, wind conditions, tree canopy, and plant material to reduce the
+                      effects of exposure to extreme weather conditions.
+
+                 Energy efficient construction shall be promoted through enforcement of the building and
+                 energy codes, through application of new and proven energy-efficient technology and
+                 through cooperative efforts with building trades, design professionals, building officials,
+                 and county, regional and state agencies concerned with energy conservation.
+
+                 POLICY 5.1.11.9: ENERGY CONSERVATION IN BUILDING AND CONSTRUCTION.
+                 The City shall continue to enforce energy efficient building codes and promote efficient
+                 energy conservation in building heating and cooling systems. The City should promote
+                 training workshops in energy efficiency in construction and continue to foster cooperative
+                 relationships between building trades, architects, engineers and building officials.
+
+                 POLICY 5.1.11.10: MONITORING NEW ENERGY CONSERVATION TECHNIQUES.
+                 The City shall continue to monitor and evaluate new cost effective techniques for
+                 managing land development, energy conservation, and greenhouse gas emissions. The
+                 City shall coordinate these reviews with the State and the ECFRPC. These review
+                 efforts shall consider innovation in analysis of energy supplies; alternative energy
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+CONS-12                                                                                       November 2018
+                                                                                             CONSERVATION
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+               sources; energy consumption patterns; cost implications; and energy related impacts of
+               utilities including the electrical utility, water and wastewater systems, and solid waste
+               disposal. Energy use in housing, transportation, industry and commerce shall be monitored
+               and evaluated on a continuing basis using available analytical techniques. Analytical
+               findings shall be used to formulate public policy directed toward needed corrective energy
+               conservation measures.
+
+               POLICY 5.1.11.11: MUNICIPAL ENERGY-EFFICIENCY.
+               The City shall continue to lead by example and incorporate energy-efficient designs and
+               strategies in municipal buildings and facilities in order to encourage the construction, and
+               retrofitting, of energy-efficient structures in the City.
+
+       OBJECTIVE 5.1.12:     INTERGOVERNMENTAL                   COORDINATION          FOR       MANAGING
+       CONSERVATION ACTIVITIES.
+       The City shall maintain an intergovernmental coordination mechanism to manage natural
+       resources and assist in implementing appropriate laws, ordinances, and plans of existing State,
+       regional and local agencies sharing responsibilities for managing natural resources within the City.
+
+               POLICY 5.1.12.1: IMPLEMENTING POLICIES FOR INTERGOVERNMENTAL COORDINATION IN
+               MANAGING CONSERVATION ACTIVITIES.
+               The City of Kissimmee shall continue to coordinate with Osceola County and appropriate
+               regional, State, and federal agencies in managing conservation resources. Management
+               activities shall include, but not be limited to the following:
+
+               1. The City shall coordinate the following conservation resource management issues with
+                  Osceola County and other public entities as needed:
+
+                   a. Participate in County forums and in technical review activities concerning
+                      emergency preparedness, directed toward issues including update of the
+                      Peacetime Emergency Preparedness Plan.
+
+                   b. Participate in technical review concerning water quality, floodplain management,
+                      and surface water management, and fish and wildlife, vegetative communities,
+                      especially issues impacting major environmentally sensitive resources such as
+                      Lake Tohopekaliga, Shingle Creek, and Mill Slough. The activities shall also be
+                      coordinated with State and regional entities having appropriate jurisdictional
+                      interests.
+
+                   c. Public access issues be coordinated with Osceola County, including issues
+                      surrounding maintenance and improvements.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                       CONS-13
+CONSERVATION
+Goals, Objectives, and Policies
+
+
+
+
+                      2. Major issues to be coordinated with the Florida Department of Environmental
+                         Protection (FDEP) and the South Florida Water Management District (SFWMD) as
+                         may be appropriate in managing the following activities:
+
+                      a. The City shall coordinate all development and resource conservation measures
+                         impacting Lake Tohopekaliga with the Florida Fish and Wildlife Conservation
+                         Commission and FDEP, as well as other applicable public agencies. These
+                         activities shall include, but not be limited to, review of proposed development
+                         potentially impacting natural resources, including development petitions for docks,
+                         shoreline stabilization, dredging, or other alteration of natural resources under the
+                          State's jurisdiction.
+
+                      b. The City shall coordinate with technical staff within the SFWMD, and FDEP, in order
+                         to assure implementation of sound principles and practices of conservation
+                         resource management during the development review process as well as in the
+                         formulation of policies impacting coastal resource management.
+
+                      c. The City shall coordinate with the SFWMD as well as other appropriate State
+                         agencies in matters surrounding stormwater management, floodplain protection,
+                         drainage, water quality and quantity, and consumptive use permitting.
+
+
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+CONS-14                                                                                        November 2018
+                                                                          CONSERVATION
+                                                                                  Maps
+
+
+
+
+MAPS
+
+
+
+
+                                              Wetlands and Water Bodies
+
+                                                     Wells Area
+
+                                                    Flood Plains
+
+                                                     Soil Types
+
+                                                     Topography
+
+                                                  Vegetative Cover
+
+                                              Rare Species Habitat Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                             CONS-15
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-1: Wetlands and Water Bodies Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-17
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-2: Wells Area Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-19
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-3: Flood Plains Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-21
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-4: Soil Types Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-23
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-5: Topography Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-25
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-6: Vegetative Cover Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-27
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                              CONSERVATION
+                                                      Maps
+
+
+
+
+Figure 5-7: Rare Species Habitat Map
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                 CONS-29
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                             CONSERVATION
+                                                                                  Data, Inventory, and Analysis
+
+
+
+
+DATA, INVENTORY, AND ANALYSIS
+INTRODUCTION
+The natural environment in and around the City of Kissimmee has been a draw to residents and visitors
+since the City was founded. This Element provides descriptions of the primary characteristics and
+qualities of this environment, including impacts, and efforts to conserve and manage the City’s natural
+resources and energy resources.
+
+WATER RESOURCES
+The City of Kissimmee is located in the Kissimmee River Basin, on the northern shore of Lake
+Tohopekaliga, which is part of the Upper Kissimmee River Chain of Lakes. These waters flow all the
+way from the headwaters of Shingle Creek southward to Lake Okeechobee, the Everglades, and finally
+into Florida Bay. The lakes, creeks, and associated wetland systems provide a variety of economic,
+recreational, and wildlife benefits, including habitat for fish and wildlife, and nutrient removal from
+stormwater runoff. The locations of these waterbodies, and wetlands, are shown in Figure 5-1: Wetlands
+and Water Bodies Map.
+
+There are two major natural watersheds in the City. The Shingle Creek watershed flows south from
+Orange County, and runs parallel to the west side of the Airport before turning eastward to flow into Lake
+Tohopekaliga. The Lake Tohopekaliga watershed is a major Kissimmee River Basin sub-basin, and part
+of the Kissimmee River Chain of Lakes. The Lake receives inflow from other major surface water
+systems including Shingle Creek, Mill Slough, Canoe Creek, Reedy Creek, and the East Lake
+Tohopekaliga watershed.
+
+SURFACE WATER QUALITY AND QUANTITY
+There are three water bodies within the City of Kissimmee that are identified as Class III water bodies,
+these include: Lake Tohopekaliga, Shingle Creek, and Mill Slough. These water bodies provide
+recreational opportunities to the Kissimmee community and attract visitors that bolster the local
+economy. Impacts of concern to these waters include erosion, runoff from nearby agricultural uses and
+minor point source pollutants such as automotive repair shops.
+
+LAKE TOHOPEKALIGA
+The Lake has had a history of poor water quality resulting from high levels of nitrogen and phosphorous
+resulting from the use of fertilizers and agricultural waste products. These sources include:
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                      CONS-31
+CONSERVATION
+Data, Inventory, and Analysis
+
+
+
+
+Former nearby citrus groves and dairy farms;
+
+   Past effluent discharges from sewer treatment
+    plants located in Osceola County and Orange
+    County; and
+
+   Urban stormwater run-off from the City of
+    Kissimmee and surrounding areas.
+
+As noted in the Public Facilities Element, the water
+quality of the Lake has improved over the past two
+decades. The Lake does, however, still have problems with the accumulation of mercury in the fish
+population. The EPA has approved the Total Maximum Daily Load (TMDL) submitted by FDEP, a plan
+to restore impaired waters by limiting the amount of a pollutant that enters a waterbody.
+
+The Lake also has problems with invasive exotic aquatic plants, such as hydrilla, and was listed on the
+State impaired waters list due to nutrients from an imbalance of flora and fauna. The City and its
+partners have submitted a Nutrient Reduction Plan (NRP) to FDEP to improve and monitor water quality
+without a TMDL. The SFWMD, with their jurisdictional control of the Lake, is involved in aquatic weed
+control programs on the Lake.
+
+SHINGLE CREEK
+As with Lake Tohopekaliga, past water quality reports from Shingle Creek indicated high concentrations of
+nutrients, primarily caused by effluent discharged from the McLeod Road and Sand Lake Road wastewater
+treatment plants. Both plants have ceased discharging sewage into the Creek, and no other point sources
+of pollution are discharging into the Creek. The Creek is still impacted by stormwater runoff from both the
+City, and areas in Orange County. Shingle Creek is on the FDEP list of impaired waters and was identified
+as a medium priority for TMDL development. Mill Slough
+
+This waterway also has its headwaters in southern
+Orange County, and flows southward through the           The Floridian Aquifer, underlying most of
+City and into Lake Tohopekaliga on the eastern           the state of Florida and all of Osceola
+side of downtown. Pollution enters the Slough            County, is the primary source of water
+primarily from stormwater runoff, as well as nearby      supply for the City.
+irrigation systems.
+
+POTABLE WATER SUPPLY AND DEMAND
+The Floridan Aquifer, underlying most of the state of Florida and all of Osceola County, is the primary
+source of water supply in the City. The Public Facilities Element Chapter 4A: Potable Water Sub-
+Element.
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+CONS-32                                                                                     November 2018
+                                                                                                CONSERVATION
+                                                                                     Data, Inventory, and Analysis
+
+
+
+
+WATER CONSERVATION
+Voluntary residential and commercial water conservation will be achieved through the City’s participation
+in water conservation efforts, such as promoting the use of water-saving plumbing devices including low-
+flow toilets, showerheads, and faucets within new developments, as well the development and expansion
+of reclaimed water systems. The City’s adoption of the Work Plan also included the adoption of several
+policies addressing the conservation of water supplies and reduction of water demands. Conservation
+measures that may be incorporated into the City’s Land Development Code include:
+
+   Restricting landscape irrigation to two days a week;
+
+   Utilizing Florida Water Star criteria for the construction of new single-family residences;
+
+   Limiting the use of St. Augustine turf to front yards and entries;
+
+   Requiring the construction of dual distribution systems in all developments to provide for non-potable
+    irrigation;
+
+   Prohibiting the use of potable water for irrigation in new developments while requiring the use of
+    reclaimed water, stormwater and other sources of non-potable water; and
+
+   Prohibiting construction of irrigation wells into the Floridan aquifer.
+
+Additional information regarding potable water supply conservation measures can be found in Chapter
+4A.
+
+REUSE
+Water reuse in central Florida is accomplished primarily through the use of reclaimed water for irrigation.
+Reclaimed water is treated wastewater that has received at least secondary treatment and basic
+disinfection, and is reused after flowing out of a domestic wastewater treatment facility. Reuse is the
+deliberate application of reclaimed water for a beneficial purpose in compliance with the rules of FDEP
+and the SFWMD. Reclaimed water strategies in the regional water supply plans can include such
+measures as development of urban reclaimed water systems, reclaimed water system interconnections,
+supplemental supplies for peak flows, and aquifer storage and recovery. TWA provides reclaimed water
+for non-potable uses such as landscape irrigation and as cooling water for an electrical generating power
+plant.
+
+GROUNDWATER
+As noted in the Aquifer Recharge Sub-Element (Chapter 4C), the City is underlain by both the Surficial
+and Floridan aquifers. The Floridan is the source of current water supplies for all the City’s potable water
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         CONS-33
+CONSERVATION
+Data, Inventory, and Analysis
+
+
+
+
+supplies. Figure 5-2: Wells Area Map shows the locations of public and private water supply wells, and
+areas of different rates of groundwater recharge.
+
+POTENTIAL GROUNDWATER CONTAMINATION SITES
+There are two locations in or near the City that may pose a problem for the contamination of groundwater
+by hazardous chemicals, and both are in the Shingle Creek watershed. The first is the Animal Diagnostic
+Lab on John Young Parkway, which in the past discharged certain solid wastes to a septic tank/drainfield
+system, resulting in localized contamination of the Surficial Aquifer. This site is located within one block
+of a major Floridan Aquifer wellfield for public supply, but recharge to that aquifer is not likely. However,
+the potential exists for migration of contaminated shallow groundwater into either the drinking water
+supply, or through groundwater discharge to swales and stormwater facilities.
+
+The second site is the Bass Road Resource Recovery Site, which operated as a Class I facility and
+accepted residential, commercial, industrial, and agricultural wastes. It is primarily a recycling center and
+offers disposal of tires, household chemicals, and yard waste as well. It is located within one mile of a
+Floridan Aquifer wellfield. Osceola County is actively engaged in monitoring activities at this site.
+
+FLOODPLAINS
+The National Flood Insurance Program
+administered by the Federal Emergency                  The National Flood Insurance Program
+Management Agency has determined that the              administered by the Federal Emergency
+bottomlands adjacent to Shingle Creek, Mill            Management Agency has determined that
+Slough, and Lake Tohopekaliga are subject to           the bottomlands adjacent to Shingle Creek,
+flooding and inundation from 100-year storm
+                                                       Mill Slough, and Lake Tohopekaliga are
+events, or a one percent chance of occurring
+annually.                                              subject to flooding and inundation from
+                                                       100-year storm events.
+The extent of the 100-year floodplain is shown
+in Figure 5-3: Flood Plains Map. Other floodplain locations in the City include the City Ditches, the
+Medical District area, and north of Vine Street between John Young Parkway and Central Avenue.
+Areas within the 100-year flood zone may experience flooding during less severe storms. Prior to
+development within floodplains, measures are taken to assure that the natural storage areas are
+preserved or that compensating storage is provided in a development. Floodplain protection and
+development regulations are included in the Land Development Regulations.
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CONS-34                                                                                      November 2018
+                                                                                               CONSERVATION
+                                                                                    Data, Inventory, and Analysis
+
+
+
+
+SOILS AND GEOLOGY
+MAJOR SOIL TYPES
+There are numerous types of soils under the City, though as noted, many are poorly drained and have
+limitations for use as septic drainfields. Figure 5-4: Soil Types Map identifies the location of the soils
+present within the City. The three most prevalent soil types within the City of Kissimmee are Myakka,
+Basinger, and Riviera.
+
+MYAKKA
+Covering approximately 6,700 acres, the Myakka series consists of deep and very deep, poorly drained
+to very poorly drained soils that formed in sandy marine deposits. These soils are in areas of flatwoods,
+in high tidal areas, on floodplains, or in depressions. They have rapid permeability in the A horizon and
+moderate or moderately rapid permeability in the Bh horizon. Slopes range from 0 to 8 percent.
+
+BASINGER
+These soils cover approximately 1,600 acres, and consist of very deep, poorly drained and very poorly
+drained, rapidly permeable soils in sloughs, depressions, low flats, and poorly defined drainageways.
+They formed in sandy marine sediments. Slopes range from 0 to 2 percent.
+
+RIVIERA
+The Riviera soil series covers approximately 795 acres in the City. The series consists of very deep,
+poorly drained, very slowly permeable soils on broad, low flats and in depressions in the Lower Coastal
+Plain. They formed in stratified sandy and loamy marine sediments, and slopes range from 0 to 2
+percent.
+
+SOIL EROSION
+According to the Soil Conservation Service, soil erosion is not a significant problem in any specific areas
+within or adjacent to the City. The level, poorly drained soils found throughout the City are not conducive
+to wind or water erosion. General locations that may be conducive to erosion include canal areas and
+construction sites. The banks of canals may erode, causing alluvial sediment to build up on canal floors
+and reducing the carrying capacity of the drainage-ways. This erosion is frequently caused by runoff
+from canals or from construction activities. Construction sites also contribute to erosion through clearing
+and vegetation removal activities.
+
+The FDEP requires construction sites to be permitted through the NPDES, in order to ensure reductions
+in the potential for stormwater runoff and the resulting erosion. The use of construction best
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        CONS-35
+CONSERVATION
+Data, Inventory, and Analysis
+
+
+
+
+management practices, in addition to stormwater management best management practices, will help
+control stormwater runoff within the City, particularly at development sites.
+
+MINERAL RESOURCES
+There are no commercially exploited mineral resources within the City of Kissimmee. Most of the major
+mining operations and commercially valuable mineral deposits within the region are located to the
+southwest in Polk County.
+
+TOPOGRAPHY
+Elevation in the City of Kissimmee ranges from 49-90 feet above sea level. The highest elevations are
+generally in the northern portions of the City, furthest from its water bodies. The lowest elevations are
+adjacent to Lake Tohopekaliga and East Lake Tohopekaliga, as well as the Palustrine Wetlands in the
+southwest. Figure 5-5: Topography Map shows the elevation throughout the City.
+
+HAZARDOUS WASTES
+There are currently no active landfills within the limits of the City of Kissimmee. Steps shall be taken to
+continue to monitor those inactive sites within the city and any problems related to hazardous waste
+through coordination with Florida Department of Environmental Protection and the Florida Bureau of
+Hazardous Waste. There are also two landfills within in Osceola County adjacent to the City’s Southwest
+border and several inactive landfills within the City. There are no brownfield sites identified in Kissimmee
+on the Florida Department of Environmental Protection Brownfield Redevelopment Program. There are
+currently no sites within the City of Kissimmee identified on the Environmental Protection Agency’s
+Superfund National Priorities List.
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CONS-36                                                                                      November 2018
+                                                                                             CONSERVATION
+                                                                                  Data, Inventory, and Analysis
+
+
+
+
+VEGETATIVE COMMUNITIES
+An illustration of the locations of particular types of vegetative
+communities, including wetlands, is shown in Figure 5-6:
+Vegetative Cover Map. The majority of the City is either a
+developed urban area or an improved pasture, which is slowly
+evolving to urban development, primarily residential uses.
+
+LISTED SPECIES AND HABITAT PROTECTION
+The City has been established for over 130 years, and
+development has steadily occurred since then. There has,
+however, been far more development in the past 50 years than in
+the years prior to then. This last 50 years also happens to
+coincide with the growth in awareness of the natural environment
+and the need to maintain certain habitats for the species that live
+within them. Figure 5-7: Rare Species Habitat Map identifies the locations that are most likely to support
+listed species. Although there are no Priority 1 or 2 areas within the City, and only a smattering of
+Priority 3 areas near Lake Tohopekaliga, there are large swaths of Priority 4 habitat conservation areas
+in the Shingle Creek drainage adjacent to Lake Tohopekaliga, as well as in the area between Columbia
+Avenue and Osceola Parkway.
+
+Table 5-1 profiles the listed species in Osceola County as determined at the state or federal level. New
+development within the City must adhere to state legislation regarding these species and minimizing
+impacts to their habitats.
+
+Table 5-1: Listed Species in Osceola County
+ Scientific Name                      Common Name                       Federal               State
+                                                                     Classification*      Classification*
+ Plants and Lichens
+ Andropogon arctatus                  pinewoods bluestem                   N                      T
+ Bonamia grandiflora                  Florida bonamia                      T                      E
+ Calopogon multiflorus                many-flowered grass-pink             N                      T
+ Carex chapmannii                     Chapman's sedge                      N                      T
+ Chionanthus pygmaeus                 pygmy fringe tree                    E                      E
+ Coleataenia abscissa                 cutthroatgrass                       N                      E
+ Conradina grandiflora                large-flowered rosemary              N                      T
+ Eriogonum longifolium var.           scrub buckwheat                      T                      E
+ gnaphalifolium
+ Gymnopogon chapmanianus              Chapman's skeletongrass              N                      N
+ Lechea cernua                        nodding pinweed                      N                      T
+ Lechea divaricata                    pine pinweed                         N                      E
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                      CONS-37
+CONSERVATION
+Data, Inventory, and Analysis
+
+
+
+
+ Scientific Name                    Common Name                       Federal               State
+                                                                   Classification*      Classification*
+ Lupinus aridorum                   scrub lupine                         E                    E
+ Nemastylis floridana               celestial lily                       N                    E
+ Nolina atopocarpa                  Florida beargrass                    N                     T
+ Nolina brittoniana                 Britton's beargrass                  E                    E
+ Ophioglossum palmatum              hand fern                            N                    E
+ Paronychia chartacea var.          paper-like nailwort                   T                   E
+ chartacea
+ Pecluma plumula                    plume polypody                       N                    E
+ Pecluma ptilota var. bourgeauana   comb polypody                        N                    E
+ Polygala lewtonii                  Lewton's polygala                    E                    E
+ Polygonella myriophylla            Small's jointweed                    E                    E
+ Prunus geniculata                  scrub plum                           E                    E
+ Pteroglossaspis ecristata          giant orchid                         N                    T
+ Schizachyrium niveum               scrub bluestem                       N                    E
+ Warea amplexifolia                 clasping warea                       E                    E
+
+ Amphibians
+ Lithobates capito                  Gopher Frog                          N                    N
+ Notophthalmus perstriatus          Striped Newt                         C                    N
+
+ Reptiles
+ Alligator mississippiensis         American Alligator                  SAT                  SAT
+ Crotalus adamanteus                Eastern Diamondback                  N                    N
+                                    Rattlesnake
+ Drymarchon couperi                 Eastern Indigo Snake                 T                    T
+ Gopherus polyphemus                Gopher Tortoise                      C                    T
+ Lampropeltis calligaster           Mole Kingsnake                       N                    N
+ Lampropeltis getula                Common Kingsnake                     N                    N
+ Pituophis melanoleucus             Pine Snake                           N                    T
+ Plestiodon egregius lividus        Blue-tailed Mole Skink               T                    T
+ Plestiodon reynoldsi               Sand Skink                           T                    T
+ Sceloporus woodi                   Florida Scrub Lizard                 N                    N
+
+ Birds
+ Ammodramus savannarum              Florida Grasshopper Sparrow           E                   E
+ floridanus
+ Antigone canadensis pratensis      Florida Sandhill Crane               N                    T
+ Aphelocoma coerulescens            Florida Scrub-Jay                    T                    T
+ Aramus guarauna                    Limpkin                              N                    N
+ Athene cunicularia floridana       Florida Burrowing Owl                N                    T
+ Buteo brachyurus                   Short-tailed Hawk                    N                    N
+ Caracara cheriway                  Crested Caracara                     T                    T
+ Egretta caerulea                   Little Blue Heron                    N                    T
+ Egretta thula                      Snowy Egret                          N                    N
+ Egretta tricolor                   Tricolored Heron                     N                    T
+
+
+
+                                                              City of Kissimmee | 2040 Comprehensive Plan
+CONS-38                                                                                   November 2018
+                                                                                                                CONSERVATION
+                                                                                                     Data, Inventory, and Analysis
+
+
+
+
+ Scientific Name                              Common Name                               Federal                   State
+                                                                                     Classification*          Classification*
+ Elanoides forficatus                         Swallow-tailed Kite                          N                        N
+ Elanus leucurus                              White-tailed Kite                            N                        N
+ Eudocimus albus                              White Ibis                                   N                        N
+ Falco columbarius                            Merlin                                       N                        N
+ Falco peregrinus                             Peregrine Falcon                             N                        N
+ Falco sparverius paulus                      Southeastern American                        N                         T
+                                              Kestrel
+ Grus americana                               Whooping Crane                                XN                        XN
+ Haliaeetus leucocephalus                     Bald Eagle                                     N                         N
+ Laterallus jamaicensis                       Black Rail                                     N                         N
+ Mycteria americana                           Wood Stork                                     T                         T
+ Nyctanassa violacea                          Yellow-crowned Night-heron                     N                         N
+ Nycticorax nycticorax                        Black-crowned Night-heron                      N                         N
+ Peucaea aestivalis                           Bachman's Sparrow                              N                         N
+ Picoides borealis                            Red-cockaded Woodpecker                        E                         E
+ Picoides villosus                            Hairy Woodpecker                               N                         N
+ Plegadis falcinellus                         Glossy Ibis                                    N                         N
+ Rostrhamus sociabilis                        Snail Kite                                     E                         E
+
+ Mammals
+ Corynorhinus rafinesquii                     Rafinesque's Big-eared Bat                     N                        N
+ Eumops floridanus                            Florida bonneted bat                           E                        E
+ Mustela frenata peninsulae                   Florida Long-tailed Weasel                     N                        N
+ Neofiber alleni                              Round-tailed Muskrat                           N                        N
+ Podomys floridanus                           Florida Mouse                                  N                        N
+ Puma concolor coryi                          Florida Panther                                E                        E
+ Sciurus niger shermani                       Sherman's Fox Squirrel                         N                       SSC
+ Ursus americanus floridanus                  Florida Black Bear                             N                        N
+
+Source: Florida Natural Areas Inventory (FNAI), 2018
+
+* Federal and State Legal Status: Provided by FNAI for information only. Consult the relevant federal agency, for official
+
+definitions and lists of protected species.
+
+C=Candidate species for which federal listing agencies have sufficient information on biological vulnerability and threats to
+support proposing to list the species as Endangered or Threatened
+
+E=Endangered
+
+N=Not listed
+
+SAT=Endangered due to similarity of appearance to a species which is federally listed
+
+SSC=Species of Special Concern by Florida Fish and Wildlife Conservation Commission
+
+T=Threatened
+
+XN=Non-essential experimental population
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                           CONS-39
+CONSERVATION
+Data, Inventory, and Analysis
+
+
+
+
+USE AND PRESERVATION OF NATURAL RESOURCES AND COMMUNITIES
+Though farming and ranching have been important to the City’s history, the City no longer maintains
+large agricultural or ranching operations, as are found in other parts of Osceola County. However, some
+transitioning agricultural land uses are present in the north and south edges of the City. The
+predominant uses of natural resources in the City are for recreation and conservation. There are no
+commercial operations in the City that directly use natural resources, such as for mining, commercial
+fisheries, or timber.
+
+RECREATION
+The Recreation and Open Space Element identifies the City’s parks, recreation areas and open spaces.
+Additionally, the City’s location on Lake Tohopekaliga, and the numerous lakes surrounding the City,
+makes the area an attractive location for fishing, boating, and other water-dependent uses. Lake
+Tohopekaliga constitutes a substantial recreational resource, and is a popular fishing destination. The
+most popular sport fish harvested from Lake Tohopekaliga, and other nearby lakes, include largemouth
+bass, bluegill, black crappie, red-ear sunfish (shell cracker), brown bullhead (catfish), and spotted sunfish
+(stumpknocker).
+
+CONSERVATION
+The City, through the Conservation future land use designation, among other means, engages in the
+conservation and preservation of natural resources, including the protection of Shingle Creek through
+land acquisition, and the promotion of open space protection.
+Other conservation activities include the protection of
+groundwater and surface water resources through stormwater
+best management practices, low-impact development
+techniques, and through water conservation.
+
+AIR QUALITY
+The quality of ambient air, or outside air, is monitored by the
+FDEP. Air-quality monitoring stations are placed in areas
+where the ambient air-quality standards are being violated, or
+in areas where standards are being met but plans are needed
+to ensure maintenance of acceptable levels in the face of
+anticipated population or industrial growth.
+
+The City has one ozone monitoring station, located at the Four
+Corners Fire Station. This site began monitoring ozone levels
+in 1993.
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+CONS-40                                                                                       November 2018
+                                                                                               CONSERVATION
+                                                                                    Data, Inventory, and Analysis
+
+
+
+
+The State of Florida including the City of
+Kissimmee are in attainment for Particulate           As of 2015, the three year running average
+standards (<2.5 micrometers and <10                   for ozone was 63 parts per billion (ppb). The
+micrometers) as set by the EPA. Stations in           non-attainment threshold for ozone levels is
+the City do not measure for other pollutants,         75 ppb, indicating the City is in attainment
+such as carbon monoxide, lead, nitrogen
+                                                      for existing air quality ozone standards.
+dioxide, or sulfur.
+
+Ground-level ozone is a pollutant, and is not to be confused with atmospheric ozone, which is necessary
+to block harmful radiation from the sun. Ground-level ozone is formed from reactions between nitrogen
+oxides and volatile organic compounds (VOCs) in the presence of sunlight. VOCs are typically
+generated by motor vehicles, but may also arise from the evaporation of gasoline and solvents, open
+burning, or other combustion sources. The worst ozone conditions occur on hot, calm days.
+
+ENERGY EFFICIENCY
+The City, through the Comprehensive Plan’s adopted goals, objectives and policies, has for years
+demonstrated a consideration of issues such as energy use and greenhouse gas emissions, long before
+they were mandated by the Florida Legislature. Existing policy topics include management of energy
+supplies and use, energy efficient land development, energy efficiency in plans, and energy conservation
+in building and construction.
+
+The Transportation Element incorporates a Multi-Modal Transportation District (MMTD), and multi-modal
+supportive policies. The Land Use Element also incorporates increased densities within the MMTD.
+These policies encourage transit use, and walking and bicycling in what may lead to a more compact
+urban form as more full-time residents in the MMTD area draw businesses, and promote additional
+compact development in a sustainable cycle, rather than developing linearly along roadway corridors.
+The Comprehensive Plan also contains policies that encourage the preservation of wetlands for natural
+stormwater attenuation.
+
+To reduce energy use and greenhouse gas (GHG) emissions, the City of Kissimmee has identified areas
+within the City where existing development patterns are most energy efficient. These areas are compact
+allowing for a denser network of transportation and utilities infrastructure with greater connectivity, which
+require less energy input to provide service to residents and businesses.
+
+The MMTD encompasses areas of the City with the most efficient and integrated transportation
+networks. The Community Redevelopment Area (CRA), which is inside the MMTD area, includes the
+older, densest portion of Kissimmee including the historic downtown.
+
+The City also is setting citywide and transit station-specific policies to support and encourage the use of
+commuter rail and bus transit.
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        CONS-41
+CONSERVATION
+Data, Inventory, and Analysis
+
+
+
+
+Additionally, the City of Kissimmee recognizes the importance of natural systems. Trees and vegetation
+clean the air of pollutants, and sequester greenhouse gasses through transpiration. More wildlife
+increases biodiversity helping to support rare and unique species that attract ecotourists, and wetlands
+provide retention and filtration of stormwater runoff. The use of low-impact development techniques
+introduce vegetation to help filter stormwater, and a test project initiated by the City involves the use of
+“permeable paving” for parking lots, pathways, and secondary roads when applicable. Permeable
+pavement is an environmentally friendly, pervious road surfacing mixture. The use of such innovations
+allows the City to reduce the footprint needed for stormwater facilities, while also contributing to
+groundwater recharge.
+
+To more effectively meet these natural resource conservation ends, the City has partnered with Osceola
+County and the SFWMD to purchase and preserve Shingle Creek and adjacent lands, and maintains a
+series of parks and wetlands to maintain open space and ecological and biological functions throughout
+the City. These services would be costly for the City to replace with constructed facilities, which would
+require additional energy inputs.
+
+SUMMARY
+The preservation, conservation, and management of natural systems within the City will ensure future
+generations are able to experience wildlife habitats, clean water resources, and clean air. The built
+environment has a tremendous impact on human health, the environment, and the economy, and
+patterns of development implemented today will impact the way future generations interact with their
+environment. The City will remain proactive, and continue to work to ensure residents and visitors are
+mindful of the consumption of energy and the creation of greenhouse gasses, and that everyone must
+work together to provide for the City’s future.
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CONS-42                                                                                      November 2018
+

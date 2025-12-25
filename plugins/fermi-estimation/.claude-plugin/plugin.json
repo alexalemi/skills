@@ -1,0 +1,9 @@
+{
+  "name": "fermi-estimation",
+  "description": "Probabilistic estimation and dimensional reasoning for uncertain quantities using the simplefermi package",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  }
+}

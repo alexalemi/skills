@@ -14,13 +14,15 @@ These files allow you to determine what zoning and future land use apply to any 
 
 **Data directory:** `./data/`
 
-**Files:**
+**Original zip files:**
 - `future_land_use.zip` (2.7 MB) - Future Land Use Map polygons
 - `Zoning_Districts.zip` (2.1 MB) - Zoning district polygons
 
-**Extracted shapefiles** (after unzipping):
-- `future_land_use.shp` (+ .dbf, .prj, .shx, .cpg, .sbn, .sbx, .shp.xml)
-- `zoning_districts.shp` (+ .dbf, .prj, .shx, .cpg, .sbn, .sbx, .shp.xml)
+**Extracted shapefiles:**
+- `./data/future_land_use/future_land_use.shp` (+ .dbf, .prj, .shx, .cpg, .sbn, .sbx, .shp.xml)
+- `./data/Zoning_Districts/zoning_districts.shp` (+ .dbf, .prj, .shx, .cpg, .sbn, .sbx, .shp.xml)
+
+Note: The shapefiles are already extracted in their respective subdirectories and ready to use. The original zip files are retained for reference.
 
 ## Technical Specifications
 
@@ -176,8 +178,8 @@ import geopandas as gpd
 import pandas as pd
 
 # Load the shapefiles
-flu = gpd.read_file('data/future_land_use.shp')
-zoning = gpd.read_file('data/zoning_districts.shp')
+flu = gpd.read_file('data/future_land_use/future_land_use.shp')
+zoning = gpd.read_file('data/Zoning_Districts/zoning_districts.shp')
 
 # Explore the data
 print("Future Land Use categories:")
@@ -385,7 +387,7 @@ For visual exploration, use QGIS (free, open-source):
 
 ### Cross-Reference with Comprehensive Plan
 
-The Future Land Use designations correspond to policies in the **Comprehensive Plan FLUE** (01_FLUE_Dec21.pdf):
+The Future Land Use designations correspond to policies in the **Comprehensive Plan FLUE** (01_FLUE_Dec21.txt):
 
 - Each FLU code (e.g., "SF-LDR", "MU-T") has corresponding policies in FLUE Goal 1.2
 - Density and FAR limits in the shapefile data should match comp plan policies
@@ -506,8 +508,8 @@ import geopandas as gpd
 from shapely.geometry import Point
 
 # Load data
-flu = gpd.read_file('data/future_land_use.shp')
-zoning = gpd.read_file('data/zoning_districts.shp')
+flu = gpd.read_file('data/future_land_use/future_land_use.shp')
+zoning = gpd.read_file('data/Zoning_Districts/zoning_districts.shp')
 
 # Check a point (State Plane feet)
 point = Point(530000, 1450000)
@@ -521,16 +523,16 @@ print("Zone:", zone_match.iloc[0]['ZONING_COD'] if not zone_match.empty else "No
 ### Command Line Quick Start
 
 ```bash
-# Extract files (if not already done)
+# Files are already extracted; if needed to re-extract:
 cd data
-unzip -o future_land_use.zip
-unzip -o Zoning_Districts.zip
+unzip -o future_land_use.zip -d future_land_use
+unzip -o Zoning_Districts.zip -d Zoning_Districts
 
 # View info
-ogrinfo -al -so future_land_use.shp
-ogrinfo -al -so zoning_districts.shp
+ogrinfo -al -so future_land_use/future_land_use.shp
+ogrinfo -al -so Zoning_Districts/zoning_districts.shp
 
 # List categories
-ogrinfo -al future_land_use.shp | grep "PROP_FLUM"
-ogrinfo -al zoning_districts.shp | grep "ZONING_COD"
+ogrinfo -al future_land_use/future_land_use.shp | grep "PROP_FLUM"
+ogrinfo -al Zoning_Districts/zoning_districts.shp | grep "ZONING_COD"
 ```

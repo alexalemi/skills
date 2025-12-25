@@ -1,0 +1,1539 @@
+TRANSPORTATION
+Goals, Objectives, and Policies
+THIS PAGE INTENTIONALLY LEFT BLANK.
+Kissimmee
+2040 Comprehensive Plan
+Transportation
+Goals, Objectives, and Policies
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+Adopted November 20, 2018; DRC#18-057; DEO#18-1ER
+Amended December 7, 2021; DRC#21-097; DEO Amendment No. 21-02ESR
+
+
+Cover photo source: City of Kissimmee Public Information Office
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                                    TRANSPORTATION
+
+
+
+
+Table of Contents
+Executive Summary ...............................................................................................................................1
+         Introduction ...................................................................................................................................1
+         The Vision .....................................................................................................................................2
+         Goals, Objectives, and Policies .....................................................................................................1
+         Data Inventory & Analysis .............................................................................................................1
+         Access Management Plan .............................................................................................................2
+         Station Area Parking .....................................................................................................................2
+
+Mobility Vision .......................................................................................................................................1
+         Vision Statement ...........................................................................................................................1
+                 Vision ....................................................................................................................................1
+         Street Typology Guidance .............................................................................................................3
+         Typical Sections ............................................................................................................................4
+
+Goals, Objectives, and Policies ............................................................................................................9
+         Goal 2.1: Multimodal Network. ......................................................................................................9
+                 Objective 2.1.1: Safe Transportation System. ........................................................................ 9
+                 Objective 2.1.2: Efficient multimodal network....................................................................... 10
+                 Objective 2.1.3: Access to Destinations ............................................................................... 11
+                 Objective 2.1.4: ADA and Transportation Disadvantaged. ................................................... 11
+                 Objective 2.1.5: Encourage the Development of Rail and Premium Transit Service ............ 11
+                 Objective 2.1.6: Strengthen Inter-Agency Partnerships to Implement Multimodal Network
+                   Improvements .................................................................................................................12
+                 Objective 2.1.7: Programming Multimodal Transportation Improvements ............................ 12
+         Goal 2.2: Complementary Land Use & Urban Form .................................................................... 13
+                 Objective 2.2.1: Linking Land Use and Transportation......................................................... 13
+                 Objective 2.2.2: Linking Housing and Transportation ........................................................... 13
+                 Objective 2.2.3: Preserving mobility on A Streets. ............................................................... 14
+                 Objective 2.2.4: Preservation of Right-of-Way to Implement Multimodal Network ................ 14
+         Goal 2.3: Economy and Environment .......................................................................................... 15
+                 Objective 2.3.1: Green Infrastructure – New Multimodal Facilities Construction .................. 15
+                 Objective 2.3.2: Community Infrastructure to Enable Compact Development Patterns ........ 16
+                 Objective 2.3.3: Establish Transportation Demand Management Programs to Enhance
+                   Travel Options ................................................................................................................16
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                          TE-i
+TRANSPORTATION
+
+
+
+
+                 Objective 2.3.4: Economic Advantage for Infill and Targeted Development Areas. .............. 17
+          Goal 2.4: Aviation ........................................................................................................................17
+                 Objective 2.4.1: Compatibility with Planning Documents and Land Use Standards to
+                   Preserve Airport Facilities ............................................................................................... 17
+                 Objective 2.4.2: Adequate Transportation and Utility Connections....................................... 18
+          Goal: 2.5: Freight Rail and Pipeline Facilities .............................................................................. 18
+                 Objective 2.5.1: Adjust Freight Rail Service ......................................................................... 18
+                 Objective 2.5.2: Pipeline Facilities ....................................................................................... 19
+
+Maps .....................................................................................................................................................20
+
+Data, Inventory, and Analysis .............................................................................................................46
+          Introduction .................................................................................................................................46
+                 Existing Transportation Inventory and Analysis ................................................................... 46
+                 Existing Commuting Patterns .............................................................................................. 46
+                 Public Transportation System .............................................................................................. 47
+                 Bicycle And Pedestrian Network .......................................................................................... 52
+                 Roadway Network ...............................................................................................................53
+                 Congestion Management and Quality of Service Standards ................................................ 57
+                 Multimodal Transportation District (MMTD) & Vine Street (US 192) CRA Masterplan .......... 60
+                 Strategic Intermodal Systems (SIS) Facilities ...................................................................... 61
+          Existing Conditions ......................................................................................................................61
+                 Freight Operations ...............................................................................................................62
+                 Railroad Facilities ................................................................................................................64
+                 Airport Facilities ...................................................................................................................64
+                 Current Multimodal Studies / Projects .................................................................................. 65
+          Future Transportation Network .................................................................................................... 67
+                 Multimodal Transportation Quality of Service Standards ..................................................... 67
+                 SunRail Commuter Rail System .......................................................................................... 67
+                 Future Transit Service .........................................................................................................69
+                 Future Bicycle and Pedestrian Network ............................................................................... 70
+                 Methodology for Future Roadway Quality of Service Determination .................................... 75
+                 Future Roadway Network .................................................................................................... 80
+
+Access Management Plan ...................................................................................................................83
+          Introduction .................................................................................................................................83
+          US 192 (Vine Street) ...................................................................................................................84
+
+                                                                                             City of Kissimmee | 2040 Comprehensive Plan
+TE-ii                                                                                                                    November 2018
+                                                                                                                                TRANSPORTATION
+
+
+
+
+         US 441 (Main Street) – North Of Us 192 ..................................................................................... 89
+         John Young Parkway ..................................................................................................................92
+         Michigan Avenue.........................................................................................................................95
+         Oak Street ...................................................................................................................................99
+         Martin Luther King Jr. Boulevard & Neptune Road .................................................................... 101
+         Hoagland Boulevard / Carroll Street .......................................................................................... 104
+         Carroll Street ............................................................................................................................. 104
+         Dyer Boulevard ......................................................................................................................... 107
+
+Station Area Parking .......................................................................................................................... 109
+         Introduction ............................................................................................................................... 109
+         Existing Conditions Analysis...................................................................................................... 111
+         Future Conditions Analysis ........................................................................................................ 112
+         Transit Oriented Design Parking ............................................................................................... 114
+         Strategy & Recommendations ................................................................................................... 115
+
+Appendix ............................................................................................................................................117
+         Appendix A – Existing Development Maps ................................................................................ 117
+         Appendix B – FDOT TOD Guidebook ........................................................................................ 125
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                     TE-iii
+THIS PAGE LEFT INTENTIONALLY BLANK.
+                                                                                                                           TRANSPORTATION
+
+
+
+
+List of Tables
+Table 2-1: Street Typology Guidance ..................................................................................................... 3
+Table 2-2: Ridership per LYNX Route Serving Kissimmee, Fiscal Year 2017 ...................................... 50
+Table 2-3: AMTRAK Silver Service Schedule....................................................................................... 51
+Table 2-4: AMTRAK Travel Times ....................................................................................................... 52
+Table 2-5: Future City-Wide QOS Scores ............................................................................................ 52
+Table 2-6: A and B Streets ................................................................................................................... 54
+Table 2-7: Existing Lane Miles ............................................................................................................. 56
+Table 2-8: Facilities Operating at LOS E and F .................................................................................... 62
+Table 2-9: Freight Improvements ......................................................................................................... 63
+Table 2-10: Multimodal Capital Projects ............................................................................................... 77
+Table 2-11: Multimodal Capital Improvements (Bicycle, Pedestrian & Transit) ..................................... 78
+Table 2-12: Facilities Operating at LOS E and F, 2040 ........................................................................ 80
+Table 2-13: Roadway Capital Improvements........................................................................................ 82
+Table 2-14: Existing Development and Parking.................................................................................. 111
+Table 2-15: Minimum Parking Standards ........................................................................................... 112
+Table 2-16: Future Parking Supply and Demand................................................................................ 113
+Table 2-17: LDC vs TOD Parking Standards...................................................................................... 114
+Table 2-18: Parking Difference with TOD Standards .......................................................................... 115
+Table 2-19: Shared Parking Targets .................................................................................................. 116
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                               TE-v
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                       TRANSPORTATION
+
+
+
+
+List of Figures
+Figure 2-1: Kissimmee Transportation Vision ......................................................................................... 2
+Figure 2-2: Parking Supply/Demand ...................................................................................................... 3
+Figure 2-3: City of Kissimmee Transportation Vision .............................................................................. 2
+Figure 2-4: Typical “A” Street (Vine Street (192)/John Young Parkway) Section .................................... 4
+Figure 2-5: Typical “A” Street with 90’-100’ Right-of-Way Section .......................................................... 5
+Figure 2-6: Typical “A” Street with 90’-100’ Right-of-Way Section .......................................................... 6
+Figure 2-7: Typical “A” Street with 90’-100’ Right-of-Way Section .......................................................... 6
+Figure 2-8: Typical “A” Street with 80’-90’ Right-of-Way Section ............................................................ 7
+Figure 2-9: Typical “B” Street with 70’-80’ Right-of-Way Section ............................................................ 7
+Figure 2-10: Typical “B” Street with 60’-70’ Right-of-Way Section .......................................................... 8
+Figure 2-11: Typical “C” Street with 50’ Right-of-Way Section ................................................................ 8
+Figure 2-12: Existing Public Transportation .......................................................................................... 22
+Figure 2-13: Existing and 2040 Pedestrian and Bicycle Facilities ......................................................... 24
+Figure 2-14: 2040 Street Types............................................................................................................ 26
+Figure 2-15: Existing Roadway Classification....................................................................................... 28
+Figure 2-16: Existing Number of Lanes ................................................................................................ 30
+Figure 2-17: 2040 Right of Way Reservation........................................................................................ 32
+Figure 2-18: Existing Evacuation Routes ............................................................................................. 34
+Figure 2-19: Strategic Intermodal System Facilities ............................................................................. 36
+Figure 2-20: Existing Level of Service .................................................................................................. 38
+Figure 2-21: 2040 Public Transportation .............................................................................................. 40
+Figure 2-22: 2040 Level of Service ...................................................................................................... 42
+Figure 2-23: 2040 Number of Lanes .................................................................................................... 44
+Figure 2-24: Bike Facilities and Treatments ......................................................................................... 71
+Figure 2-25: Future Multimodal Quality of Service................................................................................ 76
+Figure 2-26: Access Management 14-97 ............................................................................................. 83
+Figure 2-27: US 192 (Vine Street) Access Management Plan .............................................................. 85
+Figure 2-28: US 441 (Main Street) Access Management Plan ............................................................. 90
+Figure 2-29: John Young Parkway Access Management Plan ............................................................. 93
+Figure 2-30: Michigan Avenue Access Management Plan ................................................................... 96
+Figure 2-31: Oak Street Access Management Plan............................................................................ 100
+Figure 2-32: Martin Luther King Jr. & Neptune Road Access Management Plan ................................ 102
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                          TE-vii
+TRANSPORTATION
+
+
+
+
+Figure 2-33: Hoagland Boulevard Access Management Plan ............................................................ 105
+Figure 2-34: Carroll Street Access Management Plan ........................................................................ 106
+Figure 2-35: Dyer Boulevard Access Management Plan .................................................................... 108
+Figure 2-36: Stop and Station Areas .................................................................................................. 110
+
+
+
+
+                                                                                   City of Kissimmee | 2040 Comprehensive Plan
+TE-viii                                                                                                        November 2018
+                                                                 TRANSPORTATION
+
+
+
+
+   PAGES 1 THROUGH 54 ARE LOCATED IN A SEPARATE DOCUMENT CONTAINING THE
+ EXECUTIVE SUMMARY, MOBILITY VISION, GOALS, OBJECTIVES, AND POLICIES, AND THE
+                                   MAPS.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                             TE-ix
+                                                                               TRANSPORTATION
+                                                                                Executive Summary
+
+
+
+
+EXECUTIVE SUMMARY
+INTRODUCTION
+The City of Kissimmee desires to implement a
+Transportation Element that will enhance economic
+opportunity through greater accessibility and add to the
+City’s quality of life and uniqueness for both residents
+and visitors alike. While once focused primarily on
+serving the needs of the automobile, the City has
+shifted its way of thinking about transportation and land
+use by adopting a Multimodal Transportation District
+covering a majority of the City in 2008. This approach
+addresses future transportation through development
+of a connected multimodal transportation network as
+an efficient way to increase mobility and accessibility
+while also linking economic development, quality of life
+and preservation of the natural environment.
+
+There are several, overlapping regulatory boundaries –
+the Multimodal Transportation District, the Vine Street
+Community Redevelopment Area, the Downtown
+Community Redevelopment Agency (CRA) and the
+Vine Street Overlay Districts – each of which has their
+own distinct set of strategies to support desired
+redevelopment and create better accessibility and mobility. The updated Transportation Element
+extends these same multimodal strategies and roadway typologies citywide to better connect
+people who live, work and play in the City of Kissimmee. One of the ways the City will be able to
+create complete streets, or streets that accommodate the needs of all users, is by preserving
+right-of-way along key transportation corridors throughout the City. And while the City
+recognizes that all modes should be accommodated to some degree, there are distinct areas
+within the City that are more appropriate for different mode types based on the surrounding area
+context.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                               TE-1
+TRANSPORTATION
+
+
+
+
+THE VISION
+The strategic vision for the City of Kissimmee is to extend the multimodal goals and objectives
+citywide to create and maintain an economically healthy and energy efficient multimodal
+transportation network. This Transportation Element seeks to link the City’s eight activity centers
+through a combination of regional and multimodal connections. The expansion of multimodal
+transportation strategies citywide creates the opportunity to develop complete streets criteria to
+address various design considerations when accommodating multiple modes of transportation
+based on the surrounding area’s context and anticipated future development patterns over the
+next 25 years.
+
+Figure 2-1: Kissimmee Transportation Vision
+
+
+
+
+The Transportation Element incorporates a mobility framework and corresponding streetscape
+plan that define a hierarchy of street networks reflecting functional transportation needs (such
+as regional mobility or local trip-making) and built environment. This hierarchy of streets further
+orient each street type towards either motorized or non-motorized mobility. The two are not
+mutually exclusive, but there are specific strategies and cross sections that respond to the
+prioritized mode(s) by varying the target speed, sizing the sidewalks, adding transit treatments,
+modifying lane widths, and improving signage and lighting.
+
+
+
+
+                                                         City of Kissimmee | 2040 Comprehensive Plan
+TE-2                                                                                 November 2018
+                                                                                  TRANSPORTATION
+                                                                                   Executive Summary
+
+
+
+
+Street typologies reflecting that hierarchy include A Streets (high regional auto and truck
+mobility), B Streets (local auto and truck mobility, high multimodal accessibility) and C Streets
+(high local accessibility). From this point
+forward, all new roadways will be classified at
+time of dedication.
+
+GOALS, OBJECTIVES, AND POLICIES
+The City’s Transportation Element Goals,
+Objectives, and Policies were revised to
+expand the multimodal transportation
+approach citywide. By defining goals and
+measurable objectives, and linking those with
+key economic development strategies and multimodal performance measures, the City will be
+able to monitor and enhance the quality of service for the various mode types including walking,
+biking, riding transit, and driving.
+
+The revised Goals, Objectives, and Policies include some key changes, including placing more
+emphasis on complementary land use and urban form as well as the relationship between
+transportation, economy and energy. The City of Kissimmee’s Comprehensive Plan establishes
+the linkage between land use and transit as well as policies that support mixed-use land uses
+and the supporting of different density thresholds, where appropriate. However, the
+Transportation Element expands upon the connections between transportation, economy and
+energy by emphasizing the link between land uses and transportation as well as the linkage
+between housing and transportation. Additionally, the Transportation Element articulates the
+importance of preserving mobility on A-Streets for all mode types despite the primarily
+automobile-oriented nature of these types of streets.
+
+The Economy and Environment section of the Transportation Element aims to plan and provide
+an energy efficient multimodal transportation network citywide. Objectives and policies stress
+incorporating green infrastructure, when possible, into site planning for multimodal facilities and
+promoting human-scale developments that encourage walking, biking and riding transit.
+Additionally, the City is supporting a multimodal environment by promoting infill and targeted
+development areas in the City, including the Kissimmee/Osceola County Enterprise Zone.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                  TE-1
+                                                                                  TRANSPORTATION
+                                                                                   Executive Summary
+
+
+
+
+DATA INVENTORY & ANALYSIS
+The Data Inventory and Analysis includes an examination of the existing and future
+transportation needs of the City of Kissimmee, both motorized and non-motorized. The City
+recognizes the importance of having an integrated transportation system that emphasizes
+different mode(s) depending on the specific location within the City.
+
+The multimodal emphasis of the Transportation
+Element is intended to give people more
+transportation choices and to lower the
+percentages of those who drive alone.
+Kissimmee has been working to transform its
+downtown into the main transportation hub area
+of the City with the LYNX Kissimmee
+Intermodal Center Transportation (KITC) station
+located at Neptune Road and Pleasant Street.
+The station now realigns several of the LYNX buses that used to make transfers at the Osceola
+Square Mall to downtown. The station also serves customers of SunRail, Amtrak and the
+planned US 192 Bus Rapid Transit line.
+
+The City of Kissimmee’s bicycle and pedestrian networks are continually being improved and
+expanded upon to provide better accessibility and quality of service to both residents and
+visitors. The majority of roadways in the City contain sidewalks and many incorporate bicycle
+facilities. Additionally, there are several on- and off-street bicycle facilities that are either
+existing, funded, or planned for construction.
+
+The roadway network and connectivity varies throughout the City. In areas such as downtown,
+there are higher levels of connectivity due to the grid street patterns with small blocks; however,
+the City’s more recently developed areas streets are less interconnected and often feature cul-
+de-sac street patterns that emphasize privacy over connectivity. The City’s hierarchy of streets,
+based on land use and modal emphasis, as well as future right-of-way reservations throughout
+the City helps prioritize existing and future multimodal planning goals.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                   TE-1
+TRANSPORTATION
+
+
+
+
+ACCESS MANAGEMENT PLAN
+Access management is the control of vehicular ingress to and egress from the roadway and
+adjacent land development. The purpose of access management is to provide for orderly
+access and traffic flow while maintaining safety for all roadway users. The Transportation
+Element’s Access Management Plan develops planning level recommendations for the
+implementation of access management techniques based upon the Florida Department of
+Transportation’s (FDOT) Access Management Standards, Chapter 14-97, Florida Statutes. The
+City of Kissimmee has applied those standards to identify “A” Streets, which are primarily auto-
+oriented but with multimodal features to accommodate other modes, but the Chapter 14-97
+rules apply to all city-maintained roadways. Access management strategy corridors (“A” Streets)
+include:
+
+   US 192 (Vine Street)
+
+   US 441 (Main Street/Orange Blossom Trail) – North of US 192
+
+   John Young Parkway
+
+   Osceola Parkway
+
+   Poinciana Boulevard
+
+STATION AREA PARKING
+The Transportation Element Update includes a review and analysis of existing parking supply as
+well as future parking needs based on the
+Land Development Code. As part of the
+City’s multimodal approach to
+transportation, eight locations that have
+transit station / stop areas associated with
+Future SunRail expansion, Planned US 192
+Bus Rapid Transit (BRT) and/or the City of
+Kissimmee Circulator were evaluated to
+determine where there may be a potential
+need for additional parking. These Station /
+Stop area locations are:
+
+
+
+
+                                                      City of Kissimmee | 2040 Comprehensive Plan
+TE-2                                                                              November 2018
+                                                                                 TRANSPORTATION
+                                                                                  Executive Summary
+
+
+
+
+      i.   Downtown Transit Station Area
+
+      ii. Government Office Area
+
+      iii. Medical Campus Area
+
+      iv. Bronson Station Area
+
+      v. Plaza Del Sol Station Area
+
+      vi. Gateway Tupperware Station Area
+
+      vii. Florida Hospital Area
+
+      viii. Valencia College Area
+
+Currently, the City has sufficient parking with the combination of both public and private parking
+to support the existing land uses in each of the Station / Stop areas. Additionally, the Downtown
+SunRail Intermodal Station’s planned public parking facilities will bring the existing parking
+spaces above future demand. However, the City is working towards creating Transit Oriented
+Development parking parameters in the Station / Stop areas that could greatly reduce the
+demand for parking. This could allow for the establishment of parking maximums rather than
+minimums and further enhance the multimodal objectives of the City.
+
+Figure 2-2: Parking Supply/Demand
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                 TE-3
+                                                                                        TRANSPORTATION
+                                                                                            Mobility Vision
+
+
+
+
+MOBILITY VISION
+VISION STATEMENT
+To develop and maintain a highly connected multimodal network that provides mobility and
+accessibility for all users.
+
+
+
+    GOALS
+
+
+    Goal 2.1: Multimodal Network - Plan and provide for a safe and efficient multimodal transportation
+    network that corresponds to and supports the City’s vision for its future by addressing livability,
+    and community needs.
+
+
+
+    Goal 2.2: Complementary Land Use & Urban Form - Provide a multimodal friendly community
+    for residents of, workers in, and visitors to the City of Kissimmee that enhances connections
+    between land uses and creates a sustainable urban form.
+
+
+
+    Goal 2.3: Economy & Environment - Plan and provide for an energy efficient multimodal
+    transportation network that corresponds to and supports the City’s vision for its future by
+    addressing infrastructure, providing travel options, and promoting infill and/or targeted
+    development areas.
+
+
+    Goal 2.4: Aviation - Continue to maintain a safe and economically viable airport in the city.
+
+
+
+    Goal: 2.5: Freight, Rail and Pipeline Facilities - Continue to manage freight, rail and pipeline
+    facilities in a manner, which promotes the best interests of the city’s residents, businesses, and
+    visitors.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                             TE-1
+                                                                                 TRANSPORTATION
+                                                                                     Mobility Vision
+
+
+
+
+VISION
+Transportation plays an
+important role today and
+in the future, affecting the
+quality of life and
+economic vitality of the
+City of Kissimmee. The
+strategic vision for the City
+of Kissimmee is to extend
+the multimodal framework
+citywide, connecting
+people to destinations
+supporting economic
+development and
+redevelopment initiatives,
+as well as to link freight
+and goods to and from the
+City. This Transportation Element seeks to tie together the City’s eight activity centers through a
+combination of regional and multimodal connections comprised of several features, including
+streets, sidewalks, bicycle facilities, trails and transit. The expansion of multimodal
+transportation strategies citywide creates the opportunity to develop complete streets criteria to
+address various design considerations when accommodating multiple modes of transportation
+based on the surrounding context and anticipated future development patterns, and will assist
+the City in preparation for growth and redevelopment for the next 25 years.
+
+Figure 2-1 presents the City’s Transportation Vision map, identifying critical connections that are
+needed to link residential and commercial areas through a robust network of regional and local
+multimodal facilities and design treatments.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                  TE-1
+TRANSPORTATION
+
+
+
+
+Figure 2-3: City of Kissimmee Transportation Vision
+
+
+
+
+The Transportation Element incorporates a mobility framework and corresponding streetscape
+plan that define a hierarchy of street networks reflecting functional transportation needs (such
+as regional mobility or local trip-making) and the built environment. This hierarchy of streets
+                                                       City of Kissimmee | 2040 Comprehensive Plan
+TE-2                                                                               November 2018
+                                                                                                                                                   TRANSPORTATION
+                                                                                                                                                       Mobility Vision
+
+
+
+
+further orients each street type toward either regional mobility or local accessibility. The two are
+not mutually exclusive, but there are specific strategies and cross sections that respond to the
+modes by varying the target speed, sizing the sidewalks, adding transit treatments, modifying
+lane widths, and improving signage and lighting.
+
+Street typologies reflecting that hierarchy include A Streets (high regional auto and truck
+mobility), B Streets (local auto and truck mobility, high multimodal accessibility) and C Streets
+(high local accessibility). New roadways will be classified at time of dedication. The following
+pages present the organization and typical section illustrations of the street hierarchy and
+guidance for streetscape design.
+
+STREET TYPOLOGY GUIDANCE
+Table 2-1: Street Typology Guidance
+
+                                                               A Streets                                                     B Streets                             C Streets
+
+Streets Criteria                  Vine Street / US 192 John Young Parkway 90 - 100' Right-of-Way 70 - 80' Right-of-Way 60 - 70' Right-of-Way                  50' Right-of-Way
+                                                                         TRAVELWAY
+Desired Operating Speed                    45                   45                   35                     35                    30                                  25
+Number of Lanes (bidirectional)           4- 6                 4- 6                 2- 4                   2- 4                  2- 4                                  2
+Optimum Lane Width                     10 - 12 ft.          10 - 12 ft.          10 - 12 ft.            10 - 11 ft.           10 - 11 ft.                         10 - 11 ft.
+On-Street Parking Width           Not recommended Not recommended          Not recommended         Optional/7 - 8 ft.    Optional/7 - 8 ft.                    Optional/7 - 8 ft.
+On-Street Bike Lane Width         Not recommended Not recommended                 5 - 8 ft.              5 - 8 ft.             5 - 8 ft.                           Sharrow
+Median                                   16 ft.               16 ft.       Optional/10 - 16 ft.   Optional/10 - 16 ft. Optional/10 - 16 ft.                          N/A
+
+Access Management                           See Access Management                                           Context Sensitive Engineering Manual
+
+                                                                                 ROADSIDE
+                                        12 - 20 ft.            12 - 20 ft.                5 - 20 ft.                 5 - 10 ft.                5 - 9 ft.            5 - 10 ft.
+Optimum Sidewalk Through Zone                                         Sidewalk through zone includes only the clear pedestrian travel way
+                                                                                 5 - 8 ft. tree well or 2 - 5 - 8 ft. tree well or 2 -
+ Optimum Sidewalk Amentity /
+                                    1 - 5 ft. tree well   1 - 5 ft. tree well      10 ft. planting strip     12 ft. planting strip 2 - 8 ft. planting strip 2 - 8 ft. planting strip
+      Landscaped Buffer
+                                                          Sidewalk amenity includes the roadway edge zone and furnishings and planting strip
+                                    Highest quality        Highest quality           Standard quality          Standard quality            Highest quality      Highest quality
+Sidewalk Amenity (Treatments
+                                    treatments and        treatments and             treatments and             treatments and             treatments and       treatments and
+and Spacing)
+                                    closest possible      closest possible          optimum spacing           optimum spacing             closest possible     closest possible
+                                     Standard scale        Standard scale                                        Standard scale        Pedestrian scale     Pedestrian scale
+Street Lighting
+                                        fixtures                fixtures         Standard scale fixtures             fixtures          fixtures             fixtures
+
+Stormwater Management              Stormwater ponds       Stormwater ponds        Stormwater ponds          Stormwater ponds         Stormwater ponds             Bio-swales
+
+                                   BRT Station Areas /
+                                                                                 Pull- out bays / stops Pull- out bays / stops
+Transit Facilities (Bus Pull-     local bus stops every Stops every 2 blocks                                                   Stops every 2 blocks          Not Recommended
+                                                                                    every 2 blocks         every 2 blocks
+outs/Lanes and Stops)                    2 blocks
+                                                                              INTERSECTIONS
+Optimum Crosswalk Spacing           At intersections       At intersections        At intersections          At intersections         At intersections              600 ft.
+Curb Radii                              20 - 30 ft.            20 - 30 ft.             20 - 30 ft.               15 - 25 ft.              15 - 25 ft.              15 - 20 ft.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                                                TE-3
+TRANSPORTATION
+
+
+
+
+TYPICAL SECTIONS
+Figure 2-4: Typical “A” Street (Vine Street (192)/John Young Parkway) Section
+
+
+
+
+                                             City of Kissimmee | 2040 Comprehensive Plan
+TE-4                                                                     November 2018
+                                                                    TRANSPORTATION
+                                                                        Mobility Vision
+
+
+
+
+Figure 2-5: Typical “A” Street with 90’-100’ Right-of-Way Section
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                     TE-5
+TRANSPORTATION
+
+
+
+
+Figure 2-6: Typical “A” Street with 90’-100’ Right-of-Way Section
+
+
+
+
+Figure 2-7: Typical “A” Street with 90’-100’ Right-of-Way Section
+
+
+
+
+                                               City of Kissimmee | 2040 Comprehensive Plan
+TE-6                                                                       November 2018
+                                                                   TRANSPORTATION
+                                                                       Mobility Vision
+
+
+
+
+Figure 2-8: Typical “A” Street with 80’-90’ Right-of-Way Section
+
+
+
+
+Figure 2-9: Typical “B” Street with 70’-80’ Right-of-Way Section
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                    TE-7
+TRANSPORTATION
+
+
+
+
+Figure 2-10: Typical “B” Street with 60’-70’ Right-of-Way Section
+
+
+
+
+Figure 2-11: Typical “C” Street with 50’ Right-of-Way Section
+
+
+
+
+                                               City of Kissimmee | 2040 Comprehensive Plan
+TE-8                                                                       November 2018
+                                                                                            TRANSPORTATION
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives and implementing policies for the Transportation Element pursuant
+to §163.3177(6)(b) Florida Statutes.
+
+GOAL 2.1: MULTIMODAL NETWORK.
+Plan and provide for a safe and efficient multimodal transportation network that corresponds to and
+supports the City’s vision for its future by addressing livability, and community needs.
+
+       OBJECTIVE 2.1.1: SAFE TRANSPORTATION SYSTEM.
+       The City shall continue to establish a safe multimodal transportation network through development
+       and implementation of level or quality of service (QOS) standards for all modes and providing
+       associated improvement, urban design and funding strategies.
+
+               POLICY 2.1.1.1: CITYWIDE STANDARDS
+               The City shall maintain multimodal standards to address its designation as a Dense Urban
+               Land Area and Multimodal Transportation District.
+
+               POLICY 2.1.1.2: COMPLETE STREETS TO PROMOTE PUBLIC HEALTH AND ACTIVE MOBILITY.
+               The City shall continue to promote the development of an integrated Complete Streets
+               network through the inclusion of public transit, bicycle, and pedestrian facilities for people
+               of all ages and abilities to promote public health and active mobility.
+
+               POLICY 2.1.1.3: STREET TYPOLOGIES.
+               The City shall maintain a distinct hierarchy of three street types within the City. These street
+               typologies include:
+
+                      ‘A’ streets are vehicular emphasis streets with a regional mobility focus
+
+                      ‘B’ streets are pedestrian and bicycle emphasis streets that support major local
+                       destinations
+
+                      ‘C’ streets are residential and non-residential streets with lower speeds that provide
+                       local access
+
+               POLICY 2.1.1.4: REDUCE FATALITIES, INJURIES AND CRASHES.
+               The City shall adopt a policy supporting a fatality-free transportation system through
+               combining design, engineering, enforcement, and education initiatives to promote a safe
+               multimodal network.
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                               TE-9
+TRANSPORTATION
+Goals, Objectives, and Policies
+
+
+
+
+        OBJECTIVE 2.1.2: EFFICIENT MULTIMODAL NETWORK.
+        The City shall continue to maintain a Multimodal Transportation District (MMTD) that is designed
+        to enhance quality of service for all modes of transportation.
+
+                 POLICY 2.1.2.1: MULTIMODAL TRANSPORTATION DISTRICT.
+                 Pursuant to F.S. 163.3177(6)(a) the MMTD will be maintained within the boundaries
+                 indicated on the Future Land Use Map District Boundaries map. Within the MMTD,
+                 transportation issues shall be mitigated by:
+
+                         Designing development to safely promote an increase in walking, biking, and transit
+                          use while reducing vehicle trip lengths and vehicle miles of travel.
+
+                         Contributing towards the achievement of the multimodal quality of service standards
+                          through completion or contribution towards multimodal transportation
+                          improvements, payment of the transportation mobility fee, or similar contributions
+                          that shall be proportionate to a development’s transportation impact.
+
+                 POLICY 2.1.2.2: QUALITY OF SERVICE STANDARDS.
+                 Within the MMTD, the City shall meet the quality of service standards for pedestrian and
+                 cycling facilities as well as for transit facilities. The City shall also continue to pursue
+                 strategies to preserve vehicular mobility on major thoroughfares, with emphasis on
+                 Statewide Intermodal System (SIS) and regionally significant roadways. Any proposed
+                 development with a traffic impact on a deficient facility (as established by the monitoring
+                 report in Policy 2.1.2.4) that fails to meet the quality of service standards shall be required
+                 to mitigate such impacts through appropriate roadway or multimodal mitigation strategies
+                 or by paying proportionate share fees toward the achievement of these strategies.
+
+                 Outside of the MMTD, the City adopts a LOS D standard for the peak hour for major
+                 thoroughfares (arterials and collectors).
+
+                 POLICY 2.1.2.3: MMTD STREET TYPOLOGIES.
+                 The City shall maintain a distinct hierarchy of three street types within the MMTD. These
+                 street typologies include:
+
+                 ‘A’ streets are vehicular emphasis streets with a regional mobility focus
+
+                 ‘B’ streets are pedestrian and bicycle emphasis streets that support major local destinations
+
+                 ‘C’ streets are residential and non-residential streets with lower speeds that provide local
+                 access
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+TE-10                                                                                          November 2018
+                                                                                          TRANSPORTATION
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+       OBJECTIVE 2.1.3: ACCESS TO DESTINATIONS
+       The City shall maintain a transportation network that provides access to major local destinations
+       and employers throughout the City.
+
+               POLICY 2.1.3.1: CONVENIENT TRANSPORTATION NETWORK.
+               Strategies to enhance access to destinations shall include the development of multimodal
+               infrastructure, including a circulator, and increasing connectivity through the development
+               of parallel and alternate routes.
+
+               POLICY 2.1.3.2: BICYCLE AND PEDESTRIAN FACILITY IMPROVEMENTS NEAR TRANSIT.
+               The City shall continue to promote the improvement and expansion of bicycle and
+               pedestrian facilities citywide, focusing on improved access in the MMTD and near transit
+               corridors and stations.
+
+       OBJECTIVE 2.1.4: ADA AND TRANSPORTATION DISADVANTAGED.
+       The City shall increase mobility for the transportation disadvantaged who reside, work, and/or visit
+       the City of Kissimmee in accordance with the most recent Americans with Disabilities Act Title II
+       Regulations, and City of Kissimmee Land Development Code.
+
+               POLICY 2.1.4.1: PROMOTE COORDINATED SERVICE APPROACH.
+               The City should encourage development of a coordinated paratransit service approach to
+               providing transportation for the elderly and handicapped in Kissimmee by working with
+               LYNX, Osceola County, and social service providers.
+
+       OBJECTIVE 2.1.5: ENCOURAGE THE DEVELOPMENT OF RAIL AND PREMIUM TRANSIT
+       SERVICE
+       The City shall continue to work with other regional public agencies to promote the development of
+       regional and intercity rail and premium transit service to and through Kissimmee.
+
+               POLICY 2.1.5.1: PROMOTE METROPOLITAN AREA PASSENGER RAIL AND PREMIUM TRANSIT
+               CONNECTIONS.
+               The City shall continue to coordinate with Osceola County, LYNX, MetroPlan Orlando and
+               other public agencies in the region to implement passenger rail service (SunRail) from the
+               Kissimmee Intermodal Transportation Center (KITC) to Orlando and other regional activity
+               centers, with premium, feeder bus service to provide local connections within the City to the
+               Multimodal Center.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           TE-11
+TRANSPORTATION
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 2.1.5.2: PROMOTE CONTINUED INTERCITY SERVICE.
+                 The City shall continue to coordinate with Amtrak to maintain, if not increase, the level of
+                 intercity train service provided through Kissimmee, and provide adequate intercity train
+                 station facilities. The City shall also promote regional efforts to develop a cross-state, high
+                 speed passenger rail connection between major nearby municipalities that connects with a
+                 downtown multimodal station.
+
+        OBJECTIVE 2.1.6: STRENGTHEN INTER-AGENCY PARTNERSHIPS TO IMPLEMENT
+        MULTIMODAL NETWORK IMPROVEMENTS
+        The City of Kissimmee shall continue to coordinate multimodal transportation planning and
+        improvements with other governmental agencies including but not limited to the Florida Department
+        of Transportation (FDOT), Osceola County, MetroPlan Orlando, Orange County, the Central Florida
+        Expressway Authority, LYNX, and the East Central Florida Regional Planning Council to achieve
+        planned improvements to transportation facilities and services.
+
+                 POLICY 2.1.6.1: IMPLEMENTING TRANSPORTATION PLANNING AND COORDINATION.
+                 The City shall continue to review present and future transportation plans and programs of
+                 the FDOT, Osceola County, the Osceola County Expressway Authority, MetroPlan Orlando,
+                 Orange County, the Central Florida Expressway Authority, LYNX, and the East Central
+                 Florida Regional Planning Council to maintain compatibility with the City’s vision for future
+                 development as outlined in the Comprehensive Plan and to ensure the City’s
+                 Comprehensive Plan is consistent with regional plans.
+
+        OBJECTIVE 2.1.7: PROGRAMMING MULTIMODAL TRANSPORTATION IMPROVEMENTS
+        The City shall develop and maintain an implementation program for multimodal transportation
+        infrastructure and services within the City of Kissimmee and surrounding areas with available
+        financial resources.
+
+                 POLICY 2.1.7.1: IMPROVEMENT PROGRAM.
+                 The City of Kissimmee shall annually update the Five Year Capital Program in conjunction
+                 with FDOT’s Five Year Work Program and MetroPlan Orlando’s Transportation
+                 Improvement Program Update. Transportation projects programmed by Osceola County,
+                 FDOT, Central Florida Expressway Authority, MetroPlan Orlando, and LYNX will be
+                 identified. Top priority mobility projects shall be incorporated in the Five Year Schedule of
+                 Capital Improvements and annual budget accordingly.
+
+                 POLICY 2.1.7.2: FUNDING SOURCES.
+                 Funding sources for transportation projects shall be reviewed annually with available
+                 funding projected for future years and allocated to projects in accordance with the
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+TE-12                                                                                          November 2018
+                                                                                             TRANSPORTATION
+                                                                                    Goals, Objectives, and Policies
+
+
+
+
+               Comprehensive Plan, Five-Year Schedule of Capital Improvements, and annual budget.
+               New funding sources for City transportation projects including but not limited to, taxing
+               strategies, special bonding, and utility assessments, shall be explored. The mobility fee
+               structure shall continue to be maintained to address multimodal operations throughout the
+               City.
+
+GOAL 2.2: COMPLEMENTARY LAND USE & URBAN FORM
+Provide a multimodal friendly community for residents of, workers in, and visitors to the City of Kissimmee
+that enhances connections between land uses and creates a sustainable urban form.
+
+       OBJECTIVE 2.2.1: LINKING LAND USE AND TRANSPORTATION
+       The City shall work to integrate bicycle, pedestrian, and transit facility improvements into site
+       developments and roadway projects in the City of Kissimmee to better connect land uses with
+       multiple modes of transportation.
+
+               POLICY 2.2.1.1: ENCOURAGE BICYCLE AND PEDESTRIAN FRIENDLY DESIGN.
+               The City shall continue to promote walking and the use of bicycles by encouraging bicycle
+               and pedestrian-friendly design in new developments, including redevelopment projects to
+               the extent feasible, and the provision of support facilities such as benches, bicycle facilities,
+               bicycle lockers, and showers.
+
+               POLICY 2.2.1.2: PRESERVATION OF EXISTING STREET CONNECTIVITY.
+               The City shall ensure that street connectivity is not lost over time by prohibiting street
+               vacations for public and private development uses. In cases of true hardship, street
+               vacations will be permitted only when the proposed new development will provide new
+               street connection elsewhere that will result in no loss of street connectivity City-wide.
+
+       OBJECTIVE 2.2.2: LINKING HOUSING AND TRANSPORTATION
+       The City of Kissimmee shall continue to encourage multiple modes of transportation to and from
+       residential land uses by enhancing mobility in communities and improving accessibility to uses and
+       services.
+
+               POLICY 2.2.2.1: TRANSIT AND DENSITY.
+               The City shall continue to encourage land uses that support transit as established in the
+               Future Land Use Element.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                              TE-13
+TRANSPORTATION
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 2.2.2.2: ENCOURAGE LAND USE DEVELOPMENT PATTERNS THAT SUPPORT MULTIPLE
+                 MODES OF TRANSPORTATION.
+                 The City shall continue to support mixed-use development and redevelopment options in
+                 the MMTD by encouraging relevant policies in the Future Land Use Element.
+
+                 POLICY 2.2.2.3: DENSITY SUPPORT.
+                 Transportation infrastructure and services shall support residential, non-residential, and
+                 mixed use land uses.
+
+        OBJECTIVE 2.2.3: PRESERVING MOBILITY ON A STREETS.
+        The City shall preserve mobility on A-Streets for all modes of transportation including vehicles,
+        transit, as well as non-motorized forms of transportation.
+
+                 POLICY 2.2.3.1: ACCESS MANAGEMENT.
+                 The City of Kissimmee shall continue to follow access management guidance as
+                 established in the Administrative Rule 14-97 section of the FDOT Access Management
+                 Handbook, and the Access Management section of this Transportation Element.
+
+        OBJECTIVE 2.2.4: PRESERVATION OF RIGHT-OF-WAY TO IMPLEMENT MULTIMODAL
+        NETWORK
+        The City of Kissimmee shall continue to protect existing and future right-of-way needs by requiring
+        all proposed developments to reserve or dedicate right-of-way to maintain an interconnected
+        roadway system for multiple modes of transportation.
+
+                 POLICY 2.2.4.1: TRAFFIC CIRCULATION MAP.
+                 The City of Kissimmee hereby adopts the City of Kissimmee 2040 Number of Lanes Map
+                 as the future roadway network map. The Existing Roadway Classification Map shall
+                 establish the functional classification of the roadways within the City.
+
+                 POLICY 2.2.4.2: STANDARDS OF FUTURE ROAD RIGHT-OF-WAY ACQUISITION.
+                 The City of Kissimmee hereby maintains the minimum standards for road right-of way
+                 (ROW) as identified in the ROW Reservation Map. Right-of-way width may vary on existing
+                 roadways in accordance with a completed right-of-way needs assessment.
+
+                 POLICY 2.2.4.3: MANDATORY RIGHT-OF-WAY DEDICATION/TRANSPORTATION FEES.
+                 The City of Kissimmee shall maintain a program for mandatory dedication of right-of-way
+                 and implementation of transportation mobility fees. As a condition of development approval
+                 associated with plats, replats, planned unit developments, or site plans, ROW or mobility
+                 fees shall be provided to improve the multimodal network. The purpose and intent of such
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+TE-14                                                                                       November 2018
+                                                                                             TRANSPORTATION
+                                                                                    Goals, Objectives, and Policies
+
+
+
+
+               a program shall be to assure that: 1) adequate rights-of-way and necessary improvements
+               are dedicated and developed concurrent with the impacts of new development, and 2) the
+               cost of such improvements shall be borne by the developer generating the need for the
+               facilities.
+
+               POLICY 2.2.4.4: PEDESTRIAN AND BICYCLE WAYS – NEW CONSTRUCTION.
+               Sidewalks, bicycle lanes and/or shared-use paths shall be required on both sides of the
+               street with the dedicated non-pavement, right-of-way within the City boundaries for any new
+               road construction, road widening, or resurfacing, unless a suitable alternative can be
+               provided.
+
+               POLICY 2.2.4.5: PEDESTRIAN AND BICYCLE WAYS – EXISTING ROADWAYS
+               The City shall continue to prioritize projects that install sidewalks, accommodate bicycle
+               facilities, and shared-use paths within the non-pavement right-of-way portions of existing
+               collectors and higher classified roadways within the MMTD and within two miles of schools.
+               The City shall continue to preserve existing bicycle facilities and/or shared use paths
+               whenever a roadway is scheduled for widening.
+
+               POLICY 2.2.4.6: PEDESTRIAN AND BICYCLE WAYS – GAP INFILL
+               The City shall continue to prioritize projects that fill in gaps in sidewalks, bicycle lanes,
+               and/or shared use paths where the facilities are not continuous on existing roadways.
+
+GOAL 2.3: ECONOMY AND ENVIRONMENT
+Plan and provide for an energy efficient multimodal transportation network that corresponds to and
+supports the City’s vision for its future by addressing infrastructure, providing travel options, and promoting
+infill and/or targeted development areas.
+
+       OBJECTIVE 2.3.1: GREEN INFRASTRUCTURE – NEW MULTIMODAL FACILITIES
+       CONSTRUCTION
+       The City shall continue to require all new multimodal facilities to incorporate green infrastructure
+       where physically and financially feasible.
+
+               POLICY 2.3.1.1: GREEN INFRASTRUCTURE DESIGN.
+               The City shall promote site planning and design for multimodal facilities which utilize an
+               energy efficient design as established in the Conservation Element.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                              TE-15
+TRANSPORTATION
+Goals, Objectives, and Policies
+
+
+
+
+        OBJECTIVE 2.3.2: COMMUNITY INFRASTRUCTURE TO ENABLE COMPACT DEVELOPMENT
+        PATTERNS
+        The City shall continue to pursue compact development patterns that are designed to encourage
+        pedestrian, bicycle, and transit travel throughout the community as established in the Future Land
+        Use Element.
+
+                 POLICY 2.3.2.1: COMPACT DEVELOPMENTS.
+                 Developments within the City shall emphasize human-scaled development as established
+                 in the Future Land Use Element. Strategies to promote human-scale development may
+                 include smaller block sizes, mixed use land uses, and higher densities. Additionally,
+                 development patterns should be supportive of premium transit service (i.e. bus rapid transit,
+                 bus circulators, and connections to commuter rail).
+
+                 POLICY 2.3.2.2: INTEGRATE TRANSIT IMPROVEMENTS INTO SITE DEVELOPMENTS AND
+                 ROADWAY PROJECTS.
+                 The City shall identify appropriate transit facility improvements, such as passenger waiting
+                 area pads, shelter pads, and bus turnout bays to be incorporated into site development and
+                 roadway projects, and provide appropriate standards for site/civil engineers to design such
+                 improvements.
+
+        OBJECTIVE 2.3.3: ESTABLISH TRANSPORTATION DEMAND MANAGEMENT PROGRAMS TO
+        ENHANCE TRAVEL OPTIONS
+        The City shall coordinate with Central Florida Regional Transportation Authority (LYNX) to develop
+        Transportation Demand Management Programs that identify potential strategies to be applied by
+        the public and private sectors to reduce auto travel in the City, and promote transit usage or travel
+        by non-motorized means.
+
+                 POLICY 2.3.3.1: COMMUNITY MARKETING PROGRAM.
+                 The City should continue to coordinate with the Central Florida Regional Transportation
+                 Authority (LYNX) to design and implement a marketing and community relations program
+                 aimed at increasing transit usage or travel by non-motorized means by residents of the City.
+
+                 POLICY 2.3.3.2: REGIONAL TRANSPORTATION MANAGEMENT.
+                 The City of Kissimmee shall continue to work in coordination with MetroPlan Orlando and
+                 associated counties to develop one Transportation Management Center network to
+                 cohesively manage travel in the region.
+
+
+
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+TE-16                                                                                         November 2018
+                                                                                        TRANSPORTATION
+                                                                               Goals, Objectives, and Policies
+
+
+
+
+       OBJECTIVE 2.3.4: ECONOMIC ADVANTAGE FOR INFILL AND TARGETED DEVELOPMENT
+       AREAS.
+       The City of Kissimmee shall promote infill and targeted development areas in the City to encourage
+       development that is supportive of the City’s multimodal environment.
+
+               POLICY 2.3.4.1: TARGETED INDUSTRIES.
+               The City of Kissimmee shall encourage companies listed in their targeted industries
+               categories per Policy 10.2.1.1 to locate within the City.
+
+               POLICY 2.3.4.2: ACTIVITY CENTERS.
+               The City shall encourage development in key activity centers per Policies 10.2.2.1 –
+               10.2.2.4.
+
+               POLICY 2.3.4.3: MULTIMODAL TRANSPORTATION INFRASTRUCTURE.
+               Multimodal transportation infrastructure shall be implemented where necessary to support
+               economic development per Policies 10.3.1.1 – 10.3.1.3.
+
+GOAL 2.4: AVIATION
+Continue to maintain a safe and economically viable airport in the city.
+
+       OBJECTIVE 2.4.1: COMPATIBILITY WITH PLANNING DOCUMENTS AND LAND USE
+       STANDARDS TO PRESERVE AIRPORT FACILITIES
+       The City shall continue to maintain land use standards to address protection of the Kissimmee
+       Gateway Airport from encroachment of incompatible land uses and assure that any expansion of
+       the Kissimmee Gateway Airport or airport related uses are compatible with the City Comprehensive
+       Plan, the Kissimmee Gateway Airport Master Plan, and the Kissimmee Gateway Airport Economic
+       Development Study. The City shall make the most efficient use of their authority by cooperating
+       with other localities through interlocal agreements related to airport regulations and surrounding
+       land use compatibility.
+
+               POLICY 2.4.1.1: EVALUATE SURROUNDING LAND USES.
+               The City shall continue to review all proposed development applications to ensure the
+               development is appropriate given the distance from and proximity to the airport. The City
+               shall periodically evaluate its Kissimmee Gateway Airport Economic Development Study for
+               compliance with state statutes.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         TE-17
+TRANSPORTATION
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 2.4.1.2: CONSISTENCY OF IMPROVEMENTS WITH OTHER PLANS.
+                 The City shall continue to support airport improvement proposals that are consistent with
+                 the City’s Comprehensive Plan and the Kissimmee Gateway Airport Master Plan.
+
+        OBJECTIVE 2.4.2: ADEQUATE TRANSPORTATION AND UTILITY CONNECTIONS
+        The City shall provide adequate transportation and utility connections to meet the airport’s future
+        needs.
+
+                 POLICY 2.4.2.1: COORDINATION WITH TRANSPORTATION ELEMENT OF CITY COMPREHENSIVE
+                 PLAN.
+                 Improvements to the roadway, pedestrian, bicycle, and transit networks needed to improve
+                 access to Kissimmee Gateway Airport shall be consistent with the Airport Master Plan and
+                 included in the City’s Comprehensive Plan.
+
+                 POLICY 2.4.2.2: COORDINATE WITH LYNX FOR REGIONAL TRANSIT ACCESS.
+                 The City shall continue to coordinate with LYNX and other relevant governmental agencies
+                 to provide transit access to the Kissimmee Gateway Airport that meets the needs of
+                 employees, residents, and visitors.
+
+                 POLICY 2.4.2.3: COORDINATE UTILITY IMPROVEMENTS WITH AIRPORT DEVELOPMENT.
+                 Suitable water, wastewater, and other utility improvements shall be provided in conjunction
+                 with airport development.
+
+GOAL: 2.5: FREIGHT RAIL AND PIPELINE FACILITIES
+Continue to manage freight rail and pipeline facilities in a manner, which promotes the best interests of the
+city’s residents, businesses, and visitors.
+
+        OBJECTIVE 2.5.1: ADJUST FREIGHT RAIL SERVICE
+        The City shall continue to promote efforts to make adjustments to freight rail operations in the
+        Kissimmee area, by providing for safer operations, improving service to local businesses, and using
+        the existing mainline corridor primarily for future passenger rail service.
+
+                 POLICY 2.5.1.1: REALIGN FREIGHT SERVICE.
+                 The City shall continue to maintain the dual supporting services of FDOT freight operations
+                 to areas with a greater potential to benefit from freight services and shall support the
+                 utilization of rail facilities for passenger service and local freight service.
+
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+TE-18                                                                                        November 2018
+                                                                                          TRANSPORTATION
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+               POLICY 2.5.1.2: PROVIDE SAFE RAILROAD/HIGHWAY GRADE CROSSINGS.
+               The City will continue to coordinate with FDOT to identify railroad/highway grade crossings
+               in the City in need of improvement, particularly increased crossing protection. Any
+               opportunities for closed and new crossings will also be identified. Additionally, the City of
+               Kissimmee shall require “quiet zones” per the Florida Railroad Administration Train Horn
+               Rule where deemed necessary, appropriate and financially feasible.
+
+       OBJECTIVE 2.5.2: PIPELINE FACILITIES
+       New pipeline facilities shall be developed and maintained through Kissimmee in the most cost-
+       effective and safe manner, with minimal disruption to neighborhoods, businesses, the environment,
+       and in a manner that is aesthetically pleasing.
+
+               POLICY 2.5.2.1: CONSOLIDATION OF FACILITIES.
+               The City shall encourage the development of new, underground pipeline facilities in existing
+               pipeline corridors, with these facilities suitably protected from adjacent land uses.
+
+               POLICY 2.5.2.2: PROTECT PIPELINE CORRIDORS.
+               The City shall protect pipeline facilities from the encroachment of new incompatible land
+               uses through implementation of the Future Land Use Element.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           TE-19
+                                                          HOUSING
+                                                             Maps
+
+
+
+
+MAPS
+   Existing Public Transportation
+
+   Existing and 2040 Pedestrian and Bicycle Facilities
+
+   2040 Street Types
+
+   Existing Roadway Classification
+
+   Existing Number of Lanes
+
+   2040 Right of Way Reservation
+
+   Existing Evacuation Routes
+
+   Strategic Intermodal System Facilities
+
+   Existing Level of Service
+
+   2040 Public Transportation
+
+   2040 Level of Service
+
+   2040 Number of Lanes
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-21
+                                              HOUSING
+                                                 Maps
+
+
+
+
+Figure 2-12: Existing Public Transportation
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-23
+                                                                   HOUSING
+                                                                      Maps
+
+
+
+
+Figure 2-13: Existing and 2040 Pedestrian and Bicycle Facilities
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-25
+                                 HOUSING
+                                    Maps
+
+
+
+
+Figure 2-14: 2040 Street Types
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-27
+                                               HOUSING
+                                                  Maps
+
+
+
+
+Figure 2-15: Existing Roadway Classification
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-29
+                                        HOUSING
+                                           Maps
+
+
+
+
+Figure 2-16: Existing Number of Lanes
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-31
+                                             HOUSING
+                                                Maps
+
+
+
+
+Figure 2-17: 2040 Right of Way Reservation
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-33
+                                          HOUSING
+                                             Maps
+
+
+
+
+Figure 2-18: Existing Evacuation Routes
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-35
+                                                      HOUSING
+                                                         Maps
+
+
+
+
+Figure 2-19: Strategic Intermodal System Facilities
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-37
+                                         HOUSING
+                                            Maps
+
+
+
+
+Figure 2-20: Existing Level of Service
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-39
+                                          HOUSING
+                                             Maps
+
+
+
+
+Figure 2-21: 2040 Public Transportation
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-41
+                                     HOUSING
+                                        Maps
+
+
+
+
+Figure 2-22: 2040 Level of Service
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-43
+                                    HOUSING
+                                       Maps
+
+
+
+
+Figure 2-23: 2040 Number of Lanes
+                                                                                    TRANSPORTATION
+                                                                                              Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                           TE-45
+

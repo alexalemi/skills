@@ -1,0 +1,67 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "alemi-skills",
+  "version": "1.0.0",
+  "description": "A collection of Claude Code skills for probabilistic estimation, programming languages, notebooks, and urban planning",
+  "owner": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  },
+  "plugins": [
+    {
+      "name": "fermi-estimation",
+      "description": "Probabilistic estimation and dimensional reasoning for uncertain quantities using the simplefermi package",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alex Alemi",
+        "email": "me@alexalemi.com"
+      },
+      "source": "./plugins/fermi-estimation",
+      "category": "productivity"
+    },
+    {
+      "name": "janet",
+      "description": "Help with writing, learning, running, and debugging Janet code - a functional Lisp-like language with macros, PEGs, and fibers",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alex Alemi",
+        "email": "me@alexalemi.com"
+      },
+      "source": "./plugins/janet",
+      "category": "development"
+    },
+    {
+      "name": "persistent-repl",
+      "description": "Python REPL wrapper with persistent storage using dill for interactive calculations and debugging",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alex Alemi",
+        "email": "me@alexalemi.com"
+      },
+      "source": "./plugins/persistent-repl",
+      "category": "development"
+    },
+    {
+      "name": "plaque",
+      "description": "Transform Python files into interactive notebooks with live updates and rich formatting",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alex Alemi",
+        "email": "me@alexalemi.com"
+      },
+      "source": "./plugins/plaque",
+      "category": "productivity"
+    },
+    {
+      "name": "pab",
+      "description": "Planning Advisory Board agenda analysis for Kissimmee - evaluate proposals against Comprehensive Plan, Land Development Code, and Strong Towns principles",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alex Alemi",
+        "email": "me@alexalemi.com"
+      },
+      "source": "./plugins/pab",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,1858 @@
+THIS PAGE INTENTIONALLY LEFT BLANK.
+ Kissimmee
+ 2040 Comprehensive Plan
+ Future Land Use
+
+
+
+
+prepared for
+City of Kissimmee
+
+
+
+prepared by
+Cambridge Systematics, Inc.
+2101 West Commercial Boulevard, Suite 3200
+Fort Lauderdale, FL 33309
+
+
+
+date
+November 2018
+Amended February 2020; DRC#19-113; DEO Amendment No. 19-03(ESR)
+Amended December 7, 2021; DRC#21-097; DEO Amendment No. 21-02(ESR)
+
+Cover photo source: City of Kissimmee Public Information Office
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                                   FUTURE LAND USE
+
+
+
+
+Table of Contents
+Community Profile .................................................................................................................................1
+
+Goals, Objectives, and Policies ............................................................................................................4
+          Goal 1.1: Land Use and Community Character. ............................................................................ 4
+                 Objective 1.1.1: Plan and Design for Residential Quality. ..................................................... 4
+                 Objective 1.1.2: Commercial Development. .......................................................................... 5
+                 Objective 1.1.3: Planning for Industrial Development............................................................ 6
+                 Objective 1.1.4: Accommodate Institutional Facilities and Public Services. .......................... 7
+                 Objective 1.1.5: Promote Innovative Land Use Strategies and Urban Design Principles, and
+                   Resource Conservation. ...................................................................................................7
+                 Objective 1.1.6: Promote a Multimodal-Supportive Land Development Pattern to Increase
+                   Mobility within the City. ................................................................................................... 10
+                 Objective 1.1.7: Protection of Historic Resources. .............................................................. 12
+                 Objective 1.1.8: Intergovernmental Coordination. ............................................................... 12
+                 Objective 1.1.9: Continuing Land Use Programs. ............................................................... 13
+                 Objective 1.1.10: Designating Land Uses for Parcels Annexed to the City. ........................ 14
+          Goal 1.2: Maintain Future Land Use Map. .................................................................................. 16
+                 Objective 1.2.1: Residential Land. ...................................................................................... 16
+                 Objective 1.2.2: Non-Residential and Mixed-use Land Uses. ............................................. 19
+                 Objective 1.2.3: Maintaining Commercial Land Uses. ......................................................... 20
+                 Objective 1.2.4: Maintaining Industrial Land Uses. ............................................................. 21
+                 Objective 1.2.5: Managing Airport Lands. ........................................................................... 22
+                 Objective 1.2.6: Maintaining Institutional Services. ............................................................. 24
+                 Objective 1.2.7: Maintaining Land for Essential Utilities. ..................................................... 24
+                 Objective 1.2.8: Maintaining Recreation and Conservation Land Uses Designations. ......... 25
+                 Objective 1.2.9: Mixed-use Land Use Designations. ........................................................... 26
+                 Objective 1.2.10: Mixed-uses and Planned Unit Developments. ......................................... 30
+                 Objective 1.2.11: Multimodal Transportation District (MMTD). ............................................ 33
+                 OBJECTIVE 1.2.12: Continuing Evaluation of Future Land Use Element Effectiveness. ..... 34
+
+Maps .....................................................................................................................................................36
+
+Data, Inventory, and Analysis .............................................................................................................46
+          Introduction .................................................................................................................................46
+          Existing Land Uses .....................................................................................................................46
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                     FLUE-i
+FUTURE LAND USE
+
+
+
+
+          Land Use Compatibility ...............................................................................................................48
+                 Uses Inconsistent with City Character ................................................................................. 48
+                 Hazard and Flood Mitigation and Redevelopment ............................................................... 49
+          Future Land Uses........................................................................................................................49
+                 Vacant Land Analysis ..........................................................................................................51
+                 Adjacent Land Uses and Enclaves ...................................................................................... 53
+                 Residential Future Land Use Categories ............................................................................. 57
+                 Non-Residential Future Land Use Categories...................................................................... 58
+                 Mixed Use Future Land Use Designations ........................................................................... 61
+          Special Areas and Districts.......................................................................................................... 64
+                 Multimodal Transportation District ....................................................................................... 64
+                 Community Redevelopment Areas ...................................................................................... 65
+                 South Beaumont Historic Preservation Overlay (HPO) District ............................................ 66
+                 Short-Term Rental Overlay (STRO) ..................................................................................... 66
+                 Economic Development Areas ............................................................................................ 67
+                 Community Development Block Grant (CDBG) Area ........................................................... 67
+                 Areas of Critical State Concern............................................................................................ 68
+          Population Projections and Demand ........................................................................................... 68
+                 Population Projections .........................................................................................................68
+                 Ability to Meet Demand for Residential Land Uses .............................................................. 70
+          Public Facility Capacity ...............................................................................................................72
+          Summary.....................................................................................................................................73
+
+
+
+
+                                                                                           City of Kissimmee | 2040 Comprehensive Plan
+FLUE-ii                                                                                                                November 2018
+                                                                                                                             FUTURE LAND USE
+
+
+
+
+List of Tables
+Table 1-1: City of Kissimmee Comparison of Existing Land Use Acreages, 2017 ................................ 47
+Table 1-2: City of Kissimmee Current Acreage, by Future Land Use Category .................................... 50
+Table 1-3: City of Kissimmee Vacant Land by Future Land Use Category, 2017 ................................. 52
+Table 1-4: County to City Future Land Use Conversions..................................................................... 55
+Table 1-5: Summary of Non-Residential Maximum Intensities ............................................................. 59
+Table 1-6: City of Kissimmee Population Estimates ............................................................................. 68
+Table 1-7: City of Kissimmee Population Projections, 2020-2045 ........................................................ 69
+Table 1-8: City of Kissimmee Maximum Residential Units, Based on Developed Residential Lands .... 71
+Table 1-9: City of Kissimmee Net New Housing Units, based on Vacant and Land Future Land Use
+            Densities ........................................................................................................................... 71
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                              FLUE-iii
+THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                         FUTURE LAND USE
+
+
+
+
+List of Figures
+Figure 1-1: Existing Land Use .............................................................................................................. 38
+Figure 1-2: 2040 Future Land Use ....................................................................................................... 40
+Figure 1-3: 2040 Major District Boundaries .......................................................................................... 42
+Figure 1-4: Historic District and Structures ........................................................................................... 44
+Figure 1-5: City of Kissimmee Existing Land Uses, 2017 ..................................................................... 48
+Figure 1-6: Future Land Uses as Proportion of Total Acreage, 2017 .................................................... 51
+Figure 1-7: Vacant and Developable Land, by Future Land Use Category, 2017 ................................. 53
+Figure 1-8: Residential Future Land Uses, Proportion of Residential Total, 2017 ................................. 57
+Figure 1-9: Non-Residential Future Land Uses, Proportion of Non-Residential Total, 2017 ................. 58
+Figure 1-10: Mixed Use Areas Relative Acreages ................................................................................ 62
+Figure 1-11: Population Projections through 2020-2045....................................................................... 70
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                         FLUE-v
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+                                 THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+COMMUNITY PROFILE
+Located on the northern shore of Lake Tohopekaliga, the City of Kissimmee has a long and colorful
+history as one of central Florida’s earlier communities. The City’s founders and original businesses were
+focused and oriented primarily toward ranching and citrus production. These industries utilized the Lake
+and its associated dredged canals to ship goods as far south as Fort Myers, and also took advantage of
+the City’s central location and rail facilities to send cattle and citrus throughout the state. Although these
+industries have declined in material importance in recent years, the pride of their historical significance is
+showcased in the character of the City’s downtown.
+
+The influx of new residents, coinciding largely with the birth of the Orlando region as a tourist destination,
+led to the development of Vine Street as a major tourist thoroughfare. It also led to the establishment of a
+large seasonal population in residential areas throughout the City, and in nearby portions of
+unincorporated Osceola County.
+
+A common characteristic of many of the older, more established neighborhoods are the stately trees that
+provide shade to residents. Newer sections of the City are characterized by a more suburban
+development pattern and wide, high-speed roadways. This development pattern served to disconnect
+City neighborhoods from each other, and the people who live in them.
+
+In the midst of that development boom, and an associated disinvestment in older portions of the City,
+initiatives were established to reverse the trend of outward expansion and strip commercial development
+at the expense of the historic core. In 1992, the City founded a Community Redevelopment Agency
+(CRA) to support the businesses and neighborhoods that compose the historic downtown. The
+downtown is the City’s major employment center, which will continue to grow as infill and redevelopment
+efforts spur additional investments in business opportunities.
+
+Downtown Kissimmee’s position as a transportation hub did not end with the passing of the steamship
+and rail era. The development associated with the post-war housing boom, which introduced suburban
+land use patterns and wide roadway corridors, began a transition into a more diversified and mixed use
+land use pattern and an associated multimodal transportation network throughout the City.
+
+The City also recognizes the need for better connections between land use and transportation, and has
+for more than a decade worked to transform its auto-centric, suburban development pattern. The
+Kissimmee Intermodal Center’s location in the heart of downtown will support transit-oriented
+development associated with the regional SunRail station, which will link the downtown to the two
+planned stations just north and just south of the City, as well as the entire region.
+
+The City is seeing the fruit of its change in vision through the redevelopment of major parcels along the
+lakefront. The Lakefront Park is beloved by many residents and is the focus of community activities and
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                            FLUE-1
+HOUSING
+Goals, Objective, and Policies
+
+
+
+
+events. Creating more housing and additional non-residential uses to downtown has occurred near the
+Kissimmee Intermodal Center. Along the lakefront new apartments, townhouses, a hotel, retail space,
+and parking structures are proposed.
+
+The City is engaged in redeveloping the automobile-oriented Vine Street corridor as a mixed-use and
+multimodal-supportive area and has created a second CRA here. Implementation of this initiative is
+ongoing, and closely tied to redevelopment efforts downtown and other portions of the City. The Vine
+Street Vision was followed by the adoption of a Multimodal Transportation District (MMTD) for the area
+encompassing not only the CRA and the majority of the Vine Street corridor, but also the Kissimmee
+Gateway Airport and residential neighborhoods just north of Vine Street.
+
+The MMTD includes sections of the City with the greatest potential for redevelopment to support transit,
+and other mobility options. The designation also requires the incorporation of multimodal transportation
+improvements and urban and site design characteristics into development and redevelopment projects.
+These improvements will provide a better connection between land use and transportation, which will in
+turn improve energy efficiency by encouraging transit use, and walking and bicycling, and support the
+increases in land use densities and intensities that accompany redevelopment efforts in the City’s
+existing centers.
+
+The City has chosen to implement throughout the City programs and policies that guide the MMTD. This
+initiative is a response to the City’s statutorily-designated status as a “dense urban land area,” which
+requires the City to compose a Citywide mobility plan that addresses how the City intends to reduce
+vehicle miles traveled, and increase mobility and accessibility. The City’s visionary approach to
+transportation and land use planning provides a springboard to more effectively change residents’ travel
+patterns and behaviors.
+
+In addition to, and associated with, the opportunities listed above, the City engages in targeted economic
+development and redevelopment strategies to promote local economic engines. These include the
+Kissimmee Gateway Airport, the Osceola Regional Medical Center and Florida Hospital Kissimmee - two
+anchors of the City’ Medical Arts District, Valencia Community College, and the County’s governmental
+and judicial operations. These business types and their ancillary uses are built on location-based
+industries that can weather economic changes and offer an employment opportunities for residents. The
+City also works with Osceola County on nearby economic opportunities such as NeoCity, a 500-acre
+master-planned technology district.
+
+The City of Kissimmee is home to a host of recreational and cultural facilities, adding to the overall
+quality of life for residents. The wealth of historic amenities and recent focus on redevelopment activities
+does not overshadow important environmental amenities, including Lake Tohopekaliga and Shingle
+Creek. The Lake has long been a prime bass-fishing lake, and Shingle Creek is the principal outflow from
+the headwaters of the Everglades, north of the City in Orange County. The value of these resources is
+                                                                                         FUTURE LAND USE
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+both economic, via eco-tourism dollars, and intrinsic, through ecosystem health and viability. Continued
+protection of these, and the City’s other natural and cultural resources, is paramount and the City has
+worked hard, in coordination with Osceola County on the purchase of land to expand the Shingle Creek
+regional park and trail.
+
+This Comprehensive Plan guides land use and development patterns and objectives, and steers the City
+toward its intended vision. This vision now more clearly enumerates enhancing local quality of life
+through redevelopment and the creation of a more transit-oriented, pedestrian-friendly and sustainable
+mixed use community, and improving local employment opportunities through increased economic
+development and investment. The vision also includes maintaining the health of local ecosystems and
+natural resources, and ensuring adequate levels of public facilities and infrastructure.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         FLUE-3
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives, and implementing policies for the Future Land Use Element
+pursuant to §163.3177(6)(a), Florida Statutes.
+
+GOAL 1.1: LAND USE AND COMMUNITY CHARACTER.
+Ensure that the character and location of land uses is efficient, incorporates best management practices,
+principles of resource conservation and compact development, promotes orderly land use transitions and
+human-scaled growth, and minimizes threats to health, safety, and welfare that may be associated with
+incompatible land uses, environmental degradation, hazards, and nuisances.
+
+        OBJECTIVE 1.1.1: PLAN AND DESIGN FOR RESIDENTIAL QUALITY.
+        Sufficient space shall be provided for residential development and required community facilities to
+        adequately meet the housing needs of the present and expected future population. Residential
+        development shall be planned and designed to create and perpetuate stable residential and mixed-
+        use neighborhoods for all income levels.
+
+                 POLICY 1.1.1.1: PROVIDE ACCESS TO GOODS AND SERVICES AND PROTECT RESIDENTIAL
+                 AREAS FROM THE ADVERSE IMPACTS OF TRANSITION IN LAND USE.
+                 Stable residential areas and projected future residential areas as delineated on the Land
+                 Use Map shall be protected from encroachment by incompatible development. This policy
+                 does not preclude necessary community facilities from locating within established
+                 residential areas when such activities satisfy established criteria of this plan and the City's
+                 Land Development Code.
+
+                 Land development regulations shall continue to incorporate standards and/or review criteria
+                 for mandating retention of open space and for regulating landscaping, building design,
+                 including setbacks, building placement on site, and building orientation. These provisions
+                 shall be directed toward protecting privacy, as well as to light, air and open space. Other
+                 reasonable design principles shall continue to be included in the Land Development Code
+                 in order to alleviate adverse impacts of potentially incompatible land uses.
+
+                 POLICY 1.1.1.2: PROMOTE ORDERLY LAND USE TRANSITION.
+                 Where it is not feasible to separate residential from nonresidential land uses, in those areas
+                 where separation is desired, buffering shall be required to promote a smooth land use
+                 transition. Buffering may include landscape cover; walls or fences aesthetically designed
+                 for screening purposes; and open space systems with dense native vegetation and tree
+                 canopy; and/or a transitional use between incompatible uses. There shall be buffering and
+                                                                                              FUTURE LAND USE
+                                                                                     Goals, Objectives, and Policies
+
+
+
+
+               convenient pedestrian access between multiple family residential uses, mixed-uses, and
+               non-residential uses.
+
+               POLICY 1.1.1.3: PROMOTE ORDERLY TRANSITION IN RESIDENTIAL DENSITIES.
+               Highest residential densities (densities greater than 12 units per acre) shall continue to be
+               allocated to sites accessible to arterial or collector streets, or accessible to identified transit
+               routes and facilities, and shall be located adjacent to existing development with the same
+               or less land use density or intensity. Residential densities shall be allocated in a manner
+               compatible with available public services, natural features, and existing and anticipated
+               future development.
+
+       OBJECTIVE 1.1.2: COMMERCIAL DEVELOPMENT.
+       Commercial development shall be comprised of a wide range of business uses. The allocation of
+       land and public facility resources shall consider the location and space requirements of commercial
+       activities, and potential fiscal, environmental, and socioeconomic impacts on the City as a result of
+       distribution within their market area.
+
+               POLICY 1.1.2.1: GENERAL PATTERN OF COMMERCIAL LAND USE.
+               In order to promote efficient use of the multimodal transportation system, achieve orderly
+               development and redevelopment activity, and minimize adverse impact on neighborhood
+               and environmental quality, commercial development shall strategically locate in areas
+               having characteristics suitable for specific land, site, public facilities and market location
+               requirements of their respective commercial uses.
+
+               POLICY 1.1.2.2: PROVIDE FOR COMMERCIAL OFFICE DEVELOPMENT.
+               Office development shall be encouraged to locate on accessible sites near major
+               thoroughfares, and/or transit routes and facilities. Office development may serve as a
+               transitional use separating more intensive commercial uses from neighborhood-oriented
+               residential development. In addition, office uses may be compatible with a mix of land uses,
+               including multiple family residential units and/or institutional uses where the sites are of
+               sufficient size to accommodate land development requirements and appropriate landscape,
+               screening and buffering, as enumerated in the Land Development Code.
+
+               POLICY 1.1.2.3: ACCOMMODATE DIVERSE COMMERCIAL USES.
+               The City shall maintain various commercial zoning districts and development standards in
+               the Land Development Code to assure the availability of varied activities, including but not
+               limited to: professional and business offices, limited commercial activities, and general
+               retail sales and services. The allocation of commercial uses shall recognize that respective
+               commercial activities frequently have different site, spatial, and market area characteristics
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                              FLUE-5
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 and generate significantly different impacts. The commercial future land use designations
+                 on the Future Land Use Map shall ensure land area sufficient for accommodating diverse
+                 commercial uses in a manner consistent with: 1) the needs of the applicant and adjacent
+                 land owners; 2) available public facilities; 3) fiscal capacity of the City; and 4) any applicable
+                 land, water, or other natural resource constraints.
+
+        OBJECTIVE 1.1.3: PLANNING FOR INDUSTRIAL DEVELOPMENT.
+        Sufficient land shall be maintained to accommodate and support industrial development in specific
+        areas of the City.
+
+                 POLICY 1.1.3.1: GENERAL CONSIDERATIONS FOR LOCATING INDUSTRIAL DEVELOPMENT.
+                 The allocation of land resources for industrial development shall reflect the location, public
+                 facilities, and space requirements of industrial activities and potential fiscal, environmental,
+                 and socioeconomic impacts on the City.
+
+                 POLICY 1.1.3.2: GENERAL PATTERN OF INDUSTRIAL LAND USE.
+                 Major centers for industrial activity include the airport and airport environs within the
+                 southwest quadrant of the City; the northeast quadrant of the City adjacent to the SunRail
+                 tracks where industrial development already exists; the northwest quadrant of the City
+                 adjacent to John Young Parkway and Thacker Avenue north of Carroll Street; and within
+                 newly annexed areas suitable for industrial development. A high priority shall be directed
+                 toward full utilization and development of lands designated for industrial development
+                 proximal to the Kissimmee Gateway Airport, except where such utilization and development
+                 would not comply with floodplain management policies and other environmental protection
+                 requirements.
+
+                 POLICY 1.1.3.3: PURSUE SELECTIVE INDUSTRIAL EXPANSION.
+                 The City shall pursue a strategy of selective expansion of its industrial base, in accordance
+                 with the objectives and policies contained in the Economic Development Element, and other
+                 elements of this Plan. The City shall encourage industries that contribute optimally to the
+                 City's economy and that of the Central Florida region.
+
+                 POLICY 1.1.3.4: PURSUE NUISANCE ABATEMENT STANDARDS AND CRITERIA.
+                 The City shall prevent nuisance impacts frequently associated with industrial activities by
+                 maintaining performance standards for managing emission of noise, air pollutants, odor,
+                 vibration, fire or explosive hazard, and glare.
+                                                                                           FUTURE LAND USE
+                                                                                  Goals, Objectives, and Policies
+
+
+
+
+               POLICY 1.1.3.5: DISCOURAGE INCOMPATIBLE LAND USES.
+               The City shall discourage non-industrial land uses, such as churches and schools, in
+               industrial areas to preserve industrial lands for employment-focused uses.
+
+       OBJECTIVE 1.1.4: ACCOMMODATE INSTITUTIONAL FACILITIES AND PUBLIC SERVICES.
+       The City shall assure that needed public services and facilities are developed concurrent with new
+       development, including the use of adequate facilities requirements within the City's Land
+       Development Code. In addition, the City shall use the capital improvement program and budget
+       process to pursue advance acquisition of land required to provide recreation, conservation, and
+       related public benefits.
+
+               POLICY 1.1.4.1: COORDINATE PUBLIC AND PRIVATE INVESTMENTS IN LAND IMPROVEMENTS.
+               The location, scale, timing, and design of necessary public services and semi-public uses
+               shall be closely coordinated with development activities in order to promote improvements
+               in delivery of requisite services.
+
+               POLICY 1.1.4.2: DESIGN AND CONSTRUCTION OF PUBLIC AND SEMI-PUBLIC SERVICES.
+               The City shall maintain and enforce appropriate standards and specifications for the design
+               and construction of public and semi-public facilities and services in order to promote cost
+               effectiveness and quality control consistent with all applicable federal, state, regional, and
+               local standards.
+
+               POLICY 1.1.4.3: PROVISION OF OFF-SITE IMPROVEMENTS.
+               All new development shall provide necessary off-site improvements or equitable
+               contributions in lieu thereof required as part of a development application pursuant to the
+               Comprehensive Plan or any other requirement of the Code of Ordinances, as exists or as
+               may hereinafter be amended.
+
+       OBJECTIVE 1.1.5: PROMOTE INNOVATIVE LAND USE STRATEGIES AND URBAN DESIGN
+       PRINCIPLES, AND RESOURCE CONSERVATION.
+       The City shall continue to seek and implement innovative ways to promote and enhance land use
+       and transportation connectivity while conserving natural resources through compact development
+       patterns. Areas of particular focus for the City include major activity centers such as the Downtown
+       Community Redevelopment Area, including the City’s Central Business District (CBD), the Vine
+       Street Corridor Community Redevelopment Area, the Medical Arts District, the Lake Tohopekaliga
+       Waterfront, and the whole of the Multimodal Transportation District.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           FLUE-7
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 1.1.5.1: COMMUNITY AND THE URBAN ENVIRONMENT.
+                 The City shall continue to emphasize and enforce the principles of human-scaled, walkable
+                 neighborhoods and environments through the continued enforcement of the Land
+                 Development Code, specifically the adopted design manuals and standards associated with
+                 specific districts in the City.
+
+                 POLICY 1.1.5.2: PROMOTE THE COMMUNITY REDEVELOPMENT AGENCY AREAS.
+                 The City, in partnership with private and public organizations and area residents, shall
+                 promote the continued revitalization of the Community Redevelopment Areas as an
+                 important location for commercial, residential, governmental, cultural, and recreational
+                 activities through continued implementation of the goals and objectives outlined in the
+                 Community Redevelopment Agencies’ Redevelopment Plans.
+
+                 POLICY 1.1.5.3: IMPLEMENTATION OF DESIGNATED OVERLAY DISTRICTS.
+                 The City shall continue to implement the designated overlay districts through the Land
+                 Development Code. These overlay districts include the Conservation Overlay District,
+                 Downtown Community Redevelopment Area, Historic Preservation Overlay (HPO),
+                 Downtown Community Redevelopment Agency Area Bed and Breakfast Overlay
+                 (CRABBO), Medical Arts District, Short-Term Rental Overlay (STRO) District, and the Vine
+                 Street Community Redevelopment Area. Other overlay districts may be identified and
+                 added to the City’s Zoning Map, and will also be implemented through the Land
+                 Development Code.
+
+                 POLICY 1.1.5.4: COMMUNITY APPEARANCE AND THE NATURAL ENVIRONMENT.
+                 Special emphasis shall be placed on preserving and/or improving the character of major
+                 natural features, including the Lake Tohopekaliga shoreline, Mill Slough, and Shingle Creek
+                 which serve as focal points and amenities for City residents and visitors.
+
+                 Scenic vistas, especially along Lake Tohopekaliga, Mill Slough Park, Shingle Creek, or
+                 other similar aesthetic corridors, shall be enhanced by the preservation of open spaces.
+
+                 POLICY 1.1.5.5: EFFICIENT USE OF RESOURCES.
+                 The efficient use of natural resources, including energy supplies, shall be accomplished
+                 through the application of compact development patterns, energy-efficient building and site
+                 design, the application of mixed land uses, and support of multimodal transportation
+                 options.
+                                                                                           FUTURE LAND USE
+                                                                                  Goals, Objectives, and Policies
+
+
+
+
+               POLICY 1.1.5.6: RESTRICTION OF LAND USES TO PROTECT WETLANDS AND WATER QUALITY
+               AND QUANTITY.
+               The City will continue to protect water quality through the restriction of land use activities
+               that may adversely affect wetlands and the quality and quantity of water sources, including
+               natural groundwater recharge areas, wellhead protection areas, and surface waters.
+
+               POLICY 1.1.5.7: LAND USE COORDINATION.
+               The City shall coordinate its future land uses with natural systems, (including topography,
+               soil conditions, vegetation, potable water wellfields, and other environmentally sensitive
+               land and water resources) through the continued implementation of the City’s adopted Land
+               Development Regulations. Land use shall also be predicated on availability of infrastructure
+               and service systems required to support land use activities.
+
+               POLICY 1.1.5.8: DENSITY AND INTENSITY PROXIMAL TO TRANSIT.
+               The City shall encourage a mix of land uses, and increases in land use density and intensity
+               to support transit use in the vicinity of rail transit and premium transit stations and stops.
+               These transit-oriented development (TOD) areas include lands near the Kissimmee
+               Intermodal Center, in the Vine Street Corridor Community Redevelopment Agency Area,
+               and near planned SunRail stations.
+
+               POLICY 1.1.5.9: LAND USES PROXIMAL TO INTERMODAL CENTER AND TRANSIT STATION
+               AREAS.
+               The City shall limit the types of land uses within a half-mile of the downtown Intermodal
+               Center, and future premium transit station areas, in order to encourage a more walkable
+               and connected, transit-oriented environment. Uses that shall be limited and/or excluded
+               include automobile-oriented businesses, such as auto dealerships and repair shops, and
+               drive-through businesses. Intense industrial business activities, particularly those with
+               daytime freight traffic, shall also be limited and/or excluded.
+
+               POLICY 1.1.5.10: LAND DEVELOPMENT CODE PERFORMANCE STANDARDS.
+               The Land Development Code shall maintain performance standards that, at a minimum:
+
+                  Provide criteria for protecting wetlands;
+
+                  Establish open space requirements;
+
+                  Provide criteria for protection of potable water wellfields;
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                           FLUE-9
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                     Provide criteria for drainage and stormwater management and requirements for
+                      stormwater management plans associated with development and redevelopment
+                      projects;
+
+                     Incorporate criteria for requiring off-street parking and managing internal traffic
+                      circulation, as well as access to and egress from the street system;
+
+                     Mandate availability of requisite services and infrastructure;
+
+                     Stipulate criteria for perimeter screening and buffering land uses and facilities that may
+                      otherwise adversely impact development of adjacent land uses;
+
+                     Establish standards for erosion and sedimentation control;
+
+                     Address historically significant properties meriting protection; and
+
+                     Provide criteria for reduction of Vehicle Miles Traveled (VMT).
+
+        OBJECTIVE 1.1.6: PROMOTE A MULTIMODAL-SUPPORTIVE LAND DEVELOPMENT
+        PATTERN TO INCREASE MOBILITY WITHIN THE CITY.
+        Policies and standards regarding the arrangement, density/intensity, and design of land uses in the
+        City shall continue to complement the development of a multimodal transportation system and shall
+        be implemented through the Land Development Code.
+
+                 POLICY 1.1.6.1: ENABLE MIXED-USE, TRANSIT-ORIENTED DEVELOPMENT PATTERN WITHIN
+                 THE MULTIMODAL TRANSPORTATION DISTRICT (MMTD).
+                 Land use plans within the Multimodal Transportation District (MMTD), particularly the
+                 Downtown Community Redevelopment Area, the Medical Arts District, the Vine Street
+                 Corridor Community Redevelopment Area, and along Lakeshore Boulevard, shall be
+                 designed to enable multi-story, mixed-use development and redevelopment. These
+                 locations are on or adjacent to existing or proposed transit routes and have significant
+                 potential to support transit-oriented development and non-motorized modes of
+                 transportation.
+
+                 POLICY 1.1.6.2: REQUIRE PEDESTRIAN-ORIENTED SITE DESIGN.
+                 Commercial, mixed-use, and multiple family residential developments throughout the City
+                 shall be required to locate on-site parking as unobtrusively to pedestrian access as possible.
+                 Except for cases of hardship where site conditions do not allow this standard to be met,
+                 surface parking shall not be located between buildings and sidewalks along public rights of
+                 way. Buildings within the MMTD shall be located adjacent to the public sidewalk to provide
+                 direct access between the public sidewalk and building entrances. Land development
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+               regulations shall ensure that setbacks, buffer requirements, parking standards, and other
+               associated regulations are consistent with this policy.
+
+               POLICY 1.1.6.3:  REQUIRE PEDESTRIAN-ORIENTED BUILDING DESIGN WITHIN                           THE
+               MULTIMODAL TRANSPORTATION DISTRICT (MMTD).
+               In the MMTD, the primary building entrance for commercial, mixed-use, and multiple family
+               buildings shall be oriented towards the principal pedestrian access way, typically the public
+               sidewalk or an interior sidewalk where the majority of pedestrian traffic is expected internal
+               to the site. Additional entrances may be permitted that orient towards on-site parking.
+               Buildings shall be designed so that transparency, articulation, alcoves, awnings, and other
+               architectural features break up facades with features that are of visual interest to the
+               pedestrian and reduce the perceived scale of large buildings. A minimum transparency
+               percentage for ground floor non-residential uses shall be required, as will a maximum
+               number of consecutive linear feet of façade that will be allowed to remain
+               unadorned/unarticulated.
+
+               POLICY 1.1.6.4: REQUIRE ON-SITE MULTIMODAL TRANSPORTATION INFRASTRUCTURE
+               WITHIN THE MULTIMODAL TRANSPORTATION DISTRICT (MMTD).
+               Internal sidewalks shall be required to provide connections from public sidewalks to building
+               entrances, parking areas, and to adjacent developments. Crosswalks shall be provided
+               where sidewalks intersect with internal streets or parking aisles. Developers shall be
+               required to provide bicycle parking on-site, located conveniently to building entrances.
+               Transit shelters or other transit infrastructure may be required on-site where sufficient public
+               right-of-way is not available to adequately meet the needs of the transit system.
+               Streetscaping shall be required along sidewalks adjacent to public or private streets,
+               consisting of shade trees, pedestrian-scaled lighting, benches, and other pedestrian-
+               oriented amenities where appropriate.
+
+               POLICY 1.1.6.5: ENCOURAGE VERTICAL MIXED USE BUILDINGS WITHIN THE MULTIMODAL
+               TRANSPORTATION DISTRICT (MMTD).
+               Within the Multimodal Transportation District (MMTD), particularly the Downtown
+               Community Redevelopment Area, the Vine Street Corridor Community Redevelopment
+               Area, and along Lakeshore Boulevard, locations on or adjacent to existing or proposed
+               transit routes should be designed to encourage vertical mixed-use development and
+               redevelopment. These areas have significant potential to support transit-oriented
+               development and non-motorized modes of transportation. Other locations within the MMTD
+               also should be encouraged to develop or redevelop as vertical mixed use. Vertical mixed-
+               use buildings combine different uses in the same building. To enable multi-story mixed use
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-11
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 development, lower floors should have more public uses with more private uses on the
+                 upper level floors.
+
+                 POLICY 1.1.6.6:     ENCOURAGE HORIZONTAL MIXED USE BLOCKS WITHIN MIXED-USE
+                 DISTRICTS.
+                 In mixed use land use districts outside the MMTD, sites shall be designed to enable vertical
+                 or horizontal mixed-use development and redevelopment. Horizontal mixed-use combines
+                 single-use buildings on distinct parcels within a development and in close proximity.
+
+        OBJECTIVE 1.1.7: PROTECTION OF HISTORIC RESOURCES.
+        The City shall ensure protection of historic resources through the continued use of various
+        regulations, through intergovernmental coordination, and encouragement of private sector
+        involvement.
+
+                 POLICY 1.1.7.1: PROGRAMMING FOR HISTORIC SITES.
+                 The City shall continue to enforce the Historic Preservation Ordinance, and to coordinate
+                 with the State in developing appropriate programs for preserving and enhancing sites of
+                 historical significance.
+
+                 POLICY 1.1.7.2: PREVENTING ADVERSE IMPACT OF DEVELOPMENT ON HISTORIC SITES.
+                 The City shall continue to enforce historic preservation land development regulations to help
+                 avoid adverse impacts to historic sites.
+
+        OBJECTIVE 1.1.8: INTERGOVERNMENTAL COORDINATION.
+        The City shall coordinate land and water resource management issues with other applicable public
+        agencies at all levels of government pursuant to the Intergovernmental Coordination Element.
+
+                 POLICY 1.1.8.1: IMPLEMENTING INTERGOVERNMENTAL COORDINATION.
+                 The City shall require that development applications be coordinated, as appropriate, with
+                 Osceola County, the School District of Osceola County, other special districts, the East
+                 Central Florida Regional Planning Council, the South Florida Water Management District,
+                 as well as applicable State and Federal agencies prior to issuance of a development order
+                 or permit.
+
+                 POLICY 1.1.8.2: TOHOPEKALIGA WATER AUTHORITY COORDINATION
+                 The City shall coordinate with TWA regarding future land use decisions, future population,
+                 and the corresponding need for additional potable water.
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+       OBJECTIVE 1.1.9: CONTINUING LAND USE PROGRAMS.
+       The City shall implement land use goals and objectives by carrying out a continuing program of
+       land use activities below cited.
+
+               POLICY 1.1.9.1: LAND USE INFORMATION SYSTEM.
+               The City shall maintain and periodically update the land use information system, integration
+               of the Tax Appraiser property files, City Planning Department field data, Building and Zoning
+               Department permit files, engineering base maps and all other relevant land use data files.
+
+               POLICY 1.1.9.2: LAND USE TRENDS.
+               The City shall monitor and evaluate population and land use trends, including update of the
+               Growth Allocation Model (GAM).
+
+               POLICY 1.1.9.3: ADMINISTER LAND USE CONTROLS.
+               The City shall administer adopted land use controls, including the zoning ordinance,
+               subdivision regulations, building regulations, housing code, water and wastewater codes,
+               traffic regulations and regulations governing streets and sidewalks.
+
+               POLICY 1.1.9.4: MANAGE CURRENT DEVELOPMENTAL IMPACTS.
+               The City shall evaluate and manage impacts of proposed development pursuant to existing
+               ordinances, including, but not limited to, public facilities, natural environment and impact on
+               stable residential neighborhoods.
+
+               POLICY 1.1.9.5: URBAN DESIGN AND COMMUNITY APPEARANCE.
+               Good principles of urban design shall be applied through site plan review procedures in
+               order to enhance general community appearance as well as to preserve and enhance open
+               space and landscape. This program shall assist in protecting major natural and man-made
+               resources within the City, including such scenic natural resources as Lake Tohopekaliga,
+               Shingle Creek, Mill Slough Park, as well as developing residential neighborhoods and
+               centers of commercial or institutional activity.
+
+               POLICY 1.1.9.6: SPECIAL LAND USE STUDIES.
+               In order to maintain land use policies responsive to changing conditions, problems, and
+               issues, the City shall undertake special studies as needed to develop specific local
+               strategies for resolving unanticipated land use problems and issues, including systems for
+               managing locally unpopular land uses.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-13
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+        OBJECTIVE 1.1.10: DESIGNATING LAND USES FOR PARCELS ANNEXED TO THE CITY.
+        The City shall consider areas within one and one-half miles of the City limits as potential annexation
+        areas. The City will work with Osceola County to achieve appropriate land use and public facilities
+        planning for areas that may become part of the City.
+
+                 POLICY 1.1.10.1 COUNTY AND CITY COORDINATED PLANNING.
+                 The City will coordinate with Osceola County in land use and infrastructure planning for
+                 unincorporated areas within one and one-half miles of the City limits.
+
+                 POLICY 1.1.10.2: JOINT PLANNING AGREEMENT.
+                 The City should investigate entering into a Joint Planning Interlocal Agreement with Osceola
+                 County regarding a possible joint planning area.
+
+                 POLICY 1.1.10.3: ANNEXATION STUDIES.
+                 The City will prepare an annexation study prior to any involuntary annexations. This study
+                 shall further evaluate the suitability of the areas for annexation in accordance with State law
+                 and shall include consideration of: (a) the ability of the City to provide the areas with the
+                 types and levels of service necessary to support urban development, (b) City population
+                 and land use growth projections, (c) the environmental sensitivity of the areas, and (d) the
+                 ability to comply with Comprehensive Plan policies.
+
+                 POLICY 1.1.10.4: INFILL AND REDEVELOPMENT.
+                 The City shall encourage orderly and efficient development and annexation of parcels,
+                 particularly through development of “infill” properties, the redevelopment of parcels within
+                 the MMTD and parcels south of the Orange County line between John Young Parkway and
+                 Florida’s Turnpike.
+
+                 POLICY 1.1.10.5: OSCEOLA COUNTY AND CITY OF KISSIMMEE LAND USE CONVERSIONS.
+                 Upon annexation, land annexed into the City will be given an appropriate and compatible
+                 land use designation in one of the following ways:
+
+                 1. If at the time of annexation, the City determines that the existing Osceola county Future
+                    Land Use Map designation is the most appropriate designation for the property, and will
+                    achieve the City's planning objectives for the area, the property will be given a City
+                    Future Land Use Map designation as indicated in the conversion table below.
+                                                                                              FUTURE LAND USE
+                                                                                     Goals, Objectives, and Policies
+
+
+
+
+                    County Future Land Use
+                    Designation                                City Future Land Use Designation
+                    Rural/Agricultural             Single Family Low Density (SF-LDR)
+                    Rural Enclave                  Single Family Low Density (SF-LDR)
+                    Low Density Residential        Single Family Low Density (SF-LDR)
+                    Medium Density Residential     Single Family Low Density (SF-LDR), Multiple Family
+                                                   Medium Density (MF-MDR), or Mixed-Use (MU).
+                    High Density Residential       Multiple Family Medium Density (MF-MDR), or Mixed-Use
+                                                   (MU)
+                    Office                         Commercial General (CG), or Office-Residential (OR), or
+                                                   Mixed-Use (MU)
+                    Neighborhood Commercial        Commercial General (CG), or Office-Residential (OR), or
+                                                   Mixed-Use (MU)
+                    Community Commercial           Commercial General (CG), or Mixed-Use (MU)
+                    Urban Commercial               Commercial General (CG), or Mixed-Use (MU)
+                    Employment Commercial          Commercial General (CG)
+                    Tourist Commercial             Commercial General (CG), or Mixed-Use (MU)
+                    Industrial                     Industrial Business (IN)
+                    Conservation                   Recreation (REC), or Conservation (CONS)
+                    Institutional                  Institutional (INST) or Recreation (REC)
+                    Natural Resource Utilization   Utilities (UT)
+
+                   Additionally, all areas within the 100 year flood plain shall also be included under the
+                   Conservation Overlay District regardless of the Osceola County Future Land Use Map
+                   designation prior to annexation.
+
+               2. If at the time of annexation, the City determines that the existing Osceola County Future
+                  Land Use Map designation is not the most appropriate designation for the property, the
+                  property will be given a City land use designation in accordance with the land use plan
+                   amendment process as defined by Chapter 163 of the Florida Statutes and City codes
+                   and policies.
+
+               POLICY 1.1.10. 6: PUBLIC FACILITIES AND MAINTENANCE RESPONSIBILITIES.
+               The City shall coordinate with Osceola County, and any other applicable entities, for the
+               transfer of public facilities and their maintenance activities from within unincorporated
+               Osceola County to the City of Kissimmee upon annexation.
+
+               POLICY 1.1.10.7: LEVEL OF SERVICE STANDARDS.
+               Prior to the annexation of any land, the City shall demonstrate that public facilities and
+               services shall be available consistent with the City’s adopted level of service standards. If
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                            FLUE-15
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 the subject parcels, upon annexation, are found to create deficiencies in public facilities or
+                 services, a financially feasible plan demonstrating how the deficiency will be eliminated
+                 through the inclusion of projects in the Capital Improvement Element’s Five-Year Schedule
+                 of Capital Improvements shall be produced and incorporated into the Comprehensive Plan.
+
+GOAL 1.2: MAINTAIN FUTURE LAND USE MAP.
+Continue to maintain and manage a Future Land Use Map. The Future Land Use Map series (2040) is
+supported by the comprehensive plan data inventory and analysis and the comprehensive plan evaluation
+and appraisal report (2017).
+
+The Future Land Use Map series shall include areas for the following uses:
+
+
+ Residential                                     Non-Residential                         Mixed-Use
+ Single Family Low Density                      Office-Residential                        Downtown
+ Single Family Medium Density                  Commercial General                        Vine Street
+ Mobile Home Medium Density                     Airport Expansion                         Tapestry
+ Multiple Family Medium Density                 Industrial Business                      Flora Ridge
+ Multiple Family High Density                      Institutional
+                                                     Utilities
+                                                    Recreation
+                                                   Conservation
+
+
+Nothing in this section shall preclude necessary community facilities, such as public school facilities, and
+including electrical distribution substations, from locating within any future land use designation when such
+activity satisfies established criteria of this plan and the City's code of ordinances.
+
+        OBJECTIVE 1.2.1: RESIDENTIAL LAND.
+        The City shall maintain residential density based on the following considerations: past and
+        projected future population and housing trends and characteristics; provision and maintenance of
+        quality residential environments; protection of environmentally fragile natural systems; the need to
+        plan for smooth transition in residential densities; and provision and maintenance of suitable
+        transportation opportunities and multiple-family improvements.
+
+                 POLICY 1.2.1.1: DENSITY DEFINED.
+                 Maximum gross residential density shall be determined by dividing the "maximum allowable
+                 units" by the "gross land area" (i.e., dwelling units/gross land area). All residential densities
+                 denoted on the Future Land Use Map stipulate the maximum gross densities permitted for
+                 development on the land. These maximum residential densities are displayed below:
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+                                                                                 Residential Density
+                Residential                                                  (Gross Units per Gross Acre)
+                Single Family Low Density Residential (SF-LDR)                      0-6 units/acre
+                Single Family Medium Density Residential (SF-MDR)                     7-9 units/acre
+                Multiple Family Medium Density Residential (MF-MDR)                 10-20 units/acre
+                Mobile Home Medium Density Residential (MH-MDR)                    up to 10 units/acre
+                Multiple Family High Density Residential (MF-HDR)                   21-25 units/acre
+
+
+
+               Gross land area shall be defined as those contiguous land areas under common ownership
+               proposed for residential development. In cases where residential land abuts waters of the
+               State, the boundary shall be delineated pursuant to Chapter 403, F.S., and Chapters 17.04
+               and 17.12, F.A.C. No density credit shall be granted for waters of the State. In cases where
+               land area includes floodplains, wetlands, or other environmentally fragile lands, the land
+               development regulations may provide performance standards and/or criteria which shall
+               further restrict the character of land for which gross density credit may be granted. The
+               intent is to allocate density credits only to those lands which are buildable pursuant to urban
+               design criteria. These criteria shall be incorporated within the land development regulations.
+
+               Density is expressed in terms of a range up to a specified maximum. Where so stated as
+               a range, the maximum density is not guaranteed by right. The Land Development Code
+               shall assure that specific density assigned to new development is compatible and consistent
+               with established development patterns and provides equitable use of the land.
+
+               POLICY 1.2.1.2: SINGLE FAMILY LOW DENSITY RESIDENTIAL (SF-LDR).
+               Areas delineated on the Future Land Use Map for single family low density residential uses
+               shall accommodate single family detached dwelling units with a maximum density of up to
+               six dwelling units per acre. Specific densities will be determined by such factors as natural
+               features of the land, density and/or intensity of developed and/or undeveloped land
+               surrounding development, level of accessibility, housing supply and demand, adequacy of
+               public facilities, and other factors which may be identified in the land development
+               regulations. Supportive community facilities and accessory land uses may be located within
+               areas designated for single family low density residential uses. The low density designation
+               is intended to protect the quality and character of existing and stable single family detached
+               low density residential neighborhoods.
+
+               When agricultural areas are annexed into the City and given the SF-LDR land use
+               designation, agricultural uses may continue, subject to zoning regulations described in the
+               Land Development Code.
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-17
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 1.2.1.3: MEDIUM DENSITY RESIDENTIAL (MDR).
+                 New development in areas delineated on the Future Land Use Map for medium density
+                 residential uses shall be developed and/or maintained as residential neighborhoods. The
+                 medium density designation is intended to ensure sufficient land area for developments of
+                 medium density, and an adequate supply of existing and/or projected public facilities for the
+                 area. Supportive community facilities and accessory land uses may be located within areas
+                 designated MDR.
+
+                 Review of specific densities of developments shall be directed toward preserving stability
+                 of established residential areas. Sites for medium density residential developments should
+                 be located so they provide a smooth transition between lower density residential areas, and
+                 mixed-use areas or those developed and/or designated for more intense uses.
+
+                     Single Family Medium Density Residential (SF-MDR). This designation is intended to
+                      accommodate single family detached or attached dwelling units with a maximum density
+                      of between seven and nine units per acre. Within this land use designation, attached
+                      single family structures are defined as duplex and triplex structures only, with the
+                      following exception: multiple family structures and rooming houses existing within these
+                      designated areas prior to the enactment of the Comprehensive Plan shall be allowed to
+                      remain as conforming conditional uses.
+
+                     The designation SF-MDR is particularly appropriate for redevelopment areas having
+                      relatively small platted lots; areas with natural constraints that make higher densities
+                      inappropriate; and sites serving as a transition between two or more areas
+                      accommodating potentially incompatible development. Areas delineated on the Future
+                      Land Use Map with the Office-Residential (OR) future land use designation shall follow
+                      the density requirements set forth for SF-MDR, if residential is the proposed use.
+
+                     Mobile Home Medium Density Residential (MH-MDR). This designation is intended to
+                      accommodate mobile home developments within the City. The density of mobile home
+                      development shall not exceed 10 units per acre.
+
+                     Multiple Family Medium Density Residential (MF-MDR). This designation is intended to
+                      accommodate multiple family structures with a density of 10-20 units per acre. Lesser
+                      densities may be allowed in order to protect environmentally sensitive lands or to
+                      achieve greater consistency with surrounding land uses, including mixed-uses.
+
+                 POLICY 1.2.1.4: MULTIPLE FAMILY HIGH DENSITY RESIDENTIAL (MF-HDR).
+                 High density residential uses in the City shall range from 21-25 units per acre. The high
+                 density future land use designation is intended to provide multiple family residential
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+               development at higher densities that shall be adequately supported by public services and
+               facilities, and maintain compatibility with the surrounding area. Lesser densities may be
+               allowed in order to protect environmentally sensitive lands or to achieve greater consistency
+               with surrounding land uses.
+
+               Specific areas designated for high density development shall be adjacent to existing or
+               anticipated major thoroughfares and/or transit routes and facilities, and shall be supported
+               by the requisite utilities. In addition, these areas generally shall be highly accessible to
+               commercial services, and may be located adjacent to mixed-use areas. Specific density of
+               future development proposals within these areas shall provide smooth transitions in
+               residential density, preserve stability of established neighborhood areas, and shall include
+               sufficient open space, parking, and landscaping to reinforce goals and objectives for quality
+               living areas.
+
+       OBJECTIVE 1.2.2: NON-RESIDENTIAL AND MIXED-USE LAND USES.
+       The City shall provide and maintain non-residential and mixed-use future land use categories in
+       proportion, and with identified intensities and mixes of uses, to satisfy the commercial and office,
+       industrial, institutional, utility, recreation, and conservation needs of residents and visitors. These
+       future land uses shall be identified on the Future Land Use Map.
+
+               POLICY 1.2.2.1: NON-RESIDENTIAL INTENSITY.
+               The City shall measure non-residential development and redevelopment project intensities
+               using Floor Area Ratio (FAR). FAR shall be expressed as the result of the total square feet
+               of structural development, excluding structured parking and surface parking areas, divided
+               by the gross area of the development or redevelopment site, in square feet.
+
+               Non-residential maximum intensities are displayed in the table below:
+
+
+
+
+                Non-Residential                                  Intensity, Floor Area Ratio (FAR)
+                Office Residential (OR)#                                        1.0
+                Commercial General (CG)                                         2.5
+                Institutional (INST)                                            2.0
+                Industrial Business (IN)                                        0.5
+                Airport Expansion (AE)                                          0.5
+                Recreation (REC)                                                0.2
+                Conservation (CONS)                                             0.0
+                Utilities (UT)                                                  0.75
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-19
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                  #Office-Residential may have up to 9 residential units per acre when used as a residential use.
+
+                 POLICY 1.2.2.2: MIXED-USE LAND USES AND MIX PERCENTAGES.
+                 Mixed-Use future land use categories shall be composed of varying percentages of
+                 residential and non-residential land uses. Non-residential uses may include combinations
+                 of commercial, office, industrial, institutional, utility, recreation, and conservation, depending
+                 on the character of the district or sub-area, and compatibility of uses as described in this
+                 Comprehensive Plan, and the Land Development Code. Objectives 1.2.9 and 1.2.10
+                 provide more details.
+
+                 POLICY 1.2.2.3: PROTECTION OF STABLE RESIDENTIAL NEIGHBORHOODS.
+                 The City shall discourage the mixture of residential and non-residential future land uses in
+                 stable residential neighborhoods, and where uses and associated densities and intensities
+                 are incompatible. Compatibility shall be guided by policies contained in this Plan, and the
+                 Land Development Code.
+
+        OBJECTIVE 1.2.3: MAINTAINING COMMERCIAL LAND USES.
+        The Future Land Use Map shall identify and maintain commercial land for Office-Residential
+        development and Commercial General development.
+
+                 POLICY 1.2.3.1: OFFICE-RESIDENTIAL (OR).
+                 Office-Residential is a land use designation designed to accommodate both professional
+                 offices and residential uses, and is generally located on the outer fringe of an existing
+                 residential area. Development and redevelopment projects within this future land use
+                 designation may be built with an intensity of up to 1.0 FAR when used for non-residential
+                 uses, or up to 9 dwelling units per acre when used as a residential use.
+
+                 This future land use designation expressly excludes general retail sales and services,
+                 warehousing, and outside storage. Furthermore, this policy designation is intended for sites
+                 that:
+
+                     Have accessibility to major thoroughfares and/or transit routes and facilities;
+
+                     Have potential to be served by a full complement of urban services;
+
+                     Contain sufficient land area to accommodate good urban design principles;
+
+                     Accommodate only residential uses and professional office buildings, including financial
+                      institutions, medical facilities, and allied services as regulated in the Land Development
+                      Code;
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+                  In some cases, these sites may be appropriate for an Office land use designation, but
+                   due to their location, they may not be suitable for residential uses; and
+
+                  Frequently serve as a transition area that buffers residential uses located in one area
+                   from a nearby area that accommodates uses of a higher intensity.
+
+               This designation is intended primarily for areas where a mixture of residential and office
+               uses are appropriate. However, in some areas with the Office-Residential designation,
+               proposed office uses may require a special review process in order to maintain the stability
+               and character of the surrounding residential area.
+
+               Areas delineated on the Future Land Use Map for Office-Residential uses shall follow the
+               density requirements set forth in the Single Family Medium Density Residential (SF-MDR)
+               category if residential is the proposed use.
+
+               POLICY 1.2.3.2: COMMERCIAL GENERAL (CG).
+               The Commercial General (CG) areas are designated on the Future Land Use Map for
+               purposes of accommodating office uses and general retail sales and services.
+               Development and redevelopment projects within this future land use designation may be
+               built with an intensity of up to 2.5 FAR. The Commercial General land use designation is
+               intended to include the hub of retail sales and services within the downtown business district
+               as well as highly accessible areas adjacent to major thoroughfares and transit facilities, that
+               possess necessary location, site, and market requirements. This future land use
+               designation shall be implemented through the City’s Land Development Code.
+
+               This area is not intended to accommodate manufacturing, processing, or assembly of
+               goods, sales and service of heavy commercial vehicle and equipment, or related services
+               or maintenance activities; warehousing; uses requiring extensive outside storage; or other
+               activities which may generate nuisance impacts, including glare, smoke or other air
+               pollutants, noise, vibration or major fire hazards.
+
+               Criteria for considering residential uses in areas with a Commercial General designation
+               shall be outlined in the Land Development Code. Short term rental and time-share
+               dwellings are considered residential uses.
+
+       OBJECTIVE 1.2.4: MAINTAINING INDUSTRIAL LAND USES.
+       The Future Land Use Map shall maintain land resources for existing and anticipated future
+       industrial needs and requisite support services, and shall not be located in areas designated for
+       residential development.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-21
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 1.2.4.1: INDUSTRIAL LAND USE DESIGNATIONS.
+                 The allocation of land use designations should provide a high priority to industry's frequent
+                 need for strategically located lands which are accessible by air, rail and major transportation
+                 thoroughfares, as well as labor markets and necessary urban services. The industrial land
+                 use designations are intended to provide strategically located sites principally within the
+                 airport environs, adjacent to the SunRail tracks in areas where industrial development
+                 already exists, developing areas along John Young Parkway and Thacker Avenue north of
+                 Carroll Street, and within newly annexed areas suitable for industrial development due to
+                 consistency with the objectives and policies of this element.
+
+                 POLICY 1.2.4.2: AIRPORT EXPANSION LAND USE DESIGNATION (AE).
+                 The Airport Expansion (AE) land use designation is intended to accommodate activities
+                 predominantly connected with typical industrial uses, low-intensity commercial uses, and
+                 supporting non-industrial uses and activities related to the Kissimmee Gateway Airport.
+                 Development and redevelopment projects within this future land use designation may be
+                 built with an intensity of up to 0.50 FAR. This designation shall continue to be applied to all
+                 lands comprising the Kissimmee Gateway Airport and to nearby areas appropriate for
+                 industrial uses.
+
+                 The Land Development Code shall continue to establish the permitted uses and applicable
+                 restrictions which shall be applied to areas with the Airport Expansion (AE) land use
+                 designation. The Kissimmee Gateway Airport Master Plan and the FAA Regulations shall
+                 govern placement and specifications of structures where applicable.
+
+                 POLICY 1.2.4.3: INDUSTRIAL BUSINESS LAND USE DESIGNATION (IN).
+                 The Industrial Business (IN) land use designation is intended to accommodate a mixture of
+                 typical industrial uses and more intense non-industrial uses.            Development and
+                 redevelopment projects within this future land use designation may be built with an intensity
+                 of up to 0.50 FAR. This designation shall be applied to areas appropriate for typical
+                 industrial uses or mixed-use development consisting of light-industrial uses and compatible
+                 commercial uses. The Land Development Code shall establish the specific permitted uses
+                 and applicable restrictions which shall be applied to areas with the Industrial Business land
+                 use designation.
+
+        OBJECTIVE 1.2.5: MANAGING AIRPORT LANDS.
+        The Future Land Use Map shall allocate land resources for the safe and efficient operation of
+        aircraft and aviation-related activities and industry on airport lands. The City shall ensure that
+        resources are appropriately allocated through the City's Aviation Regulations, Land Development
+        Code, land use management policies and other activities.
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+               POLICY 1.2.5.1: CITY'S ECONOMIC BASE.
+               The City's land use policy shall foster use of Kissimmee Gateway Airport lands in a manner
+               that contributes to the development of the City's economic base through selective pursuit
+               of industry consistent with this Chapter and Chapter 10: Economic Development Element.
+
+               POLICY 1.2.5.2: SAFE OPERATION OF AIRCRAFT.
+               The City shall assure safe operation of aircraft through:
+
+                  Efficient use of air space in relation to the Kissimmee Gateway Airport and surrounding
+                   airports and airways.
+
+                  Maintenance and improvement of the aircraft operational ground environment.
+
+                  Maintaining the FAA approved Master Plan for the Kissimmee Gateway Airport.
+
+               POLICY 1.2.5.3: COMPATIBILITY WITH THE ENVIRONMENT.
+               The City shall ensure compatible land uses and development activities within the
+               designated flight paths and noise contours identified in the Kissimmee Gateway Airport
+               Master Plan. Activities may include:
+
+                  Implementation of land development regulations pertaining to the airport that protects
+                   operationally sensitive areas and reduces noise impact near the airport;
+
+                  Preserving the ecologically unique areas on airport property;
+
+                  Encouraging aviation activity compatible with nearby neighborhood and community
+                   needs and characteristics; and
+
+                  Supporting changes in land use designations on parcels near the airport only if they are
+                   compatible with aviation activity.
+
+               POLICY 1.2.5.4: FINANCIAL INDEPENDENCE OF THE AIRPORT.
+               The City shall promote continued financial independence of the Kissimmee Gateway Airport
+               through:
+
+                  Preparing periodic updates to the Kissimmee Gateway Airport Master Plan in order to
+                   maximize land resources within the constraints imposed by changing conditions;
+                   markets for land, goods and services; and constraints imposed by other goals,
+                   objectives and policies of the City.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-23
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                     Development of a long-range capital improvements program consistent with financial
+                      capacity.
+
+                     Development of an operations and maintenance program compatible with financial
+                      resources.
+
+        OBJECTIVE 1.2.6: MAINTAINING INSTITUTIONAL SERVICES.
+        The Future Land Use Map shall maintain land resources for institutional facilities and services. The
+        sites shall be compatible with adjacent land uses to the greatest practical extent. The sites shall
+        also fulfill the unique site location requirements included in respective functional plans and shall be
+        responsive to the needs identified in related demographic and supportive needs analysis.
+
+                 POLICY 1.2.6.1: INSTITUTIONAL LAND USE DESIGNATION (INST).
+                 The Institutional (INST) land use designation is intended to accommodate existing public
+                 and semi-public services including: governmental administration buildings; educational
+                 institutions; hospital facilities and supportive health care units; arts and cultural or civic
+                 facilities; essential public services and facilities (excluding major utilities); and other similar
+                 activities. Development and redevelopment projects within this future land use designation
+                 may be built with an intensity of up to 2.0 FAR. The Land Development Code shall
+                 implement specific development considerations for this future land use designation.
+
+                 Land uses such as places of worship, cultural or civic centers, and other similar public or
+                 private not-for-profit uses may be included within this land use designation.
+
+                 POLICY 1.2.6.2: PUBLIC SCHOOL FACILITIES.
+                 Public schools (kindergarten through high school) are considered an allowable use in areas
+                 with the following future land use designations: institutional (INST), single family low density
+                 residential (SF-LDR), single family medium density residential (SF-MDR), multiple family
+                 medium density residential (MF-MDR), multiple family high density residential (MF-HDR),
+                 office-residential (OR), commercial general (CG), industrial business (IN), and Mixed-Use
+                 categories (MU-D, MU-V) subject to Land Development Code restrictions in the mixed-use
+                 categories.
+
+        OBJECTIVE 1.2.7: MAINTAINING LAND FOR ESSENTIAL UTILITIES.
+        The Future Land Use Map shall maintain land resources for essential utilities required to support
+        urban development. These lands shall satisfy the unique location requirements of the respective
+        essential service system.
+                                                                                           FUTURE LAND USE
+                                                                                  Goals, Objectives, and Policies
+
+
+
+
+               POLICY 1.2.7.1: UTILITY (UT) LAND USE DESIGNATION.
+               The Utility land use designation is intended to accommodate necessary major public or
+               semi-public utility plant operations and related facilities required to service urban
+               development. Development and redevelopment projects within this future land use
+               designation may be built with an intensity of up to 0.75 FAR. Plants and facilities for which
+               this designation is reserved include: potable water treatment plants, pumping facilities, and
+               water wells; wastewater treatment plants and lift stations; and the Kissimmee Utility
+               Authority electric power generating plant facilities.
+
+               POLICY 1.2.7.2: ELECTRICAL DISTRIBUTION SUBSTATION LOCATIONS.
+               The City shall permit the siting of electrical distribution substations in all future land use
+               categories, except Conservation (CONS), provided all related development standards
+               contained in the Land Development Code are followed.
+
+       OBJECTIVE 1.2.8:          MAINTAINING RECREATION AND CONSERVATION LAND USES
+       DESIGNATIONS.
+       The Recreation and Conservation designations have been established to direct the preservation of
+       major open spaces and recreation areas, including golf courses, parks, recreation areas, as well
+       as environmentally sensitive areas such as Lake Tohopekaliga, Shingle Creek, Mill Slough, and
+       major natural systems the City has committed to retain, preserve, and/or conserve as essential
+       systems, excepting approved limited/passive uses as established in the land development
+       regulations.
+
+               POLICY 1.2.8.1: RECREATION LAND USE DESIGNATION (REC).
+               Lands designated for Recreation (REC) shall be consistent with the Recreation and Open
+               Space Element as well as the Conservation Element, as applicable. Projects within this
+               future land use designation may be built to a maximum intensity of 0.2 FAR. Designation of
+               areas for Recreation shall reflect actions taken to implement the goals, objectives and
+               policies of the Recreation and Open Space Element and/or the Land Use Element.
+
+               POLICY 1.2.8.2: CONSERVATION LAND USE DESIGNATION (CONS).
+               Lands designated for Conservation (CONS) are those lands that, because of their
+               environmental quality or sensitivity, are intended for protection and are not intended for
+               development activities, and therefore have no allowable FAR. These lands may include
+               wetlands, wildlife habitats, and/or watershed protection areas.
+
+               The CONS designation shall be applied to portions of major natural resource areas and
+               environmentally sensitive corridors which the City deems appropriate and feasible to protect
+               in order to help implement natural resource conservation goals, objectives, and policies
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                         FLUE-25
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 stipulated in the Comprehensive Plan. The designation shall be primarily assigned to
+                 publicly owned and restricted privately owned properties.
+
+                 Where the designation is applied, the City shall adopt appropriate programs, policies, and/or
+                 ordinances for managing implementation of the Comprehensive Plan policies applicable to
+                 the designation.
+
+        OBJECTIVE 1.2.9: MIXED-USE LAND USE DESIGNATIONS.
+        The City shall promote land use concepts that allow for a mix of compatible uses within specifically
+        identified areas, in order to enhance the pedestrian-oriented urban design and site design
+        characteristics of the City’s infill and redevelopment vision. This connection of residential and non-
+        residential uses shall place origins and destinations more closely together to create a more
+        compact and walkable urban environment.
+
+                 POLICY 1.2.9.1: APPLICATION OF MIXED-USE FUTURE LAND USES.
+                 The City shall consider the application of mixed-use future land use categories in districts,
+                 areas, or neighborhoods so as to create more livable, and pedestrian-oriented urban
+                 spaces.
+
+                 POLICY 1.2.9.2: MIXED-USE – DOWNTOWN (MU-D) DESIGNATION.
+                 The intent of the Downtown Community Redevelopment Area is to restore the historic
+                 center of Kissimmee. The Community Redevelopment Agency’s Downtown Kissimmee
+                 Community Redevelopment Area Plan Update (September, 2012) provides for
+                 development and redevelopment plans in that core area. The Downtown Mixed-Use (MU-
+                 D) designation on the Future Land Use Map is intended to mirror the sub-areas outlined in
+                 the Strategic Investment Map in the Downtown Kissimmee Community Redevelopment
+                 Area Plan Update (September, 2012) . The Downtown area is an activity hub anchored by
+                 government centers, retail and business districts, and quiet residential streets with restored
+                 structures. The City shall apply mixed-use future land use categories to the Downtown in
+                 sub-areas to achieve a greater specificity of redevelopment character commensurate with
+                 the adopted Downtown Kissimmee Community Redevelopment Area Plan Update
+                 (September, 2012).
+
+                     MU-D: Low Density Residential – This sub-area is primarily residential in character, and
+                      is generally intended to remain so. The mix of uses in this sub-area shall be 85-95
+                      percent residential, and 5-15 percent non-residential, with a maximum project density
+                      and intensity of up to 20 du/ac and up to 3.0 FAR. Established and stable residential
+                      neighborhoods within this sub-area shall be retained and preserved to the maximum
+                      extent feasible.
+                                                                                          FUTURE LAND USE
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+                  MU-D: Moderate Density Residential – This sub-area is primarily residential in
+                   character, and is generally intended to remain so. The mix of uses in this sub-area shall
+                   be 80-95 percent residential, and 5-20 percent non-residential, with a maximum project
+                   density and intensity of up to 20 du/ac and up to 3.0 FAR. Established and stable
+                   residential neighborhoods within this sub-area shall be retained and preserved to the
+                   maximum extent feasible.
+
+                  MU-D: Downtown Transit Station Area – This sub-area shall continue to reflect both the
+                   commercial core and existing governmental and support business character, while also
+                   providing residential uses. The mix of uses in this sub-area shall be 40-60 percent
+                   residential, and 40-60 percent non-residential, with a maximum project density and
+                   intensity of up to 40 du/ac and up to 7.0 FAR.
+
+                  MU-D: Medical Campus Area – This sub-area is centered on the hospital and medical
+                   uses area, and shall include residential uses to provide housing for area employees.
+                   The mix of uses in this sub-area shall be 5-25 percent residential, and 75-95 percent
+                   non-residential, with a maximum project density and intensity of up to 40 du/ac and up
+                   to 6.0 FAR.
+
+                  MU-D: Commercial Corridor Main Street Area – This sub-area serves as the main
+                   entrance from Vine Street to the downtown, and historic commercial core. The mix of
+                   uses in this sub-area shall be 20-40 percent residential, and 60-80 percent non-
+                   residential, with a maximum project density and intensity of up to 30 du/ac and up to 4.0
+                   FAR.
+
+                  MU-D: Commercial Corridor Vine Street/John Young Parkway Adjacent Area – The
+                   sub-area mix of uses shall be 0-15 percent residential, and 85-100 percent non-
+                   residential, with a maximum project density and intensity of up to 40 du/ac and up to 5.0
+                   FAR.
+
+                  MU-D: Government District Area – This sub-area consists predominantly of government
+                   offices, commercial uses, and some residential. The sub-area mix of uses shall be 5-15
+                   percent residential and 85-95 percent non-residential with a maximum project density
+                   and intensity of up to 30 du/ac and up to 4.0 FAR.
+
+                  MU-D: Lake Toho Waterfront Area – This sub-area consists primarily of wetland habitat
+                   in the Oak Street Extension Preserve Area, and is intended to remain so, in conjunction
+                   with the existing low density residential uses and the City’s Lakefront Park. The sub-
+                   area mix of uses shall be 5-15 percent residential, and 85-95 percent non-residential,
+                   with a maximum project density and intensity of 1 unit per 5 acres and up to 0.2 FAR.
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        FLUE-27
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 1.2.9.3: MIXED-USE – VINE STREET OVERLAY DISTRICT (MU-V) DESIGNATION.
+                 The Vine Street Mixed-Use (MU-V) is designated on the Future Land Use Map, and is
+                 intended to transform existing strip-style, highway commercial development into a
+                 connected series of mixed-use, urban scale neighborhoods and villages connected to
+                 downtown and other community focal points. This vision is predicated on implementing the
+                 City’s adopted multimodal transportation strategy, which for the Vine Street Corridor
+                 Community Redevelopment Agency Area promotes walking, biking, shorter auto trips, and
+                 the provision of various forms of transit. This vision is focused on several community design
+                 and economic development goals, including:
+
+                     Compact, high density, mixed-use urban-style development patterns that promote
+                      walkable, pedestrian-friendly public spaces;
+
+                     Diverse housing options, retail and light industrial/flex office space and professional
+                      offices;
+
+                     Enhanced mobility for pedestrians, bicyclists, automobile drivers, and transit riders
+                      through improved street network and multimodal connectivity;
+
+                     Strong urban design technique and streetscape features focused on the principles of
+                      placemaking and livability;
+
+                     Development pattern in support of premium transit service (i.e. bus rapid transit, bus
+                      circulators and connections to commuter rail) through a strong mixture of land uses and
+                      densities; and
+
+                     Series of cohesive, unique villages and neighborhoods transitioning to neighborhoods
+                      and districts adjacent to development, instead of a linear, auto dominated corridor.
+
+                 The MU-V future land use category shall occur within the designated Vine Street District,
+                 and shall be composed of an overall mix of 50 percent residential uses and 50 percent non-
+                 residential uses. The maximum development density and intensity that may be applied at
+                 the project level shall be 40 du/ac and up to 6.0 FAR, and shall be implemented through
+                 the adopted Vine Street Community Redevelopment Agency Master Plan
+
+                 POLICY 1.2.9.4: MONITOR DEVELOPMENT ACTIVITY AND MAINTAIN DATABASE.
+                 The City shall monitor and record all development within the MU-V future land use category,
+                 as well as within each subcategory of MU-D, in order to track the use composition within
+                 each. The information within this database shall be compiled consistent with Policy 2.1.2.3
+                 of the Transportation Element and shall inform decisions regarding development approvals
+                                                                                            FUTURE LAND USE
+                                                                                   Goals, Objectives, and Policies
+
+
+
+
+                 that may be inconsistent with the intended composition of residential and non-residential
+                 uses within each district.
+
+
+                                                           Targeted           Projected
+                                                           Minimum            Maximum            Maximum
+                                                         Development        Development        Development
+                           Mix of Uses                     Intensity          Intensity          Intensity
+ Future Land Use       (Applied at Sub-Area            (Applied at Sub-   (Applied at Sub-      (Applied at
+ Designation                  Level)                      Area Level)        Area Level)       Project Level)
+ Mixed-Use – Downtown (MU-D)
+                                                                                                 Up to 20
+ MU-D: Low Density      85-95 percent residential         6 du/acre           15 du/ac
+                                                                                                  du/acre
+ Residential            5-15 percent non-residential      0.15 FAR            1.5 FAR
+                                                                                               Up to 3.0 FAR
+                                                                                                 Up to 20
+ MU-D: Moderate         80-95 percent residential         9 du/acre           15 du/ac
+                                                                                                  du/acre
+ Density Residential    5-20 percent non-residential      0.15 FAR            1.5 FAR
+                                                                                               Up to 3.0 FAR
+
+
+                        40-60 percent residential
+ MU-D: Downtown                                            6 du/ac            20 du/ac         Up to 40 du/ac
+ Transit Station Area   40-60 percent non-
+                                                          0.25 FAR            2.5 FAR          Up to 7.0 FAR
+                        residential
+                        5-25 percent residential                                                 Up to 40
+ MU-D: Medical                                            9 du/acre           12 du/ac
+                        75-95 percent non-                                                        du/acre
+ Campus Area                                              0.15 FAR            3.0 FAR
+                        residential                                                            Up to 6.0 FAR
+                        20-40 percent residential                                                Up to 30
+ MU-D: Commercial                                         0 du/acre           12 du/ac
+                        60-80 percent non-                                                        du/acre
+ Corridor Main Street                                     0.5 FAR             2.0 FAR
+                        residential                                                            Up to 4.0 FAR
+ MU-D: Commercial       0-15 percent residential                                                 Up to 40
+ Corridor Vine                                            0 du/acre           12 du/ac
+                        85-100 percent non-                                                       du/acre
+ Street/John Young                                        0.5 FAR             2.0 FAR
+ Parkway Adjacent       residential                                                            Up to 5.0 FAR
+
+                        5-15 percent residential
+ MU-D: Government                                         0 du/acre           12 du/ac         Up to 30 du/ac
+ District               85-95 percent non-
+                                                          0.5 FAR             2.0 FAR          Up to 4.0 FAR
+                        residential
+                        5-15 percent residential
+ MU-D: Lake Toho                                          0 du/acre         1 unit/10 ac        1 unit/5 acre
+ Waterfront Area        85-95 percent non-
+                                                          0.0 FAR             0.1 FAR          Up to 0.2 FAR
+                        residential
+ Mixed-Use – Vine Street (MU-V)
+                                                                                                 Up to 40
+                        50 percent residential             6 du/ac            9 du/ac
+ MU-V                                                                                             du/acre
+                        50 percent non-residential        1.25 FAR            2.0 FAR
+                                                                                               Up to 6.0 FAR
+
+
+
+                 The mix percentages above shall be applied on a district-wide or sub-area-wide basis. The
+                 non-residential percentages of the districts and sub-areas shall include plazas and other
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                          FLUE-29
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 urban-style open spaces, natural open spaces required as part of the Land Development
+                 Code, and stormwater facilities, such as ponds, but shall not include transportation rights-
+                 of-way.
+
+                 The development densities and intensities are based on FAR calculation methods for
+                 residential density and non-residential intensity identified in Policy 1.2.2.1. The minimum
+                 development intensities, by district or sub-area, ensure a minimum threshold of
+                 development to support the City’s connected, transit- and pedestrian-oriented, vision of
+                 mixed-use centers and corridors. Intensity calculations shall include all uses, residential
+                 and non-residential, when determining FAR.
+
+        OBJECTIVE 1.2.10: MIXED-USES AND PLANNED UNIT DEVELOPMENTS.
+        The City shall continue to promote innovative development concepts including mixed-use
+        developments guided by a single development master plan.
+
+                 POLICY 1.2.10.1: MIXED-USE (MU) FUTURE LAND USE DESIGNATION.
+                 In the interest of maintaining the flexibility to change the allocation of uses within a
+                 development in response to changes in market demand over time, and to support infill or
+                 redevelopment the Mixed-Use (MU) land use designation shall provide development
+                 flexibility and a mix of land uses within a Planned Unit Development (PUD) zoning District.
+                 The zoning amendment application shall be approved within one year of the approval of the
+                 MU land use designation.
+
+                 In order to utilize the MU land use designation, a parcel or development site must meet any
+                 of the following criteria:
+
+                 1. It must be assigned an approved PUD zoning district; or
+
+                 2. It must be a proposed development planned to have PUD zoning, and in this case the
+                    PUD zoning may be adopted concurrently with the MU land use designation, or the PUD
+                    zoning can be adopted later.
+
+                      In any case, the PUD zoning must be adopted within one year of the effective date of
+                      the ordinance adopting the MU land use designation for the property. The adopting
+                      ordinance shall indicate that the MU designation will not be effective until the effective
+                      date of the PUD zoning District for the property. If PUD zoning is not adopted for the
+                      proposed development within one year of the effective date of the ordinance adopting
+                      the MU land use designation, the City shall initiate amendments to the Comprehensive
+                      Plan (using the process identified in Chapter 163 of the Florida Statutes) to revert the
+                      MU land use designation for the property to its prior future land use designation, and
+                                                                                         FUTURE LAND USE
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+                   would delete the policy in Objective 1.2.10 that specifies the approved uses and other
+                   characteristics of the development. The Land Development Code may provide for one
+                   six-month extension of this deadline; or
+
+               3. It must be assigned to a parcel or to a development site not already designated a MU-
+                  D or MU-V future land use designation, but may be applied to any size parcel large
+                  enough to accommodate more than one type of use in a manner consistent with
+                  surrounding land uses and development patterns.
+
+               In either case, the approved or proposed uses, residential densities, and non-residential
+               development intensities must be compatible with existing and anticipated future land uses
+               surrounding the proposed development, according to the policies of the Future Land Use
+               Element. In no case shall the density of the residential portion of the development exceed
+               40 units per acre or the maximum intensity, including the residential portion of the
+               development, exceed 6.0 FAR.
+
+               Both a Future Land Use Map amendment and a comprehensive plan text amendment shall
+               be required to establish a MU land use designation. If the proposed comprehensive plan
+               amendments are adopted, the Future Land Use Map shall be amended to show a MU future
+               land use designation for the area subject to the map amendment. Also, a new policy shall
+               be added to the Future Land Use Element under Objective 1.2.10: Mixed-Uses and Planned
+               Unit Developments. The new policy shall provide a general description of the development
+               and a listing of approved uses. The policy shall also specify the number of approved
+               residential units by type, and the number of acres approved for each non-residential use in
+               the development (including maximum allowable impervious surface coverage). That new
+               policy shall regulate the use of land on the parcel or development site, with the Land
+               Development Code and any specific ordinances, agreements and plans.
+
+               Once a MU land use designation has been established for an area, any future change to
+               the development plan that changes the approved uses and/or increases the densities or
+               intensities of the approved uses shall require a comprehensive plan amendment. Any other
+               future change to the development plan that would cause public facilities impacts greater
+               than the impacts anticipated when the MU land use designation was established shall also
+               require a comprehensive plan amendment.
+
+               POLICY 1.2.10.2: RESERVED.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                       FLUE-31
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 POLICY 1.2.10.3: TAPESTRY (FORMERLY BRONSON) (MU-T) LAND USE DESIGNATION.
+                 This policy establishes a Mixed-Use (MU) land use designation for the Tapestry Planned
+                 Unit Development. The Tapestry property consists of approximately 567.96 acres,
+                 approximately 40.97 acres of which are wetlands. The property will be developed for mixed-
+                 use purposes which may include residential uses (such as single-family detached, single-
+                 family attached, condominium, short-term rental, multi-family or age restricted housing
+                 uses), commercial uses or parks and recreational uses. The site is bisected by Carroll
+                 Street and generally bordered by Shingle Creek to the west and by Dyer Boulevard and
+                 Thacker Avenue to the east. Development of the Tapestry property will adhere to the
+                 following policies:
+
+                 1. A maximum of 2,910 residential units will be built upon the property consisting of single-
+                    family detached/single-family attached/condominium/short-term rental/ multi-family or
+                    age-restricted units resulting in a maximum average of approximately 5.52 dwelling
+                    units per acre density on the entire site if all such residential units are developed.
+
+                 2. A maximum of sixty (60) acres of the property may be developed for commercial uses
+                    but such commercial uses shall not exceed six hundred thousand (600,000) square feet.
+                    Such commercial acreage may be located on the south side of Carroll Street near either
+                    or both of the intersections of (i) Carroll Street and Thacker Avenue or (ii) Carroll Street
+                    and Dyer Boulevard and may include acreage located west of the Dyer Boulevard
+                    extension, north of Donegan Avenue and southeast of Carroll Street. The commercial
+                    property will provide for commercial uses that are consistent with those listed in the
+                    PUD. The commercial property will serve the daily needs of the properties within the
+                    Tapestry development and the surrounding communities. The maximum allowable
+                    impervious surface area of all property used for commercial purposes shall be 80%.
+
+                 3. A minimum of 40.97 acres of the property will be preserved as wetlands.
+
+                 4. Anything that is not specified in this policy shall be governed by the City of Kissimmee
+                    Comprehensive Plan and the Land Development Code.
+
+                 POLICY 1.2.10.4: FLORA RIDGE (MU-FR) LAND USE DESIGNATION.
+                 This policy establishes a Mixed-Use designation for the Flora Ridge Development (Flora
+                 Ridge). The Flora Ridge property consists of 1,134 +/- acres; approximately 70+/- acres
+                 are wetlands. The property will be developed for mixed-use purposes, which may include
+                 residential uses (single-family detached, single family attached, multiple family),
+                 commercial uses (retail, office, and hotel), industrial park, public school facility, and wetland
+                 preservation. The property shall provide the following:
+                                                                                          FUTURE LAND USE
+                                                                                 Goals, Objectives, and Policies
+
+
+
+
+               1. A maximum 1,532,870 gross square feet of retail space.
+
+               2. A maximum of 760,000 gross square feet of office space.
+
+               3. A maximum of 420,000 gross square feet of industrial/business park space.
+
+               4. A maximum of 675 hotel rooms.
+
+               5. A maximum of 1,574 single-family units.
+
+               6. A maximum of 2,525 multiple family units.
+
+               7. The maximum allowable impervious surface area of all property used for non-residential
+                  purposes shall be 80%.
+
+               8. Approximately 29 acres shall be provided for a school.
+
+               9. Approximately 70 acres of wetlands will be preserved.
+
+               10. Approximately 75 acres will remain in open space.
+
+               11. Anything that is not specified in this policy shall be governed by the City of Kissimmee
+                   Land Development Code and the Comprehensive Plan.
+
+       OBJECTIVE 1.2.11: MULTIMODAL TRANSPORTATION DISTRICT (MMTD).
+       The City shall require a mix of land uses with densities and intensities necessary to support a
+       pedestrian-oriented urban landscape, and which is intended to promote and support the use of
+       multiple modes of transportation, particularly within the City’s Multimodal Transportation District.
+
+               POLICY 1.2.11.1: MINIMUM DENSITY AND INTENSITY IN MULTIMODAL TRANSPORTATION
+               DISTRICT.
+               The Multimodal Transportation District (MMTD) shall be displayed on the Future Land Use
+               Map, but shall not affect underlying future land use categories. Within the MMTD, future
+               development in the central transit areas within ½ mile of the Vine Street centerline and
+               within a ½ mile radius of the Kissimmee Intermodal Center shall have densities and
+               intensities to support transit-oriented development. These shall be consistent with the
+               underlying MU-V and MU-D mixed-use future land use categories.
+
+               POLICY 1.2.11.2: MIX OF USES IN MULTIMODAL TRANSPORTATION DISTRICT.
+               In order to provide a balance of complementary land uses, the following mix of uses shall
+               serve as a guideline for future development within the MMTD. Future development shall
+               either consist of mixed-uses on-site, or a single use that is complementary to and directly
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                        FLUE-33
+FUTURE LAND USE
+Goals, Objectives, and Policies
+
+
+
+
+                 connected to uses within a ¼-mile radius. Mixed-Uses shall consist of residential, retail,
+                 office, educational, recreational, civic, and cultural uses. These standards shall be applied
+                 in additional areas beyond those specified in this policy where transit service is provided or
+                 planned and mixed-use, transit-oriented development will be appropriately consistent with
+                 adjacent, existing uses.
+
+                 The land use type indicated in each row of the table should comprise a percentage greater
+                 than the minimum and less than the maximum for the total land in the MMTD.
+
+
+                   Use                    Minimum           Maximum
+                   Residential              20%               50%
+                   Commercial Retail         10%               30%
+                   Commercial Office         0%                30%
+                   Civic                     5%                20%
+                   Educational               0%                15%
+
+
+
+                 POLICY 1.2.11.3: URBAN DESIGN CHARACTERISTICS IN MULTIMODAL TRANSPORTATION
+                 DISTRICT.
+                 In accordance with Objective 1.1.6 of this Element, and Chapter 2: Transportation Element,
+                 the City shall ensure development and redevelopment within the Multimodal Transportation
+                 District adhere to the standards established for pedestrian-oriented building and site design,
+                 which shall be implemented through the Land Development Code.
+
+        OBJECTIVE 1.2.12: CONTINUING EVALUATION OF FUTURE LAND USE ELEMENT
+        EFFECTIVENESS.
+        The City shall use the following policies as criteria in evaluating the effectiveness of the Future
+        Land Use Element and Future Land Use Map.
+
+                 POLICY 1.2.12.1: REVIEW THE IMPACT OF CHANGE INDICATORS ON LAND USE.
+                 Trends in the magnitude, distribution and characteristics of the City’s population and land
+                 uses shall serve as indicators of possible changes in land use needs. The policy
+                 implications of changing trends in land use characteristics shall be evaluated on a
+                 continuing basis. Land use policy shall be refined as needed in order to remain responsive
+                 to evolving problems and issues.
+
+                 POLICY 1.2.12.2: SCHEDULE, BUDGET AND IMPLEMENT PROGRAMMED ACTIVITIES.
+                 The timely scheduling, programming, budgeting and implementation of programmed land
+                 use activities identified in the Future Land Use Element shall be evidence of the City's
+                                                                                         FUTURE LAND USE
+                                                                                Goals, Objectives, and Policies
+
+
+
+
+               effectiveness in applying a systematic program for implementing adopted land use goals,
+               objectives and policies.
+
+               POLICY 1.2.12.3: COORDINATE WITH PUBLIC AND PRIVATE SECTORS.
+               While implementing and evaluating the Future Land Use Element, the City shall maintain a
+               process of intergovernmental coordination, as well as coordination with private sector
+               groups interested in land use policy and programs. The effectiveness of this approach
+               shall be evaluated by the success of coordination mechanisms in resolving land use
+               problems and issues.
+
+               POLICY 1.2.12.4: ACHIEVE EFFECTIVE RESOLUTION OF LAND USE GOALS, OBJECTIVES
+               AND POLICIES.
+               The effectiveness of the Future Land Use Element shall be measured by the City's success
+               in achieving land use goals, objectives and policies. This process shall include continuing
+               citizen participation.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                       FLUE-35
+MAPS
+
+
+
+
+             Existing Land Use
+
+           2040 Future Land Use
+
+       2040 Major District Boundaries
+
+       Historic District and Structures
+                                                                                    FUTURE LAND USE
+                                                                                               Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                         FLUE-37
+Figure 1-1: Existing Land Use
+                                                                                    FUTURE LAND USE
+                                                                                               Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                         FLUE-39
+Figure 1-2: 2040 Future Land Use
+                                                                                    FUTURE LAND USE
+                                                                                               Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                         FLUE-41
+Figure 1-3: 2040 Major District Boundaries
+                                                                                    FUTURE LAND USE
+                                                                                               Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                         FLUE-43
+Figure 1-4: Historic District and Structures
+                                                                                    FUTURE LAND USE
+                                                                                               Maps
+
+
+
+
+                                              THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                         FLUE-45
+

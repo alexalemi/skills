@@ -4,8 +4,8 @@ This guide provides detailed information about the Kissimmee 2040 Comprehensive 
 
 ## Overview
 
-**Location:** `./docs/compplan/`
-**Total Documents:** 11 PDFs, 646 pages
+**Location:** `./references/compplan/`
+**Total Documents:** 11 txt files (extracted from original 646-page comprehensive plan PDFs)
 **Plan Horizon:** 2040
 **Base Adoption:** November 2018
 **Recent Amendments:** February 2020, December 2021, December 2022
@@ -14,16 +14,16 @@ The Kissimmee Comprehensive Plan follows the structure mandated by **Florida Sta
 
 ## Document Structure
 
-### Individual Element PDFs (01-11)
+### Individual Element Text Files (01-11)
 
-Each element PDF contains:
+Each element text file contains the extracted text from the original PDFs including:
 1. **Goals, Objectives, and Policies (GOP)** - The regulatory/enforceable component
-2. **Maps** - Visual representations (where applicable)
+2. **Maps** - Descriptions and references (original visual maps are in source PDFs if needed)
 3. **Data, Inventory, and Analysis (DIA)** - Supporting documentation and context
 
 ### Consolidated GOPS Document
 
-**Comp Plan_12.2022_GOPS Only_reduced.pdf** contains ONLY the Goals, Objectives, and Policies from all elements without the supporting maps, data, or analysis. This is your primary working reference.
+**Comp Plan_12.2022_GOPS Only_reduced.txt** contains ONLY the Goals, Objectives, and Policies from all elements without the supporting maps, data, or analysis. This is your primary working reference.
 
 ### Policy Numbering System
 
@@ -43,8 +43,8 @@ Each element PDF contains:
 
 ### 1. FUTURE LAND USE ELEMENT (FLUE) ⭐⭐⭐
 
-**File:** `01_FLUE_Dec21.pdf`
-**Pages:** 55
+**File:** `01_FLUE_Dec21.txt`
+**Content:** 55 pages of extracted text
 **Adopted:** November 2018, Amended February 2020 & December 2021
 **PAB Relevance:** CRITICAL
 
@@ -97,8 +97,8 @@ Each element PDF contains:
 
 ### 2. TRANSPORTATION ELEMENT (TE) ⭐⭐
 
-**File:** `02_TE_Dec21.pdf`
-**Pages:** 65
+**File:** `02_TE_Dec21.txt`
+**Content:** 65 pages of extracted text
 **Adopted:** November 2018, Amended December 2021
 **PAB Relevance:** HIGH
 
@@ -153,8 +153,8 @@ Each element PDF contains:
 
 ### 3. HOUSING ELEMENT (HE) ⭐
 
-**File:** `03_HE_Nov18.pdf`
-**Pages:** 41
+**File:** `03_HE_Nov18.txt`
+**Content:** 41 pages of extracted text
 **Adopted:** November 2018
 **PAB Relevance:** MEDIUM-HIGH
 
@@ -194,8 +194,8 @@ Each element PDF contains:
 
 ### 4. PUBLIC FACILITIES ELEMENT (PFE) ⭐⭐
 
-**File:** `04_PFE_Nov18.pdf`
-**Pages:** 60
+**File:** `04_PFE_Nov18.txt`
+**Content:** 60 pages of extracted text
 **Adopted:** November 2018
 **PAB Relevance:** HIGH
 
@@ -239,8 +239,8 @@ Each element PDF contains:
 
 ### 5. CONSERVATION ELEMENT (CONS) ⭐
 
-**File:** `05_CONS_Nov18.pdf`
-**Pages:** 52
+**File:** `05_CONS_Nov18.txt`
+**Content:** 52 pages of extracted text
 **Adopted:** November 2018
 **PAB Relevance:** MEDIUM-HIGH
 
@@ -282,8 +282,8 @@ Each element PDF contains:
 
 ### 6. RECREATION & OPEN SPACE ELEMENT (ROSE)
 
-**File:** `06_ROSE_Nov18.pdf`
-**Pages:** 31
+**File:** `06_ROSE_Nov18.txt`
+**Content:** 31 pages of extracted text
 **Adopted:** November 2018
 **PAB Relevance:** MEDIUM
 
@@ -318,8 +318,8 @@ Each element PDF contains:
 
 ### 7. INTERGOVERNMENTAL COORDINATION ELEMENT (ICE)
 
-**File:** `07_ICE_Nov18.pdf`
-**Pages:** 26
+**File:** `07_ICE_Nov18.txt`
+**Content:** 26 pages of extracted text
 **Adopted:** November 2018
 **PAB Relevance:** LOW-MEDIUM
 
@@ -350,8 +350,8 @@ Each element PDF contains:
 
 ### 8. CAPITAL IMPROVEMENTS ELEMENT (CIE) ⭐⭐
 
-**File:** `08_CIE_Dec21.pdf`
-**Pages:** 46
+**File:** `08_CIE_Dec21.txt`
+**Content:** 46 pages of extracted text
 **Adopted:** November 2018, Amended December 2021
 **PAB Relevance:** HIGH
 
@@ -396,8 +396,8 @@ Each element PDF contains:
 
 ### 9. ECONOMIC DEVELOPMENT ELEMENT (EDEV)
 
-**File:** `10_EDEV_Nov18.pdf`
-**Pages:** 25
+**File:** `10_EDEV_Nov18.txt`
+**Content:** 25 pages of extracted text
 **Adopted:** November 2018
 **PAB Relevance:** MEDIUM
 
@@ -434,8 +434,8 @@ Each element PDF contains:
 
 ### 10. PROPERTY RIGHTS ELEMENT (PR)
 
-**File:** `11_PROPRIGHTS.pdf`
-**Pages:** 7
+**File:** `11_PROPRIGHTS.txt`
+**Content:** 7 pages of extracted text
 **Adopted:** December 2021
 **PAB Relevance:** LOW
 
@@ -456,8 +456,8 @@ This element ensures that regulatory actions consider property rights impacts an
 
 ### 11. CONSOLIDATED GOPS DOCUMENT ⭐⭐⭐
 
-**File:** `Comp Plan_12.2022_GOPS Only_reduced.pdf`
-**Pages:** 238
+**File:** `Comp Plan_12.2022_GOPS Only_reduced.txt`
+**Content:** 238 pages of extracted text
 **Date:** December 2022 (most current version)
 **PAB Relevance:** CRITICAL
 
@@ -471,16 +471,16 @@ This element ensures that regulatory actions consider property rights impacts an
 
 #### Advantages:
 - ✅ Most current version (includes latest amendments)
-- ✅ Easier to search and navigate
+- ✅ Easier to search and navigate with text search tools
 - ✅ Lighter file size for quick reference
 - ✅ Contains only enforceable policies
 - ✅ Perfect for meeting prep and quick lookups
 
-#### When to Use Individual Element PDFs Instead:
-- Need to see Future Land Use Map or other maps
-- Require data, inventory, or analysis sections
-- Writing detailed staff reports requiring context
+#### When to Use Individual Element Text Files Instead:
+- Require data, inventory, or analysis sections with full context
+- Writing detailed staff reports requiring background information
 - Need to understand the rationale behind policies
+- Note: Visual maps are in the original PDFs if needed
 
 ---
 
@@ -488,18 +488,18 @@ This element ensures that regulatory actions consider property rights impacts an
 
 ### Step 1: Initial Application Review
 
-**Primary Document:** Consolidated GOPS (Comp Plan_12.2022_GOPS Only_reduced.pdf)
+**Primary Document:** Consolidated GOPS (Comp Plan_12.2022_GOPS Only_reduced.txt)
 
 1. Read the application/staff report
 2. Identify the application type (rezoning, site plan, CPA, variance, etc.)
 3. Note key characteristics (land use, density, location, special features)
-4. Open the consolidated GOPS document
+4. Open the consolidated GOPS text file
 
 ### Step 2: Search for Applicable Policies
 
 **Search Strategy:**
 
-Use PDF search (Ctrl+F) for these terms:
+Use text search (grep, Ctrl+F in editor, or Read tool) for these terms:
 - Specific land use category mentioned in application
 - "Compatible" or "compatibility"
 - "Consistent" or "consistency"
@@ -549,12 +549,12 @@ Focus on these elements based on application type:
 
 ### Step 4: Deep Dive (When Needed)
 
-When you need more context, maps, or supporting data:
+When you need more context or supporting data:
 
-1. Open the specific element PDF (e.g., 01_FLUE_Dec21.pdf)
+1. Open the specific element text file (e.g., 01_FLUE_Dec21.txt)
 2. Review the Data, Inventory, and Analysis section
-3. Examine relevant maps
-4. Read policy context and background
+3. Read policy context and background
+4. Note: For visual maps, refer to original PDFs if available
 
 ### Step 5: Cross-Reference with Land Development Code
 
@@ -660,24 +660,25 @@ The Comprehensive Plan sets the policy framework; the Land Development Code (LDC
 
 | Element | Filename | Base Adoption | Latest Amendment | Status |
 |---------|----------|---------------|------------------|--------|
-| FLUE | 01_FLUE_Dec21.pdf | Nov 2018 | Dec 2021 | Use this version |
-| TE | 02_TE_Dec21.pdf | Nov 2018 | Dec 2021 | Use this version |
-| HE | 03_HE_Nov18.pdf | Nov 2018 | - | Current |
-| PFE | 04_PFE_Nov18.pdf | Nov 2018 | - | Current |
-| CONS | 05_CONS_Nov18.pdf | Nov 2018 | - | Current |
-| ROSE | 06_ROSE_Nov18.pdf | Nov 2018 | - | Current |
-| ICE | 07_ICE_Nov18.pdf | Nov 2018 | - | Current |
-| CIE | 08_CIE_Dec21.pdf | Nov 2018 | Dec 2021 | Use this version |
-| EDEV | 10_EDEV_Nov18.pdf | Nov 2018 | - | Current |
-| PR | 11_PROPRIGHTS.pdf | Dec 2021 | - | Current |
-| **GOPS** | **Comp Plan_12.2022_GOPS Only_reduced.pdf** | **Dec 2022** | **Most Current** | **Primary Reference** |
+| FLUE | 01_FLUE_Dec21.txt | Nov 2018 | Dec 2021 | Use this version |
+| TE | 02_TE_Dec21.txt | Nov 2018 | Dec 2021 | Use this version |
+| HE | 03_HE_Nov18.txt | Nov 2018 | - | Current |
+| PFE | 04_PFE_Nov18.txt | Nov 2018 | - | Current |
+| CONS | 05_CONS_Nov18.txt | Nov 2018 | - | Current |
+| ROSE | 06_ROSE_Nov18.txt | Nov 2018 | - | Current |
+| ICE | 07_ICE_Nov18.txt | Nov 2018 | - | Current |
+| CIE | 08_CIE_Dec21.txt | Nov 2018 | Dec 2021 | Use this version |
+| EDEV | 10_EDEV_Nov18.txt | Nov 2018 | - | Current |
+| PR | 11_PROPRIGHTS.txt | Dec 2021 | - | Current |
+| **GOPS** | **Comp Plan_12.2022_GOPS Only_reduced.txt** | **Dec 2022** | **Most Current** | **Primary Reference** |
 
 ### Important Notes:
 
 - ⚠️ The consolidated GOPS document (December 2022) supersedes all individual element versions
 - ⚠️ For current policy language, always defer to the GOPS document
-- ⚠️ Individual element PDFs are useful for maps and analysis but may have outdated policy text
+- ⚠️ Individual element text files are useful for data and analysis but may have outdated policy text
 - ⚠️ When amendments occur, the GOPS document is updated to reflect all changes
+- ℹ️ Text files were extracted from the original PDFs; visual maps remain in PDFs if needed
 
 ---
 
@@ -690,7 +691,7 @@ The Comprehensive Plan sets the policy framework; the Land Development Code (LDC
 - Flag key policies for discussion
 
 ### 2. During Meetings
-- Keep GOPS document open on laptop/tablet
+- Keep GOPS text file searchable on laptop/tablet
 - Reference specific policy numbers when speaking
 - Quote exact policy language when possible
 - Ask staff to address specific policies if unclear
@@ -726,25 +727,27 @@ The Comprehensive Plan sets the policy framework; the Land Development Code (LDC
 
 ## File Locations
 
-All comprehensive plan PDFs are located at:
+All comprehensive plan text files are located at:
 ```
-/home/alemi/projects/skills/pab/docs/compplan/
+/home/alemi/projects/skills/pab/references/compplan/
 ```
 
 **Individual Elements:**
-- 01_FLUE_Dec21.pdf
-- 02_TE_Dec21.pdf
-- 03_HE_Nov18.pdf
-- 04_PFE_Nov18.pdf
-- 05_CONS_Nov18.pdf
-- 06_ROSE_Nov18.pdf
-- 07_ICE_Nov18.pdf
-- 08_CIE_Dec21.pdf
-- 10_EDEV_Nov18.pdf
-- 11_PROPRIGHTS.pdf
+- 01_FLUE_Dec21.txt
+- 02_TE_Dec21.txt
+- 03_HE_Nov18.txt
+- 04_PFE_Nov18.txt
+- 05_CONS_Nov18.txt
+- 06_ROSE_Nov18.txt
+- 07_ICE_Nov18.txt
+- 08_CIE_Dec21.txt
+- 10_EDEV_Nov18.txt
+- 11_PROPRIGHTS.txt
 
 **Consolidated GOPS (Primary Reference):**
-- Comp Plan_12.2022_GOPS Only_reduced.pdf
+- Comp Plan_12.2022_GOPS Only_reduced.txt
+
+**Note:** Original PDFs are also available in the same directory if visual maps are needed.
 
 ---
 

@@ -1,0 +1,1747 @@
+GOALS, OBJECTIVES, AND POLICIES
+THIS PAGE INTENTIONALLY LEFT BLANK.
+ TRANSPORATION
+
+
+
+
+ Kissimmee
+ 2040 Comprehensive Plan
+ Capital Improvements
+ Goals, Objectives, and Policies
+
+
+
+
+ prepared for
+ City of Kissimmee
+
+
+
+ prepared by
+ Cambridge Systematics, Inc.
+ 2101 West Commercial Boulevard, Suite 3200
+ Fort Lauderdale, FL 33309
+
+
+
+ date
+ Adopted November 20, 2018; DRC#18-057; DEO#18-1ER
+ Amended December 7, 2021; DRC#21-097; DEO Amendment No. 21-02ESR
+
+
+
+
+Cover photo source: City of Kissimmee Public Information Office
+TRANSPORATION
+
+
+
+
+                THIS PAGE INTENTIONALLY LEFT BLANK.
+                                                                                                                       CAPITAL IMPROVEMENTS
+
+
+
+
+Table of Contents
+Goals, Objectives, and Policies ............................................................................................................1
+         Goal 8.1 Management of Capital Improvements............................................................................ 1
+                Objective 8.1.1 Rationale for Capital Improvements. ............................................................. 1
+                Objective 8.1.2: Future Developments to Bear Costs of Their Respective Infrastructure
+                  Impacts. ............................................................................................................................4
+                Objective 8.1.3: Fiscal Resource Management..................................................................... 5
+                Objective 8.1.4: Management of Development Orders and Permits. ..................................... 7
+                Objective 8.1.5: Coordinate Land Use and Capital Improvement Plan. ............................... 17
+                Objective 8.1.6: Monitoring and Evaluating the Capital Improvements Element. .................. 18
+         Goal 8.2 Identification of Capital Improvements. ......................................................................... 21
+                Objective 8.2.1: Maintaining Adopted Level of Service Standards. ..................................... 21
+
+Data, Inventory, and Analysis .............................................................................................................36
+         Introduction .................................................................................................................................36
+         Public Facility Needs ...................................................................................................................36
+                Fiscal Year 2017/2018 Budget Overview ............................................................................. 36
+         Existing Revenue Source And Funding Mechanisms .................................................................. 37
+                General Fund Revenue Sources ......................................................................................... 37
+                Special Funding Sources ..................................................................................................... 38
+                Current Local Practices Guiding Capital Improvements ....................................................... 39
+                Cost Analysis of Capital Improvements and Basis of Cost Estimates .................................. 41
+         Assessment of Revenues and Expenditures ............................................................................... 42
+                General Revenue Forecasts ................................................................................................ 42
+                Forecast of Other Revenue Sources ................................................................................... 42
+                Ad Valorem Tax Revenue Forecasts ................................................................................... 43
+         Forecast of Expenditures ............................................................................................................43
+                Proposed Capital Improvements.......................................................................................... 43
+                Debt Service Obligations and Capacities ............................................................................. 44
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                     CIE-i
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-ii                                                          October 2017
+                                                                                                             CAPITAL IMPROVEMENTS
+
+
+
+
+List of Tables
+Table 8-1: LOS Potable Water and Wastewater ..................................................................................... 8
+Table 8-2: Five-Year Schedule of Capital Improvements ..................................................................... 22
+Table 8-3: Tohopekaliga Capital Improvements Plan ........................................................................... 29
+Table 8-4: FDOT Funded Projects ....................................................................................................... 33
+Table 8-5: FDOT Funded Bicycle, Pedestrian, and Transit Projects ..................................................... 35
+Table 8-6: Fiscal Year 2017/2018 Annual Budget ................................................................................ 37
+Table 8-7: Summary of General Revenues .......................................................................................... 45
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                      CIE-iii
+        THIS PAGE INTENTIONALLY LEFT BLANK.
+
+
+
+
+                                City of Kissimmee | Comprehensive Plan 2017
+HE-iv                                                          October 2017
+PAGES 1 THROUGH 35 ARE LOCATED IN A SEPARATE DOCUMENT CONTAINING ONLY THE
+                     GOALS, OBJECTIVES, AND POLICIES.
+
+
+
+
+City of Kissimmee | Comprehensive Plan 2017
+November 2018                                                        TE-v
+                                                                              CAPITAL IMPROVEMENTS
+                                                                            Goals, Objectives, and Policies
+
+
+
+
+GOALS, OBJECTIVES, AND POLICIES
+This section stipulates goals, objectives, and implementing policies for the Capital Improvements
+Element pursuant to §163.3177(5)(c), Florida Statutes.
+
+GOAL 8.1 MANAGEMENT OF CAPITAL IMPROVEMENTS.
+The City shall undertake actions necessary to adequately provide needed public facilities within the
+City’s jurisdiction in a manner which protects investments and existing facilities, maximizes the use
+of existing facilities, and promotes orderly compact growth.
+
+       OBJECTIVE 8.1.1 RATIONALE FOR CAPITAL IMPROVEMENTS.
+       Capital improvements will be provided for purposes of correcting existing deficiencies,
+       accommodating desired future growth, and replacing worn-out or obsolete facilities, as
+       indicated in the five-year schedule of improvements contained within this Element.
+
+               POLICY 8.1.1.1: INTENT OF CAPITAL IMPROVEMENT ELEMENT.
+               The City is committed to growth management which incorporates appropriate fiscal
+               management practices and procedures. The City shall consider the use of all legal
+               and equitable fiscal management techniques to achieve delivery of public services
+               and facilities needed by existing and anticipated future populations. The capital
+               improvement program presented herein identifies capital improvements needed by
+               the existing population to satisfy levels of service standards incorporated within this
+               Comprehensive Plan. The City shall consider performance standards as well as
+               legal and equitable fees, where appropriate, to ensure that new developments
+               provide in advance of development a sufficient level of public facilities and services
+               (or fees in lieu thereof) in order to cover the costs of needed facilities and services,
+               the demands for which are specifically attributable to such new development.
+
+               The element shall provide a basis for estimating fiscal impacts required by capital
+               improvements included in the Comprehensive Plan. The capital improvements
+               program and budgeting process provides an on-going process for continued
+               planning and review of the City's capital outlays, including their location, timing,
+               estimated cost, relative priority, and potential funding sources. The capital
+               improvement program and budget process is an advisory planning function. Capital
+               outlays are fixed only by the City Commission.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                     CIE-1
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                  POLICY 8.1.1.2: CAPITAL IMPROVEMENT PROGRAM.
+                  The term "capital improvement" project, as used in the Comprehensive Plan, is
+                  defined as a project that is self-contained and that will usually be constructed or
+                  purchased as a unit. Capital improvements generally include only those items
+                  constructed or purchased that have a useful life extending beyond a ten-year period
+                  following their acquisition, and usually involve a cost in excess of $10,000 or involve
+                  the acquisition or disposal of land regardless of cost. Minor recurring annual
+                  expense items, including routine maintenance and repairs, are excluded. All
+                  projects that are to be financed from bond funds are included. Similarly, preliminary
+                  engineering studies for public facilities such as the design improvements to the
+                  transportation, water, wastewater, and drainage systems are generally itemized as
+                  capital expenditure items due to their significant cost and their impact on the capital
+                  improvement program.
+
+                  The capital improvement program and budget is concerned with the assessment of
+                  need, assignment of priorities, and efficient allocation of City's existing and potential
+                  fiscal resources for major community improvements or acquisitions over a five to ten
+                  year period. The fundamental purposes of the capital programming process are as
+                  follows:
+
+                     To consolidate and coordinate all the various departmental requests by taxing
+                      district with the hope of reducing delays and coordinating individual
+                      improvement programs.
+
+                     To establish a system of procedures and priorities by which each proposal can
+                      be evaluated in terms of public need, long range development plans, and short
+                      and long-term fiscal management impacts.
+
+                     To schedule future capital outlay projects pursuant to identified needs and
+                      priorities.
+
+                     To set forth a financing program that identifies potential funding sources,
+                      including but not limited to ad valorem taxes/general obligation bonds; user
+                      fees/revenue of excise tax bonds; grant programs; equitable contributions or
+                      exactments; as well as performance standards and other components which
+                      may be used as a fiscal strategy for obtaining needed capital improvements in
+                      developing areas.
+
+                     To coordinate joint projects involving participation by one or more local
+                      governments, as well as regional, state, or federal agencies.
+
+
+                                                               City of Kissimmee | 2040 Comprehensive Plan
+CIE-2                                                                                      November 2018
+                                                                           CAPITAL IMPROVEMENTS
+                                                                         Goals, Objectives, and Policies
+
+
+
+
+               POLICY 8.1.1.3: CAPITAL IMPROVEMENT PROGRAM AND BUDGET AS A PLAN
+               IMPLEMENTATION DEVICE.
+               The capital improvements program shall be used for achieving orderly urban growth
+               and development. By providing a planned and reasonably reliable schedule of
+               public projects, the capital improvement program and budget shall provide a guide
+               for both public and private capital investment decisions influencing community
+               development patterns. The capital improvement programming and budgeting
+               process is a primary tool for closely coordinating land use planning and fiscal
+               management required to successfully carry out the Comprehensive Plan.
+
+               POLICY 8.1.1.4: AVAILABILITY AND SCHEDULING OF CAPITAL IMPROVEMENTS.
+               The City shall include within the five-year schedule of capital improvements all
+               capital improvements which are identified in any of the respective elements of the
+               City's Comprehensive Plan. Capital improvements with an estimated cost of more
+               than $10,000 shall be included in the five-year capital budget and annual budget.
+               The budgets shall be prepared by the City Manager and adopted by the City
+               Commission. Also, the capital improvement program and budget process shall be
+               used to plan for needed infrastructure improvements to serve developments for
+               which development orders were issued prior to plan adoption.
+
+               POLICY 8.1.1.5: PRIORITIES IN ALLOCATING CAPITAL IMPROVEMENTS.
+               In allocating priorities for scheduling and funding capital improvements needs, the
+               City shall assign highest priority to capital improvement projects in the five-year
+               schedule of improvements which are designed to correct existing deficiencies.
+
+               POLICY 8.1.1.6: CITY MANAGER TO DRAFT AND RANK CAPITAL IMPROVEMENTS
+               PRIORITIES.
+               The City Manager shall have the authority and responsibility to evaluate and
+               recommend a rank order of priority for each capital improvement which is proposed
+               for inclusion in the five-year schedule of capital improvements.           The City
+               Commission shall review and retain its authority to adopt the recommendations of
+               the City Manager with or without modifications in the proposed five-year schedule of
+               improvements.
+
+               POLICY 8.1.1.7: CAPITAL IMPROVEMENT PROJECT EVALUATION CRITERIA.
+               Proposed capital improvement projects shall be evaluated and ranked according to
+               the following priority level guidelines:
+
+                   1. Level 1: Whether the project is needed to:
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                  CIE-3
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                           a. Protect public health and safety.
+
+                           b. Fulfill the City's legal commitment to provide facilities and services.
+
+                           c. Preserve or achieve full use of existing facilities.
+
+                      2. Level 2: Whether the project accomplishes the following:
+
+                           a. Increases efficiency of existing facilities.
+
+                           b. Prevents or reduces future improvement costs.
+
+                           c. Provides service to developed areas lacking full service or promotes in-
+                              fill development.
+
+                      3. Level 3: Whether the project:
+
+                           a. Represents a logical extension of facilities and services in a manner
+                              consistent with Future Land Use Element goals, objectives and policies,
+                              including the Future Land Use Map.
+
+         OBJECTIVE 8.1.2:   FUTURE DEVELOPMENTS TO BEAR COSTS OF THEIR
+         RESPECTIVE INFRASTRUCTURE IMPACTS.
+         Future development shall bear a proportionate cost for facility improvements necessitated
+         by the development in order to maintain adopted levels of service (LOS) standards.
+
+                  POLICY 8.1.2.1:        FUNDING TRANSPORTATION IMPACTS GENERATED                 BY    NEW
+                  DEVELOPMENT.
+                  The City shall maintain the mobility fee program to address the improvement of all
+                  modes of transportation, including pedestrian, cycling, transit, and roadway
+                  improvements throughout the City. The funding mechanism used by the City shall
+                  base the fees on a proportionate share funding methodology to ensure that required
+                  mitigation is proportionate to the development’s transportation impact and will be
+                  used to finance multimodal projects that will allow the City to achieve the quality of
+                  service standards indicated in the Transportation Element.
+
+                  POLICY 8.1.2.2: RECREATION IMPACT FEES.
+                  The City shall continue to enforce the City's recreation impact fee which shall
+                  require that new development pay pro-rata for recreational land and facility needs
+                  generated by the respective developments.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+CIE-4                                                                                       November 2018
+                                                                             CAPITAL IMPROVEMENTS
+                                                                           Goals, Objectives, and Policies
+
+
+
+
+               POLICY 8.1.2.3: FUNDING WATER AND WASTEWATER IMPACTS GENERATED BY NEW
+               DEVELOPMENT.
+               The Toho Water Authority assesses new development for water and wastewater
+               facility improvements necessitated by the respective development. The land
+               development regulations shall incorporate performance criteria assuring that all new
+               development provide water and wastewater improvements meeting adopted levels
+               of service standards.
+
+               POLICY 8.1.2.4: FUNDING STORMWATER MANAGEMENT IMPROVEMENTS.
+               The City shall continue to require new development to pay its fair share of the costs
+               associated with stormwater management for their development, whether through
+               the installation of improvements or other means. However, development in the
+               following described downtown area may be exempted from this requirement:
+
+               All of Blocks 10 through 14, Blocks 17 through 21 and Block 26 and the abutting
+               streets, avenues and alleys thereof, according to the South Florida Railroad
+               Company's Plat of the Town of Kissimmee City, Osceola County, Florida. Also Lot
+               4 of Block A, and all of Lots 2 and 3 of Block I of W.A. Patrick's Addition to
+               Kissimmee City, Osceola County, Florida, and all of Johnston's and Prevatt's
+               Subdivisions of Lots 1 and 4 of Block I of said W.A. Patrick's Addition, and abutting
+               streets, avenues and alleys thereto.
+
+       OBJECTIVE 8.1.3: FISCAL RESOURCE MANAGEMENT.
+       The City shall manage fiscal resources to ensure provisions of needed capital
+       improvements for previously issued development orders and for future development and
+       redevelopment.
+
+               POLICY 8.1.3.1: AVAILABILITY OF ADEQUATE PUBLIC FACILITIES.
+               The City shall include an adequate facilities requirement as part of the land
+               development regulations.
+
+               The adequate facilities ordinance shall mandate that future applications for
+               development shall comply with the levels of services for the water and wastewater
+               systems, solid waste system, stormwater management, recreation, and the
+               transportation systems. Prior to issuing a building permit the City shall render a
+               finding that the proposed development shall be served with each of the above cited
+               facilities with a level of service at least equal to the level of service stipulated in
+               Policy 8.1.4.1 of this element.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                    CIE-5
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                  POLICY 8.1.3.2: LIMITATION ON INDEBTEDNESS.
+                  In providing general fund capital improvements, the City shall limit the maximum of
+                  outstanding general obligation indebtedness to no greater than (20%) percent of the
+                  property tax base. The City shall also restrict the issuance of revenue bonds to 1.25
+                  times the revenue bond debt.
+
+                  POLICY 8.1.3.3: CAPITAL IMPROVEMENTS PROGRAM.
+                  The City shall prepare and adopt a five-year capital budget and annual budget as
+                  part of its budgeting process.
+
+                  POLICY 8.1.3.4: FISCAL COORDINATION.
+                  The City shall coordinate with Osceola County, and the City of St. Cloud to develop
+                  a financially feasible work program as provided in local ordinances.
+
+                  POLICY 8.1.3.5: FUNDING EXISTING TRANSPORTATION SYSTEM DEFICIENCIES.
+                  Road improvements required to correct existing deficiencies in current levels of
+                  service are identified in the Existing Level of Service Map in the Transportation
+                  Element. Pedestrian, bicycle, and transit improvements required to meet adopted
+                  Multimodal Quality of Service Standards stipulated in Policy 8.1.4.1 of the Element.
+                  The City shall consider financing these improvements through:
+
+                     tax increment financing;
+
+                     special assessments;
+
+                     local option gas tax;
+
+                     revenue sharing funds;
+
+                     Community Development Block Grant funds;
+
+                     other measures which may be made available in the future through State and
+                      federal categorical grants; or
+
+                     all other available techniques.
+
+                  POLICY 8.1.3.6:       FUNDING EXISTING STORMWATER MANAGEMENT SYSTEM
+                  DEFICIENCIES.
+                  Existing deficiencies in the stormwater management system shall be alleviated by
+                  scheduled improvements funded through the sales tax funds or other revenues.
+
+
+
+                                                            City of Kissimmee | 2040 Comprehensive Plan
+CIE-6                                                                                   November 2018
+                                                                          CAPITAL IMPROVEMENTS
+                                                                        Goals, Objectives, and Policies
+
+
+
+
+               POLICY 8.1.3.7: GRANTSMANSHIP.
+               The City shall pursue available grants such as the Community Development Block
+               Grant Fund; public facility revolving loan programs administered through the
+               Department of Environmental Protection; the Florida Forever property acquisition
+               program; and other public or private grantsmanship programs in order to finance the
+               provisions of needed capital improvements.
+
+       OBJECTIVE 8.1.4: MANAGEMENT OF DEVELOPMENT ORDERS AND PERMITS.
+       Decisions regarding the issuance of development orders, building permits, certificates of
+       occupancy, and other applicable permits shall be consistent with goals, objectives, and
+       policies of the respective Comprehensive Plan elements, the City's adopted Land
+       Development Code, the requirements for adequate public facilities meeting stated levels of
+       service criteria.
+
+               POLICY 8.1.4.1: LEVEL OF SERVICE STANDARDS.
+               The City shall use the following LOS standards in reviewing the impacts of new
+               development and redevelopment upon public facilities.
+
+               1. Potable Water and Wastewater Consumption and Generation Rates are
+                  provided as the established LOS for these public facilities and are reflected
+                  below.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                 CIE-7
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+Table 8-1: LOS Potable Water and Wastewater
+                                                                                       Gallons Per Day (GPD)
+Type of Establishment                                                                   Water      Wastewater
+Commercial
+Minimum commercial                                                                       300          300
+Barbershops and beauty shops (per work station)                                          100          100
+Dentist offices (includes orthodontists and oral surgeons)                               250          250
+Per doctor/dentist or hygienist if no dentist present (dental office utilizing water     250          250
+conservation system)
+Per nurse/technician/administrative                                                       20              20
+Lab and testing areas per square foot                                                     0.2             0.2
+Doctor Office (Includes Medical Clinics)
+Per doctor                                                                               250          250
+Per nurse/technician/administrative                                                       20              20
+Lab and testing areas per square foot                                                     0.2             0.2
+Food Service Operations
+(1) Ordinary restaurant (per seat)
+  (a) 3 meal periods/day                                                                  30              30
+ (b) 2 meal periods/day                                                                   25              25
+ (c) 1 meal period/day                                                                    15              15
+(2) Restaurant- freeway, highway commercial or tourist commercial type zoning (per seat)
+ (a) 3 meal periods/day                                                                   50              50
+ (b) 2 meal periods/day                                                                   30              30
+ (c) 1 meal period/day                                                                    20              20
+(3) Franchise fast food restaurants (per seat) (exclusive of fried chicken                30              30
+franchises)
+(4) Franchise fried chicken eat-in/take-out (per seat                                     40              40
+(5) 24-hour restaurant (per seat added to (1)-(4)                                         10              10
+(6) Sandwich shop (combination dine-in/carry-out) (excludes friend and grilled         Same as ordinary
+foods) Same as ordinary restaurant                                                     restaurant
+(7) Pizza carry-out/delivery (only) (excludes restaurants with seating)                  300          300
+(8) Bar and cocktail lounge (per seat)                                                    10              10
+(9) Drive-in restaurant (per space)                                                       10              10
+(10) Carry-out or drive thru restaurant service (excludes restaurants with seating)
+ (a) Minimum                                                                             300          300
+ (b) Per square foot                                                                      0.5             0.5
+As addition to ordinary restaurant (per square foot)                                      0.5             0.5
+
+
+                                                                   City of Kissimmee | 2040 Comprehensive Plan
+CIE-8                                                                                          November 2018
+                                                                                        CAPITAL IMPROVEMENTS
+                                                                                      Goals, Objectives, and Policies
+
+
+
+
+                                                                                         Gallons Per Day (GPD)
+Type of Establishment                                                                     Water       Wastewater
+(11) Dinner theater per seat per show (exclusive of any ancillary services such            10             10
+as retail, animal care, etc)
+(12) Ice cream shop, donut shop, bakery shop (note: food not made on site, stores restricted solely to retail
+sale of food specialty and no meals served)
+ (a) Minimum                                                                               300             300
+ (b) Per square foot of floor space                                                        0.25           0.25
+(13) Food specialty shops such as bakery shops and donuts shops, which produce products on site. (note:
+restricted to retail sales, no wholesale services and no meals served)
+ (a) Minimum                                                                               300             300
+ (b) Per square foot of floor space                                                        0.5             0.5
+(14) Catering operations: to be evaluated individually depending on specific operations
+Hotels and Motels
+(1) Ordinary motel or hotel sleeps maximum of four per room                                120             135
+(2) Suite motel or hotel
+ Room occupancy maximum 5-6 (per room)                                                     180            202.2
+ Room occupancy maximum 7-8 (per room)                                                     240             270
+ Room occupancy exceeds 8, additional (per occupant)                                        28            310.5
+ Additional for kitchenettes (per room)                                                     40             45
+ Additional for refrigerator and hot plates (per room)                                      16             18
+(3) Meeting and/or banquet rooms per seat                                                   4             40.5
+Note: Motel/hotel facilities such as cocktail lounges, shops, offices, recreational facilities, etc. which are not
+for the exclusive use of the guests will be assessed separately in accordance with this section
+Laundries, Self-Service
+Per machine (regular)                                                                      300             300
+Per machine (50 lbs. or greater)                                                           400             400
+Note: Flow may be calculated by providing manufacturer's specifications on water use/load and
+substantiated documentation on loads/machine/day
+Laundries, Commercial
+Minimum per machine                                                                        400             400
+Note: Flow will be calculated based on manufacturer's specifications on water use/load and documented on
+loads/machine/day
+Office buildings (per 100 square feet)                                                      15             15
+Retail Sales general exclusive of food services, laundries, and other commercial services outlined
+herein
+For a single business:
+ (1) 0-50,000 square feet square feet- per square foot                                     0.1             0.1
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                               CIE-9
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+                                                                                       Gallons Per Day (GPD)
+Type of Establishment                                                                   Water    Wastewater
+ (2) 50,001-100,000 square feet- per square foot                                        0.075      0.075
+ (3) greater than 100,000 square feet per square foot                                    0.05        0.05
+Service Stations
+(1) Fuel and oil sales only
+ Per plumbing fixture for human waste                                                    150         150
+ Per employee                                                                             20         20
+(2) Maintenance facilities (add on to fuel and oil sales)
+ Per service bay                                                                         100         100
+ Per employee                                                                             20         20
+Shopping Centers, see retail
+Stadiums, race tracks, ball parks (per seat)                                              4          40.5
+Stores, see retail
+Theatres
+ Indoor, auditoriums (per seat)                                                           4          40.5
+ Outdoor, drive-ins (per space)                                                           4          40.5
+Travel Trailer/Recreational Vehicle Parks
+ (1) Spaces without water and sewer hookup (per space)                                    50         50
+ (2) Spaces with water and sewer hookups (per space)                                     100         100
+Industrial
+Factories, exclusive of industrial or process wastewater
+(1) Per employee per shift                                                                20         20
+Add for showers                                                                           15         15
+Add for cafeteria                                                                         5           5
+(2) Industrial waste shall be calculated as to quantity and strength by the developer's engineer and submitted
+for approval
+(3) Light industrial/retail centers- same as general retail
+(4) Warehouses- per sanitary plumbing fixture (toilet, urinal shower, etc.)              150         150
+Institutional
+Churches
+Sanctuary (per seat)                                                                     20.4        20.7
+Note: administration offices, daycare facilities, schools, etc. will be assessed separately
+Hospitals
+Rooms (per bed)                                                                          150         150
+Food service (per seat)                                                                   30         30
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CIE-10                                                                                       November 2018
+                                                                                       CAPITAL IMPROVEMENTS
+                                                                                     Goals, Objectives, and Policies
+
+
+
+
+                                                                                        Gallons Per Day (GPD)
+Type of Establishment                                                                   Water        Wastewater
+Outpatient and administrative services (per square foot of floor space)                  0.2            0.2
+Nursing, Rest Homes, Care Facilities
+Per patient/resident                                                                      100             100
+Per staff member per shift                                                                20              20
+Public Institutions (Correctional Facilities)
+Per patient/inmate                                                                        100             100
+Per staff member per shift                                                                20              20
+Schools (per student)
+Day-type                                                                                 40.8            50.4
+Boarding-type                                                                             100             100
+Swimming and bathing facilities, public (per person)                                      10              10
+Residential
+Residences
+(1) Single family- detached                                                               255             276
+(2) Attached: multifamily, apartment and single family residential duplex, triplex, quadruplex, etc., (per unit,
+per bedroom)
+1st bedroom                                                                              127.5            138
+After 1st bedroom                                                                         64              69
+(3) Mobile home doublewide (per unit)                                                     255             276
+(4) Mobile home single-wide (per unit)                                                    191             207
+(5) Retirement community- restricted qualified housing for older person under             153             166
+Department of Housing and Urban Development rules
+Note: In residential units of less than three bedrooms a den will be counted as a bedroom
+Potable water pressure shall be provided at no less than 40 pounds per square inch at property lines
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                              CIE-11
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                  The areas of the City served by central potable water facilities shall meet the
+                  following levels of service standards for potable water supply:
+
+
+                  Potable Water and
+                  Wastewater Supply
+                  Standards
+                  (gallons per day - gpd)                         Tohopekaliga Water Authority
+                  Residential                        96 gpd per capita
+                  Hotel/Motel                        120 gpd per room
+                  Commercial                         0.1 gpd per gross square foot of floor area
+                  Public or Private Schools          4.8 gpd per student
+                  Operational Standard
+                  All Land Use Types                 98% of the maximum permitted capacity and minimum 20
+                                                     PSI pressure will be maintained during fire flow conditions
+
+
+
+                  2. Solid Waste:
+
+                           a. 5.1 pounds per person per day
+
+                  3. Stormwater Management:
+
+                           a. The following level of service standards are hereby adopted, and shall be
+                              used as the basis for determining the availability of facility capacity and
+                              the demand generated by a development prior to the issuance of a
+                              development permit:
+
+                           i.    Limit the allowable stormwater peak discharge detained from a site to be
+                                 developed or altered to the pre-development or pre-alteration peak
+                                 discharge for the ten-year frequency, 72-hour duration storm.
+                                 Retention/detention ponds, for all sites greater than ten acres total area,
+                                 shall have a minimum of one foot freeboard.
+
+                           ii. Limit velocities in any new system to a maximum of 3 feet/second or less
+                               for the ten-year storm.
+
+                           iii. Roadway stormwater management system shall be designed for the ten-
+                                year storm event, utilizing the Florida Department of Transportation
+                                Rainfall Intensity Curves.
+
+                           iv. The design storm frequency to be utilized for the design of pavement
+                                 stormwater management shall be the ten-year.
+
+
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CIE-12                                                                                       November 2018
+                                                                              CAPITAL IMPROVEMENTS
+                                                                            Goals, Objectives, and Policies
+
+
+
+
+                      v. Water Quality - Wet detention for the first inch of runoff or the total runoff
+                         of 2.5 inches times the percent of imperviousness, whichever is greater.
+                         Reductions in the above volumes of 25% and 50% for dry detention and
+                         retention respectively can be applied when conditions permit. Industrial
+                         zoned projects shall provide at least 1/2 inch dry detention or retention
+                         pretreatment as part of the required retention/ detention.
+
+                      vi. Incorporate a floodplain management standard which requires that no
+                          net reduction occurs in flood storage (e.g., 100-year flood) for any
+                          development within the impacted area.
+
+                      vii. The Land Development Code shall continue to include mandatory
+                           retention and/or detention of stormwater discharge from developed or
+                           altered sites, per Chapter 62-25, Florida Administrative Code.
+
+                   4. Recreation Standards for Space Needs:
+
+                      a. 5 acres per 1,000 residents
+
+                   5. Transportation Standards:
+
+                   The City of Kissimmee hereby adopts LOS D for the peak hour for major
+                   thoroughfares (arterials and collectors), except those major thoroughfares
+                   located in the Multimodal Transportation District (MMTD). LOS E is hereby
+                   adopted for the peak hour for major thoroughfares within the MMTD. Objective
+                   2.1.2 of the Transportation Element identifies mobility strategies for
+                   implementation if a roadway fails to meet the adopted quality of service
+                   standard.
+
+                      a. Citywide Requirements
+
+                      The following standards shall be applied on a citywide basis:
+
+                      i.   Provide for the continuation and expansion, where feasible, of the street
+                           grid to promote connectivity, improve pedestrian conditions and increase
+                           access to transit.
+
+                      ii. Inside the MMTD, roadway expansions to add lanes shall be supported
+                          only if pedestrian and bicycle, facilities are part of the improvement or
+                          new lanes will be dedicated for transit service. City reviews of roadway
+                          expansions to add lanes for areas outside the MMTD also shall consider
+                          pedestrian, bicycle, and pedestrian enhancements.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                     CIE-13
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                           iii. Enhance pedestrian, bicycle, and transit conditions, using a “complete
+                                streets” approach to site design and development.
+
+                                 •   “Complete Streets” are designed to enable safe access for all users
+                                     including pedestrians, bicyclists, transit riders, and motorists of all
+                                     ages and abilities.
+
+                           iv. Eliminate gaps in the pedestrian/sidewalk system to facilitate access to
+                               services and facilities.
+
+                           v. Implement traffic study procedures for proposed development outside
+                              the MMTD that address the needs of a multimodal transportation system.
+                              The required traffic study methodologies and development review shall
+                              at a minimum evaluate:
+
+                                 •   the need for road or intersection improvements;
+                                 •   access to existing or proposed transit services, including the
+                                     provision of on-site transit infrastructure;
+                                 •   the need for pedestrian or bicycle network improvements;
+                                 •   pedestrian and bicycle cross access between sites;
+                                 •   the need for “complete street” treatment; and
+                                 •   the potential for access to the Shingle Creek trail.
+
+                           vi. All new development, consisting of residential and non-residential, must
+                               include sidewalks on both sides of local, collector and arterial streets. All
+                               new development adjacent to a bicycle route identified in the City of
+                               Kissimmee Bicycle and Pedestrian Master Plan shall be required to
+                               provide bikeways which tie into the bicycle lane network.
+
+                           vii. The City shall identify funding sources for any bicycle and pedestrian
+                                projections within the Five-Year Schedule of Capital Improvements.
+                                Projects may include those identified in the City of Kissimmee Bicycle
+                                and Pedestrian Master Plan, and may be funded with developer
+                                contributions. The City shall annually assess progress toward the
+                                construction of bicycle and pedestrian improvements.
+
+                           viii. The City shall review and update the Land Development Code to include
+                                 recommendations identified in the City of Kissimmee Bicycle and
+                                 Pedestrian Master Plan.
+
+                           ix. The City shall continue to coordinate with Lynx, the Florida Department
+                               of Transportation (FDOT), and Osceola County to add additional transit
+                               service and improve service to achieve a citywide QOS D along the
+                               transit network.
+
+                                                                  City of Kissimmee | 2040 Comprehensive Plan
+CIE-14                                                                                        November 2018
+                                                                            CAPITAL IMPROVEMENTS
+                                                                          Goals, Objectives, and Policies
+
+
+
+
+                      b. Areas Within One-Half Mile of Existing and Proposed SunRail Transit
+                         Stations
+
+                      The following standards will be applied to areas within one-half mile of an
+                      existing or proposed SunRail transit station (excluding the Multimodal Center
+                      which is subject to MMTD policies):
+
+                      i.   The City will coordinate with Osceola County, Lynx, Florida Department
+                           of Transportation (FDOT), and other agencies on the location and
+                           development of SunRail stations to support the investment in transit
+                           infrastructure.
+
+                      ii. The City will develop a forum for station-area planning and integrating
+                          land use and transportation planning to improve mobility and foster
+                          community involvement in the location and design of stations.
+
+                      iii. The City shall adopt urban form standards in the Land Development
+                           Code to define development patterns that promote pedestrian and transit
+                           activities and create a more walkable environment in proximity to the
+                           station. Items to be addressed include the placement and design of
+                           parking; safe, comfortable and convenient pedestrian access to the
+                           station; balance and proximity of uses; and safe and protected bicycle
+                           parking.
+
+                      c. Areas Within One-Quarter Mile of Existing and Proposed LYNX Routes
+
+                      The City shall establish the following types of standards in the Land
+                      Development Code to be applied to areas within one-quarter mile of existing
+                      and planned Lynx routes:
+
+                      i.   Require new development, including redevelopment, to provide direct
+                           and convenient pedestrian and bicycle access to sidewalks and bus
+                           stops and provide marked crossings from the stop or sidewalk to the
+                           building’s front door.
+
+                      ii. Require an adequate number of appropriately designed bicycle facilities
+                          on site and at bus stops.
+
+                      iii. Work with developers or community groups to provide and maintain bus
+                           stop shelters with seating, lighting, and transit service information.
+
+                      d. Public Transportation Quality of Service Standard
+
+                      The City of Kissimmee hereby adopts a transit quality of service standard
+                      within the MMTD. Achieving this improved quality of service is highly
+                      dependent on coordination with Lynx, the Florida Department of
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                   CIE-15
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                           Transportation (FDOT), and other external agencies and the ability to secure
+                           funding for capital and operational improvements. The current Quality of
+                           Service (QOS) is D-. Improvements such as the SunRail commuter rail
+                           service, downtown Multimodal Center, and local circulator service have been
+                           completed in furtherance of the goal to improve the QOS. Via additional
+                           improvements, such as the development of a transit service in the US
+                           192/Vine Street corridor and construction of supportive transit infrastructure,
+                           there is the potential to improve the QOS of the transit network to a C
+                           standard by 2030 and a B standard by 2040.Transit supportive land use
+                           strategies, particularly downtown and along the Vine Street corridor, also
+                           contribute to achieving these standards.
+
+                           e. Bicycle and Pedestrian Quality of Service Standard
+
+                           The City of Kissimmee adopts pedestrian and bicycle quality of service
+                           standards within the MMTD. Through public and private investments, the
+                           City shall improve the Quality of Service of the pedestrian and cycling
+                           networks to a C standard by 2030 and a B standard by 2040. The current
+                           QOS is D+ and D for pedestrian and cycling networks, respectively.
+
+                  POLICY 8.1.4.2: ADEQUATE FACILITIES ORDINANCE.
+                  The City shall issue no development order for new development which would be
+                  inconsistent with Objective 8.1.4. The City shall continue to include an adequate
+                  facilities requirement as part of the Land Development Code. The adequate
+                  facilities ordinance shall mandate that future applications for development shall
+                  comply with the levels of service for the water and wastewater systems, solid waste
+                  system, stormwater, recreation, and the multimodal transportation system. Prior to
+                  issuing a certificate of concurrency the City shall render a finding that the proposed
+                  development shall be served with each of the above cited facilities with a level of
+                  service at least equal to that level of service stipulated in Policy 8.1.4.1 of this
+                  element. Any required improvements shall be in place in a manner consistent with
+                  Objective 8.1.4 of this element.
+
+                  POLICY 8.1.4.3:        EVALUATION CRITERIA       FOR   CAPITAL IMPROVEMENT PLAN
+                  AMENDMENTS.
+                  Proposed Capital Improvement Plan amendments and requests for new
+                  development or redevelopment shall be evaluated according to the following
+                  guidelines:
+
+                  1. Does the proposed action contribute to any condition of public hazard;
+
+
+
+                                                               City of Kissimmee | 2040 Comprehensive Plan
+CIE-16                                                                                     November 2018
+                                                                             CAPITAL IMPROVEMENTS
+                                                                           Goals, Objectives, and Policies
+
+
+
+
+               2. Does the proposed action exacerbate any existing condition of public facility
+                  capacity deficits, as described in the Transportation, Public Facilities, and/or
+                  Recreation and Open Space Elements;
+
+               3. Does the proposed action generate public facility demands that may be
+                  accommodated by capacity increases planned in the Five-Year Schedule of
+                  Capital Improvements;
+
+               4. Does the proposed action conform with the future land uses designated on the
+                  Future Land Use map within the Future Land Use Element;
+
+               5. Does the proposed action comply with and accommodate public facility
+                  demands based on the adopted level of service standards contained herein;
+
+               6. If the proposed action requires that any public facilities be provided by the City,
+                  the applicant shall demonstrate that funds shall be available; acceptable to the
+                  City; and no project requiring City expenditure for a capital improvement shall be
+                  approved by the City unless the City Commission approves the funding for the
+                  subject property prior to the project approval.
+
+               7. Does the proposed action impact facility plans of any State agencies or facility
+                  plans of the South Florida Water Management District.
+
+       OBJECTIVE 8.1.5: COORDINATE LAND USE AND CAPITAL IMPROVEMENT PLAN.
+       For capital improvements the City is committed to provide the necessary public facilities
+       and services in accordance with the Five-Year Capital Improvement Plan. The City will
+       satisfy the concurrency requirements by complying with the standards established in this
+       plan. This objective shall be implemented by the following policies:
+
+               POLICY 8.1.5.1: CAPITAL IMPROVEMENT ELEMENT.
+               The capital improvement element and the Five-Year Schedule of Capital
+               Improvements are financially feasible and will be reviewed on an annual basis.
+
+               POLICY 8.1.5.2: FIVE-YEAR SCHEDULE OF CAPITAL IMPROVEMENTS.
+               The five-year schedule of capital improvements includes both necessary facilities to
+               maintain the adopted level of service standards to serve the new development and
+               the necessary facilities required to eliminate the portion of existing (LOS) standards.
+               The Five-Year Schedule of Capital Improvements also includes the estimated
+               year(s) of funding and the funding source. Review will occur on an annual basis.
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                    CIE-17
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                  POLICY 8.1.5.3: FUNDING SYSTEM.
+                  The funding system is realistic, financially feasible, and based on currently available
+                  revenue sources which are adequate to fund the public facilities required to serve
+                  the development authorized by the development order and development permit and
+                  that the required public facilities will be provided by the capital improvement
+                  program or by the developer. Review will occur on an annual basis.
+
+                  POLICY 8.1.5.4: IMPLEMENT PLAN.
+                  The City of Kissimmee shall implement this plan and other local development
+                  regulations, in conjunction with the Land Development Code. The City will ensure
+                  that development orders and permits are issued in a manner that will assure that the
+                  necessary public facilities and services will be available to accommodate the impact
+                  of that development.
+
+                  POLICY 8.1.5.5: AVAILABILITY OF SERVICES OR FACILITIES.
+                  In determining the availability of services or facilities, a developer may propose, and
+                  the City may approve, developments in stages or phases so that facilities and
+                  services needed for each phase will be available in accordance with the standards
+                  required by this Comprehensive Plan. Procedures for development phasing will be
+                  included in the Land Development Code.
+
+
+
+         OBJECTIVE 8.1.6: MONITORING AND EVALUATING THE CAPITAL IMPROVEMENTS
+         ELEMENT.
+         The Capital Improvements Element shall be reviewed on an annual basis in order to
+         ensure the required fiscal resources are available to provide adequate public facilities
+         needed to support future land uses consistent with adopted level of service standards.
+         This annual review shall be the responsibility of the City Manager. Findings and
+         recommendations of the City Manager shall be considered by the City Commission at a
+         public meeting. At such time, the City Commission shall take action as it deems
+         necessary in order to refine/update the Capital Improvements Element.
+
+                  POLICY 8.1.6.1: CAPITAL IMPROVEMENTS ELEMENT EVALUATION.
+                  The monitoring and evaluation procedure shall incorporate the following
+                  considerations:
+
+                           a. Data Update and Refinements. Determine if any corrections, updates,
+                              and/or modifications should be undertaken, such considerations shall
+                                 include, but not necessarily be limited to, the following:
+
+                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CIE-18                                                                                       November 2018
+                                                                           CAPITAL IMPROVEMENTS
+                                                                         Goals, Objectives, and Policies
+
+
+
+
+                       Estimated costs
+
+                       Revenue sources
+
+                       Recently constructed capital improvements
+
+                       Dedications
+
+                       Scheduled dates of improvements projects
+
+                      b. Consistency Review. Determine whether changes to the Capital
+                         Improvements Element are necessary in order to maintain consistency
+                         with other elements of the Comprehensive Plan.
+
+                      c. Implications of Scheduled Master Plans. The five-year schedule of
+                         improvements shall be updated as necessary in order to reflect new
+                         projects identified in the proposed improvement plans for stormwater
+                         management and transportation improvements.
+
+                      d. Priority of Scheduled Improvements. The cited improvement plans for
+                         transportation and stormwater management shall assess existing
+                         deficiencies and recommend a schedule of priorities for public
+                         improvements.
+
+                      e. Capital Improvement Evaluation Criteria. Annually, the City Manager or
+                         their designated representative shall review the criteria used to evaluate
+                         capital improvement projects in order to insure the projects are ranked in
+                         their appropriate order of priority, and incorporate any needed changes
+                         in order to upgrade and facilitate the evaluation process.
+
+                      f.   Level of Service Standards. Annually, the City Manager shall evaluate
+                           the City's effectiveness in maintaining the adopted level of service
+                           standards and recommend any needed action to address problem areas.
+
+                      g. County, State and Regional Improvement Programs. The City Manager
+                         shall annually review the effectiveness of program coordination in
+                         resolving multi- jurisdictional issues surrounding the plans and programs
+                         of County, State and Regional agencies, as well as private entities that
+                         provide public services within the City's jurisdiction. For instance,
+                         consider the effectiveness of intergovernmental coordination surrounding
+                         improvements along County and State roadways, progress in extending
+                         improvements to water and wastewater service areas within the
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                  CIE-19
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+                                 unincorporated area, and other similar infrastructure improvements
+                                 needed.
+
+                           h. Private Sector Improvements, Dedications, or Fees In-Lieu Thereof. The
+                              City Manager shall evaluate the effectiveness of provisions requiring
+                              mandatory dedications or fees in lieu thereof, as well as progress toward
+                              incorporating other programs for assessing new development a pro-rata
+                              share of the improvement costs generated by the respective
+                              developments.
+
+                           i.    Impact of Other Jurisdictions in Maintaining Level of Service Standards.
+                                 The City Manager shall evaluate the level of service implications of
+                                 extended central water and wastewater service within unincorporated
+                                 areas, area-wide transportation improvements and stormwater
+                                 management improvements, as well as area wide solid waste system
+                                 improvements which may be required to maintain levels of service
+                                 standards.
+
+                           j.    Outstanding Indebtedness. Annually the City Manager shall prepare a
+                                 report on outstanding indebtedness which shall be included in the annual
+                                 budget presentations to the City Commission.
+
+                           k. Grantsmanship. The City Manager shall evaluate efforts made to secure
+                              available grants or private funds in order to finance the provision of
+                              capital improvements.
+
+                           l.    Fiscal Management. The City Manager shall evaluate the City's progress
+                                 in finding effective funding mechanisms for promoting road and
+                                 stormwater management improvements as well as other capital
+                                 improvement needs identified in the scheduled stormwater management,
+                                 transportation, water, and wastewater improvement plans.
+
+                           m. Evaluated Criteria. The City Manager shall annually investigate the
+                              applicability and utility of criteria used to evaluate plan amendments as
+                              well as requests for new development/redevelopment.
+
+                           n. Update Schedule of Improvements. The City Manager shall review the
+                              City's success in implementing the five-year capital improvement
+                              program and refine the schedule to include any new projects required to
+                              support any development on an annual basis.
+
+
+
+
+                                                                City of Kissimmee | 2040 Comprehensive Plan
+CIE-20                                                                                      November 2018
+                                                                          CAPITAL IMPROVEMENTS
+                                                                        Goals, Objectives, and Policies
+
+
+
+
+GOAL 8.2 IDENTIFICATION OF CAPITAL IMPROVEMENTS.
+The five-year schedule of capital improvements contains the projects necessary to achieve the
+goals, objectives and policies of this Comprehensive Plan.
+
+       OBJECTIVE 8.2.1: MAINTAINING ADOPTED LEVEL OF SERVICE STANDARDS.
+       Projects identified in the Five-Year Schedule of Capital Improvements shall be used to
+       maintain adopted level of service standards in order to meet the adopted Goals, Objectives,
+       and Policies of this Comprehensive Plan.
+
+               POLICY 8.2.1.1: FIVE YEAR SCHEDULE OF IMPROVEMENTS
+               Table 8-2 "Five Year Schedule of Capital Improvements", contained herein,
+               establishes the estimated project cost, and potential revenue sources for each of
+               the Capital Improvement needs identified within the respective Comprehensive Plan
+               elements. These programs are scheduled in order to ensure that the goals,
+               objectives, and policies established in the Capital Improvements Element shall be
+               met.
+
+               POLICY 8.2.1.2: AMENDING FIVE-YEAR SCHEDULE OF IMPROVEMENTS
+               A plan amendment shall be required in order to eliminate, defer, or delay the
+               construction of any facility or service included in Table 8-2 which is needed to
+               maintain the adopted level of service standard. Additional capital projects are
+               identified in the following tables:
+
+                  Table 8-3: Tohopekaliga Water Authority Water Impact Projects
+
+                  Table 8-4: FDOT Funded Projects
+
+                  Table 8-5: MMTD Long-Term Capital Improvements FY 2013-2025: Bicycle,
+                   Pedestrian, Transit
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                 CIE-21
+                                                                                                                       CAPITAL IMPROVEMENTS
+                                                                                                                      Goals, Objective, and Policies
+
+
+
+
+Table 8-2: Five-Year Schedule of Capital Improvements
+                   Division/
+                   Funding                          FY 2020 -
+Department          Source        Project Title       2021           FY 2021-2022   FY 2022-2023   FY 2023-2024   FY 2024-2025         TOTAL
+Transportation
+Public Works     Traffic         Traffic Signal –               $0       $500,000             $0             $0              $0          $500,000
+& Engineering    Operations –    Thacker/Patric
+                 Gas Tax         k
+Public Works     Traffic         Traffic Signal –               $0             $0             $0       $500,000              $0          $500,000
+& Engineering    Operations –    Oak/Thacker
+                 Sales Tax
+Public Works     Road            Neighborhood          $10,000            $10,000        $10,000        $10,000        $10,000            $50,000
+& Engineering    Improvements    Street Light
+                 – Gas Tax       Infill Program
+Public Works     Road            Neptune Road         $450,000                 $0             $0             $0              $0          $450,000
+& Engineering    Improvements    Median
+                 – Gas Tax       Improvements
+Public Works     Road            West Oak                       $0       $150,000             $0             $0              $0          $150,000
+& Engineering    Improvements    Street
+                 – Gas Tax       Improvement
+                                 at John Young
+                                 Parkway
+                                 Construction
+Public Works     Road            Intelligent           $50,000            $50,000        $50,000        $50,000        $50,000           $250,000
+& Engineering    Improvements    Transportation
+                 – Gas Tax       System
+Public Works     Road            Denn John            $300,000                 $0             $0             $0              $0          $300,000
+& Engineering    Improvements    Lane
+                 – Gas Tax       Improvements
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                              CIE-23
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+                     Division/
+                      Funding                       FY 2020 -
+Department            Source        Project Title     2021        FY 2021-2022   FY 2022-2023   FY 2023-2024   FY 2024-2025       TOTAL
+Public Works       Engineering –   Neighborhood         $50,000        $50,000        $50,000        $50,000        $50,000        $250,000
+& Engineering      Sales Tax       Improvement
+                                   Program
+Public Works       Mobility Fee    Hoagland          $2,500,000            $0             $0              $0              $0       $2,500,000
+& Engineering                      Boulevard: US
+                                   192/Carroll
+                                   Street
+Public Works       Mobility Fee    Dyer/Ballpark            $0        $300,000            $0              $0              $0        $300,000
+& Engineering                      Road Traffic
+                                   Signal
+Sub-Totals                                           $3,360,000     $1,060,000       $110,000       $610,000        $110,000       $5,250,000
+Stormwater Management
+CRA-Vine                           Beautification     $500,000        $500,000       $500,000       $500,000        $500,000       $2,500,000
+Street                             and Storm
+                                   Water Project
+Sub-Totals                                            $500,000        $500,000       $500,000       $500,000        $500,000       $2,500,000
+Parks and Recreation
+Parks and          Parks           Fortune Road             $0             $0             $0          $8,000              $0           $8,000
+Recreation                         Pond Aeration
+Parks and          Parks           Basketball               $0         $39,000            $0              $0         $39,000         $78,000
+Recreation                         Court
+                                   Resurface
+Parks and          Parks           Tennis Court             $0             $0         $58,000             $0              $0         $58,000
+Recreation                         Resurface
+Parks and          Parks           Sidewalk             $5,000          $5,000         $5,000         $5,000          $5,000         $25,000
+Recreation                         Replacement
+Parks and          Parks           Hockey Rink         $30,000             $0             $0              $0              $0         $30,000
+Recreation                         Boards
+
+
+
+                                                                                                  City of Kissimmee | 2040 Comprehensive Plan
+CIE-24                                                                                                                        November 2018
+                                                                                                                      CAPITAL IMPROVEMENTS
+                                                                                                                     Goals, Objective, and Policies
+
+
+
+
+                  Division/
+                  Funding                          FY 2020 -
+Department         Source         Project Title      2021           FY 2021-2022   FY 2022-2023   FY 2023-2024   FY 2024-2025         TOTAL
+Parks and       Parks            Baseball                      $0             $0        $40,000             $0             $0           $40,000
+Recreation                       Dugout
+                                 Canopy
+Parks and       Parks            Oak Street             $7,000               $0             $0             $0               $0             $7,000
+Recreation                       Tennis
+                                 Windscreens
+Parks and       Parks            Softball Fence       $13,000                $0          $6,500            $0               $0           $19,500
+Recreation                       Windscreen
+Parks and       Parks            Light Tower                   $0        $15,000            $0             $0               $0           $15,000
+Recreation
+Parks and       Parks            Splash Pad           $48,000                $0             $0             $0               $0           $48,000
+Recreation                       Resurface
+Parks and       Parks            Backstop/Fenc                 $0            $0        $150,000       $125,000              $0          $275,000
+Recreation                       e Repair
+Parks and       Parks            Court                         $0            $0             $0         $50,000              $0           $50,000
+Recreation                       Fencing/Safety
+                                 Net
+Parks and       Parks            Basketball                    $0            $0             $0             $0         $30,000            $30,000
+Recreation                       Court Fencing
+Parks and       Aquatics         Main Drain                    $0         $2,500            $0             $0               $0             $2,500
+Recreation
+Parks and       Aquatics         Funbrella                     $0            $0          $4,600            $0               $0             $4,600
+Recreation                       Canopy Set
+Parks and       Aquatics         Gel Coat Slide                $0            $0         $20,000            $0               $0           $20,000
+Recreation
+Parks and       Aquatics         Slide                $18,000                $0             $0             $0               $0                  $0
+Recreation                       Railings/Platfo
+                                 rm
+Parks and       Aquatics         Safety Surface                $0         $6,000            $0             $0               $0                  $0
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                             CIE-25
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+                      Division/
+                      Funding                         FY 2020 -
+Department             Source        Project Title      2021           FY 2021-2022   FY 2022-2023   FY 2023-2024    FY 2024-2025       TOTAL
+Recreation                          Floor
+Parks and          Recreation       Fortune Road                  $0             $0        $38,000              $0              $0         $38,000
+Recreation         and Leisure      Shade
+                   Services         Structure
+Parks and          Events and       Fitness Room                  $0             $0        $12,000              $0              $0               $0
+Recreation         Venues           Remodel
+Parks and          Administration   Lancaster                     $0             $0     $1,000,000     $3,000,000       $4,500,000       $8,500,000
+Recreation         – Sales Tax      Ranch Park
+Parks and          Administration   Overlook for                  $0             $0             $0       $200,000               $0        $200,000
+Recreation         – Sales Tax      Bike Trail/Bird
+                                    Watch
+Parks and          Administration   Mark Durbin                   $0             $0       $200,000     $2,000,000               $0       $2,200,000
+Recreation         – Sales Tax      Recreation
+                                    Center
+Parks and          Administration   Breakwater                    $0       $150,000       $150,000              $0              $0        $300,000
+Recreation         – Sales Tax      Improvements
+Parks and          Administration   Pavilion                      $0        $40,000        $50,000              $0              $0         $90,000
+Recreation         – Sales Tax
+Parks and          Administration   Berlinsky          $2,000,000                $0             $0              $0              $0       $2,000,000
+Recreation         – Sales Tax      Community
+                                    House
+Parks and          Recreation       Shingle Creek       $150,000           $150,000       $100,000              $0              $0        $400,000
+Recreation         Impact           Regional Trail
+                                    – Land
+                                    Acquisition
+Parks and          Recreation       Shingle Creek       $100,000           $100,000       $100,000              $0              $0        $400,000
+Recreation         Impact           Regional Trail
+                                    – Construction
+Parks and          Recreation       Lakeside Park                 $0             $0             $0        $50,000               $0         $50,000
+Recreation         Impact           Tot Lot
+
+
+                                                                                                        City of Kissimmee | 2040 Comprehensive Plan
+CIE-26                                                                                                                              November 2018
+                                                                                                                     CAPITAL IMPROVEMENTS
+                                                                                                                    Goals, Objective, and Policies
+
+
+
+
+                  Division/
+                   Funding                        FY 2020 -
+Department         Source         Project Title     2021           FY 2021-2022   FY 2022-2023   FY 2023-2024   FY 2024-2025         TOTAL
+Parks and       Recreation       Mill Slough                  $0        $20,000             $0             $0             $0           $20,000
+Recreation      Impact           Playground
+Parks and       Recreation       Lancaster                    $0            $0             $0        $500,000              $0          $500,000
+Recreation      Impact           Ranch Park
+Parks and       Recreation       Fortune Road                 $0            $0        $150,000            $0               $0          $150,000
+Recreation      Impact           Bleachers
+                                 Shade Canopy
+Parks and       Recreation       Mark Durbin                  $0            $0         $75,000            $0               $0           $75,000
+Recreation      Impact           Park Skate
+                                 Ramp
+Sub-Totals                                         $2,371,000          $527,500     $2,159,100     $5,938,000     $4,574,000        $15,633,600
+Sanitation
+Public Works    Stormwater       Baffle Box          $60,000            $60,000        $60,000        $60,000        $60,000           $300,000
+& Engineering   Engineering
+Public Works    Stormwater       Master             $150,000           $150,000       $150,000       $150,000       $150,000           $750,000
+& Engineering   Engineering      Stormwater
+                                 Model
+Public Works    Stormwater       Hill Street                  $0       $500,000            $0             $0               $0          $500,000
+& Engineering   Engineering      Phase 3
+                                 Drainage
+                                 Project
+Public Works    Stormwater       Woodside           $350,000                $0             $0             $0               $0          $350,000
+& Engineering   Engineering      Drainage
+Public Works    Stormwater       Stormwater                   $0       $150,000       $150,000       $150,000       $150,000           $600,000
+& Engineering   Engineering      System
+                                 Improvement
+Sub-Totals                                          $560,000           $860,000       $360,000       $360,000       $360,000         $2,500,000
+Facilities Maintenance
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                            CIE-27
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+                     Division/
+                     Funding                      FY 2020 -
+Department            Source      Project Title     2021        FY 2021-2022   FY 2022-2023   FY 2023-2024   FY 2024-2025       TOTAL
+Public Works       Facilities    Chambers             $45,000             $0             $0             $0             $0         $45,000
+& Engineering      Maintenance   Park Air
+                                 Conditioning
+Public Works       Facilities    Roof                $80,000             $0             $0              $0              $0         $80,000
+& Engineering      Maintenance   Replacement
+Public Works       Facilities    Civic Center             $0             $0             $0         $25,000              $0         $25,000
+& Engineering      Maintenance   Concession
+                                 Plumbing
+Public Works       Facilities    Civic Center        $20,000             $0             $0              $0              $0         $20,000
+& Engineering      Maintenance   Tile
+                                 Replacement
+Public Works       Facilities    Bob Makinson             $0             $0         $30,000             $0              $0         $30,000
+& Engineering      Maintenance   Aquatic Center
+                                 Parking Lot
+                                 Resurface
+Public Works       Facilities    Civic Center         $2,500             $0             $0              $0              $0           $2,500
+& Engineering      Maintenance   Water
+                                 Fountain
+Public Works       Facilities    Oak Street          $20,000             $0             $0              $0              $0         $20,000
+& Engineering      Maintenance   Parking Lot
+                                 Resurface
+Public Works       Facilities    Oak Street          $68,300             $0             $0              $0              $0         $68,300
+& Engineering      Maintenance   Flooring
+Public Works       Facilities    Chambers                 $0         $10,000            $0              $0              $0         $10,000
+& Engineering      Maintenance   Park Parking
+                                 Lot Surface
+Public Works       Facilities    Chambers             $2,500             $0             $0              $0              $0           $2,500
+& Engineering      Maintenance   Park Water
+                                 Fountain
+Public Works       Facilities    Fortune Road        $10,000             $0             $0              $0              $0         $10,000
+
+
+                                                                                                City of Kissimmee | 2040 Comprehensive Plan
+CIE-28                                                                                                                      November 2018
+                                                                                                                     CAPITAL IMPROVEMENTS
+                                                                                                                    Goals, Objective, and Policies
+
+
+
+
+                  Division/
+                  Funding                         FY 2020 -
+Department         Source         Project Title     2021           FY 2021-2022   FY 2022-2023   FY 2023-2024   FY 2024-2025         TOTAL
+& Engineering   Maintenance      Water
+                                 Fountain
+Public Works    Facilities       Rose Hill          $112,100                 $0             $0             $0              $0          $112,100
+& Engineering   Maintenance –    Cemetery
+                Sales Tax        Parking/Road
+                                 Improvements
+Public Works    Facilities       Facilities ADA     $600,000                 $0             $0             $0              $0          $600,000
+& Engineering   Maintenance –    Compliance
+                Sales Tax
+Sub-Totals                                          $960,400            $10,000        $30,000        $25,000              $0        $1,025,400
+Airport
+Airport         Airport          Comprehensiv       $475,504                 $0             $0             $0              $0          $475,504
+                                 e Airfield
+                                 Security -
+                                 Construction
+                                 Phase II FDOT
+Airport         Airport          Comprehensiv       $118,900                 $0             $0             $0              $0          $118,900
+                                 e Airfield
+                                 Security -
+                                 Construction
+                                 Phase II
+                                 Airport
+Airport         Airport          Foreign Object               $0        $20,000             $0             $0              $0           $20,000
+                                 Damage
+                                 Sweeper
+                                 Airport
+Airport         Airport          Secondary          $128,000                 $0             $0             $0              $0          $128,000
+                                 Weather
+                                 Station -
+                                 FDOT
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                            CIE-29
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+                      Division/
+                      Funding                            FY 2020 -
+Department             Source        Project Title         2021          FY 2021-2022       FY 2022-2023   FY 2023-2024   FY 2024-2025       TOTAL
+Airport            Airport          Secondary                $32,000               $0                 $0             $0             $0         $32,000
+                                    Weather
+                                    Station -
+                                    Airport
+Sub-Totals                                               $754,404               $20,000              $0              $0              $0        $774,404
+TOTAL CITY-FUNDED CAPITAL PROJECTS                        $8,505,804        $2,977,500        $3,159,100     $7,433,000      $5,544,000     $27,683,404
+
+Source: City of Kissimmee FY 2020-2021 to FY 2024-2025 Five Year Approved Capital Budget.
+
+
+
+
+                                                                                                             City of Kissimmee | 2040 Comprehensive Plan
+CIE-30                                                                                                                                   November 2018
+                                                                                                                          CAPITAL IMPROVEMENTS
+                                                                                                                         Goals, Objective, and Policies
+
+
+
+
+Table 8-3: Tohopekaliga Capital Improvements Plan
+Projects                                                FY 2020           FY 2021        FY 2022          FY 2023        FY 2024              Total
+
+Asset Management Program (AMP)
+Force Main Air Release Valve Maintenance Program   $100,000        $100,000         $100,000        $100,000        $100,000         $500,000
+Mystic Dunes Directional Bore                      $0              $500,000         $0              $0              $0               $500,000
+Large Meters                                       $120,000        $120,000         $100,000        $100,000        $100,000         $540,000
+Roofing Replacement (Multiple Locations)           $265,000        $0               $150,000        $0              $150,000         $565,000
+New Water Services & Taps                          $125,000        $125,000         $125,000        $125,000        $125,000         $625,000
+Lift Station Rehab - Toho 111                      $125,000        $125,000         $125,000        $180,000        $125,000         $680,000
+Force Main Air Release Valve Maintenance Program   $150,000        $150,000         $150,000        $150,000        $150,000         $750,000
+Potable Service Connections - Toho Ill             $0              $0               $700,000        $0              $350,000         $1,050,000
+Potable Service Connections - Toho I               $570,000        $570,000         $0              $0              $0               $1,140,000
+Cross Connection Control Backflow Units            $250,000        $250,000         $250,000        $250,000        $250,000         $1,250,000
+Potable Service Connections - Toho IV              $0              $0               $700,000        $350,000        $350,000         $1,400,000
+Lift Station Rehab - Toho IV                       $375,000        $420,000         $250,000        $250,000        $250,000         $1,545,000
+Galvanized WM - Intercession City -South US 1792   $0              $0               $2,204,000      $0              $0               $2,204,000
+Lift Station Rehab - Toho I                        $680,000        $500,000         $625,000        $500,000        $500,000         $2,805,000
+Organization Replacement Vehicles                  $585,000        $2,210,000       $1,680,000      $1,850,000      $1,545,000       $7,870,000
+Sub-Totals                                         $3,345,000      $5,070,000       $7,159,000      $3,855,000      3,995,000        $24,424,000
+
+AM-WIFIA
+Collection System Lining & Sealing                      $115,000        $115,000         $115,000        $115,000        $115,000        $575,000
+Sewer Rehab - Hill Street                               $748,000              $0               $0              $0               $0       $748,000
+Collection System Lining & Sealing                      $365,000        $365,000         $365,000        $365,000        $365,000      $1,825,000
+1/1 Rehab - Toho Ill                                    $600,000        $600,000         $600,000        $600,000        $400,000      $2,800,000
+Force Main Rehab Program                            $4,089,000      $1,500,000       $1,500,000          $500,000        $500,000      $8,089,000
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                 CIE-31
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+Projects                                                       FY 2020        FY 2021      FY 2022        FY 2023       FY 2024           Total
+1/1 Rehab - Toho IV                                          $2,750,000    $2,750,000    $2,750,000    $2,750,000    $1,750,000    $12,750,000
+Deep Manhole Inspection & Rehab                              $2,840,000    $4,260,000    $4,260,000    $1,420,000    $1,420,000    $14,200,000
+I/I Rehab - Toho I                                           $2,750,000    $4,750,000    $3,750,000    $3,750,000    $2,450,000    $17,450,000
+Sub-Totals                                                  $14,257,000   $14,340,000   $13,340,000    $9,500,000    $7,000,000    $58,437,000
+
+Alternative Water Supply (AWS) Projects
+Gravity Sewer Installation - Oakhurst-Judge Farms Project           $0     $1,540,000           $0            $0             $0     $1,540,000
+Toho/Poinciana Additional Connection Hoagland Blvd 16"        $540,000     $2,700,000           $0            $0             $0     $3,240,000
+WM E
+Water Supply - Short to Intermediate Term                      $50,000     $2,857,000           $0            $0     $2,000,000     $4,907,000
+Cypress Lake Potable Water Trans Phase 1- Water                     $0            $0            $0     $1,900,000    $9,460,000    $11,360,000
+Wheeling
+Indirect Potable Reuse - 160 Acre Site AWS Project           $2,815,000   $17,080,000    $4,160,000           $0             $0    $24,055,000
+Cypress Lake 15 MGDAWS Wells-AWS WTP & Associated                   $0            $0            $0     $2,700,000   $22,400,000    $25,100,000
+Pipeline
+Judge Farms Reservoir & lmpoundment                          $6,531,000   $13,856,000    $8,789,000   $12,000,000            $0    $41,176,000
+Sub-Totals                                                   $9,936,000   $38,033,000   $12,949,000   $16,600,000   $33,860,000   $111,378,000
+
+IT & AMI Infrastructure Projects
+Hydroguard Meters                                             $100,000      $105,000      $111,000      $118,000       $126,000       $560,000
+Hyper-Converged Infrastructure                                      $0            $0      $200,000      $200,000       $200,000       $600,000
+Customer Service Aclara One/ACE                               $128,000      $165,000      $205,000      $250,000       $266,000      $1,014,00
+A.I. Call Center Technology Project                           $250,000      $412,000      $424,000      $437,000       $449,000     $1,972,000
+Remote Disconnect Meters                                            $0      $500,000      $500,000      $500,000       $500,000     $2,000,000
+MTU Upgrade                                                  $1,074,000    $1,074,000    $1,074,000    $1,046,000      $809,000     $5,077,000
+Small Meters                                                 $1,835,000    $1,910,000      $2,07,00    $2,129,000    $2,260,000    $10,141,000
+New Small Water Meters                                       $2,479,000    $2,581,000    $2,712,000    $2,874,000    $3,051,000    $13,697,000
+
+
+
+                                                                                                      City of Kissimmee | 2040 Comprehensive Plan
+CIE-32                                                                                                                            November 2018
+                                                                                                                     CAPITAL IMPROVEMENTS
+                                                                                                                    Goals, Objective, and Policies
+
+
+
+
+Projects                                                        FY 2020      FY 2021      FY 2022       FY 2023     FY 2024              Total
+Sub-Totals                                                   $5,866,000   $6,747,000    $7,233,000   $7,554,000   $7,661,000     $35,061,000
+
+Line Improvements & Extensions
+Water System Interconnection II Utilities & TWA WTPs                 $0          $0            $0           $0     $500,000         $500,000
+Upgrades
+30” WM Ext – Simpson Rd – Fortune Rd Intersection                    $0          $0            $0    $2,000,000           $0      $2,000,000
+Poinciana Area Exp – Village 7, Neighborhood 2 – Utilities   $3,037,000          $0            $0           $0            $0
+Construction
+Westside 24” WM Ext, Stoneybrook New Booster Station &       $2,175,000   $1,565,000           $0           $0            $0      $3,740,000
+Upsiz ing
+24” Water Main Ext – Fells Cove – Cyrils Dr                  $3,900,000          $0            $0           $0            $0      $3,900,000
+FM & RM Extension – NeoCity Offsite                                  $0          $0    $10,918,000          $0            $0     $10,918,000
+Sub-Totals                                                   $9,112,000   $1,565,000   $10,918,000   $2,000,000    $500,000      $24,095,000
+
+Plant Reinvestment or Expansion
+Stationary Emergency Generators or Bypass Pumps -              $125,000    $125,000      $125,000           $0            $0        $375,000
+Toho IV
+RAW Water Main Relocation -SW WTP                              $500,000          $0            $0           $0            $0        $500,000
+Warehouse Automation & Expansion                                     $0    $250,000      $250,000           $0            $0        $500,000
+Wetlands Effluent Line                                               $0    $500,000            $0           $0            $0        $500,000
+Odor Control Bio-Filter - LS 86                                $585,000          $0            $0           $0            $0        $585,000
+Aerostrip Diffusers – North Treatment Basin                    $600,000          $0            $0           $0            $0        $600,000
+Aerostrip Diffusers – South Treatment Basin                          $0          $0            $0           $0     $600,000         $600,000
+Generator #3                                                         $0    $700,000            $0           $0            $0        $700,000
+Diffuser Replacement – West Aeration Basin                           $0          $0     $1,190,000          $0            $0      $1,190,000
+Parkway WTP High Service Pump Upgrade                        $1,252,000          $0            $0           $0            $0      $1,252,000
+Sand Filters Replacement – PW WRF                            $1,308,400          $0            $0           $0            $0      $1,308,400
+Sand Filter Conversion – Disk Filters                                $0          $0     $1,530,000          $0            $0      $1,530,000
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                            CIE-33
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+Projects                                                  FY 2020        FY 2021      FY 2022        FY 2023       FY 2024           Total
+Lake Marion Expansion to 6 MGD                                 $0            $0            $0            $0     $2,000,000     $2,000,000
+South Bermuda Expansion to 21 MGD                              $0            $0            $0            $0     $2,000,000     $2,000,000
+GST & Reuse Pumping Sandhill & SBWRF                           $0            $0            $0            $0     $2,400,000     $2,400,000
+GS, FM, WM, RM, & Lift Station Upsizing                  $500,000      $500,000      $500,000      $500,000       $500,000     $2,500,000
+Security Infrastructure                                  $175,000      $140,000       $60,000      $275,000     $2,000,000     $2,650,000
+Harmony WRF Reuse GST & HSPs                                   $0            $0      $400,000     $3,850,000            $0     $4,250,000
+Well 3, Raw WM & Additional GST - SW WTP                $1,100,000    $4,401,000           $0            $0             $0     $5,501,000
+Facilities Master Plan Implementation                          $0     $2,500,000    $2,500,000    $2,500,000    $2,500,000    $10,000,000
+South Bermuda WRF Expansion to 16 MGD                    $500,000    $14,900,000           $0            $0             $0    $15,400,000
+Expansion - SH WRF                                     $19,262,000    $2,432,000           $0            $0             $0    $21,694,000
+Biosolids Dewatering & Processing                        $850,000     $8,000,000    $7,500,000    $7,500,000            $0    $23,850,000
+Process Upgrade & Expansion - Harmony WTP                $750,000     $4,500,000           $0      $750,000    $25,000,000    $31,000,000
+Camelot WRF Expansion & Effluent Storage                $2,500,000   $12,000,000    $8,000,000   $17,000,000            $0    $39,500,000
+Sub-Totals                                             $30,007,400   $50,948,000   $22,055,000   $32,375,000   $37,000,000   $172,385,400
+
+Road Projects
+West Oak St & John Young Pkwy Intersection - City              $0       $60,000      $190,000            $0             $0       $250,000
+WM & SM Rehab - US192 & Hoagland Blvd Intersection -      $51,000      $207,000            $0            $0             $0       $258,000
+FOOT
+OBT Resurfacing - us 192 to Old Dixie Hwy - FOOT         $101,000      $202,000            $0            $0             $0       $303,000
+Intersection Improvements - Donegan Ave & Smith St -     $338,000            $0            $0            $0             $0       $338,000
+County
+WM Rehab - Florida Turnpike - US 192- Osceola Pkwy-       $88,000            $0      $352,000            $0             $0       $440,000
+FOOT
+14 Osceola/Polk Line Rd - Osc Pkwy - FOOT                      $0            $0            $0            $0       $577,000       $577,000
+Carroll St -John Young Pkwy to Michigan Ave - County           $0      $672,000            $0            $0             $0       $672,000
+
+
+
+                                                                                                 City of Kissimmee | 2040 Comprehensive Plan
+CIE-34                                                                                                                       November 2018
+                                                                                                                              CAPITAL IMPROVEMENTS
+                                                                                                                             Goals, Objective, and Policies
+
+
+
+
+Projects                                                            FY 2020        FY 2021       FY 2022       FY 2023       FY 2024              Total
+SR 600 - Pleasant Hill Road to Portage Street - FOOT                     $0            $0             $0     $765,000              $0        $765,000
+Sub-Total                                                          $578,000    $1,141,000       $542,000     $765,000       $577,000       $3,603,000
+
+TOTAL PROJECTS                                                   $73,101,400   $117,844,000   $74,196,000   $72,649,000   $90,593,000   $428,383,400
+Source: Toho Water Authority Capital Budget, Fiscal Year 2021.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                     CIE-35
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+Table 8-4: FDOT Funded Projects
+  Item                                                                                  FY 2024-    FY 2025-       FY 2026-
+Number          Type of Work           Project Title      FY 2022-2023   FY 2023-2024     2025        2026           2027            TOTAL
+244383-1           Routine          City of Kissimmee       $118,000       $118,000     $118,000    $118,000       $118,000         $590,000
+                 Maintenance               MOA
+443548-1         Safety Project       Fortune Rd &            $0          $4,490,553      $0           $0             $0           $4,490,553
+                                       Simpson Rd
+                                       Intersection
+                                   Improvement Project
+437472-1       Corridor/SubArea         Downtown              $0          $1,430,000      $0           $0             $0           $1,430,000
+                   Planning        Kissimmee Corridor
+                                     Study (Various
+                                       Roadways)
+437932-1       Corridor/SubArea    Central Avenue from        $0             $0           $0       $1,125,000         $0           $1,125,000
+                   Planning        Dakin Ave @ Church
+                                    St to W. Donegan
+                                           Ave
+438445-1       Aviation Capacity   Osceola-Kissimmee          $0           $32,000        $0           $0             $0            $32,000
+                    Project        Airport Master Plan
+                                         Update
+438446-1       Aviation Capacity   Osceola-Kissimmee          $0             $0         $480,000   $240,000           $0            $720,000
+                    Project        Extend Runway 6 &
+                                       Taxiway “B”
+442488-1           Aviation        Osceola-Kissimmee        $120,000         $0           $0           $0             $0            $120,000
+                 Preservation       Gateway Airfield
+                   Project           Improvements
+440781-1           Aviation        Osceola-Kissimmee          $0             $0         $500,000   $1,000,000     $2,000,000       $3,500,000
+                 Preservation           Gateway
+                   Project         Maintenance Facility
+438444-1           Aviation        Osceola-Kissimmee        $240,000       $240,000       $0           $0             $0            $480,000
+                 Preservation      Rehabilitate Taxiway
+                   Project
+
+
+
+
+                                                                                                   City of Kissimmee | 2040 Comprehensive Plan
+CIE-36                                                                                                                         November 2018
+                                                                                                                          CAPITAL IMPROVEMENTS
+                                                                                                                         Goals, Objective, and Policies
+
+
+
+
+  Item                                                                                      FY 2024-      FY 2025-      FY 2026-
+Number         Type of Work             Project Title         FY 2022-2023   FY 2023-2024     2025          2026          2027             TOTAL
+431556-1          Aviation           Osceola-Kissimmee             $0             $0           $0        $216,000         $0              $216,000
+                Preservation              Runway
+                  Project              Improvements
+438441-2          Aviation           Osceola-Kissimmee          $400,000         $0            $0           $0            $0              $400,000
+                Preservation            Taxiway “E”
+                  Project                Expansion
+442334-1       Bike Path/Trail       Shingle Creek Trail               $0     $2,743,943       $0           $0            $0             $2,743,943
+                                     Phase 2A from John
+                                       Young Pkwy to
+                                       Pleasant Hill Rd
+445709-1       Safety Project        SR 500/ US 192 (E.                $0     $1,462,710       $0           $0            $0             $1,462,710
+                                     Bronson HWY) from
+                                        Florida Ave to
+                                        Michigan Ave
+418403-6         Intersection       SR 600 (17/92) John                $0        $0            $0        $7,303,897       $0             $7,303,897
+                Improvement           young Pkwy at
+                                      Pleasant Hill Rd
+418403-3        Add Lanes &          SR 600 (17/92) from               $0        $0            $0           $0         $1,203,963        $1,203,963
+                Reconstruct           Pleasant Hill Rd to
+                                          Portage St
+437451-1        Add Left Turn        US 192 at Hoagland          $41,040         $0            $0           $0            $0               $41,040
+                  Lane(s)                   Blvd
+434916-1         Intersection          West Oak Street         $1,500,000        $0            $0           $0            $0             $1,500,000
+                Improvement              Intersection
+                                       Improvements at
+                                      John Young Pkwy
+    TOTAL FDOT-FUNDED CAPITAL PROJECTS                          $2,419,040    $10,517,206   $1,098,000   $10,002,897    $3,321,963       $27,359,106
+
+
+Source: FDOT Florida’s Adopted Five Year Work Program, July 1, 2021.
+
+
+
+
+City of Kissimmee | 2040 Comprehensive Plan
+November 2018                                                                                                                                 CIE-37
+CAPITAL IMPROVEMENTS
+Goals, Objective, and Policies
+
+
+
+
+Table 8-5: FDOT Funded Bicycle, Pedestrian, and Transit Projects
+     Project Type                   Location                     From                          To                           Length                Cost Estimate
+Bicycle                      Kissimmee/St.   Cloud       Neptune Rd.                 E. Lake Short Blvd.           0.12                       $3,780,000
+                             Trail
+Bicycle                      Shingle Creek Trail         John Young Pkwy.            Pleasant Hill Rd.             0.46                       $2,964,000
+                             Phase 2A
+Bicycle & Pedestrian         Central Ave. Bike &         Martin Luther King, Jr.     Donegan Ave.                  1.50                       $7,125,000
+                             Ped                         Blvd.
+Bicycle & Pedestrian         Shingle Creek Trail                                                                   N/A                        $7,782,168
+                             Phase 2B South
+Bicycle & Pedestrian         Shingle Creek Trail                                                                   N/A                        $8,000,000
+                             Phase 2C North
+Bicycle & Pedestrian         Shingle Creek Trail                                                                   N/A                        $10,599,768
+                             Phase 2D North
+Bicycle & Pedestrian         Toho Valencia Trail         US 192                      South side of US 192          0.13                       $10,290,190
+                             Bridge
+Bicycle & Pedestrian         Emory     Canal  Trail      John Young Pkwy.            Shingle Creek Trail           0.40                       $200,000
+                             South
+                             Total                                                                                                            $50,741,126
+Transit                      Hoagland Blvd.              John Young Pkwy.            Donegan Ave.                  1.00                       $5,836,000
+                             Osceola                     Pleasant Hill Rd.           Portage St.                   2.36                       $46,100,000
+                             Co./Kissimmee
+                             Total                                                                                                            $51,936,000
+Source: MetroPlan Orlando’s Adopted Transportation Improvement Program & Prioritized Project List, July 7, 2021.
+
+
+
+
+                                                                                                                         City of Kissimmee | 2040 Comprehensive Plan
+CIE-38                                                                                                                                               November 2018
+
