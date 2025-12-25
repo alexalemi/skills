@@ -6,21 +6,27 @@ A Claude Code plugin marketplace with skills for probabilistic estimation, progr
 
 ### Install as a Marketplace (all plugins)
 
-```bash
-claude mcp add-marketplace /path/to/skills
+```
+/plugin marketplace add alexalemi/skills
 ```
 
-This installs all plugins at once. You can then enable/disable individual plugins.
+This installs all plugins at once. Then install individual plugins:
+
+```
+/plugin install fermi-estimation@alemi-skills
+/plugin install janet@alemi-skills
+```
 
 ### Install a Single Plugin
 
-Each plugin is standalone and can be installed individually:
+Each plugin is standalone. Clone the repo and point to a specific plugin:
 
 ```bash
-claude --plugin-dir /path/to/skills/plugins/fermi-estimation
+git clone https://github.com/alexalemi/skills.git
+claude --plugin-dir ./skills/plugins/fermi-estimation
 ```
 
-Or copy the plugin directory to your project's `.claude-plugin/` folder.
+Or copy a plugin directory into your project's `.claude-plugin/` folder.
 
 ## Available Plugins
 
@@ -63,6 +69,14 @@ Create beautifully rendered HTML reports from plain Python files with rich markd
 Workflows for analyzing Planning Advisory Board agenda items against Kissimmee's Comprehensive Plan, Land Development Code, Florida Statutes, and Strong Towns principles.
 
 **Triggers:** PAB agenda analysis, zoning questions, development proposal review
+
+## Marketplace Management
+
+```
+/plugin marketplace list                  # See installed marketplaces
+/plugin marketplace update alemi-skills   # Pull latest changes
+/plugin marketplace remove alemi-skills   # Uninstall marketplace
+```
 
 ## Structure
 
