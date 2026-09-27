@@ -1,0 +1,9 @@
+{
+  "name": "writing",
+  "description": "Editorial feedback on prose: line edits, CRIBS reader-reaction passes, red-ink markup on compiled Typst, and Gopen & Swan reader-expectation analysis of topic/stress structure",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alex Alemi",
+    "email": "me@alexalemi.com"
+  }
+}

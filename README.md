@@ -1,6 +1,6 @@
 # Alemi Skills
 
-A Claude Code plugin marketplace with skills for probabilistic estimation, programming languages, notebooks, and urban planning.
+A Claude Code plugin marketplace with skills for probabilistic estimation, programming languages, notebooks, writing, and urban planning.
 
 ## Installation
 
@@ -37,6 +37,7 @@ Or copy a plugin directory into your project's `.claude-plugin/` folder.
 | **persistent-repl** | development | Python REPL wrapper with persistent storage using dill |
 | **plaque** | productivity | Transform Python files into interactive notebooks with live updates |
 | **pab** | productivity | Planning Advisory Board agenda analysis for Kissimmee |
+| **writing** | productivity | Line edits, CRIBS passes, red-ink markup, and Gopen & Swan reader-expectation analysis |
 
 ## Plugin Details
 
@@ -70,6 +71,18 @@ Workflows for analyzing Planning Advisory Board agenda items against Kissimmee's
 
 **Triggers:** PAB agenda analysis, zoning questions, development proposal review
 
+### writing
+
+One `writing` skill for editing prose (Typst, Markdown, LaTeX, plain text). Its `SKILL.md` routes each request to one of three modes, and only that mode's instructions are loaded:
+
+- **Line edit** (`line-edit.md`): margin-note rewrites in document order, the way a human editor gives them. `style.md` profiles the author's voice so suggestions stay in it.
+- **CRIBS** (`cribs.md`): a first-time reader's reactions (Confusing, Repeated, Interesting, Boring, Surprising, X to shorten) plus a keep/cut/shrink/expand verdict per paragraph.
+- **Reader expectations** (`reader-expectations.md`): structural diagnosis based on Gopen & Swan, "The Science of Scientific Writing" (1990): topic, stress, and verb columns per sentence, subject-verb separation, old-to-new linkage, and logical gaps, stated as questions for the author.
+
+Any mode can render its marks as red ink on a compiled copy (`red-ink.md`, `redline.py`).
+
+**Triggers:** "edit", "line edit", "proofread", "cribs", "tighten this", "why is this hard to read", "check the flow", "Gopen and Swan"
+
 ## Marketplace Management
 
 ```
@@ -97,7 +110,8 @@ skills/
 │   ├── janet/
 │   ├── persistent-repl/
 │   ├── plaque/
-│   └── pab/
+│   ├── pab/
+│   └── writing/
 └── README.md
 ```
 

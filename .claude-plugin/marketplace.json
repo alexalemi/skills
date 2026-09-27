@@ -2,7 +2,7 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "alemi-skills",
   "version": "1.0.0",
-  "description": "A collection of Claude Code skills for probabilistic estimation, programming languages, notebooks, and urban planning",
+  "description": "A collection of Claude Code skills for probabilistic estimation, programming languages, notebooks, writing, and urban planning",
   "owner": {
     "name": "Alex Alemi",
     "email": "me@alexalemi.com"
@@ -61,6 +61,17 @@
         "email": "me@alexalemi.com"
       },
       "source": "./plugins/pab",
+      "category": "productivity"
+    },
+    {
+      "name": "writing",
+      "description": "Editorial feedback on prose: line edits, CRIBS reader-reaction passes, red-ink markup on compiled Typst, and Gopen & Swan reader-expectation analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alex Alemi",
+        "email": "me@alexalemi.com"
+      },
+      "source": "./plugins/writing",
       "category": "productivity"
     }
   ]
