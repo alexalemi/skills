@@ -32,7 +32,7 @@ Or copy a plugin directory into your project's `.claude-plugin/` folder.
 
 | Plugin | Category | Description |
 |--------|----------|-------------|
-| **fermi-estimation** | productivity | Probabilistic estimation and dimensional reasoning using the `simplefermi` package |
+| **fermi-estimation** | productivity | Probabilistic estimation and dimensional reasoning using the `neofermi` DSL |
 | **janet** | development | Help with writing, learning, running, and debugging Janet code |
 | **persistent-repl** | development | Python REPL wrapper with persistent storage using dill |
 | **plaque** | productivity | Transform Python files into interactive notebooks with live updates |
@@ -42,7 +42,7 @@ Or copy a plugin directory into your project's `.claude-plugin/` folder.
 
 ### fermi-estimation
 
-Break down complex estimation problems (e.g., "How many piano tuners in Chicago?") into components with quantified uncertainty, automatic unit tracking, and dimensional analysis.
+Break down complex estimation problems (e.g., "How many piano tuners in Chicago?") into components with quantified uncertainty, automatic unit tracking, and dimensional analysis. Estimates are written as markdown notebooks and evaluated with the [neofermi](https://github.com/alexalemi/neofermi) `neoferminb` CLI.
 
 **Triggers:** Estimation queries, order-of-magnitude problems, uncertainty quantification
 
@@ -91,7 +91,8 @@ skills/
 │   │   └── skills/
 │   │       └── fermi-estimation/
 │   │           ├── SKILL.md
-│   │           ├── scripts/
+│   │           ├── assets/
+│   │           ├── examples/
 │   │           └── references/
 │   ├── janet/
 │   ├── persistent-repl/

@@ -7,7 +7,7 @@ description: Probabilistic estimation and dimensional reasoning for uncertain qu
 
 ## Overview
 
-This skill enables probabilistic estimation using dimensional reasoning and uncertainty quantification. It uses the `simplefermi` package for unit-aware probabilistic calculations, implementing the "GUM Supplement on the Monte Carlo Method" for practical probabilistic computation.
+This skill enables probabilistic estimation using dimensional reasoning and uncertainty quantification. It uses **neofermi**, a Monte Carlo calculator DSL with unit tracking: estimates are written as markdown notebooks with `neofermi` code blocks, and the `neoferminb` CLI evaluates them, propagating 20,000 samples through every calculation.
 
 ## When to Use This Skill
 
@@ -27,98 +27,114 @@ Use this skill when asked to:
 
 ## Core Workflow
 
-### Step 1: Install SimpleFermi
+### Step 1: Check for neoferminb
 
 ```bash
-pip install simplefermi
-# or: uv pip install simplefermi
+which neoferminb
 ```
 
-### Step 2: Create the Estimation
+If missing, install it from npm (needs node >= 18):
 
-Create a Python file using the multiline comment style for clarity. Use `scripts/fermi_template.py` as a starting point.
+```bash
+npm install -g neofermi   # or: bun add -g neofermi
+```
+
+Or run it without installing: `npx -y -p neofermi neoferminb annotate file.md`.
+
+### Step 2: Write the Notebook
+
+Create a markdown file (e.g. `piano_tuners.md`) starting from `assets/fermi_template.md`. Prose explains the reasoning; fenced ```` ```neofermi ```` blocks hold the calculations.
 
 **Key principles:**
 1. **Break down the problem** - Identify the key components needed for the estimate
-2. **State assumptions clearly** - Use markdown cells to explain reasoning
-3. **One estimate per cell** - Keep calculations focused and traceable
-4. **Show your work** - Display intermediate results
-5. **Use appropriate distributions** - Choose distribution functions that match the uncertainty
+2. **State assumptions clearly** - Explain the reasoning in prose before each block
+3. **One estimate per block** - Each block displays only its *last* expression, so separate blocks make every intermediate value visible
+4. **Use units everywhere** - Including custom units (`` `piano ``, `` `tuning ``) so dimensional analysis checks the logic
+5. **Use appropriate distributions** - Choose syntax that matches the kind of uncertainty
 
-### Step 3: Choose the Right Distribution Functions
+### Step 3: Choose the Right Distributions
 
-SimpleFermi provides several distribution functions for different types of uncertainty:
+| Syntax | Use for |
+|---|---|
+| `2.5 to 3 million` | **Default.** Positive quantities with a plausible range (lognormal, 68% CI) |
+| `2.5 +/- 0.5` | Quantities with a known mean and standard deviation (normal) |
+| `1 of 20` | Proportions from rough counts: 1 success in 20 trials (beta) |
+| `200 .. 250 day` | Only the bounds are known, nothing favored inside (uniform) |
+| `'40075.017 km` | Precisely reported values: sig-fig uncertainty in the last digit |
+| `x * 10%` | Multiplicative ±10% fudge on a value |
+| `24` | Truly exact values (definitions, counts, math constants) |
 
-- `Q(value, 'units')` - For truly exact values with no uncertainty (rare)
-- `sigfig('value', 'units')` - **For precisely-known measurements** - captures implicit uncertainty in the final reported digit(s). Use this for physical constants, regulated standards, or precisely measured values.
-- `lognormal(low, high, 'units')` - For positive quantities where you estimate a plausible range (most physical things)
-- `plusminus(mean, std, 'units')` - For normally distributed quantities with known mean and standard deviation
-- `outof(part, whole)` - For proportions and percentages based on counting (e.g., 1 in 20)
-- `percent(p)` - For multiplicative uncertainty (e.g., ±10%)
+Prefer built-in constants (`world_population`, `R_earth`, `c`, `energy_density_gasoline`, ...) over re-estimating known values. See `references/neofermi.md` for the full syntax, units, constants, and gotchas.
 
-**Important**: Don't invent uncertainty for precisely-known values. If a value is reported to a certain precision (e.g., "40,075.017 km"), use `sigfig('40075.017', 'units')` to properly represent the measurement uncertainty in the final digits. Only use `Q()` for truly exact values like mathematical constants or defined standards.
+**Important**: Don't invent uncertainty for precisely-known values. If a value is reported to a certain precision, use a sig-fig literal (`'40075.017 km`) so the uncertainty reflects the stated digits.
 
-Reference `references/simplefermi.md` for detailed documentation.
+### Step 4: Choose Range Bounds (Calibration)
 
-### Step 4: Structure the Estimation
+`a to b` is a **68% interval** (±1σ), not the 90% interval people usually give when asked for a range. The DSL has no way to change this.
 
-Follow this structure:
+So pick the bounds as your **gut range** — where you feel the value lies — not the range you'd be sure it falls in. The ±1σ points are where a Gaussian's density is steepest, i.e. where plausibility is changing fastest; `a to b` should mark where "sounds about right" turns into "hmm, that seems off". For a lognormal the same holds in log space. (This framing is inspired by Sanjoy Mahajan and his book *Street-Fighting Mathematics*.)
 
-```python
-"""
+- Don't widen bounds to cover everything conceivable; the tails already put about 1/3 of the mass outside `a to b`.
+- If a quantity really is "anywhere between X and Y, nothing favored," use `X .. Y` (uniform) instead.
+
+### Step 5: Evaluate and Check
+
+```bash
+neoferminb annotate piano_tuners.md
+```
+
+This writes each block's result into the file (`> `100 [30, 300]`` = median, 16th–84th percentile range) and fills in any `${expr}` in the prose. It is seeded and idempotent, so re-run freely after edits.
+
+- Read the warnings on stderr. A failing block leaves its variables undefined, so **fix the first warning first**; later ones are often knock-on errors.
+- Read the annotated file and sanity-check every intermediate result before writing conclusions.
+- Write the conclusion using `${result}` inline so the numbers stay in sync with the calculation.
+
+### Step 6: Present the Results
+
+- The annotated markdown is itself a readable, standalone report — share it directly.
+- For a rendered page with dotplots: `neoferminb piano_tuners.md --output piano_tuners.html`
+- For live editing in the browser: `neoferminb piano_tuners.md` (live reload)
+- In chat, report the median and range, and name the assumption that dominates the uncertainty.
+
+## Notebook Structure
+
+````markdown
 # Fermi Estimation: [Problem Title]
 
 Brief description of what we're estimating.
-"""
 
-import simplefermi as sf
-
-"""
 ## Problem Breakdown
 
-Explain the approach and key assumptions.
-"""
+Approach, formula, key assumptions.
 
-"""
-## Step 1: [Component Name]
+## Step 1: [Component]
 
-Explain the reasoning for this estimate.
-"""
+Reasoning for this estimate.
 
-component1 = sf.lognormal(low, high, 'units')
-component1  # Display to show uncertainty distribution
-
-"""
-## Step 2: [Next Component]
-
-Continue building up the estimate...
-"""
-
-# More steps...
-
-"""
-## Calculation
-
-Combine the components with clear reasoning.
-"""
-
-result = component1 * component2 * component3
-
-"""
-## Final Result
-
-Interpret the result with uncertainty range.
-"""
-
-final = result.to('desired_units')
-final
+```neofermi
+population = 2.5 to 3 million
 ```
 
-See `scripts/example_piano_tuners.py` for a complete example.
+## Step 2: [Component]
 
-### Step 5: Present the Results
+```neofermi
+pianos = population / (2.5 +/- 0.5) * (1 of 20) * 1 `piano
+```
 
-For creating a beautifully rendered report of your estimation, use the **plaque** skill to transform your Python file into an interactive HTML notebook. The plaque skill provides tools for rendering your work with rich formatting and visualizations.
+...
+
+## Calculation
+
+```neofermi
+tuners = demand / capacity
+```
+
+## Conclusion
+
+We estimate **${tuners}** piano tuners. [Interpretation, dominant uncertainty, comparison.]
+````
+
+See `examples/piano_tuners.md` for a complete, verified example.
 
 ## Best Practices
 
@@ -127,72 +143,45 @@ For creating a beautifully rendered report of your estimation, use the **plaque*
 - Each component should be independently estimatable
 - Combine with multiplication/division to get final result
 
-### Uncertainty Representation
-- Use `sigfig('value', 'units')` for precisely-known measurements to capture implicit precision uncertainty
-- Use `lognormal()` for physical quantities where you're estimating a plausible range
-- Use `outof()` for proportions based on rough counts (e.g., "about 1 in 20")
-- Use `plusminus()` for quantities with known mean and standard deviation
-- Don't invent uncertainty for well-known values - use `sigfig()` to represent measurement precision
-- Don't be overly precise with estimates - Fermi problems are about orders of magnitude
+### Dimensional Analysis
+- Always include units; invent custom units with a backtick (`` `piano ``, `` `tuning ``) for counted things
+- A count that should be dimensionless should come out with no unit. Leftover units mean a mistake in the logic
+- Use `as` to convert for display: `x as km`, `` x as `tuning / year ``
+- Dimensional mismatches raise errors (which is good!)
 
 ### Documentation
-- Explain every assumption in a markdown cell
-- Show intermediate results to make reasoning transparent
+- Explain every assumption in prose next to its block
+- Show intermediate results, one block per step
 - Include a "Problem Breakdown" section explaining the approach
-- End with a "Conclusion" interpreting the uncertainty range
-
-### Dimensional Analysis
-- Always include units on quantities
-- Let SimpleFermi track unit propagation automatically
-- Use `.to('units')` to convert to meaningful final units
-- Dimensional mismatches will raise errors (which is good!)
+- End with a "Conclusion" that interprets the uncertainty range
 
 ### Sanity Checks
 - Does the order of magnitude make sense?
-- Are the units correct?
-- Is the uncertainty range reasonable?
+- Are the units correct (and did custom units cancel)?
+- Is the uncertainty range reasonable? Which input drives it?
 - Compare to known similar quantities if possible
-
-## Example Workflow
-
-For the query "How many piano tuners are there in Chicago?":
-
-1. **Install simplefermi** (if needed)
-2. **Create `piano_tuners.py`** based on `scripts/fermi_template.py`
-3. **Break down the problem:**
-   - Population of Chicago
-   - Households per person
-   - Pianos per household
-   - Tunings per year
-   - Pianos serviced per tuner per year
-4. **Estimate each component** with appropriate distributions
-5. **Combine** with dimensional reasoning
-6. **Present** using the plaque skill for a formatted report
-
-See `scripts/example_piano_tuners.py` for the complete implementation.
 
 ## Resources
 
-### Scripts
-- `fermi_template.py` - Template for creating new Fermi estimations
-- `example_piano_tuners.py` - Complete example of a classic Fermi problem
+### Assets
+- `assets/fermi_template.md` - Template notebook for new estimations
+
+### Examples
+- `examples/piano_tuners.md` - Complete example of a classic Fermi problem
+- More worked examples: https://neofermi.alexalemi.com/examples/
 
 ### References
-- `simplefermi.md` - Detailed API reference for the simplefermi package
-
-### Related Skills
-- **plaque** - For creating beautifully rendered reports of your estimations
+- `references/neofermi.md` - Full DSL reference: distributions, units, constants, functions, CLI, gotchas
 
 ## Tips for Effective Estimations
 
-1. **Identify ambiguities in the problem** - Unclear specifications are sources of genuine uncertainty that should be captured. Example: "around the Earth" is ambiguous (equatorial vs polar circumference differs by ~0.17%)
+1. **Identify ambiguities in the problem** - Unclear specifications are genuine uncertainty that should be captured. Example: "around the Earth" is ambiguous (equatorial vs polar circumference differs by ~0.17%)
 2. **Start simple** - Begin with a rough decomposition, refine if needed
-3. **Make assumptions explicit** - Every assumption should be visible
-4. **Capture real uncertainty sources** - Use appropriate distributions:
-   - Problem ambiguity → `lognormal(low, high, 'units')` for the range of interpretations
-   - Measurement precision → `sigfig('value', 'units')` for reported precision
-   - Rough estimates → `lognormal()` or `outof()` for order-of-magnitude ranges
-5. **Don't invent uncertainty** - If a value is precise and the problem is unambiguous, use `sigfig()` or `Q()`
+3. **Make assumptions explicit** - Every assumption should be visible in the prose
+4. **Capture real uncertainty sources**:
+   - Problem ambiguity → `a to b` over the range of interpretations
+   - Measurement precision → sig-fig literals like `'42.0 kg`
+   - Rough estimates → `a to b` or `k of n`
+5. **Don't invent uncertainty** - If a value is precise and the problem is unambiguous, use a sig-fig literal or an exact number
 6. **Think in orders of magnitude** - Getting within 2-3x is success for true Fermi problems
-7. **Show the distribution** - Display intermediate results to show uncertainty
-8. **Narrate your reasoning** - The markdown cells are as important as the code
+7. **Narrate your reasoning** - The prose is as important as the calculations
